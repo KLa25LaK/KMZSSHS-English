@@ -1,0 +1,3727 @@
+{
+  "meta": {
+    "source": "midterm",
+    "book": 1,
+    "lesson": "B1-U01",
+    "lessonNumber": 1,
+    "titleEn": "Are You Ready for the Climb?",
+    "titleZh": "",
+    "schoolYearLabel": "115學年度第一學期",
+    "updated": "2026-07-12"
+  },
+  "sections": [
+    {
+      "sectionId": "vf",
+      "type": "文意字彙",
+      "label": "文意字彙",
+      "questionIds": [
+        "B1-U01-VF-01",
+        "B1-U01-VF-02",
+        "B1-U01-VF-03",
+        "B1-U01-VF-04",
+        "B1-U01-VF-05",
+        "B1-U01-VF-06",
+        "B1-U01-VF-07",
+        "B1-U01-VF-08",
+        "B1-U01-VF-09",
+        "B1-U01-VF-10",
+        "B1-U01-VF-11",
+        "B1-U01-VF-12",
+        "B1-U01-VF-13",
+        "B1-U01-VF-14",
+        "B1-U01-VF-15",
+        "B1-U01-VF-16",
+        "B1-U01-VF-17",
+        "B1-U01-VF-18",
+        "B1-U01-VF-19"
+      ]
+    },
+    {
+      "sectionId": "wf",
+      "type": "詞類變化",
+      "label": "詞類變化",
+      "questionIds": [
+        "B1-U01-WF-01",
+        "B1-U01-WF-02",
+        "B1-U01-WF-03",
+        "B1-U01-WF-04",
+        "B1-U01-WF-05",
+        "B1-U01-WF-06",
+        "B1-U01-WF-07",
+        "B1-U01-WF-08",
+        "B1-U01-WF-09",
+        "B1-U01-WF-10",
+        "B1-U01-WF-11",
+        "B1-U01-WF-12"
+      ]
+    },
+    {
+      "sectionId": "vc",
+      "type": "字彙選擇",
+      "label": "字彙選擇",
+      "questionIds": [
+        "B1-U01-VC-01",
+        "B1-U01-VC-02",
+        "B1-U01-VC-03",
+        "B1-U01-VC-04",
+        "B1-U01-VC-05",
+        "B1-U01-VC-06",
+        "B1-U01-VC-07",
+        "B1-U01-VC-08",
+        "B1-U01-VC-09",
+        "B1-U01-VC-10",
+        "B1-U01-VC-11",
+        "B1-U01-VC-12",
+        "B1-U01-VC-13",
+        "B1-U01-VC-14",
+        "B1-U01-VC-15",
+        "B1-U01-VC-16",
+        "B1-U01-VC-17",
+        "B1-U01-VC-18",
+        "B1-U01-VC-19"
+      ]
+    },
+    {
+      "sectionId": "gc",
+      "type": "文法選擇",
+      "label": "文法選擇",
+      "questionIds": [
+        "B1-U01-GC-01",
+        "B1-U01-GC-02",
+        "B1-U01-GC-03",
+        "B1-U01-GC-04",
+        "B1-U01-GC-05",
+        "B1-U01-GC-06",
+        "B1-U01-GC-07",
+        "B1-U01-GC-08",
+        "B1-U01-GC-09",
+        "B1-U01-GC-10",
+        "B1-U01-GC-11",
+        "B1-U01-GC-12",
+        "B1-U01-GC-13",
+        "B1-U01-GC-14",
+        "B1-U01-GC-15",
+        "B1-U01-GC-16",
+        "B1-U01-GC-17",
+        "B1-U01-GC-18",
+        "B1-U01-GC-19",
+        "B1-U01-GC-20"
+      ]
+    },
+    {
+      "sectionId": "ct",
+      "type": "課文挖空",
+      "label": "課文挖空",
+      "questionIds": [
+        "B1-U01-CT-01",
+        "B1-U01-CT-02"
+      ]
+    },
+    {
+      "sectionId": "cc",
+      "type": "課文綜合",
+      "label": "課文綜合",
+      "questionIds": [
+        "B1-U01-CC-01",
+        "B1-U01-CC-02",
+        "B1-U01-CC-03"
+      ]
+    },
+    {
+      "sectionId": "cl",
+      "type": "綜合測驗",
+      "label": "綜合測驗",
+      "questionIds": [
+        "B1-U01-CL-01",
+        "B1-U01-CL-02",
+        "B1-U01-CL-03"
+      ]
+    },
+    {
+      "sectionId": "tr",
+      "type": "文意選填",
+      "label": "文意選填",
+      "questionIds": [
+        "B1-U01-TR-01",
+        "B1-U01-TR-02",
+        "B1-U01-TR-03",
+        "B1-U01-TR-04",
+        "B1-U01-TR-05",
+        "B1-U01-TR-06"
+      ]
+    },
+    {
+      "sectionId": "ds",
+      "type": "篇章結構",
+      "label": "篇章結構",
+      "questionIds": [
+        "B1-U01-DS-01",
+        "B1-U01-DS-02",
+        "B1-U01-DS-03",
+        "B1-U01-DS-04",
+        "B1-U01-DS-05"
+      ]
+    },
+    {
+      "sectionId": "rd",
+      "type": "閱讀測驗",
+      "label": "閱讀測驗",
+      "questionIds": [
+        "B1-U01-RD-01",
+        "B1-U01-RD-02",
+        "B1-U01-RD-03",
+        "B1-U01-RD-04",
+        "B1-U01-RD-05",
+        "B1-U01-RD-06"
+      ]
+    },
+    {
+      "sectionId": "lr",
+      "type": "素養閱讀",
+      "label": "素養閱讀",
+      "questionIds": [
+        "B1-U01-LR-01",
+        "B1-U01-LR-02",
+        "B1-U01-LR-03"
+      ]
+    },
+    {
+      "sectionId": "mx",
+      "type": "混合題",
+      "label": "混合題",
+      "questionIds": [
+        "B1-U01-MX-01",
+        "B1-U01-MX-02"
+      ]
+    },
+    {
+      "sectionId": "mx",
+      "type": "混合題",
+      "label": "混合題",
+      "questionIds": [
+        "B1-U01-MX-01",
+        "B1-U01-MX-02"
+      ]
+    },
+    {
+      "sectionId": "sc",
+      "type": "完成句子",
+      "label": "完成句子",
+      "questionIds": [
+        "B1-U01-SC-01",
+        "B1-U01-SC-02",
+        "B1-U01-SC-03"
+      ]
+    },
+    {
+      "sectionId": "sr",
+      "type": "重組句子",
+      "label": "重組句子",
+      "questionIds": [
+        "B1-U01-SR-01",
+        "B1-U01-SR-02",
+        "B1-U01-SR-03"
+      ]
+    },
+    {
+      "sectionId": "sm",
+      "type": "合併句子",
+      "label": "合併句子",
+      "questionIds": [
+        "B1-U01-SM-01",
+        "B1-U01-SM-02"
+      ]
+    },
+    {
+      "sectionId": "sw",
+      "type": "改寫句子",
+      "label": "改寫句子",
+      "questionIds": [
+        "B1-U01-SW-01"
+      ]
+    },
+    {
+      "sectionId": "tg",
+      "type": "引導翻譯",
+      "label": "引導翻譯",
+      "questionIds": [
+        "B1-U01-TG-01",
+        "B1-U01-TG-02",
+        "B1-U01-TG-03",
+        "B1-U01-TG-04",
+        "B1-U01-TG-05",
+        "B1-U01-TG-06",
+        "B1-U01-TG-07",
+        "B1-U01-TG-08",
+        "B1-U01-TG-09",
+        "B1-U01-TG-10"
+      ]
+    },
+    {
+      "sectionId": "ts",
+      "type": "整句翻譯",
+      "label": "整句翻譯",
+      "questionIds": [
+        "B1-U01-TS-01",
+        "B1-U01-TS-02",
+        "B1-U01-TS-03",
+        "B1-U01-TS-04",
+        "B1-U01-TS-05",
+        "B1-U01-TS-06",
+        "B1-U01-TS-07",
+        "B1-U01-TS-08",
+        "B1-U01-TS-09",
+        "B1-U01-TS-10"
+      ]
+    },
+    {
+      "sectionId": "tc",
+      "type": "連貫翻譯",
+      "label": "連貫翻譯",
+      "questionIds": [
+        "B1-U01-TC-01",
+        "B1-U01-TC-02",
+        "B1-U01-TC-03",
+        "B1-U01-TC-04",
+        "B1-U01-TC-05"
+      ]
+    },
+    {
+      "sectionId": "es",
+      "type": "作文",
+      "label": "作文",
+      "questionIds": [
+        "B1-U01-ES-01"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "B1-U01-VF-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 1,
+      "text": "When the police arrived, they began to carefully check the crime scene and s_____ey the damage.",
+      "answer": "survey",
+      "translation": "當警察到達現場後，他們開始仔細檢查犯罪現場並調查損失情況。",
+      "analysis": "句意說明：\n當警察到達現場後，他們開始仔細檢查犯罪現場並調查損失情況。這裡的「調查」指的是詳細了解或評估情況。\n補充用法：\nconduct a survey = 進行調查\nsurvey the damage = 調查損失\nsurvey the area = 調查區域",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 2,
+      "text": "Sean’s father became very worried as soon as he got the ur_____t message from his son.",
+      "answer": "urgent",
+      "translation": "Sean 的父親一收到他兒子的緊急訊息就變得非常擔心。",
+      "analysis": "句意說明：\nSean 的父親一收到他兒子的緊急訊息就變得非常擔心。這裡的「緊急」指的是需要立即處理的情況。\n補充用法：\nurgent message = 緊急訊息\nurgent request = 緊急請求\nurgent matter = 緊急事件",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 3,
+      "text": "The Japanese government e______ssed thanks to those who have helped them after the earthquake by filming a thank-you video.",
+      "answer": "expressed",
+      "translation": "日本政府通過拍攝感謝視頻向那些在地震後幫助他們的人表達了感謝。",
+      "analysis": "句意說明：\n日本政府通過拍攝感謝視頻向那些在地震後幫助他們的人表達了感謝。這裡的「表達」指的是表露或傳達情感。\n補充用法：\nexpress thanks = 表達感謝\nexpress feelings = 表達感情\nexpress gratitude = 表達感激",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 4,
+      "text": "After the new boss took office, changes in financial m_____t have been made, and the financial status of the company has therefore improved.",
+      "answer": "management",
+      "translation": "新老闆上任後，財務管理方面做出了改變，公司的財務狀況因此有所改善。",
+      "analysis": "句意說明：\n新老闆上任後，財務管理方面做出了改變，公司的財務狀況因此有所改善。這裡的「管理」指的是對資源或工作的組織與指導。\n補充用法：\nfinancial management = 財務管理\ntime management = 時間管理\nproject management = 項目管理",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 5,
+      "text": "We must find a s_____n to this problem, or we will lose the contest.",
+      "answer": "solution",
+      "translation": "我們必須找到這個問題的解決方案，否則我們將輸掉比賽。",
+      "analysis": "句意說明：\n我們必須對這個問題找到解決方案，否則我們將輸掉比賽。這裡的「解決方案」指的是問題的解答或方法。\n補充用法：\nfind a solution = 找到解決方案\nprovide a solution = 提供解決方案\nsolve a problem = 解決問題",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-06",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 6,
+      "text": "Tom and his sister are o_____zing a party for their father to celebrate Father’s Day.",
+      "answer": "organizing",
+      "translation": "Tom 和他的妹妹正在為他們的父親組織一個派對來慶祝父親節。",
+      "analysis": "句意說明：\nTom 和他的妹妹正在為他們的父親組織一個派對來慶祝父親節。這裡的「組織」指的是安排和計劃活動。\n補充用法：\norganize a party = 組織派對\norganize an event = 組織活動\norganizing committee = 組織委員會",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-07",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 7,
+      "text": "After the global summit, the r_____p between this nation and its neighbors has improved.",
+      "answer": "relationship",
+      "translation": "在全球峰會後，這個國家與其鄰國之間的關係得到了改善。",
+      "analysis": "句意說明：\n在全球峰會後，這個國家與其鄰國之間的關係得到了改善。這裡的「關係」指的是國家之間的外交或合作情況。\n補充用法：\nimprove relations = 改善關係\ndiplomatic relationship = 外交關係\nbuild a relationship = 建立關係",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-08",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 8,
+      "text": "When I did not know what to do next with my assignment, the teacher gave me some a_____ce that got me through the difficult time.",
+      "answer": "advice",
+      "translation": "當我不知道接下來該怎麼做時，老師給了我一些建議，幫助我度過了這個難關",
+      "analysis": "句意說明：\n當我不知道接下來該怎麼做時，老師給了我一些建議，幫助我度過了這個難關。這裡的「建議」指的是給予的意見或指導。\n補充用法：\ngive advice = 給建議\nask for advice = 請教建議\nfollow advice = 跟隨建議",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-09",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 9,
+      "text": "Bob missed my calls, so he might send me a m_____ge later.",
+      "answer": "message",
+      "translation": "Bob 沒接到我的電話，所以他可能稍後會發送一條訊息給我。",
+      "analysis": "句意說明：\nBob 沒接到我的電話，所以他可能稍後會發送一條訊息給我。這裡的「訊息」指的是傳遞信息的文字內容。\n補充用法：\nsend a message = 發送訊息\nreceive a message = 收到訊息\nleave a message = 留下訊息",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-10",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 10,
+      "text": "Alan’s appearance is quite s______ar to James’s, so many people think they are twin brothers.",
+      "answer": "similar",
+      "translation": "Alan 的外表和 James 很相似，因此很多人認為他們是雙胞胎兄弟。",
+      "analysis": "句意說明：\nAlan 的外表和 James 很相似，因此很多人認為他們是雙胞胎兄弟。這裡的「相似」指的是外觀或特徵上的相同。\n補充用法：\nsimilar to = 和…相似\nbe similar in appearance = 外貌相似\nquite similar = 非常相似",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-11",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 11,
+      "text": "Office workers always need to strike a b_____e between work and life.",
+      "answer": "balance",
+      "translation": "辦公室員工總是需要在工作和生活之間找到平衡。",
+      "analysis": "句意說明：\n辦公室員工總是需要在工作和生活之間找到平衡。這裡的「平衡」指的是在兩個事物之間達到一個合適的程度或狀態。\n補充用法：\nstrike a balance = 找到平衡\nwork-life balance = 工作與生活的平衡\nmaintain a balance = 維持平衡",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-12",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 12,
+      "text": "̇Mike’s classmates were chatting loudly during the break, so he couldn’t f_____s on reading.",
+      "answer": "focus",
+      "translation": "Mike 的同班同學在休息時間大聲聊天，因此他無法專心閱讀。",
+      "analysis": "句意說明：\nMike 的同班同學在休息時間大聲聊天，因此他無法專心閱讀。這裡的「專心」指的是集中注意力。\n補充用法：\nfocus on = 集中注意力於\nlose focus = 失去專注\nmaintain focus = 保持專注",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-13",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 13,
+      "text": "Cindy found some problems at the third s_____ge of the homework, so she had to do it again.",
+      "answer": "stage",
+      "translation": "Cindy 在作業的第三個階段發現了一些問題，所以她不得不再做一遍。",
+      "analysis": "句意說明：\nCindy 在作業的第三個階段發現了一些問題，所以她不得不再做一次。這裡的「階段」指的是作業過程中的某一個步驟或階段。\n補充用法：\nin the early stages = 在初期階段\nat the final stage = 在最後階段\na key stage = 關鍵階段",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-14",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 14,
+      "text": "Bob got a lot of v_____le experience and learned several useful lessons from his winter job.",
+      "answer": "valuable",
+      "translation": "Bob 從他的寒假工作中獲得了許多有價值的經驗，並學到了幾個有用的教訓。",
+      "analysis": "句意說明：\nBob 從他的寒假工作中獲得了許多有價值的經驗，並學到了幾個有用的教訓。這裡的「有價值的」指的是非常有用、值得學習的。\n補充用法：\nvaluable experience = 有價值的經驗\nvaluable lesson = 有價值的教訓\nvaluable information = 有價值的資訊",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-15",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 15,
+      "text": "Worrying about his studies as a freshman in high school, Smith asked the teacher for m______ds to prepare for the exams.",
+      "answer": "methods",
+      "translation": "因為擔心自己作為高中的新生，Smith 向老師請教如何準備考試的方法。",
+      "analysis": "句意說明：\n在高中的新生階段，Smith 因為擔心學業問題，請教老師如何準備考試。這裡的「方法」指的是完成某項任務的具體步驟或策略。\n補充用法：\nstudy methods = 學習方法\nteaching methods = 教學方法\neffective methods = 有效的方法",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-16",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 16,
+      "text": "By listening to the conversation between the police and the suspect, we found out that the suspect had been in c_____n with the victim.",
+      "answer": "communication",
+      "translation": "聽取警察和嫌疑人之間的對話後，我們發現嫌疑人曾與受害人有過聯繫。",
+      "analysis": "句意說明：\n聽取警察和嫌疑人之間的對話後，我們發現嫌疑人曾與受害人有過聯繫。這裡的「聯繫」指的是交流或溝通。\n補充用法：\nbe in communication = 與…有聯繫\nmaintain communication = 維持聯繫\nlose communication = 失去聯繫",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-17",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 17,
+      "text": "This pill is highly e_____ve against stomachaches. You will feel better within half an hour after you take it.",
+      "answer": "effective",
+      "translation": "這顆藥對胃痛非常有效。你服用後會在半小時內感覺好轉。",
+      "analysis": "句意說明：\n這顆藥對胃痛非常有效。你服用後會在半小時內感覺好轉。這裡的「有效的」指的是對某事物有治療或改善效果。\n補充用法：\neffective against = 對…有效\nhighly effective = 非常有效\neffective treatment = 有效的治療",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-18",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 18,
+      "text": "Sara is a successful singer because she is not afraid of taking on ch_____ges.",
+      "answer": "challenges",
+      "translation": "Sara 成為一位成功的歌手，因為她不怕接受挑戰。",
+      "analysis": "句意說明：\nSara 成為一位成功的歌手，因為她不怕接受挑戰。這裡的「挑戰」指的是需要努力克服的困\n難或障礙。\n補充用法：\nface challenges = 面對挑戰\ntake on challenges = 接受挑戰\novercome challenges = 克服挑戰",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VF-19",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 19,
+      "text": "Since the war broke out (爆發), international organizations show their c______ns over human rights and the safety of children.",
+      "answer": "concerns",
+      "translation": "自從戰爭爆發以來，國際組織對人權和兒童安全表達了關切。",
+      "analysis": "句意說明：\n自從戰爭爆發以來，國際組織對人權和兒童安全表達了關切。這裡的「關切」指的是對某事的擔憂或關注。\n補充用法：\nexpress concerns = 表達關切\nraise concerns = 提出關切\nserious concerns = 嚴重的關切",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-WF-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 1,
+      "text": "In order to do the study and report, the professor ______ (advice) us to interview some experts and find some relevant information from the library.",
+      "answer": "advises",
+      "translation": "為了做這項研究並撰寫報告，教授建議我們採訪一些專家並從圖書館找到一些相關資料。",
+      "analysis": "解題關鍵：\n這裡需要選擇動詞 advises，表示「建議」，並且要與主語「the professor」一致。\n句意說明：\n這句話說明教授建議學生們採訪一些專家並從圖書館尋找相關資訊。",
+      "tags": [],
+      "promptHint": "advice"
+    },
+    {
+      "id": "B1-U01-WF-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 2,
+      "text": "Greenpeace an international _____ (organize) whose goal is to protect the environment.",
+      "answer": "organization",
+      "translation": "Greenpeace是一個國際性的組織，目標是保護環境。",
+      "analysis": "解題關鍵：\n句中需要填入名詞形式 organization，表示「組織」。\n句意說明：\n句子強調 Greenpeace 是一個國際性環保組織。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-WF-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 3,
+      "text": "After having practiced speaking English for a long time, Adam can now _____ (communication) confidently with others in English.",
+      "answer": "communicate",
+      "translation": "經過長時間的英語口語練習後，Adam現在可以自信地與他人用英語交流。",
+      "analysis": "解題關鍵：\n句中應選擇動詞 communicate，表示「交流」。\n句意說明：\n本句表示Adam現在能夠自信地用英語與他人交流。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-WF-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 4,
+      "text": "It has been proved that there is a strong ______ (relationship) between smoking and lung cancer.",
+      "answer": "relation",
+      "translation": "已經證明，吸菸與肺癌之間有著強烈的關聯。",
+      "analysis": "解題關鍵：\n這裡應選擇名詞 relation，表示「關係」。\n句意說明：\n這句話表示研究已證明吸菸與肺癌之間有密切關聯。",
+      "tags": [],
+      "promptHint": "relationship"
+    },
+    {
+      "id": "B1-U01-WF-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 5,
+      "text": "A _____ (survey) shows that sixty-five percent of adults do not get enough exercise.",
+      "answer": "survey",
+      "translation": "一項調查顯示，65%的成年人運動不足。",
+      "analysis": "解題關鍵：\n根據語境，這裡應該選擇名詞 survey(調查)，作為句子的主語。\n句意說明：\n本句表示「一項調查顯示，大部分成年人運動不足」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-WF-06",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 6,
+      "text": "Andy learned that smoking has a very negative _____ (effective) on his body, so he finally decided to quit.",
+      "answer": "effect",
+      "translation": "Andy了解到抽煙對他的身體有非常負面的影響，所以他最終決定戒煙。",
+      "analysis": "解題關鍵：\n這裡應該填入名詞 effect，表示「影響」。\n句意說明：\n本句說明抽煙對Andy身體的負面影響。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-WF-07",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 7,
+      "text": "During the speech, the presidential candidate promised that he would do his best to ensure people’s right to freedom of _____ (express).",
+      "answer": "expression",
+      "translation": "在演講中，總統候選人承諾他將竭盡全力保護人民的表達自由權。",
+      "analysis": "解題關鍵：\n這裡應選擇名詞 expression，表示「表達」。\n句意說明：\n本句中講述的是候選人承諾保護人民表達自由的權利。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-WF-08",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 8,
+      "text": "Although this is just a cheap watch, it is a thing of great ______ (valuable) to me. It is a gift from my grandmother.",
+      "answer": "value",
+      "translation": "雖然這只是一隻便宜的手錶，但它對我來說具有很大的價值。",
+      "analysis": "解題關鍵：\n本句需要的是名詞形式 value，表示「價值」。\n句意說明：\n這句話表示即使這只是一隻便宜的手錶，對我來說它的價值非凡。",
+      "tags": [],
+      "promptHint": "valuable"
+    },
+    {
+      "id": "B1-U01-WF-09",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 9,
+      "text": "Eddie has been very quiet recently, and it really _____ (concern) his friends.",
+      "answer": "concerns",
+      "translation": "Eddie最近一直很安靜，這真的讓他的朋友們很擔心。",
+      "analysis": "解題關鍵：\n主詞是「it」，是第三人稱單數，因此動詞要用第三人稱單數形式 concerns。\n句意說明：\n本句意思是「Eddie最近很安靜，這讓他的朋友們感到擔心」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-WF-10",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 10,
+      "text": "̇Vera is good at math, so this quiz does not _____ (challenge) her at all.",
+      "answer": "challenge",
+      "translation": "Vera擅長數學，所以這份小測驗對她完全沒有挑戰性。",
+      "analysis": "解題關鍵：\n句子主詞是「this quiz」，而動詞 challenge 需要保持原形，因為這裡與「does not」搭配。\n句意說明：\n本句意思是「這份測驗對Vera來說完全沒有挑戰性」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-WF-11",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 11,
+      "text": "The couple kept arguing with each other, not knowing that this would not help _____ (solution) their problems.",
+      "answer": "solve",
+      "translation": "這對夫妻一直在爭吵，卻不知道這樣做不會幫助解決他們的問題。",
+      "analysis": "解題關鍵：\n本句需要的是動詞形式，因此選擇 solve，表示「解決問題」。\n句意說明：\n本句強調爭吵並不能幫助解決問題。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-WF-12",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 12,
+      "text": "The teacher told the students that it was important to learn how to _____ (management) their time wisely.",
+      "answer": "manage",
+      "translation": "老師告訴學生們，學會如何明智地管理時間是很重要的。",
+      "analysis": "解題關鍵：\n本句需要使用動詞形式 manage，來表示「有效管理時間」。\n句意說明：\n本句強調學會如何明智地管理時間。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 1,
+      "text": "The company is now in a(n) _____ situation after the boss got into the scandal (醜聞) of giving money to the mayor.",
+      "options": [
+        "(A) urgent",
+        "(B) effective",
+        "(C) valuable",
+        "(D) similar"
+      ],
+      "answer": "A",
+      "translation": "公司目前處於緊急情況，因為老闆捲入了賄賂市長的醜聞。\n(A) 緊急\n(B) 有效\n(C) 有價值\n(D) 相似",
+      "analysis": "句意說明：\n公司目前處於緊急情況，因為老闆捲入了賄賄市長的醜聞。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 2,
+      "text": "is key when it comes to relationships. It is important to talk about things so that you can know what others are thinking.",
+      "options": [
+        "(A) Communication",
+        "(B) Organization",
+        "(C) Challenge",
+        "(D) Value"
+      ],
+      "answer": "A",
+      "translation": "溝通對於關係至關重要，能幫助你了解別人在想什麼。\n(A) 溝通\n(B) 組織\n(C) 挑戰\n(D) 價值",
+      "analysis": "句意說明：\n溝通在關係中是最重要的，能幫助了解他人的想法。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 3,
+      "text": "The school _____ all freshmen to understand which course they thought was the most interesting and useful.",
+      "options": [
+        "(A) solved",
+        "(B) expressed",
+        "(C) surveyed",
+        "(D) exchanged"
+      ],
+      "answer": "C",
+      "translation": "學校對所有新生進行了調查，以了解他們認為最有趣和最有用的課程。\n(A) 解決\n(B) 表達\n(C) 調查\n(D) 交流",
+      "analysis": "句意說明：\n學校進行了一項調查，了解新生最感興趣和認為最有用的課程。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 4,
+      "text": "There are lots of things to _____ before you study abroad; for example, apply for a visa (簽證), passport, and student dormitory (宿舍).",
+      "options": [
+        "(A) get along with",
+        "(B) deal with",
+        "(C) find out",
+        "(D) be excited about"
+      ],
+      "answer": "B",
+      "translation": "在你出國之前，有很多事情要處理；例如，申請簽證、護照和學生宿舍等。\n(A) 與…相處\n(B) 處理\n(C) 找出\n(D) 為…激動",
+      "analysis": "句意說明：\n出國前需要處理許多事宜，如申請簽證、護照以及宿舍等。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 5,
+      "text": "Darcey is a sweet lover. _____ chocolate cake, apple pie is her favorite dessert.",
+      "options": [
+        "(A) More than",
+        "(B) With",
+        "(C) Like",
+        "(D) In addition to"
+      ],
+      "answer": "D",
+      "translation": "Darcey除了巧克力蛋糕此外蘋果派是她最喜歡的甜點。\n(A) 比\n(B) 與\n(C) 像\n(D) 此外",
+      "analysis": "句意說明：\nDarcey除了巧克力蛋糕外，還很喜歡蘋果派。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-06",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 6,
+      "text": "When facing a challenge, my dad always tells me to find the _____ to the problem on my own rather than wait for the answer from others.",
+      "options": [
+        "(A) effect",
+        "(B) management",
+        "(C) communication",
+        "(D) solution"
+      ],
+      "answer": "D",
+      "translation": "面對挑戰時，爸爸總是告訴我自己找到解決方案問題的方法，而不是等待別人給答案。\n(A) 效果\n(B) 管理\n(C) 溝通\n(D) 解決方案",
+      "analysis": "句意說明：\n面對挑戰時，爸爸總是告訴我自己找到解決問題的方法，而不是等待他人給出答案。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-07",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 7,
+      "text": "The necklace is of great _____ to Grandma. She has owned it since she was nine years old.",
+      "options": [
+        "(A) expression",
+        "(B) message",
+        "(C) relation",
+        "(D) value"
+      ],
+      "answer": "D",
+      "translation": "這條項鍊對奶奶來說具有很大的價值。她從九歲起就擁有它。\n(A) 表達\n(B) 信息\n(C) 關係\n(D) 價值",
+      "analysis": "句意說明：\n奶奶對這條項鍊有著深厚的情感價值，因為她從九歲起就擁有它。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-08",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 8,
+      "text": "The government leaders all went to the church service to show their respect to the _____ president of the country.",
+      "options": [
+        "(A) former",
+        "(B) urgent",
+        "(C) effective",
+        "(D) similar"
+      ],
+      "answer": "A",
+      "translation": "所有政府領導人都參加了教堂服務，以表示對該國前任總統的尊敬。\n(A) 前任\n(B) 緊急\n(C) 有效\n(D) 相似",
+      "analysis": "句意說明：\n政府領導人參加了教堂的禮拜服務，表示對前總統的尊敬。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-09",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 9,
+      "text": "The government plans to start a program to give young couples money to help care for their babies _____.",
+      "options": [
+        "(A) deal with",
+        "(B) in addition",
+        "(C) get along",
+        "(D) in the near future"
+      ],
+      "answer": "D",
+      "translation": "政府計劃啟動一個計劃，幫助年輕夫妻在不久的將來照顧孩子。\n(A) 處理\n(B) 此外\n(C) 相處\n(D) 不久的將來",
+      "analysis": "句意說明：\n政府計劃在不久的將來啟動一個幫助年輕夫妻照顧孩子的計劃。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-10",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 10,
+      "text": "After a few people got hurt, many customers expressed their _____ about the safety of the facilities in the amusement park.",
+      "options": [
+        "(A) counselors",
+        "(B) concerns",
+        "(C) stages",
+        "(D) excitements"
+      ],
+      "answer": "B",
+      "translation": "在幾個人受傷之後，許多顧客表達了他們對遊樂園設施安全的擔憂。\n(A) 顧問\n(B) 擔憂\n(C) 階段\n(D) 興奮",
+      "analysis": "句意說明：\n顧客在遊樂園中受傷後，表達了他們對設施安全的擔憂。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-11",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 11,
+      "text": "When you are not sure which school to go to, you can turn to your parents for some _____.",
+      "options": [
+        "(A) management",
+        "(B) advice",
+        "(C) relationship",
+        "(D) stage"
+      ],
+      "answer": "B",
+      "translation": "當你不確定選擇哪所學校時，你可以向父母請教一些建議。\n(A) 管理\n(B) 建議\n(C) 關係\n(D) 階段",
+      "analysis": "句意說明：\n當你不確定選擇哪所學校時，可以向父母請教。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-12",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 12,
+      "text": "After many tests, Sherry finally found a _____ for improving the problems of sleep.",
+      "options": [
+        "(A) punishment",
+        "(B) management",
+        "(C) method",
+        "(D) expression"
+      ],
+      "answer": "C",
+      "translation": "經過許多測試，Sherry最終找到了改善睡眠問題的方法。\n(A) 懲罰\n(B) 管理\n(C) 方法\n(D) 表達",
+      "analysis": "句意說明：\nSherry經過多次測試後，終於找到了改善睡眠問題的方法。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-13",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 13,
+      "text": "Mary has a close _____ with her mother. They often talk about things that happen in their lives.",
+      "options": [
+        "(A) solution",
+        "(B) relationship",
+        "(C) advice",
+        "(D) method"
+      ],
+      "answer": "B",
+      "translation": "Mary和她的母親有著親密的關係。他們經常討論彼此的生活。\n(A) 解決方案\n(B) 關係\n(C) 建議\n(D) 方法",
+      "analysis": "句意說明：\nMary和母親有著親密的關係，經常分享彼此的生活。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-14",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 14,
+      "text": "The people of the city decided to _____ an event to celebrate the popular singer’s success.",
+      "options": [
+        "(A) solve",
+        "(B) communicate",
+        "(C) organize",
+        "(D) focus"
+      ],
+      "answer": "C",
+      "translation": "市民決定組織一個活動來慶祝受歡迎歌手的成功。\n(A) 解決\n(B) 溝通\n(C) 組織\n(D) 集中",
+      "analysis": "句意說明：\n市民們決定組織一個活動來慶祝受歡迎的歌手的成功。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-15",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 15,
+      "text": "Vicky’s voice is _____ to her sister’s. They sound almost the same on the phone.",
+      "options": [
+        "(A) effective",
+        "(B) similar",
+        "(C) urgent",
+        "(D) valuable"
+      ],
+      "answer": "B",
+      "translation": "Vicky的聲音和她妹妹的聲音相似。他們在電話裡聽起來幾乎一樣。\n(A) 有效\n(B) 相似\n(C) 緊急\n(D) 有價值",
+      "analysis": "句意說明：\nVicky的聲音和她妹妹的聲音相似，電話中聽起來幾乎一樣。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-16",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 16,
+      "text": "Grace was hard-working and already got to the final _____ of the project her teacher gave her.",
+      "options": [
+        "(A) message",
+        "(B) communication",
+        "(C) stage",
+        "(D) advice"
+      ],
+      "answer": "C",
+      "translation": "Grace努力工作，並已達到老師給她的項目階段。\n(A) 信息\n(B) 溝通\n(C) 階段\n(D) 建議",
+      "analysis": "句意說明：\nGrace努力工作，並已完成老師指派的項目最終階段。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-17",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 17,
+      "text": "In the debate contest, each group has five minutes to _____ their views on stage.",
+      "options": [
+        "(A) program",
+        "(B) knock",
+        "(C) please",
+        "(D) express"
+      ],
+      "answer": "D",
+      "translation": "在辯論比賽中，每個小組有五分鐘時間來表達他們的觀點。\n(A) 計畫\n(B) 擊倒\n(C) 取悅\n(D) 表達",
+      "analysis": "句意說明：\n每個小組在辯論比賽中有五分鐘的時間來表達他們的觀點。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-18",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 18,
+      "text": "Sara has become a successful singer because she is not afraid of _____.",
+      "options": [
+        "(A) challenges",
+        "(B) surveys",
+        "(C) solutions",
+        "(D) messages"
+      ],
+      "answer": "A",
+      "translation": "Sara之所以成為成功的歌手，是因為她不怕挑戰。\n(A) 挑戰\n(B) 調查\n(C) 解決方案\n(D) 信息",
+      "analysis": "句意說明：\nSara成為成功歌手，因為她不怕挑戰。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-VC-19",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 19,
+      "text": "This medicine is said to be very _____ against the common cold. Take some and you might feel better in no time.",
+      "options": [
+        "(A) urgent",
+        "(B) effective",
+        "(C) former",
+        "(D) valuable"
+      ],
+      "answer": "B",
+      "translation": "這種藥物對感冒非常有效。服用後你可能很快會感覺好些。\n(A) 緊急\n(B) 有效\n(C) 前任\n(D) 有價值",
+      "analysis": "句意說明：\n這種藥物對感冒非常有效，服用後你可能很快會感覺好些。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 1,
+      "text": "Allen left for the train station earlier this morning, he missed the chance of seeing his best friend in person.",
+      "options": [
+        "(A) Although",
+        "(B) Though",
+        "(C) As",
+        "(D) For"
+      ],
+      "answer": "C",
+      "translation": "因為 Allen 今天早上早早去車站，他錯過了與最好的朋友見面的機會。",
+      "analysis": "解題關鍵：\nAlthough / Though 表示「雖然」，As 表示「因為」。句中意思是「因為 Allen 早上離開去車站了」，所以選 As。\n句意說明：\n「因為 Allen 今天早上早早去車站，他錯過了與最好的朋友見面的機會。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 2,
+      "text": "Before the little boy finished eating dinner, his mom _____ to bed.",
+      "options": [
+        "(A) had going",
+        "(B) had went",
+        "(C) had gone",
+        "(D) has gone"
+      ],
+      "answer": "C",
+      "translation": "在小男孩吃完晚餐之前，他的媽媽已經去睡覺了。",
+      "analysis": "解題關鍵：\nBefore the little boy finished… → 過去時間的對比，要用過去完成式 had gone。\n句意說明：\n「在小男孩吃完晚餐之前，他的媽媽已經去睡覺了。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 3,
+      "text": "Andy _____ about his economics courses for two days before he made the decision.",
+      "options": [
+        "(A) has thought",
+        "(B) had thought",
+        "(C) is thought",
+        "(D) have thought"
+      ],
+      "answer": "B",
+      "translation": "有些學生在考試前就已經在理解課程上遇到困難。",
+      "analysis": "解題關鍵：\nbefore + 過去式 → 主句要用過去完成式 had + p.p.，且 have trouble + V-ing 表示「在…遇到困難」。\n句意說明：\n「一些學生在考試前就已經遇到理解課程的困難。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 4,
+      "text": "John had trouble _____ his homework, so he asked his teacher for help.",
+      "options": [
+        "(A) on",
+        "(B) in",
+        "(C) at",
+        "(D) with"
+      ],
+      "answer": "D",
+      "translation": "John 做作業有困難，所以他請老師幫忙。",
+      "analysis": "解題關鍵：\nhave trouble + 介系詞 → 正確搭配為 have trouble with + N。\n句意說明：\n「John 做作業有困難，所以他請老師幫忙。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 5,
+      "text": "After getting into college, Kevin _____ hard to strike a balance between his studies and his part-time job until he had a health problem.",
+      "options": [
+        "(A) managed",
+        "(B) managing",
+        "(C) has managed",
+        "(D) had managed"
+      ],
+      "answer": "D",
+      "translation": "Kevin 上大學後一直努力在課業和打工之間取得平衡，直到健康出現問題。",
+      "analysis": "解題關鍵：\nuntil he had a health problem →「直到他出現健康問題之前」，表示過去一段持續的情況 → 過去完成式 had managed。\n句意說明：\n「Kevin 上大學後一直努力在課業和打工之間取得平衡，直到健康出現問題。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-06",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 6,
+      "text": "By the time we got to our destination, we _____ all the things ready, like the passports, and a travel guide.",
+      "options": [
+        "(A) have gotten",
+        "(B) would get",
+        "(C) had gotten",
+        "(D) were getting"
+      ],
+      "answer": "C",
+      "translation": "當我們到達目的地時，我們已經把所有需要的東西準備好了，例如護照和旅遊指南。",
+      "analysis": "解題關鍵：\nBy the time we got to… → 句中「到達目的地時」是過去時間，前後動作要用過去完成式 had gotten。\n句意說明：\n「當我們到達目的地時，我們已經把所有需要的東西準備好了。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-07",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 7,
+      "text": "Linda _____ some very useful ways to organize her schedule in high school.",
+      "options": [
+        "(A) have learned",
+        "(B) had learned",
+        "(C) learn",
+        "(D) is learned"
+      ],
+      "answer": "B",
+      "translation": "Linda 在高中時已經學會了一些很有用的方法來安排她的時間表。",
+      "analysis": "解題關鍵：\n時間線 →「在高中時」是過去一段時間，需用過去完成式 had + p.p.，表示當時之前已經學會。\n句意說明：\n「Linda 在高中時已經學會了一些很有用的方法來安排她的時間表。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-08",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 8,
+      "text": "Jason _____ on the classes for the whole semester. That is why he got a terrible score and failed in the end.",
+      "options": [
+        "(A) had focused",
+        "(B) had not focused",
+        "(C) has focused",
+        "(D) has not focused"
+      ],
+      "answer": "B",
+      "translation": "Jason 整個學期都沒有專心上課，所以他成績很差，最後被當掉了。",
+      "analysis": "解題關鍵：\nThat is why he failed… → 說明原因。「整個學期都沒有專心上課」→ had not focused。\n句意說明：\n「Jason 整個學期都沒有專心上課，所以他成績很差，最後被當掉了。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-09",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 9,
+      "text": "The famous actor had trouble _____ being followed by reporters.",
+      "options": [
+        "(A) avoid",
+        "(B) to avoid",
+        "(C) avoided",
+        "(D) avoiding"
+      ],
+      "answer": "D",
+      "translation": "那位知名演員很難避免被記者跟拍。",
+      "analysis": "解題關鍵：\nhave trouble + V-ing → had trouble avoiding。\n句意說明：\n「那位知名演員很難避免被記者跟拍。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-10",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 10,
+      "text": "Some of the guests _____ to bring a gift to the host when they got to the party.",
+      "options": [
+        "(A) had forgotten",
+        "(B) have forgotten",
+        "(C) have forgetting",
+        "(D) had forgetting"
+      ],
+      "answer": "A",
+      "translation": "有些客人到派對時，已經忘了帶禮物給主人。",
+      "analysis": "解題關鍵：\nhad forgotten → 表示「在到達派對之前」就已經忘記了。\n句意說明：\n「有些客人到派對時，已經忘了帶禮物給主人。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-11",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 11,
+      "text": "Peter _____ the performance clip before he joined the magic club.",
+      "options": [
+        "(A) had watched",
+        "(B) has watched",
+        "(C) have watched",
+        "(D) has watching"
+      ],
+      "answer": "A",
+      "translation": "Peter 在加入魔術社之前，就已經看過表演片段。",
+      "analysis": "解題關鍵：\nbefore he joined the magic club →「在他加入魔術社之前」，要用過去完成式 had watched。\n句意說明：\n「Peter 在加入魔術社之前，就已經看過表演片段。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-12",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 12,
+      "text": "Jenny has serious stage fright, so she has trouble _____ herself in front of the public.",
+      "options": [
+        "(A) to express",
+        "(B) expressed",
+        "(C) expressing",
+        "(D) express"
+      ],
+      "answer": "C",
+      "translation": "Jenny 有嚴重的舞台恐懼症，所以她在大眾面前很難表達自己。",
+      "analysis": "解題關鍵：\nhave trouble + V-ing → has trouble expressing。\n句意說明：\n「Jenny 有嚴重的舞台恐懼症，所以她在大眾面前很難表達自己。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-13",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 13,
+      "text": "The college student had trouble _____ a job.",
+      "options": [
+        "(A) to find",
+        "(B) finding",
+        "(C) found",
+        "(D) find"
+      ],
+      "answer": "B",
+      "translation": "那位大學生在找工作時遇到困難。",
+      "analysis": "解題關鍵：\nhave trouble + V-ing 固定用法 → had trouble finding。\n句意說明：\n「那位大學生在找工作時遇到困難。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-14",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 14,
+      "text": "Some of the students _____ trouble understanding the lesson before they took the exam.",
+      "options": [
+        "(A) have had",
+        "(B) has had",
+        "(C) is having",
+        "(D) had had"
+      ],
+      "answer": "D",
+      "translation": "有些學生在考試前就已經在理解課程上遇到困難。",
+      "analysis": "解題關鍵：\nbefore + 過去式 → 主句要用過去完成式 had + p.p.，且 have trouble + V-ing 表示「在…遇到困難」。\n句意說明：\n「一些學生在考試前就已經遇到理解課程的困難。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-15",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 15,
+      "text": "Ken was caught stealing a toy in the store, his face turned red and felt sorry for what he had done.",
+      "options": [
+        "(A) As",
+        "(B) Despite the fact that",
+        "(C) Although",
+        "(D) Even though"
+      ],
+      "answer": "A",
+      "translation": "Ken 在商店被抓到偷玩具時，他的臉變紅，對自己所做的事感到抱歉。",
+      "analysis": "解題關鍵：\nKen was caught stealing… → 動作同時發生，用 as 表示「當…的時候」。\n句意說明：\n「Ken 在商店被抓到偷玩具時，他的臉變紅，對自己所做的事感到抱歉。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-16",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 16,
+      "text": "After getting on the bus, it did not take long for Mandy to find out that she _____ her wallet at home.",
+      "options": [
+        "(A) has left",
+        "(B) has leaving",
+        "(C) had left",
+        "(D) had leaving"
+      ],
+      "answer": "C",
+      "translation": "Mandy 上公車後不久，就發現自己把錢包忘在家裡了。",
+      "analysis": "解題關鍵：\nfind out + that 子句，主句動作在過去，wallet 留在家是更早的動作 → 用 had left。\n句意說明：\n「Mandy 上公車後不久，就發現自己把錢包忘在家裡了。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-17",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 17,
+      "text": "Matt wanted to break up with Judy, admitting that he _____ with his ex-girlfriend before they decided to get married.",
+      "options": [
+        "(A) has communicated",
+        "(B) had communicated",
+        "(C) communicates",
+        "(D) communicated"
+      ],
+      "answer": "B",
+      "translation": "Matt 承認在他和 Judy 決定結婚之前，他已經和前女友有過聯繫。",
+      "analysis": "解題關鍵：\nbefore they decided to get married → 動作順序，需用過去完成式 had communicated。\n句意說明：\n「Matt 承認在他和 Judy 決定結婚之前，他已經和前女友有過聯繫。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-18",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 18,
+      "text": "The alarm clock _____ before Wendy woke up.",
+      "options": [
+        "(A) have rung",
+        "(B) has rung",
+        "(C) is ringing",
+        "(D) had rung"
+      ],
+      "answer": "D",
+      "translation": "在 Wendy 醒來之前，鬧鐘已經響了。",
+      "analysis": "解題關鍵：\nbefore Wendy woke up →「在 Wendy 醒來之前」，要用過去完成式 had rung。\n句意說明：\n「在 Wendy 醒來之前，鬧鐘已經響了。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-19",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 19,
+      "text": "the car accident happened, people around quickly called the police and helped the injured (傷患).",
+      "options": [
+        "(A) As",
+        "(B) By the time",
+        "(C) If",
+        "(D) Because"
+      ],
+      "answer": "A",
+      "translation": "當車禍發生時，周圍的人立刻報警並幫助傷患。",
+      "analysis": "解題關鍵：\nAs + 子句 → 表示「當…的時候」。\n句意說明：\n「當車禍發生時，周圍的人立刻報警並幫助傷患。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-GC-20",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 20,
+      "text": "When Bob arrived at the airport, it _____ already _____ to rain.",
+      "options": [
+        "(A) has; begins",
+        "(B) had; begun",
+        "(C) have; begin",
+        "(D) had; began"
+      ],
+      "answer": "B",
+      "translation": "當 Bob 抵達機場時，已經開始下雨了。",
+      "analysis": "解題關鍵：\nWhen Bob arrived… → 過去時間，already 表示動作已完成，要用 had begun。\n句意說明：\n「當 Bob 抵達機場時，已經開始下雨了。」",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-CT-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "課文挖空",
+      "questionNumber": 1,
+      "text": "Welcome to Stillwater High School, all freshmen! Are you excited about high school? This is an exciting __1__ of life. You will experience a lot of great things and make good friends. \n    However, like other students, you may face some challenges. Last year, we surveyed our students to find out their most common concerns. The most common concern is studying and taking tests. Their second most common concern is __2__ relationships. If you have these concerns __3__, don’t worry—you are not alone.\n    __4__ you face challenges, remember that there is always more than one solution. We—the school counselors—are always here to give you advice. Here, we would like to share two tips on __5__ the two most common student concerns. These tips will help you stand on the shoulders of the people who came before you.\n(1)\t(  )",
+      "options": [
+        "(A) survey",
+        "(B) stage",
+        "(C) balance",
+        "(D) method",
+        "(A) urgent",
+        "(B) effective",
+        "(C) similar",
+        "(D) interpersonal",
+        "(A) in spite of",
+        "(B) in addition to",
+        "(C) in the near future",
+        "(D) in light of",
+        "(A) Within",
+        "(B) With",
+        "(C) On",
+        "(D) As",
+        "(A) dealing with",
+        "(B) comparing with",
+        "(C) contacting with",
+        "(D) living with"
+      ],
+      "answer": "(1)B　(2)D　(3)C　(4)D　(5)A",
+      "translation": "歡迎來到Stillwater高中，所有新生！你對高中感到興奮嗎？這是一個令人興奮的人生階段。你將會經歷很多美好的事情，結交好朋友。\n然而，就像其他學生一樣，你可能會面臨一些挑戰。去年，我們調查了學生的意見，以了解他們最常擔心的問題。最常擔心的問題是學習和考試。他們第二個最常擔心的問題則是人際關係。如果你在不久後有這些擔憂，請不要擔心—你並不孤單。\n當你面臨挑戰時，請記得總有不只一種解決方案。我們—學校諮商師—隨時為你提供建議。在這裡，我們想分享兩個技巧來處理這兩個之前的學生最常遇到的問題。這些技巧將幫助你站在前人的肩膀上。",
+      "analysis": "(1)\t解題關鍵：\nan exciting of life → 「人生中令人興奮的階段」→ stage。\n(2)\t解題關鍵：\n指「人際關係」→ interpersonal relationships。\n(3)\t解題關鍵：\nIf you have these concerns __ → 正確片語 in the near future(在不久的將來)。\n(4)\t解題關鍵：\nyou face challenges → 「當你面對挑戰時」→ As。\n(5)\t解題關鍵：\ntips on __ the two most common student concerns → 正確用法 deal with / dealing with → 「處理」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-CT-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "課文挖空",
+      "questionNumber": 2,
+      "text": "Time management is key to effective studying and test preparation. I __1__ some very useful ways to organize my schedule by the time I finished high school. One of the methods was the Eisenhower Matrix. It helped me decide what was both urgent and important, and should be done first. When you __2__, good time management will help you finish things on schedule.\n    Healthy interpersonal relationships start with good __3__. My first case in Stillwater was about a fight between students. Their homeroom teacher told me that the two students had had trouble communicating with each other for a long time before the fight. If you have a similar problem, remember that communication is a two-way street. __4__ expressing yourself, you also need to listen to others. A good listener does not just focus on other people’s words. People’s facial expressions and voice levels can help you better understand their messages and feelings. With great communication, you can __5__ your classmates and take your relationships to the next level.\n(1)\t(  )",
+      "options": [
+        "(A) have learned",
+        "(B) learn",
+        "(C) has learned",
+        "(D) had learned",
+        "(A) have a lot on your spoon",
+        "(B) have a lot on your bowl",
+        "(C) have a lot on your plate",
+        "(D) have a lot on your sticks",
+        "(A) solution",
+        "(B) message",
+        "(C) communication",
+        "(D) value",
+        "(A) Get rid of",
+        "(B) In the near future",
+        "(C) On addition to",
+        "(D) In addition to",
+        "(A) get along with",
+        "(B) get rid of",
+        "(C) get over",
+        "(D) get through"
+      ],
+      "answer": "(1)D　(2)C　(3)C　(4)D　(5)A",
+      "translation": "時間管理是有效學習和備考的關鍵。到我高中畢業的時候，我已經學會了一些非常有用的方法來安排我的行程。其中一種方法是艾森豪矩陣。它幫助我決定哪些事情是緊急且重要的，這些事應該先被完成。當你有很多事情要做時，良好的時間管理將幫助你準時完成事情。\n健康的人際關係從良好的溝通開始。我在Stillwater的第一個案件是關於兩個學生之間的肢體衝突。他們的班導告訴我，這兩個學生在打架之前長期溝通困難。如果你有類似的問題，請記住溝通是雙向的。除了表達自己，你還需要傾聽他人。一個好的傾聽者不會只關注別人的言語。人們的臉部表情和音量可以幫助你更好理解他們的訊息和感受。透過良好的溝通技巧，你可以與同學相處融洽，並和他們成為更親密的朋友。",
+      "analysis": "(1)\t解題關鍵：\nby the time I finished high school → 先過去(finished)，再更早的動作要用過\n去完成式 → had learned。\n(2)\t解題關鍵：\n固定片語 have a lot on your plate → 表示「事情很多，很忙」。\n(3)\t解題關鍵：\nstart with good __ → 人際關係需要良好的「溝通」→ communication。\n(4)\t解題關鍵：\n除了…之外 → 正確用法為 in addition to + V-ing。\n(5)\t解題關鍵：\nget along with → 「和…相處融洽」，符合文意「和同學好好相處」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-CC-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "課文綜合",
+      "questionNumber": 1,
+      "text": "When it comes to the first day of school, Betty thought of nothing but nervousness. She was shy and had trouble   1   herself in front of other people. Afraid of being alone for three years in high school, she   2   to practice communication skills in summer vacation. On the first day of school, Betty tried to talk to the girl sitting next to her, and she found they had   3   interests. She also understood that sharing and listening to others was not that terrifying   4   they talked more. Betty felt relieved and confident that she could   5   her first friend in high school. With a good start on the first day, Betty was ready to enjoy her wonderful high school life.\n(1)\t(  )",
+      "options": [
+        "(A) to express",
+        "(B) express",
+        "(C) expressed",
+        "(D) expressing",
+        "(A) managing",
+        "(B) managed",
+        "(C) has managed",
+        "(D) had managed",
+        "(A) similar",
+        "(B) urgent",
+        "(C) valuable",
+        "(D) effective",
+        "(A) as",
+        "(B) so",
+        "(C) but",
+        "(D) because",
+        "(A) deal with",
+        "(B) get along well with",
+        "(C) have a lot on her plate",
+        "(D) strike a balance between"
+      ],
+      "answer": "(1)D　(2)D　(3)A　(4)A　(5)B",
+      "translation": "只要談到開學的第一天，Betty的腦子裡除了緊張什麼都沒有。她很害羞，難以在別人面前好好表達自己。因為她害怕高中三年會在孤獨中度過，所以她在暑假的時候練習了溝通技巧。開學第一天，Betty嘗試跟坐在她旁邊的女孩說話，她發現彼此有相似的興趣。當他們聊得愈來愈起勁時，她了解到其實和別人分享和傾聽他人並沒有那麼可怕。Betty感覺鬆了一口氣且有自信，因為她和高中的第一個朋友相處得很好。有了第一天好的開始，Betty準備好享受她美好的高中生活了。",
+      "analysis": "(1)\t解題關鍵：\nhave trouble + __ → 固定片語「有困難做某事」，要用 V-ing 形式 → \nexpressing。\n(2)\t解題關鍵：\nshe __ to practice communication skills in summer vacation → 敘述過去已經完成的動作 → 過去完成式 had managed。\n(3)\t解題關鍵：\nthey had __ interests → 表達「相似的興趣」→ similar。\n(4)\t解題關鍵：\nnot that terrifying __ they talked more → 表示「隨著…」→ as。\n(5)\t解題關鍵：\nshe could __ her first friend → 和朋友「相處融洽」的正確片語 → get along well with。\n\n文章翻譯：\n    只要談到開學的第一天，Betty的腦子裡除了緊張什麼都沒有。她很害羞，難以在別人面前好好表達自己。因為她害怕高中三年會在孤獨中度過，所以她在暑假的時候練習了溝通技巧。開學第一天，Betty嘗試跟坐在她旁邊的女孩說話，她發現彼此有相似的興趣。當他們聊得愈來愈起勁時，她了解到其實和別人分享和傾聽他人並沒有那麼可怕。Betty感覺鬆了一口氣且有自信，因為她和高中的第一個朋友相處得很好。有了第一天好的開始，Betty準備好享受她美好的高中生活了。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-CC-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "課文綜合",
+      "questionNumber": 2,
+      "text": "Being a freshman is never easy. As a senior now, I would like to share my personal experience.\n  1   the anxiety of getting into a new environment, there are also difficulties that newcomers have to face. One of the   2   is probably our studies in school, especially for high school freshmen. The school counselor advised that we   3   our time effectively. By doing so, it would be helpful to strike a(n)   4   between schoolwork and extracurricular activities, like clubs.\n    Another concern is interpersonal relationships. During my high school life when I was a freshman, I   5   trouble getting along with others.   6  , I didn’t leave the problem unsolved. My homeroom teacher told me the key   7   the successful development of a relationship is through good communication. Since then, I tried to memorize the interests of my classmates   8   I listened to them. With this skill, I   9   the difficulty and made several good friends. I hope that my experience will be useful to all freshmen   10  . If you need further advice, school counselors are always welcome as well.\n(1)\t(  )",
+      "options": [
+        "(A) In order to",
+        "(B) Because of",
+        "(C) In addition to",
+        "(D) Not only",
+        "(A) methods",
+        "(B) messages",
+        "(C) challenges",
+        "(D) organizations",
+        "(A) to manage",
+        "(B) managing",
+        "(C) managed",
+        "(D) manage",
+        "(A) balance",
+        "(B) value",
+        "(C) survey",
+        "(D) effort",
+        "(A) have had",
+        "(B) had had",
+        "(C) have",
+        "(D) having",
+        "(A) However",
+        "(B) Instead",
+        "(C) First",
+        "(D) So",
+        "(A) for",
+        "(B) of",
+        "(C) to",
+        "(D) over",
+        "(A) as",
+        "(B) if",
+        "(C) because",
+        "(D) though",
+        "(A) focused on",
+        "(B) dealt with",
+        "(C) communicated with",
+        "(D) had an effect on",
+        "(A) before long",
+        "(B) in the end",
+        "(C) now and then",
+        "(D) in the near future"
+      ],
+      "answer": "(1)C　(2)C　(3)D　(4)A　(5)B　(6)A　(7)C　(8)A　(9)B　(10)D",
+      "translation": "作為一名新生從來都不是一件容易的事。作為一名高三學生，我想分享一下我的個人經歷。新生們除了會有進入新環境的焦慮之外，還要面對一些困難。尤其是對於高中新生來說，其中一個挑戰可能是我們的學業。學校輔導員建議我們有效地管理時間。透過這樣做，將有助於在功課和課外活動(如社團)之間取得平衡。\n    另一個問題是人際關係。在我高中一年級的生活中，我很難和別人好好相處。然而，我並沒有不願意解決問題。我的班導告訴我，成功發展關係的關鍵是良好的溝通。從那時候開始，在我聽同學說他們興趣的時候，我就努力試著記住。有了這項技能後，我克服了困難，並交了幾個好朋友。希望我的經驗對不久後入學的新生會有用。如果你需要更多的建議的話，也隨時歡迎跟學校輔導員聊聊。",
+      "analysis": "(1)\t解題關鍵：\nthe anxiety of getting into a new environment → 除了焦慮之外，還有其他困\n難 → in addition to。\n(2)\t解題關鍵：\nOne of the __ is probably our studies → 這裡要表達「挑戰」→ challenges。\n(3)\t解題關鍵：\nadvised that we __ our time effectively → advise + that 子句用原形動詞 → manage。\n(4)\t解題關鍵：\nstrike a(n) __ between A and B → 固定片語，表示「取得平衡」→ balance。\n(5)\t解題關鍵：\nwhen I was a freshman → 敘述過去經歷，用過去完成式 had had。\n(6)\t解題關鍵：\n承上「有困難」，下文「我沒有放任問題」→ 轉折語 → However。\n(7)\t解題關鍵：\nthe key __ the successful development → 固定片語 the key to → 表示「…的關鍵」。\n(8)\t解題關鍵：\nI tried to memorize the interests … __ I listened → 「同時」表示伴隨動作 → as。\n(9)\t解題關鍵：\nWith this skill, I __ the difficulty → 表示「解決、處理困難」→ dealt with。\n(10)\t解題關鍵：\nuseful to all freshmen __ → 「在不久的將來」→ in the near future。\n\n文章翻譯：\n    作為一名新生從來都不是一件容易的事。作為一名高三學生，我想分享一下我的個人經歷。新生們除了會有進入新環境的焦慮之外，還要面對一些困難。尤其是對於高中新生來說，其中一個挑戰可能是我們的學業。學校輔導員建議我們有效地管理時間。透過這樣做，將有助於在功課和課外活動(如社團)之間取得平衡。\n    另一個問題是人際關係。在我高中一年級的生活中，我很難和別人好好相處。然而，我並沒有不願意解決問題。我的班導告訴我，成功發展關係的關鍵是良好的溝通。從那時候開始，在我聽同學說他們興趣的時候，我就努力試著記住。有了這項技能後，我克服了困難，並交了幾個好朋友。希望我的經驗對不久後入學的新生會有用。如果你需要更多的建議的話，也隨時歡迎跟學校輔導員聊聊。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-CC-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "課文綜合",
+      "questionNumber": 3,
+      "text": "Similar experiences come to our mind when we look back on our lives as students. Before we took midterm and final exams, we   1   lots of assignments to do and schoolwork to keep up with. It seemed that we could never have enough time to   2   all of them. The problem might be poor time management. In fact, according to a survey, most students find it challenging to   3   their daily schedule, not to mention follow it. Among all causes, the overuse of the smartphone is thought to have a seriously bad effect   4   the time students can concentrate. So next time, if you find yourself having trouble   5   on your studies, it is advised to turn off your phone for a while. In that way, you might be able to truly manage your time well.\n(1)\t(  )",
+      "options": [
+        "(A) having",
+        "(B) have",
+        "(C) had had",
+        "(D) have had",
+        "(A) take on",
+        "(B) deal with",
+        "(C) add to",
+        "(D) get along with",
+        "(A) value",
+        "(B) express",
+        "(C) organize",
+        "(D) communicate",
+        "(A) on",
+        "(B) to",
+        "(C) for",
+        "(D) with",
+        "(A) to focus",
+        "(B) focus",
+        "(C) focused",
+        "(D) focusing"
+      ],
+      "answer": "(1)C　(2)B　(3)C　(4)A　(5)D",
+      "translation": "當我們回顧自己的學生生活時，類似的經歷就會浮現在我們的腦海中。在參加期中考試和期末考試之前，我們有很多作業要做，還有很多課業要跟上。我們好像永遠沒有足夠的時間來處理所有事情。可能是因為時間管理不善的問題。事實上，根據一項調查，大多數學生發現很難安排好自己的時間表，更不用說執行它。在所有原因中，過度使用智慧型手機被認為會對學生集中注意力的時間產生嚴重影響。所以下次，如果你發現自己無法集中注意力學習，建議暫時將手機關機。這樣一來，你或許就能真正管理好自己的時間。",
+      "analysis": "(1)\t解題關鍵：\n敘述在過去期中考與期末考之前已經完成的作業 → 過去完成式 had had。\n(2)\t解題關鍵：\ncould never have enough time to __ all of them → 表示「處理、應付」作業 → deal with。\n(3)\t解題關鍵：\nmost students find it challenging to __ their daily schedule → 表示「安排、整理時間表」→ organize。\n(4)\t解題關鍵：\nbad effect __ the time students can concentrate → 固定介系詞搭配 → on。\n(5)\t解題關鍵：\ntrouble __ on your studies → have trouble + V-ing → focusing。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-CL-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "綜合測驗",
+      "questionNumber": 1,
+      "text": "Nick was one of my high school classmates. He barely said a word in class, so all the teachers and other classmates had trouble   1   with him. However, little by little, we actually found Nick an interesting guy, and we could share a lot with him by writing on paper.\n    We got used to this kind of interaction with Nick and it   2   us whether he could actually “speak.” Besides, we   3   each other well without speaking. One day, in our senior year, all the students were invited to a campus karaoke competition.   4   we were wondering where Nick was, we saw him standing on the stage and singing a popular rap like a superstar. This was not \n  5   to any aspect of him that we had known before, but soon we cheered in excitement. That was the first time I heard Nick’s clear and charming voice. Needless to say, Nick won the competition that day.\n(1)\t(  )",
+      "options": [
+        "(A) to communicate",
+        "(B) communicating",
+        "(C) communicated",
+        "(D) communicate",
+        "(A) had concerned",
+        "(B) had never concerned",
+        "(C) has concerned",
+        "(D) has never concerned",
+        "(A) dealt with",
+        "(B) managed to",
+        "(C) got along with",
+        "(D) focused on",
+        "(A) As",
+        "(B) Since",
+        "(C) Although",
+        "(D) If",
+        "(A) valuable",
+        "(B) effective",
+        "(C) urgent",
+        "(D) similar"
+      ],
+      "answer": "(1)B　(2)B　(3)C　(4)A　(5)D",
+      "translation": "Nick是我的高中同學之一。他在課堂上幾乎不說話，所以老師和其他同學都很難與他交流。然而，漸漸地，我們發現其實Nick是一個有趣的人，我們可以透過在紙上寫的方式與他分享很多東西。\n\t我們已經習慣了與Nick的這種互動，我們從來不擔心他是否真的會「說話」。而且，就算我們沒有說話，相處得也很好。高三的某一天，所有的學生都被邀請參加一場校園卡拉OK比賽。當我們在想Nick在哪裡時，我們看到他站在舞臺上，像超級巨星一樣唱著流行饒舌歌。這與我們之前所認識的他的任何一面都不相似，但我們很快就興奮地歡呼起來。那是我第一次聽到Nick清晰迷人的聲音。當然，Nick贏得了那天的比賽。",
+      "analysis": "(1)\t解題關鍵：\nhave trouble __ with him → 固定片語 have trouble + V-ing → communicating。\n(2)\t解題關鍵：\nit __ us whether he could actually “speak” → 表達「從未困擾我們」→ had never concerned。\n(3)\t解題關鍵：\nwe __ each other well without speaking → 表達「相處融洽」→ got along with。\n(4)\t解題關鍵：\n__ we were wondering → 表示「當…的時候」→ As。\n(5)\t解題關鍵：\nThis was not __ to any aspect → 表示「類似」→ similar。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-CL-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "綜合測驗",
+      "questionNumber": 2,
+      "text": "When it comes to friendship, some key ingredients are necessary for a happy and healthy relationship. For instance, it helps to have common interests, such as sports or other hobbies. We all have the experience that friends who   1   similar interests could last their friendship for years. It’s also   2   to be a good listener, and to feel that you can trust your friend with your thoughts and feelings. Someone who has trouble   3   one another is surely not to be appreciated.\n    The poem Friendship Soup was written by a teenager. It describes how forming a strong friendship is like making a good soup. It is   4   great value to have the necessary ingredients, and keep an eye on it to make sure it gets the attention it needs.   5   having ingredients, the willingness to take some time to help it develop also matters. Like a good chef, don’t forget to add a little spice to keep things fun and interesting.\n(1)\t(  )",
+      "options": [
+        "(A) have shared",
+        "(B) had shared",
+        "(C) shared",
+        "(D) sharing",
+        "(A) focused",
+        "(B) expressed",
+        "(C) advised",
+        "(D) managed",
+        "(A) supporting",
+        "(B) supported",
+        "(C) be supported",
+        "(D) to support",
+        "(A) for",
+        "(B) over",
+        "(C) with",
+        "(D) of",
+        "(A) Getting used to",
+        "(B) In addition to",
+        "(C) The key to",
+        "(D) In order to"
+      ],
+      "answer": "(1)A　(2)C　(3)A　(4)D　(5)B",
+      "translation": "談到友情，一些關鍵要素對於一段幸福和健康的關係是必要的。例如，幫助擁有共同的興趣，例如運動或其他嗜好。我們都有過這樣的經驗，有著相同興趣的朋友可以維持多年的友情。還要建議你當一個好的傾聽者，並且信任你的朋友，並與他們分享你的想法和感受。一個無法互相支持別人的人肯定不會被欣賞。\n《友情湯》這首詩是一位青少年寫的。它描述了建立牢固的友情就像煮一鍋好湯一樣。擁有必要要素是非常重要的，並密切關注它以確保它得到所需的關注。除了擁有這些要素之外，願意花一些時間來幫助其發展也很重要。就像一名優秀的廚師一樣，不要忘記添加一點香料，讓它變得有趣。",
+      "analysis": "(1)\t解題關鍵：\nfriends who __ similar interests → 表示「擁有共同興趣」→ have shared。\n(2)\t解題關鍵：\nIt’s also __ to be a good listener → 表達「建議、重要」→ advised。\n(3)\t解題關鍵：\ntrouble __ one another → 固定片語 have trouble + V-ing → supporting。\n(4)\t解題關鍵：\nIt is __ great value → 固定片語 for … to have … → of。\n(5)\t解題關鍵：\n__ having ingredients → 表示「除了…之外」→ In addition to。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-CL-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "綜合測驗",
+      "questionNumber": 3,
+      "text": "There are many good reasons why we should learn, not only in school, but also throughout our whole lives. We learn how to speak our mother tongue, and how to play and   1   others when we are little. While we are in school, experts advise us   2   as much as we can. The reason is that it is easier to   3   on our studies in school. Research has shown that   4   learning can be accomplished without the pressure of work or peers. With skills learned in school, we will be better able to find solutions   5   problems in life.\n    After graduation, we should keep learning new knowledge because the world is changing all the time.   6  , we live more years after graduation than before, and thus we must learn more information and skills about our work. We should also keep learning more about our interpersonal.\n  7   with family and friends.   8   we grow, we become mature and different. So do others around us. An adult must   9   his or her peers as well as the older and younger generations constantly. It is said that by the time a person became an adult, what he or she   10   made who he or she was. For these reasons, we should learn as much as we can as long as we live.\n(1)\t(  )",
+      "options": [
+        "(A) get along with",
+        "(B) strike a balance between",
+        "(C) have a relation between",
+        "(D) express concerns about",
+        "(A) learn",
+        "(B) to learn",
+        "(C) learning",
+        "(D) learned",
+        "(A) communicate",
+        "(B) challenge",
+        "(C) manage",
+        "(D) focus",
+        "(A) valuable",
+        "(B) effective",
+        "(C) urgent",
+        "(D) similar",
+        "(A) of",
+        "(B) over",
+        "(C) to",
+        "(D) for",
+        "(A) On the other hand",
+        "(B) However",
+        "(C) Therefore",
+        "(D) In addition",
+        "(A) methods",
+        "(B) organizations",
+        "(C) relationships",
+        "(D) messages",
+        "(A) If",
+        "(B) As",
+        "(C) Since",
+        "(D) Although",
+        "(A) deal with",
+        "(B) stand on",
+        "(C) share with",
+        "(D) have trouble in",
+        "(A) had accomplished",
+        "(B) has accomplished",
+        "(C) accomplished",
+        "(D) accomplishes"
+      ],
+      "answer": "(1)A　(2)B　(3)D　(4)B　(5)C　(6)D　(7)C　(8)B　(9)A　(10)A",
+      "translation": "我們應該學習的好理由有很多，不僅是在學校，而且充滿我們的一生。我們從小就學習如何說母語，如何玩耍以及如何與他人相處。當我們在學校時，專家建議我們盡可能多地學習。原因是在學校更容易專注於學習。研究指出，在沒有工作或同儕間的壓力的情況下，可以實現有效的學習。有了在學校學到的技能，我們將更能夠找到生活中問題的解決方法。\n\t畢業後，我們應該不斷學習新知識，因為世界一直在變化。此外，畢業後我們的生活比以前學校生活更長，因此我們必須學習更多有關工作的資訊和技能。我們也應該繼續深入了解我們與家人和朋友的人際關係。隨著我們長大，我們變得成熟，變得與眾不同。我們周圍的其他人也是如此。一個成年人必須不斷地與他或她的同輩以及老一輩和年輕一代打交道。據說，當一個人成年時，他或她所取得的成就決定了他或她的身份。因為這些原因，只要我們活著，我們就應該盡可能多學習。",
+      "analysis": "(1)\t解題關鍵：\nlearn how to __ others when we are little → 表達「與他人相處融洽」→ get along with。\n(2)\t解題關鍵：\nexperts advise us __ as much as we can → advise + to V → to learn。\n(3)\t解題關鍵：\neasier to __ on our studies → 表示「專注於」→ focus。\n(4)\t解題關鍵：\n__ learning can be accomplished → 表示「有效的」→ effective。\n(5)\t解題關鍵：\nfind solutions __ problems in life → 固定介系詞 → to。\n(6)\t解題關鍵：\n連接前後文「此外、還有」→ In addition。\n(7)\t解題關鍵：\nlearning more about our interpersonal __ → 表達「人際關係」→ relationships。\n(8)\t解題關鍵：\n__ we grow → 表示「隨著…」→ As。\n(9)\t解題關鍵：\nAn adult must __ his or her peers → 表示「應對、處理」→ deal with。\n(10)\t解題關鍵：\nby the time a person became an adult → 更早的動作 → 過去完成式 → had accomplished。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-TR-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 1,
+      "questionNumberRange": "1-10",
+      "passage": "It is hard to connect what Amanda is like now with the shy girl in the first semester in high school. I barely noticed her at first until we were asked to finish a group   __1__ by the teacher. Amanda made me angry at that time, because she just refused to   __2__ her thoughts when we discussed. I patiently told her my   __3__ for not being able to do well on the assignment if she would not talk to me. Slowly, Amanda said in a low voice that she had had trouble   __4__ with other people since she was little. She felt sorry but had no idea what to do. Hearing that, I comforted Amanda and encouraged her to find   __5__ and practice some talking skills with me.\n    We found a book in the library. It said to have a good interpersonal   __6__ , you had to first have confidence in yourself. It’s   __7__ that keeping smiling at people would leave a better impression. In addition, with the help of facial expressions and change of voice level, it’s easier for people to understand the   __8__ you tried to convey. Amanda practiced with me for a while, and we observed a great change on her. It worked and it was   __9__ . Amanda no longer felt nervous when talking to others, and she finally built   __10__ friendships with people around her. Best of all, we had become close partners since then.\n        \n        \n__1__ __2__ __3__ __4__ __5__ __6__ __7__ __8__ __9__ __10__",
+      "passageTranslation": "很難將Amanda現在的樣子與高中第一學期那個害羞的女孩聯繫起來。起初我幾乎沒有注意到她，直到老師要求我們完成一項小組挑戰。當時，Amanda讓我很生氣，因為在我們討論時她拒絕表達自己的想法。我耐心地跟她說，如果她不跟我說話，我就無法做好作業。Amanda慢慢地低聲說，她從小就很難與人交流。她感到抱歉，但不知道該怎麼辦。當我聽到這，我安慰了Amanda，鼓勵她和我一起尋找解決辦法並練習一些談話技巧。\n\t我們在圖書館找到了一本書。這本書寫道有一段好的人際關係，首先要對自己有信心。建議對人們保持微笑，這樣會留下更好的印象。此外，藉由臉部表情和音量變化，人們更容易理解你試圖傳達的訊息。Amanda和我一起練習了一段時間，我們觀察到她變很多。這方法奏效了，而且很有效。Amanda與別人交談時不再感到緊張，她終於與周圍的人建立了珍貴的友誼。最棒的是，從那時開始，我們就成為了親密的夥伴。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "valuable"
+        },
+        {
+          "letter": "B",
+          "text": "express"
+        },
+        {
+          "letter": "C",
+          "text": "relationship"
+        },
+        {
+          "letter": "D",
+          "text": "communicating"
+        },
+        {
+          "letter": "E",
+          "text": "concern"
+        },
+        {
+          "letter": "F",
+          "text": "advised"
+        },
+        {
+          "letter": "G",
+          "text": "challenge"
+        },
+        {
+          "letter": "H",
+          "text": "effective"
+        },
+        {
+          "letter": "I",
+          "text": "solutions"
+        },
+        {
+          "letter": "J",
+          "text": "messages"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "G",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "E",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 5,
+          "answer": "I",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 6,
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 7,
+          "answer": "F",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 8,
+          "answer": "J",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 9,
+          "answer": "H",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 10,
+          "answer": "A",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n(1)finish a group __ by the teacher → 表示「完成一個挑戰性的任務」→ challenge。　(2)解題關鍵：\nrefused to __ her thoughts → 表示「表達自己的想法」→ express。　(3)解題關鍵：\nmy __ for not being able to do well → 表示「關心、顧慮」→ concern。　(4)解題關鍵：\nhad trouble __ with other people → 固定片語 have trouble + V-ing → communicating。　(5)解題關鍵：\nfind __ and practice some talking skills → 表示「解決方法、方案」→ solutions。　(6)解題關鍵：\nto have a good interpersonal __ → 表示「人際關係」→ relationship。　(7)解題關鍵：\nIt’s __ that keeping smiling → 表示「建議、忠告」→ advised。　(8)解題關鍵：\nhelp people understand the __ you tried to convey → 表示「訊息、想法」→ messages。　(9)解題關鍵：\nIt worked and it was __ → 表示「有效的」→ effective。　(10)解題關鍵：\nbuilt __ friendships → 表示「珍貴的」→ valuable。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-TR-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 2,
+      "questionNumberRange": "1-5",
+      "passage": "Making friends is like making soup. That is, if you want to   __1__ someone else, you have to act in the same way as a chef preparing a special “friendship soup.”\n    In fact, there are many different ingredients in a friendship, just as many different ingredients are required to make a tasty soup. For instance, support, trust,   __2__ , encouragement, and even a little nuttiness are required for a good friendship, just as a few teaspoons of salt poured into a bowl and mixed with other   __3__ ingredients and seasonings are needed for a good soup.\n    In addition to this, you can’t just sit back and wait for the soup to cook itself. Making soup, like making friends, requires your   __4__ on it. And when it comes to friendship, you can’t leave it alone, in the same way that you can’t leave soup unattended on a stove.\n    Therefore, if you really want to enjoy a friendship, you have to   __5__ on working on it, just as a chef works on making a satisfying soup. It’s not always easy, but in the long run, you’ll find that all of the time, effort, and care will be worth it.\n        \n__1__ __2__ __3__ __4__ __5__",
+      "passageTranslation": "交朋友就像煮湯。也就是說，如果你想和別人相處，你就要做得像是廚師在準備一碗特殊的「友情湯」一樣。\n\t事實上，友誼中有很多不同的要素，就像熬一碗美味的湯需要很多不同的材料一樣。比如，一段好的友誼需要支持、信任、溝通、鼓勵，甚至需要一點點瘋狂，就像一碗好湯需要幾茶匙的鹽和其他類似的配料和調味料混合一樣。\n\t除此之外，你不能就坐在那邊等湯自己煮好。煮湯就像交朋友一樣，需要你的管理。談到友誼時，你不能不管它，就像你不能把湯放在爐子上無人看管一樣。\n\t因此，如果你真的想享受一段友誼，你就必須專注於這段感情上，就像廚師努力煮出令人滿意的湯一樣。這並不總是那麼容易，但從長遠來看，你會發現所有的時間、努力和關懷都是值得的。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "communication"
+        },
+        {
+          "letter": "B",
+          "text": "focus"
+        },
+        {
+          "letter": "C",
+          "text": "similar"
+        },
+        {
+          "letter": "D",
+          "text": "management"
+        },
+        {
+          "letter": "E",
+          "text": "get along with"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "E",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 5,
+          "answer": "B",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n(1)這裡談到的是「與某人相處」，應選擇 get along with(與…相處)，表示建立友誼需要良好的相處。　(2)解題關鍵：\n這裡強調的是「溝通」，選擇 communication(溝通)，指的是友誼中需要的要素之一。　(3)解題關鍵：\n這裡指的是「相似的」，應選擇 similar(相似的)，強調友誼中的成分與湯的配料相似。　(4)解題關鍵：\n這裡談到的是「管理」，應選擇 management(管理)，指的是在友誼中需要的不間斷關注。　(5)解題關鍵：\n這裡指的是「專注」，應選擇 focus(專注)，表示在友誼上要投入時間和精力。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-TR-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 3,
+      "questionNumberRange": "1-5",
+      "passage": "Most students nowadays suffer from poor time management. This is probably not because students are lazy, but simply because they don’t know how to   __1__ their schedule. Being a student nowadays is not easy with lots of assignments to do and so much information to catch on social media. Therefore, it is important to have a(n)   __2__ plan so that we can strike a balance between work and fun. Experts then   __3__ students to list the priority of essential tasks while planning a schedule. By doing so, it would be much clearer for us to complete the   __4__ tasks first before doing anything else. Most important of all,   __5__ on one thing at a time. This means when it’s time to study, don’t think about your friends on social media; and when it’s time for fun, just leave your homework behind.\n        \n__1__ __2__ __3__ __4__ __5__",
+      "passageTranslation": "如今，大多數學生都遇到時間管理不善的問題。這可能不是因為學生懶惰，而是因為他們不知道如何安排自己的時間表。現在，作一個學生並不容易，因為要做大量的作業，而且需要獲取來自社群媒體的大量資訊。因此，制定一個有效的計劃非常重要，這樣我們才能在工作和娛樂之間取得平衡。然後，專家建議學生在規劃行程時列出重要任務的優先順序。這樣一來，我們就更清楚要先完成緊急的任務，然後再做其他事情。最重要的是，一次專注於一件事。這就是說，當學習的時候，不要想社群媒體上的朋友；當玩樂的時候，就不要想作業了。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "advise"
+        },
+        {
+          "letter": "B",
+          "text": "focus"
+        },
+        {
+          "letter": "C",
+          "text": "organize"
+        },
+        {
+          "letter": "D",
+          "text": "effective"
+        },
+        {
+          "letter": "E",
+          "text": "urgent"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "E",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 5,
+          "answer": "B",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n(1)這裡談的是「安排時間表」，因此應選擇 organize(安排)。　(2)解題關鍵：\n強調計劃需要是「有效的」，所以選擇 effective(有效的)。　(3)解題關鍵：\n這裡是指「建議學生」，因此選擇 advise(建議)。　(4)解題關鍵：\n這裡是指「緊急的任務」，所以應選擇 urgent(緊急的)。　(5)解題關鍵：\n強調「專注於一件事」，因此選擇 focus(專注)。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-TR-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 4,
+      "questionNumberRange": "1-10",
+      "passage": "Having friends who improve your mood, listen to your problems and help you with life’s difficulties is incredibly important. The question remains – what separates a true or   __1__ friend from just a normal friend.\n    A good friend is somebody who is present. They are available if you need their help to   __2__ any problem such as moving your house or change your job. Being present also means being able to listen and show a   __3__ about you when you need it. Judge a friend by their actions not their   __4__ . When you really need help, are they there for you or do they provide you with   __5__ methods? \n    Another thing a good friend should be is loyal. They won’t try to change you and your personality when you’re   __6__ each other. They should also be honest. They will offer   __7__ and tell you what you need to hear, not just what you want to hear.\n    The final qualities a true friend should have are reliability and excellent   __8__ skills. In your darkest hour, can you count on them and their support to   __9__ challenges?\n    Having a few meaningful   __10__ with close friends is more important than having hundreds of people you barely know. True friends will accept you for who you are, never judge, and be there no matter what!\n        \n        \t\n__1__ __2__ __3__ __4__ __5__ __6__ __7__ __8__ __9__ __10__",
+      "passageTranslation": "擁有能夠改善你的心情、傾聽你的問題並幫助你解決生活困難的朋友是非常重要的。問題是——什麼才能夠區別真正或珍貴的朋友和普通朋友。\n\t好朋友可以是隨時都在身邊的人。如果你需要他們的幫助來處理任何問題，例如搬家或換工作，他們都可以幫忙。隨時都在身邊還代表著能夠在你需要時傾聽並表達對你的關心。判斷一個朋友是根據他們的行動而不是他們的口語表達。當你真正需要幫助的時候，他們會在你身邊或者為你提供有效的方法嗎？\n\t好朋友應該具備的另一個條件是忠誠。當你們相處時，他們不會試圖改變你和你的性格。他們也應該誠實。他們會提供建議並告訴你需要聽到的內容，而不僅僅是你想聽到的內容。\n\t真正的朋友應該具備的最後條件是可靠性和厲害的溝通技巧。在你人生最黑暗的時刻，你能依靠他們和他們的支持來克服挑戰嗎？\n\t與親密的朋友建立一些有意義的關係比與數百個你幾乎不認識的人建立關係是更重要的。真正的朋友會接受你本來的樣子，從不批評，並且無論如何都會陪伴在你身邊！",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "concern"
+        },
+        {
+          "letter": "B",
+          "text": "overcome"
+        },
+        {
+          "letter": "C",
+          "text": "expressions"
+        },
+        {
+          "letter": "D",
+          "text": "valuable"
+        },
+        {
+          "letter": "E",
+          "text": "deal with"
+        },
+        {
+          "letter": "F",
+          "text": "relationships"
+        },
+        {
+          "letter": "G",
+          "text": "effective"
+        },
+        {
+          "letter": "H",
+          "text": "advice"
+        },
+        {
+          "letter": "I",
+          "text": "communication"
+        },
+        {
+          "letter": "J",
+          "text": "getting along with"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "E",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 5,
+          "answer": "G",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 6,
+          "answer": "J",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 7,
+          "answer": "H",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 8,
+          "answer": "I",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 9,
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 10,
+          "answer": "F",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n(1)這裡談的是「珍貴的朋友」，因此應選擇 valuable(珍貴的)，指的是與真正的朋友相比，普通朋友會顯得不那麼重要。　(2)解題關鍵：\n此處指的是「處理問題」，應選擇 deal with(處理)，表示能夠幫助朋友解決問題。　(3)解題關鍵：\n這裡談到的是「關心」，選擇 concern(關心)，指的是朋友表現出對你的關心。　(4)解題關鍵：\n這裡指的是「口語表達」，應選擇 expressions(表達)，強調朋友的言語或表情。　(5)解題關鍵：\n這裡強調的是「有效的方法」，應選擇 effective(有效的)，表示朋友提供解決方案時要有實際作用。　(6)解題關鍵：\n這裡指的是「相處」，應選擇 getting along with(相處)，表示在友情中能夠和對方順利相處。　(7)解題關鍵：\n此處談到的是「建議」，應選擇 advice(建議)，強調朋友會提供真實且對你有益的建議。　(8)解題關鍵：\n這裡談到的是「溝通技巧」，選擇 communication(溝通)，表示朋友必須具備良好的溝通能力。　(9)解題關鍵：\n這裡指的是「克服」，應選擇 overcome(克服)，表示朋友會支持你渡過困難。　(10)解題關鍵：\n這裡談的是「關係」，應選擇 relationships(關係)，表示真正的友誼應該建立在深厚的關係上，而不是數量上。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-TR-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 5,
+      "questionNumberRange": "1-10",
+      "passage": "For most people, starting a new job makes them feel nervous. This anxiety is perfectly normal, but it’s possible for you to calm your nerves by following these simple   __1__ .\n    First, just accept it. You’re sure to feel uncomfortable when you have a new  __2__ . Be over prepared. Arrive 20 minutes early before you walk on the   __3__ to give yourself some time to adjust. \n    When you get to your new workplace, find a mentor. The mentor will be able to explain all the details about the company—the positives and negatives. In the future, you can give   __4__ on what you have learned and become a mentor to new employees.\n    It is also important to   __5__ stress with your work. Remember to eat healthily so you can keep a clear mind and   __6__ yourself well. Drinking alcohol and smoking might seem good ways to stay calm, but they are only for a short-term and   __7__ fix and won’t help you in the long run.\n    If you are still   __8__ to fit in at work after a while, look for a new job which you find more   __9__ .\n    We all suffer from stress and worry when faced with new situations. The best   __10__ is just breathe and remember it’s not the end of the world. All you need to do is be true to yourself.\n        \n      \t  \n__1__ __2__ __3__ __4__ __5__ __6__ __7__ __8__ __9__ __10__",
+      "passageTranslation": "對於大多數人來說，開始新工作會讓他們感到緊張。這種焦慮是完全正常的，但遵循這些簡單的方法可以讓你平靜下來。\n\t首先，就是接受它。當你遇到新的挑戰時，你肯定會感到不適應。做好充分準備。上臺前，提前20分鐘到達，給自己一些調整的時間。\n\t你到達新的工作場所時，尋找一位指導者。指導者將能夠解釋有關公司的所有細節——優點和缺點。將來你可以根據自己所學的知識提出建議，成為新員工的指導者。\n\t平衡壓力與工作也很重要。記得要有健康的飲食，這樣你才能頭腦保持清醒並很好地表達自己。喝酒和吸菸似乎是保持冷靜的好方法，但它們只是短期和緊急的解決辦法，從長遠來看對你沒有幫助。\n\t如果工作一段時間後，你還是在適應，那就尋找一份你認為更有價值的新工作。\n\t面對新情況時，我們都會感到壓力和擔憂。最好的解決辦法就是深呼吸，記住這不是世界末日。你所需要做的就是做真實的自己。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "balance"
+        },
+        {
+          "letter": "B",
+          "text": "stage"
+        },
+        {
+          "letter": "C",
+          "text": "valuable"
+        },
+        {
+          "letter": "D",
+          "text": "solution"
+        },
+        {
+          "letter": "E",
+          "text": "challenge"
+        },
+        {
+          "letter": "F",
+          "text": "methods"
+        },
+        {
+          "letter": "G",
+          "text": "managing"
+        },
+        {
+          "letter": "H",
+          "text": "express"
+        },
+        {
+          "letter": "I",
+          "text": "advice"
+        },
+        {
+          "letter": "J",
+          "text": "urgent"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "F",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "E",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "I",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 5,
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 6,
+          "answer": "H",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 7,
+          "answer": "J",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 8,
+          "answer": "G",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 9,
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 10,
+          "answer": "D",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n(1)這裡提到的是「方法」，應選擇 methods(方法)，指的是幫助平靜下來的簡單方法。　(2)解題關鍵：\n這裡談的是「挑戰」，當你開始一份新工作時，它會帶來挑戰。選擇 challenge(挑戰)。　(3)解題關鍵：\n此處提到的是「階段」，應選擇 stage(階段)，指的是走上工作舞台前的準備過程。　(4)解題關鍵：\n這裡談的是「建議」，因此選擇 advice(建議)，指的是根據學到的經驗給予後來的員工建議。　(5)解題關鍵：\n這裡強調的是「平衡壓力」，應選擇 balance(平衡)。　(6)解題關鍵：\n這裡提到的是「表達自己」，保持清晰的頭腦並能夠表達自己，應選擇 express(表達)。　(7)解題關鍵：\n這裡提到「緊急的解決辦法」，選擇 urgent(緊急的)，指的是短期內可能會有用，但長期無法解決的問題。　(8)解題關鍵：\n這裡是指「管理壓力」，因此選擇 managing(管理)，強調如何處理壓力。　(9)解題關鍵：\n這裡談的是「有價值的工作」，應選擇 valuable(有價值的)，指的是新工作對你有更多的價值。　(10)解題關鍵：\n最後，這裡指的是「解決辦法」，應選擇 solution(解決辦法)，強調處理壓力的最佳方法就是深呼吸並保持冷靜。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-TR-06",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 6,
+      "questionNumberRange": "1-10",
+      "passage": "Facing a challenge is never easy. That’s why we should always try to ask others for help and   __1__ , and that’s what counselors do. According to a   __2__ , most high school students find it difficult to manage their time for study and to start a healthy interpersonal relationship. School counselors suggest that for time management, the key is to   __3__ the schedule and make a plan. List the priority of things needed to be done helps you   __4__ the time for studying and relaxing. In addition, focusing on one thing at a time allows you to spend time more   __5__ .\n    To build a healthy interpersonal relationship, successful   __6__ is the most important point.  It requires you to honestly   __7__ your thoughts. Also, it’s like a bridge when talking to people, so   __8__ , listening well to others helps develop a healthy relationship. With the   __9__ suggested by counselors, it will be easier to deal with your studies and interpersonal relationships. A whole new   __10__ is waiting for you to shine. Just relax and enjoy it.\n        \n        \n__1__ __2__ __3__ __4__ __5__ __6__ __7__ __8__ __9__ __10__",
+      "passageTranslation": "面對挑戰絕不是件容易的事。這就是為什麼我們應該一直嘗試向他人尋求幫助和建議，而這就是諮詢師所做的事情。一項調查顯示，大多數高中生發現很難管理自己的學習時間，並建立健康的人際關係。學校輔導員們建議，好的時間管理，關鍵是安排時間表、制定計劃。列出需要完成的事情的優先順序可以幫助你平衡學習和放鬆的時間。此外，一次專注做一件事可以讓你更有效地善用時間。\n\t要建立健康的人際關係，成功的溝通是最重要的一點。你需要誠實地表達你的想法。此外，它就像與人交談時的一座橋樑，因此同樣地，傾聽他人的意見有助於建立健康的關係。透過輔導員們建議的方法，你會更容易處理學業和人際關係。一個全新的舞臺正等待你發光發熱。放鬆並享受它吧。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "similarly"
+        },
+        {
+          "letter": "B",
+          "text": "organize"
+        },
+        {
+          "letter": "C",
+          "text": "communication"
+        },
+        {
+          "letter": "D",
+          "text": "survey"
+        },
+        {
+          "letter": "E",
+          "text": "balance"
+        },
+        {
+          "letter": "F",
+          "text": "express"
+        },
+        {
+          "letter": "G",
+          "text": "methods"
+        },
+        {
+          "letter": "H",
+          "text": "effectively"
+        },
+        {
+          "letter": "I",
+          "text": "stage"
+        },
+        {
+          "letter": "J",
+          "text": "advice"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "J",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "E",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 5,
+          "answer": "H",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 6,
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 7,
+          "answer": "F",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 8,
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 9,
+          "answer": "G",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 10,
+          "answer": "I",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n(1)這裡談的是「尋求幫助和建議」，因此選擇與「建議」相關的詞 advice(建議)。　(2)解題關鍵：\n這裡提到的是「調查」的結果，應選擇 survey(調查)。　(3)解題關鍵：\n時間管理需要「安排時間表」，因此選擇 organize(組織)。　(4)解題關鍵：\n「平衡學習和放鬆的時間」，因此選擇 balance(平衡)。　(5)解題關鍵：\n根據文意，「有效地」使用時間，選擇 effectively(有效地)。　(6)解題關鍵：\n建立健康人際關係的關鍵是「溝通」，選擇 communication(溝通)。　(7)解題關鍵：\n建立溝通需要「誠實地表達」，選擇 express(表達)。　(8)解題關鍵：\n這裡強調的是「相似地」，因此選擇 similarly(相似地)。　(9)解題關鍵：\n根據文意，這裡提到的是「方法」，選擇 methods(方法)。　(10)解題關鍵：\n此處表示「全新的階段」，應選擇 stage(階段)。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-DS-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 1,
+      "questionNumberRange": "1-4",
+      "passage": "Getting into a new environment, especially a new school, can be both exciting and challenging. You will have new teachers, classmates, subjects, and opportunities waiting for you.   __1__ As long as you are prepared and have a positive attitude, it would not be so difficult.\n    First, get your learning environment and belongings organized.   __2__ Get everything ready the night before so that you would not panic the next day. Stay organized at school, too, which means keeping your belongings safe and clean. \n    Another point is to put your effort into studying at school. The subjects in senior high school are harder.   __3__ Feel free to ask your teachers questions when you are confused about what you are learning. It is quite common if your grades do not meet your expectations at first. Allow yourself time to adjust and take care of yourself.\n    However, remember that high school is not just about studying.   __4__ These experiences will help you make new friends and learn more about yourself to help plan your future as you become a more independent person.\n.\n, and make a daily schedule and list your plan.\n, this can be a great experience actually.\n.\n, learn a new skill, or do volunteer work.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "進入新環境，尤其是新學校，可以是令人興奮又充滿挑戰的。你將有新的老師、同學、科目和機會在等著你。雖然陌生的環境會讓人緊張，但這實際上可以是一次很棒的經驗。只要你做好準備，並有正面的心態，一切都不會那麼困難。\n    首先，整理好你的學習環境和物品。找一個學習空間來寫作業，並製定每日時間表並列出你的計劃。前一天晚上把所有的東西都準備好，這樣隔天就不會驚慌。在學校也要保持井然有序，這意味著你的物品可以保持安全和乾淨。\n    還有一點就是要努力在學校學習。高中的科目比較難。建議理解並複習每一課，以避免課堂上出現學習跟不上的問題。當你對所學內容感到困惑時，請隨時向老師發問。如果你的成績一開始沒有達到你的期望，這是很正常的。給自己時間調適並照顧好自己。\n    但是，請記住，高中不僅僅是讀書。你有機會加入社團、學習新技能或當志工。這些經驗將幫助你結交新朋友並更了解自己，幫助你規劃未來，成為一個更獨立的人。\n(A) 在學習與社團活動之間取得平衡很重要。\n(B) 找一個學習空間來寫作業，並製定每日時間表並列出你的計劃。\n(C) 雖然陌生的環境會讓人緊張，但這實際上可以是一次很棒的經驗。\n(D) 建議理解並複習每一課，以避免課堂上出現學習跟不上的問題。\n(E) 你有機會加入社團、學習新技能或當志工。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "It is important to strike a balance between your studies and club activities"
+        },
+        {
+          "letter": "B",
+          "text": "Decide a study space to do your homework"
+        },
+        {
+          "letter": "C",
+          "text": "Although an unfamiliar environment causes nervousness"
+        },
+        {
+          "letter": "D",
+          "text": "It is advised to understand and review each lesson to avoid having a learning gap in your class"
+        },
+        {
+          "letter": "E",
+          "text": "There are opportunities for you to join clubs"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "E",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n前文提到「進入新環境，尤其是新學校，可以是令人興奮又充滿挑戰的」，此處應補充說明「雖然陌生會讓人緊張，但其實是很棒的經驗」，最適合選 C。\n句意說明：\n(1)強調雖然新環境帶來不安，但仍能轉化為積極的體驗。　(2)解題關鍵：\n前文提到「要整理好學習環境和物品」，最合適的延伸是「找一個讀書空間、製定時間表與計劃」，因此選 B。\n句意說明：\n說明保持良好學習環境與事前準備的重要性。　(3)解題關鍵：\n前文提到「高中的科目比較難」，最合理的補充是「要理解並複習每一課，避免出現學習落差」，因此選 D。\n句意說明：\n提醒讀者學業挑戰需要透過複習與理解來克服。　(4)解題關鍵：\n前文提到「高中不僅僅是讀書」，因此應補充「你有機會加入社團、學習新技能或當志工」，所以選 E。\n句意說明：\n強調課業之外的活動能幫助學生交朋友、培養能力並規劃未來。\n\n文章翻譯：\n    進入新環境，尤其是新學校，可以是令人興奮又充滿挑戰的。你將有新的老師、同學、科目和機會在等著你。雖然陌生的環境會讓人緊張，但這實際上可以是一次很棒的經驗。只要你做好準備，並有正面的心態，一切都不會那麼困難。\n    首先，整理好你的學習環境和物品。找一個學習空間來寫作業，並製定每日時間表並列出你的計劃。前一天晚上把所有的東西都準備好，這樣隔天就不會驚慌。在學校也要保持井然有序，這意味著你的物品可以保持安全和乾淨。\n    還有一點就是要努力在學校學習。高中的科目比較難。建議理解並複習每一課，以避免課堂上出現學習跟不上的問題。當你對所學內容感到困惑時，請隨時向老師發問。如果你的成績一開始沒有達到你的期望，這是很正常的。給自己時間調適並照顧好自己。\n    但是，請記住，高中不僅僅是讀書。你有機會加入社團、學習新技能或當志工。這些經驗將幫助你結交新朋友並更了解自己，幫助你規劃未來，成為一個更獨立的人。\n(A) 在學習與社團活動之間取得平衡很重要。\n(B) 找一個學習空間來寫作業，並製定每日時間表並列出你的計劃。\n(C) 雖然陌生的環境會讓人緊張，但這實際上可以是一次很棒的經驗。\n(D) 建議理解並複習每一課，以避免課堂上出現學習跟不上的問題。\n(E) 你有機會加入社團、學習新技能或當志工。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-DS-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 2,
+      "questionNumberRange": "1-4",
+      "passage": "Breaks have become shorter than before in nearly half the schools in the United States in order to improve students’ grades.   __1__ They consider that playtime serves no useful function anyway. However, other teachers refuse to follow this change because they consider breaks to be an important part of school life.\n    Those in favor of cutting breaks hope this can encourage students to use their time better. They say that the traditional long morning, lunchtime, and afternoon breaks are merely time for causing troubles.   __2__ They give examples of children running around out of control, bigger kids bullying smaller kids, and cases of teenagers fighting and smoking.\n    Those against cutting breaks claim that it is healthy for children of all ages to interact with each other freely.   __3__ What’s more, long breaks allow students to reduce stress, so after they go back to class, they can better focus on their classwork.\n    American scholars who study education are still debating the playtime question.   __4__ Once they are asked what they think about having shorter breaks, they will likely say, “Give me a break!”\n.\n, while teenagers may develop adult-like relationships with others.\n.\n, very few people on either side have asked the opinions of the children themselves.\n.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "為了提高學生的成績，近一半的美國學校的下課休息時間比以前的短。許多老師認為由此產生的額外學習時間會有很大幫助。他們認為遊戲時間無論如何都沒有什麼用處。然而，其他老師拒絕跟著做改變，因為他們認為休息是學校生活的重要組成部分。\n    支持縮短休息時間的人希望這能鼓勵學生更好地利用時間。他們說，傳統漫長的上午、午餐時間和下午休息時間只是在製造麻煩。這不僅浪費了學習時間，而且還可能導致不良行為。他們舉出了孩子失控亂跑、大孩子欺負小孩子、青少年打架和吸菸的例子。\n    那些反對減少休息時間的人聲稱，所有年齡的孩子彼此自由互動都是健康的。小孩子可以自然地學習基本的社交技能，而青少年則可以與他人建立類似成人的關係。此外，長時間的休息可以讓學生減輕壓力，這樣他們回到課堂後就可以更專注於課堂作業。\n    美國研究教育的學者們仍在爭論娛樂時間的問題。然而，意見不同的雙方都很少有人詢問孩子們的意見。一旦他們被問到對縮短休息時間有何看法，他們可能會說：「饒了我吧！」\n(A) 許多老師認為由此產生的額外學習時間會有很大幫助。\n(B) 這不僅浪費了學習時間，而且還可能導致不良行為。\n(C) 足夠的休息可以幫助學生放鬆，並發展興趣。\n(D) 然而，意見不同的雙方都很少有人詢問孩子們的意見。\n(E) 小孩子可以自然地學習基本的社交技能，而青少年則可以與他人建立類似成人的關係。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "It not only wastes study time but also leads to possible bad acts"
+        },
+        {
+          "letter": "B",
+          "text": "Little kids can learn basic social skills naturally"
+        },
+        {
+          "letter": "C",
+          "text": "Having enough breaks will help students relax and develop their interests"
+        },
+        {
+          "letter": "D",
+          "text": "Yet"
+        },
+        {
+          "letter": "E",
+          "text": "Many teachers think that the resulting extra study time will be a great help"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "E",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "D",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n文章提到「許多老師認為由此產生的額外學習時間會有很大幫助」，最適合選擇 E。\n句意說明：\n(1)一些老師支持縮短休息時間，因為他們認為多出來的學習時間可以有效提高學生的學業成績。　(2)解題關鍵：\n文章指出「傳統漫長的上午、午餐時間和下午休息時間只是在製造麻煩。這不僅浪費了學習時間，而且還可能導致不良行為」，最適合選擇 A。\n句意說明：\n支持縮短休息時間的人認為，長時間的休息不僅浪費學習時間，還可能引發孩子失控或不良行為。　(3)解題關鍵：\n文章說「小孩子可以自然地學習基本的社交技能，而青少年則可以與他人建立類似成人的關係」，最適合選擇 B。\n句意說明：\n反對縮短休息時間的人認為，休息時間有助於不同年齡的學生發展社交技能和建立人際關係。　(4)解題關鍵：\n文章提到「意見不同的雙方都很少有人詢問孩子們的意見」，最適合選擇 D。\n句意說明：\n無論支持還是反對縮短休息時間，雙方都很少聽取孩子們自己的看法，因此學者們戲稱孩子們可能會說「饒了我吧！」。\n\n文章翻譯：\n    為了提高學生的成績，近一半的美國學校的下課休息時間比以前的短。許多老師認為由此產生的額外學習時間會有很大幫助。他們認為遊戲時間無論如何都沒有什麼用處。然而，其他老師拒絕跟著做改變，因為他們認為休息是學校生活的重要組成部分。\n    支持縮短休息時間的人希望這能鼓勵學生更好地利用時間。他們說，傳統漫長的上午、午餐時間和下午休息時間只是在製造麻煩。這不僅浪費了學習時間，而且還可能導致不良行為。他們舉出了孩子失控亂跑、大孩子欺負小孩子、青少年打架和吸菸的例子。\n    那些反對減少休息時間的人聲稱，所有年齡的孩子彼此自由互動都是健康的。小孩子可以自然地學習基本的社交技能，而青少年則可以與他人建立類似成人的關係。此外，長時間的休息可以讓學生減輕壓力，這樣他們回到課堂後就可以更專注於課堂作業。\n    美國研究教育的學者們仍在爭論娛樂時間的問題。然而，意見不同的雙方都很少有人詢問孩子們的意見。一旦他們被問到對縮短休息時間有何看法，他們可能會說：「饒了我吧！」\n(A) 許多老師認為由此產生的額外學習時間會有很大幫助。\n(B) 這不僅浪費了學習時間，而且還可能導致不良行為。\n(C) 足夠的休息可以幫助學生放鬆，並發展興趣。\n(D) 然而，意見不同的雙方都很少有人詢問孩子們的意見。\n(E) 小孩子可以自然地學習基本的社交技能，而青少年則可以與他人建立類似成人的關係。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-DS-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 3,
+      "questionNumberRange": "1-4",
+      "passage": "It’s time for the last speeches of the debate. The topic is the importance of grades in education. Here’s the first side: I think every student’s aim should be to be the best in school. If we have success in our youth, we will have success in life.   __1__ Some people say grades are not important, just like dots on a line showing where students stand compared to others. They say that always trying to be better than others will have a bad influence on students. I disagree with this. There is competition and pressure in the working world.   __2__ It might not be interesting to memorize lots of words carefully, but it helps them to have a good memory and to practice paying attention.\n    Now the other side: The goal of education should be to inspire students to love learning and discover things on their own.   __3__ They should not just give students a poor grade like a zero, but encourage them to correct their own mistakes. For example, the teacher could draw a circle or star around the area where there is a mistake and ask students to work together to find it.   __4__ The point is if we don’t focus too much on grades, students will have more confidence and creativity.\n    The judges’ opinions are divided over who won. What do you think? Which speaker do you agree with?\n, and that gives us experience to face other difficulties.\n’s better to praise students for doing well than to make them feel bad for getting the wrong answer.\n.\n, even in kindergarten.\n’re interested in instead of learning just to get good grades.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "現在是最後一場辯論會的發言機會。題目是成績在教育中的重要性。第一方：我認為每個學生的目標都應該是成為學校裡最好的。如果我們在年輕時取得了成功，那麼我們的人生也會取得成功。我們在困難的科目上努力學習，這成為我們面對其他困難的經驗。有些人說成績並不重要，就像線上的點顯示著學生與其他人相比的情況。他們說總是試圖要比別人更優秀會給學生帶來負面影響。我不同意這一點。職場上存在著競爭和壓力。學生需要在很小的時候就學會處理這個問題，即使是在幼稚園。仔細記住大量單字可能沒什麼意思，但這樣做可以幫助他們擁有良好的記憶力並練習專注。\n    現在另一方：教育的目標應該是激發學生熱愛學習並自己發現事物。老師應該用幽默的方式教學，讓學生學得開心。他們不應該僅僅給學生打像零分這樣的低分，而應該鼓勵他們改正自己的錯誤。例如，老師可以在有錯誤的地方畫一個圓圈或星星，並要求學生一起找出來。表揚學生做得好比讓他們因為寫到錯誤答案而感到難過要好。關鍵是，如果我們不過度關注成績，學生就會更有信心和創造力。\n    對於誰獲勝，評審們意見不一。你認為呢？你同意哪一位發言者的觀點呢？\n(A) 我們在困難的科目上努力學習，這成為我們面對其他困難的經驗。\n(B) 表揚學生做得好比讓他們因為寫到錯誤答案而感到難過要好。\n(C) 老師應該用幽默的方式教學，讓學生學得開心。\n(D) 學生需要在很小的時候就學會處理這個問題，即使是在幼稚園。\n(E) 學生應該嘗試去尋找自己有興趣的未來職業，而不是僅僅為了取得好成績而學習。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "We work hard at difficult subjects"
+        },
+        {
+          "letter": "B",
+          "text": "It"
+        },
+        {
+          "letter": "C",
+          "text": "A teacher should teach in a humorous way so that students can have fun"
+        },
+        {
+          "letter": "D",
+          "text": "Students need to learn to handle this while they are young"
+        },
+        {
+          "letter": "E",
+          "text": "Students should try to find the future career they"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "B",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n文章提到「我們在困難的科目上努力學習，這成為我們面對其他困難的經驗」，最適合選擇 A。\n句意說明：\n(1)努力學習困難科目不僅能讓學生取得學業上的成就，也能累積面對其他挑戰的經驗與能力。　(2)解題關鍵：\n文章中指出「學生需要在很小的時候就學會處理這個問題，即使是在幼稚園」，最適合選擇 D。\n句意說明：\n學生應該從小學習面對競爭與壓力，培養應對挑戰的能力。　(3)解題關鍵：\n文章提到「老師應該用幽默的方式教學，讓學生學得開心」，最適合選擇 C。\n句意說明：\n教師用幽默的方式教學可以讓學生在學習過程中感到愉快，提高學習興趣。　(4)解題關鍵：\n文章中說「表揚學生做得好比讓他們因為寫到錯誤答案而感到難過要好」，最適合選擇 B。\n句意說明：\n鼓勵學生改正錯誤、適時表揚，比單純因錯誤而打擊學生更能提升自信與學習動機。\n\n文章翻譯：\n    現在是最後一場辯論會的發言機會。題目是成績在教育中的重要性。第一方：我認為每個學生的目標都應該是成為學校裡最好的。如果我們在年輕時取得了成功，那麼我們的人生也會取得成功。我們在困難的科目上努力學習，這成為我們面對其他困難的經驗。有些人說成績並不重要，就像線上的點顯示著學生與其他人相比的情況。他們說總是試圖要比別人更優秀會給學生帶來負面影響。我不同意這一點。職場上存在著競爭和壓力。學生需要在很小的時候就學會處理這個問題，即使是在幼稚園。仔細記住大量單字可能沒什麼意思，但這樣做可以幫助他們擁有良好的記憶力並練習專注。\n    現在另一方：教育的目標應該是激發學生熱愛學習並自己發現事物。老師應該用幽默的方式教學，讓學生學得開心。他們不應該僅僅給學生打像零分這樣的低分，而應該鼓勵他們改正自己的錯誤。例如，老師可以在有錯誤的地方畫一個圓圈或星星，並要求學生一起找出來。表揚學生做得好比讓他們因為寫到錯誤答案而感到難過要好。關鍵是，如果我們不過度關注成績，學生就會更有信心和創造力。\n    對於誰獲勝，評審們意見不一。你認為呢？你同意哪一位發言者的觀點呢？\n(A) 我們在困難的科目上努力學習，這成為我們面對其他困難的經驗。\n(B) 表揚學生做得好比讓他們因為寫到錯誤答案而感到難過要好。\n(C) 老師應該用幽默的方式教學，讓學生學得開心。\n(D) 學生需要在很小的時候就學會處理這個問題，即使是在幼稚園。\n(E) 學生應該嘗試去尋找自己有興趣的未來職業，而不是僅僅為了取得好成績而學習。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-DS-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 4,
+      "questionNumberRange": "1-4",
+      "passage": "We have probably all seen this kind of movie before: the prettiest girl with a nice figure, joining a cheerleading club, wins the title of party queen on the school dance in the end.   __1__ However, a lot of effort is needed to achieve what we expect of ourselves. First, to become popular among classmates, we have to get along well with others.   __2__ In addition, not only is expressing ourselves important, but listening to our friends is also essential to build a healthy interpersonal relationship. \n    Other than popularity among people, striking a balance between schoolwork and other activities is what most students find challenging. One of the advised solutions is organizing our schedule.   __3__ With good time management, getting good grades would no longer be so hard. Moreover, wanting to keep learning helps us gain knowledge.   __4__ And naturally, people would be more willing to be with us.\n, and this can help improve our efficiency.\n, it is no doubt that we all want to be like the prettiest girl in the movie.\n, we could explore the world further. \n.\n.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "我們可能都看過這樣的電影：最漂亮、身材好的女孩加入啦啦隊，最後在學校舞會上贏得了派對女王的稱號。毫無疑問地，我們都想成為電影中最漂亮的女孩，因為我們渴望人氣和成功。然而，要實現我們對自己的期望，還需要付出很多努力。首先，要受同學歡迎，我們必須與他人相處融洽。練習溝通技巧是與周圍的人建立良好關係的一種方法。此外，表達自己不僅很重要，聆聽朋友的意見對於建立健康的人際關係也相當重要。\n    除了受人歡迎之外，在功課和其他活動之間取得平衡是大多數學生認為具有挑戰性的。其中一個建議的解決方法是安排我們的行程。列出我們認為緊急的事情，這可以幫助提高我們的效率。有了良好的時間管理，取得好成績將不再那麼困難。此外，想要繼續學習可以幫助我們獲得知識。當我們的視野更加開闊時，我們就可以更進一步探索世界。自然地，人們會更願意和我們在一起。\n(A) 列出我們認為緊急的事情，這可以幫助提高我們的效率。\n(B) 毫無疑問地，我們都想成為電影中最漂亮的女孩，因為我們渴望人氣和成功。\n(C) 當我們的視野更加開闊時，我們就可以更進一步探索世界。\n(D) 有一些簡單的方法可以安排你的行程，幫助你有效管理時間。\n(E) 練習溝通技巧是與周圍的人建立良好關係的一種方法。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "Make a list of things we think are urgent"
+        },
+        {
+          "letter": "B",
+          "text": "Longing for popularity and success"
+        },
+        {
+          "letter": "C",
+          "text": "As we expand our visions more"
+        },
+        {
+          "letter": "D",
+          "text": "There are some simple ways of organizing your schedule so you can manage your time well"
+        },
+        {
+          "letter": "E",
+          "text": "Practicing communication skills would be a method to start a good relationship with people around us"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "E",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "C",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n本段強調「渴望人氣和成功」，這與電影中「最漂亮的女孩」相符。選擇B選項，表示大家都希望像電影中的女孩一樣受歡迎。\n句意說明：\n(1)這裡講到每個人都希望像電影中的女孩一樣，獲得受歡迎和成功。　(2)解題關鍵：\n本段提到「建立良好的人際關係」，而「練習溝通技巧」是與他人建立良好關係的重要方法。因此選擇E選項。\n句意說明：\n溝通技巧的練習能夠幫助與他人建立健康的人際關係。　(3)解題關鍵：\n這段提到「列出緊急的事情，有助於提高效率」，所以選擇A選項，符合「提高效率」的概念。\n句意說明：\n列出優先事項可以幫助我們更有效率地管理時間。　(4)解題關鍵：\n這裡提到「當視野更加開闊，我們就能探索世界」，選擇C選項最適合，表示學習有助於擴展視野。\n句意說明：\n不僅學習有助於獲取知識，還能幫助我們拓寬視野並進一步探索世界。\n\n文章翻譯：\n    我們可能都看過這樣的電影：最漂亮、身材好的女孩加入啦啦隊，最後在學校舞會上贏得了派對女王的稱號。毫無疑問地，我們都想成為電影中最漂亮的女孩，因為我們渴望人氣和成功。然而，要實現我們對自己的期望，還需要付出很多努力。首先，要受同學歡迎，我們必須與他人相處融洽。練習溝通技巧是與周圍的人建立良好關係的一種方法。此外，表達自己不僅很重要，聆聽朋友的意見對於建立健康的人際關係也相當重要。\n    除了受人歡迎之外，在功課和其他活動之間取得平衡是大多數學生認為具有挑戰性的。其中一個建議的解決方法是安排我們的行程。列出我們認為緊急的事情，這可以幫助提高我們的效率。有了良好的時間管理，取得好成績將不再那麼困難。此外，想要繼續學習可以幫助我們獲得知識。當我們的視野更加開闊時，我們就可以更進一步探索世界。自然地，人們會更願意和我們在一起。\n(A) 列出我們認為緊急的事情，這可以幫助提高我們的效率。\n(B) 毫無疑問地，我們都想成為電影中最漂亮的女孩，因為我們渴望人氣和成功。\n(C) 當我們的視野更加開闊時，我們就可以更進一步探索世界。\n(D) 有一些簡單的方法可以安排你的行程，幫助你有效管理時間。\n(E) 練習溝通技巧是與周圍的人建立良好關係的一種方法。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-DS-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 5,
+      "questionNumberRange": "1-4",
+      "passage": "Knowing what to do with your life before you’ve even graduated from high school can be a scary thing.   __1__ By following these four steps, they will make the process of finding a suitable career easier.\n    First, you should assess what your interests and passions are.   __2__ You also want to decide what your work environment will be like. Would you prefer working in an office or from home? Next, you need to explore that field of work.   __3__ Take the chance to speak to people such as teachers and parents who may have a different viewpoint. Then it’s time to do more research. If possible, speak to somebody currently in the field.   __4__ The final step is to keep repeating the process. Over time, you will change your mind, and your beliefs about success and failure won’t stay the same.\n    It’s okay to not know what you want to be. By following your heart and doing something you enjoy, the correct career decisions will come naturally.\n, you will be successful.\n.\n.\n.\n, if you’re interested in medicine, you can do volunteer work at a local doctor’s clinic.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "在高中畢業之前就知道人生要做什麼可能是一件可怕的事情。你面臨著要成功和規劃好的人生的壓力。藉由遵循這四個步驟，他們會讓尋找合適職業的過程變得更加容易。\n    首先，你應該評估你的興趣是什麼和熱情在哪裡。如果你覺得你的工作有意義，你就會成功。你還會想要決定你的工作環境會是什麼樣子。你喜歡在辦公室還是在家工作呢？接下來，你需要探索該工作領域。例如，如果你對醫學感興趣，你可以在當地醫生診所做志工。抓住機會與可能有不同想法的人交談，例如老師和家長。然後就要開始做更多的研究。如果可以的話，與目前在該領域工作的人交談。他們將能夠討論你選擇的職業的優點和缺點。最後一步是不斷重複這個過程。隨著時間的增加，你的想法會跟著改變，你對成功和失敗的信念並不會保持不變。\n    不知道自己想成為什麼樣的人是沒關係的。透過跟隨自己內心的聲音並做自己喜歡的事情，你就會自然而然地做出正確的職業決定。\n(A) 如果你覺得你的工作有意義，你就會成功。\n(B) 你必須堅持一條職業道路，並試著克服一路上的所有困難。\n(C) 他們將能夠討論你選擇的職業的優點和缺點。\n(D) 你面臨著要成功和規劃好的人生的壓力。\n(E) 例如，如果你對醫學感興趣，你可以在當地醫生診所做志工。",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "If you feel your job is meaningful"
+        },
+        {
+          "letter": "B",
+          "text": "You must stick to one career path and try to overcome all the difficulties along the way"
+        },
+        {
+          "letter": "C",
+          "text": "They will be able to discuss the advantages and disadvantages of your chosen career"
+        },
+        {
+          "letter": "D",
+          "text": "There is pressure to succeed and have your whole life mapped out"
+        },
+        {
+          "letter": "E",
+          "text": "For example"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "answer": "E",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "answer": "C",
+          "analysis": ""
+        }
+      ],
+      "analysis": "解題關鍵：\n前文提到「在高中畢業之前就知道人生要做什麼可能是一件可怕的事情」，呼應「你面臨著要成功和規劃好的人生的壓力」，因此答案是 D。\n句意說明：\n(1)第一空補充了「恐懼的原因」，即外在壓力。　(2)解題關鍵：\n前文提到「應該評估興趣和熱情」，此處最適合補充「如果覺得工作有意義，就會成功」，因此答案是 A。\n句意說明：\n強調找到符合自己價值與興趣的工作才是真正的成功。　(3)解題關鍵：\n前文提到「需要探索該工作領域」，此處需要具體例子，最符合的是「在當地診所做志工」，因此答案是 E。\n句意說明：\n透過實際參與能更深入了解該職業。　(4)解題關鍵：\n前文提到「與該領域工作的人交談」，此處應補充「他們將能討論你選擇的職業優缺點」，因此答案是 C。\n句意說明：\n透過專業人士的經驗分享，能更全面評估職涯方向。\n\n文章翻譯：\n    在高中畢業之前就知道人生要做什麼可能是一件可怕的事情。你面臨著要成功和規劃好的人生的壓力。藉由遵循這四個步驟，他們會讓尋找合適職業的過程變得更加容易。\n    首先，你應該評估你的興趣是什麼和熱情在哪裡。如果你覺得你的工作有意義，你就會成功。你還會想要決定你的工作環境會是什麼樣子。你喜歡在辦公室還是在家工作呢？接下來，你需要探索該工作領域。例如，如果你對醫學感興趣，你可以在當地醫生診所做志工。抓住機會與可能有不同想法的人交談，例如老師和家長。然後就要開始做更多的研究。如果可以的話，與目前在該領域工作的人交談。他們將能夠討論你選擇的職業的優點和缺點。最後一步是不斷重複這個過程。隨著時間的增加，你的想法會跟著改變，你對成功和失敗的信念並不會保持不變。\n    不知道自己想成為什麼樣的人是沒關係的。透過跟隨自己內心的聲音並做自己喜歡的事情，你就會自然而然地做出正確的職業決定。\n(A) 如果你覺得你的工作有意義，你就會成功。\n(B) 你必須堅持一條職業道路，並試著克服一路上的所有困難。\n(C) 他們將能夠討論你選擇的職業的優點和缺點。\n(D) 你面臨著要成功和規劃好的人生的壓力。\n(E) 例如，如果你對醫學感興趣，你可以在當地醫生診所做志工。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-RD-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 1,
+      "questionNumberRange": "1-4",
+      "passage": "With many jobs and school courses requiring meeting deadlines, sometimes people put off doing their work, which can cause them stress and torment. There’s even a word that describes the lack of motivation to getting things done: it’s called “procrastination.” And though some people may mock others who procrastinate, it can cause profound distress and despair for people who continually put off their work.\n    Psychological professionals believe that procrastination can be caused by either physical problems with the brain or mental difficulties. The physical causes of procrastination may be that the part of the brain that deals with organizing work may be damaged or does not work properly.\nThe mental, or psychological, problems that cause procrastination can include low self-esteem, a vague feeling that things aren’t going to turn out right, or mental depression, from which people feel sad and hopeless, making it very difficult for them to get anything done. There are also two main types of procrastinators: those who worry a lot about the work they’re not getting done, and those who are calm about their procrastination. The first type would have many negative feelings about not completing their work, and the relaxed type of procrastinators will generally not worry about the work they’re not getting done.\n    Though chronic procrastination can be overwhelming, thankfully, there are some ways to modify one’s procrastination behaviors. Understanding why you procrastinate is the first step in stopping the behavior. Another helpful tool is to prioritize your tasks and pay close attention to time management. Setting goals and promising to meet these goals is also a way of avoiding procrastination and increasing work and schoolwork productivity.\n    Regardless of someone’s reason for procrastinating, he or she may want to consult with a counselor to learn about what may be causing their procrastination and how to overcome it.",
+      "passageTranslation": "(1) 這篇文章主要在討論什麼？\n(A) 可以治療心理疾病的方法\n(B) 針對社會問題的研究\n(C) 大多數人都會遇到的問題\n(D) 批評科學研究的論點\n(2)\t解題關鍵：\n文章結構為先提出問題，再分析原因，最後提供解決方案。\n句意說明：\n拖延——原因——解決方法。\n翻譯：\n(2) 文章的結構為何？\n(A) 問題 → 原因 → 解決方法\n(B) 介紹 → 範例 → 應用\n(C) 問題 → 解決方法 → 範例\n(D) 介紹 → 問題 → 原因\n(3)\t解題關鍵：\n心理因素造成的拖延包括對未完成工作的過度擔心。\n句意說明：\n焦慮型拖延者會因擔心沒完成工作而受影響。\n翻譯：\n(3) 下列關於心理因素造成的拖延，哪一項是正確的？\n(A) 因為大腦部分受損，所以人們拖延工作\n(B) 可能指那些對未完成工作過度擔心的人\n(C) 放鬆型拖延者管理時間會更容易\n(D) 大多數拖延者都患有憂鬱症\n(4)\t解題關鍵：\n文章專業性高，適合刊載於醫學或心理學相關期刊。\n句意說明：\n文章內容嚴謹，適合讀者在學術出版物閱讀。\n翻譯：\n(4) 我們最可能在哪裡讀到這篇文章？\n(A) 電視廣告\n(B) 露營海報\n(C) 科學教科書\n(D) 醫學期刊\n\n文章翻譯：\n    由於許多工作和學校課程都需要在截止日期前完成，有時人們會延後工作，這會給他們帶來壓力和折磨。甚至有一個字來描述缺乏完成事情的動力：這就是「拖延」。儘管有些人可能會嘲笑那些拖延的人，但這可能會給那些不斷拖延工作的人帶來深深的痛苦和絕望。\n    心理學專家認為拖延可能是由大腦引起的身體問題或精神障礙所造成的。造成拖延症的生理原因可能是大腦中負責組織工作的部分受損或無法正常運作。導致拖延的精神或心理問題可能包括自尊心低、一種模稜兩可的感覺，認為事情不會順利發展，或者是精神憂鬱，讓人們感到悲傷和絕望，讓他們很難完成任何事情。拖延者也有兩種主要類型：那些對自己未完成的工作非常擔心的人，以及那些對自己的拖延表現平靜的人。第一種類型會對沒有完成工作有很多負面情緒，而放鬆型的拖延者通常不會擔心他們沒有完成的工作。\n    儘管長期拖延可能會讓人難以忍受，但值得慶幸的是，有一些方法可以改變一個人的拖延行為。停止拖延行為的第一步是了解其原因。另一個有用的工具是確定任務的優先順序並密切關注時間管理。設定目標並承諾實現這些目標也是避免拖延和提高工作和學業生產效率的一種方法。\n    無論某人拖延的原因是什麼，他或她都可能想諮詢輔導員，了解可能導致他們拖延的原因以及如何克服它。",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the passage mainly about?",
+          "options": [
+            "(A) A treatment that can cure mental illness.",
+            "(B) A study that aims at dealing with social issues.",
+            "(C) A problem that most people suffer from.",
+            "(D) An argument that criticizes a scientific finding."
+          ],
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) What is the structure of the passage?",
+          "options": [
+            "(A) the problem —> reasons —> solutions",
+            "(B) introduction —> examples —> application",
+            "(C) problems —> solutions —> examples",
+            "(D) introduction —> problems —> reasons"
+          ],
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) Which of the following statements about procrastination caused by mental problems is true?",
+          "options": [
+            "(A) It is because part of the brain is damaged that people put off doing work.",
+            "(B) It can refer to people who worry too much about not completing their work.",
+            "(C) It can be easier for a relaxed type of procrastinator to manage their time well.",
+            "(D) It is found that most procrastinators are suffering from depression."
+          ],
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) Where can we most possibly read the passage?",
+          "options": [
+            "(A) A TV commercial.",
+            "(B) A camping poster.",
+            "(C) A science textbook.",
+            "(D) A medical journal."
+          ],
+          "answer": "D",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n文章主要介紹「拖延症」及其原因和解決方法。\n句意說明：\n拖延是常見問題，可能源自心理或生理原因，並有方法改善。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-RD-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 2,
+      "questionNumberRange": "1-4",
+      "passage": "There is an English proverb that says, “If you want a friend, be a friend.” Being a friend is somewhat like being a chef—you have to work at making and keeping friendships similar to the way a good chef puts a lot of effort into making a delicious recipe.\n    Friendships usually begin with shared interests. Friends like to do things together that they enjoy, such as playing chess or going to movies. Once a friendship begins, however, it takes effort to keep it going through talking with and visiting friends. Strong friendships are also based upon trust. True friends know they can share their feelings and feel comfortable talking about their problems with one another. Other ingredients that make good friendships include being helpful, offering encouragement, and giving love and support.\n    On the other hand, you can develop your empathy by “putting yourself in another person’s shoes,” to try to understand their feelings. This means that you don’t focus only on yourself but also take good care of your friends so that you will have a healthy relationship.\n    A chef who correctly follows a recipe, mixes ingredients skillfully, and cooks carefully is rewarded with food that tastes wonderful. Similarly, people who follow the recipe for building and maintaining friendships will be rewarded with happiness and many friends during their lifetime.",
+      "passageTranslation": "(1) 這篇文章最適合的標題是什麼？ (A) 讓你成為好廚師的食譜 (B) 你從未聽過的英文諺語 (C) 建立與做朋友的秘訣 (D) 牢固的友誼都從烹飪開始\n(2)\t解題關鍵：\n「建立良好友誼」的要素包括分享感受、共同興趣、支持與鼓勵，而不是專注於烹飪本身。\n句意說明：\n友誼需要互相關心和互動，而非單純模仿烹飪行為。\n翻譯：\n(2) 根據文章，下列哪一項不包含在建立良好友誼中？ (A) 專注於製作美味食譜 (B) 分享感受和想法 (C) 擁有相同的興趣嗜好 (D) 提供支持\n(3)\t解題關鍵：\n比喻關係。文中「廚師」代表讀者/建立友誼的人，「食材」是建立友誼的要素。\n句意說明：\n建立友誼需要各種元素(愛、關心、同理心等)才能成功。\n翻譯：\n(3) 文章中「廚師」和「食材」代表什麼意思？ (A) 廚師指你的朋友，食材是你們的共同興趣 (B) 廚師指友誼，食材是愛、關懷與同理心 (C) 廚師是作者，食材是沒有朋友的讀者 (D) 廚師是讀者，食材是建立友誼的要素\n(4)\t解題關鍵：\n文章最後一段強調努力建立與維持友誼會得到回報。\n句意說明：\n友誼需要用心經營，才能帶來幸福和長久的友誼。\n翻譯：\n(4) 從最後一段，我們可以推斷什麼？ (A) 友誼的食譜需要特殊的食材 (B) 友誼需要被小心建立並維持 (C) 做菜要有技巧才能美味 (D) 幸福是我們在友誼中追求的目標\n\n文章翻譯：\n    英文有句諺語：「如果你想要一個朋友，那就成為朋友。」作為一個朋友有點像作為一名廚師——你必須努力建立和維持友誼，就像一個好的廚師付出很多努力來製作美味的食譜一樣。\n    友誼通常是從共同的興趣開始的。朋友喜歡一起做他們喜歡的事情，例如下棋或看電影。然而，一旦友誼開始，就需要努力透過與朋友交談和拜訪朋友來維持友誼。牢固的友誼也建立在信任的基礎上。真正的朋友知道他們可以分享自己的感受，並且可以輕鬆地彼此談論自己的問題。建立良好友誼的其他要素包括提供幫助、提供鼓勵以及給予愛和支持。\n    另一方面，你可以通過「設身處地為他人著想」來培養同理心，嘗試理解他們的感受。這意謂著你不僅要關心自己，還要照顧好你的朋友，這樣你們才會擁有健康的關係。\n    正確遵循食譜、熟練地混合食材、精心烹飪的廚師會得到美味的食物。同樣地，遵循建立和維持友誼秘訣的人將在一生中獲得幸福和許多朋友。",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the best title for this passage?",
+          "options": [
+            "(A) The Recipe that Makes You a Good Chef.",
+            "(B) The English Proverb You Never Know.",
+            "(C) The Secret of Making and Being a Friend.",
+            "(D) Strong Friendships All Start with Cooking."
+          ],
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) According to the passage, which of the following is NOT included in building a good friendship?",
+          "options": [
+            "(A) Focusing on making a good recipe.",
+            "(B) Sharing feelings and thoughts.",
+            "(C) Having the same hobbies.",
+            "(D) Giving support."
+          ],
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) What do “a chef” and “ingredients” in the passage mean?",
+          "options": [
+            "(A) A chef means your friends, and ingredients are your shared interests.",
+            "(B) A chef means friendships, and ingredients are love, care, and empathy.",
+            "(C) A chef is the author, and ingredients are readers who don’t have friends.",
+            "(D) A chef is the reader, and ingredients are elements of building a friendship."
+          ],
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) What can we infer from the last paragraph?",
+          "options": [
+            "(A) Recipes of friendships require special ingredients.",
+            "(B) Friendships need to be carefully built and maintained.",
+            "(C) You have to cook with skills to make dishes tasty.",
+            "(D) Happiness is the goal that we try to pursue in a friendship."
+          ],
+          "answer": "B",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n文章以「友誼如烹飪」作比喻，說明建立和維持友誼的要素。\n句意說明：\n友誼從共同興趣開始，需要信任、關心、鼓勵和同理心；努力經營友誼會帶來幸福。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-RD-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 3,
+      "questionNumberRange": "1-4",
+      "passage": "Making friends is hard at any age, but in high school, it can be made harder because of cliques. A clique is simply a group of people who spend time together exclusively. They don’t make it easy for others to fit in. In fact, they often avoid chatting with other people. How do you deal with cliques if it turns out that you are not one of any clique?\n    First, you had better check out the world outside of your high school. In school, you may be so nervous that your heart pounds, but away from the clique-filled halls, it may be easier to communicate with others. Put yourself in situations where you can meet new people. If it’s hard to get away, try your best to ignore the cliques. Pursue a hobby or an interest, like drama. Spend time nurturing the friendships you have, however new they may be.\n    Although you may be confused by your lack of friends, remember that there will be peaks and valleys in your social life—especially when you are in high school. Just because you’re lonely now doesn’t mean you’ll be lonely for the rest of your life. In fact, the cliques that are around today will seem like a distant memory once you’ve graduated.",
+      "passageTranslation": "(1) 這篇文章主要在說什麼？\n(A) 適應學校生活並交朋友的方法\n(B) 為什麼學生會在學校形成小團體的原因\n(C) 尋找興趣和追求夢想的建議\n(D) 加入高中小團體的好處\n句意說明：\n本文提供了適應學校生活和交朋友的建議，包括遠離小團體、認識新朋友、培養興趣愛好以及珍惜現有友誼。\n(2)\t解題關鍵：\n文章中「A clique is simply a group of people who spend time together exclusively.」裡的 exclusively 指「專門、僅限於」，最適合選擇 C。\n句意說明：\n小團體的成員只花時間在彼此之間，不讓其他人輕易融入\n翻譯：\n(2) 下列哪個選項最接近第一段中 “exclusively” 的意思？\n(A) 充滿活力\n(B) 獨一無二\n(C) 僅限於自己圈子\n(D) 沮喪或不開心\n(3)\t解題關鍵：\n文章建議「將自己置於可以認識新朋友的環境中」、「盡量忽略小團體」、「追求嗜好或興趣」；從未建議「努力與小團體交流」，所以最適合選擇 B。\n句意說明：\n與小團體互動不是必要，重點是擴展自己的社交圈並培養興趣。\n翻譯：\n(3) 根據文章，下列哪個關於處理小團體的說法是錯的？\n(A) 讓自己去認識新朋友\n(B) 嘗試與小團體交流和融入\n(C) 忽略你不想加入的團體\n(D) 花時間培養新的嗜好\n(4)\t解題關鍵：\n文章語氣和內容是針對正在面臨高中小團體問題的學生，最適合選擇 D。\n句意說明：\n讀者對象是高中學生，尤其是對交友困難或孤立感到困惑的人。\n翻譯：\n(4) 誰最有可能是這篇文章的讀者？\n(A) 校友\n(B) 輔導老師\n(C) 老師\n(D) 學生\n\n文章翻譯：\n    在任何年紀，交朋友都很困難，但在高中，因為小團體，交朋友會變得更加困難。小團體是一群專門花時間在一起的人。他們不讓其他人輕易融入。事實上，他們經常避免與其他人聊天。如果事實證明你不屬於任何團體之一，你該怎麼辦？\n    首先，你最好看看高中以外的世界。在學校裡，你可能會緊張得心跳加速，但遠離小團體活動的地方，與他人交流可能會更容易。將自己置於可以認識新朋友的環境中。如果很難擺脫，就盡量忽略小團體。追求一種嗜好或興趣，比如戲劇。花時間培養你所擁有的友誼，無論它們有多新。\n    儘管你可能會因缺乏朋友而感到困惑，但請記住，你的社交生活中會有高峰和低谷，尤其是當你在高中時。你現在孤獨並不意味著你餘生都會孤獨。事實上，一旦你畢業了，現在的小團體好像就會成為遙遠的記憶。",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the passage mainly about?",
+          "options": [
+            "(A) Ways of adapting to school life and making friends.",
+            "(B) Reasons why people gather as cliques in school.",
+            "(C) Suggestions to find interests and pursue dreams.",
+            "(D) The advantages of joining a clique in high school."
+          ],
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) Which of the following is the closest in meaning to “exclusively” in Paragraph One?",
+          "options": [
+            "(A) Full of energy.",
+            "(B) One-of-a-kind.",
+            "(C) Without others.",
+            "(D) Depressed and upset."
+          ],
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) According to the passage, which of the following statements about dealing with cliques is FALSE?",
+          "options": [
+            "(A) Allow yourself to meet and get to know new people.",
+            "(B) Try to communicate and get along with the clique.",
+            "(C) Ignore the group that you don’t want to be with.",
+            "(D) Spend your time developing new hobbies."
+          ],
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) Who is most likely to be the reader of this passage?",
+          "options": [
+            "(A) Alumni.",
+            "(B) Counselors.",
+            "(C) Teachers.",
+            "(D) Students."
+          ],
+          "answer": "D",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n文章主要討論「如果你不屬於任何小團體，如何在高中交朋友」；最適合選擇 A。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-RD-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 4,
+      "questionNumberRange": "1-4",
+      "passage": "In school, students are often ranked by how much information they can memorize and how well they do on tests. But once people get out into the real world, they soon realize that they need a different set of tools to succeed at work and in their personal lives.\n    Interpersonal skills can be defined as the skills we use to communicate with others. If you’ve ever admired a powerful speaker, you were probably impressed by their interpersonal skills. If you’re shy, you may have wondered how they became so charismatic. Although some people are naturally charismatic, interpersonal skills can be developed with the right practice. Here are some tips you can use to improve your ability to communicate.\n    The easiest way to communicate better is to start smiling more. We all prefer to be around happy and positive people, and by smiling, others will naturally be more responsive to your ideas. Another way to improve your interpersonal skills is to be appreciative. Everyone likes to hear that they are doing a good job, and showing your appreciation makes others want to do something nice in return.\n    If you want to be able to influence others, you will need to become an active listener. We all want to be heard, so when someone pays attention to us, we are more willing to listen to them as well. Finally, you should remember the old saying that “laughter is the best medicine” when dealing with people. By joking around and showing our sense of humor, we can build closer bonds with those around us. \n    Interpersonal skills are like anything else in life. The more time we spend learning and practicing them, the easier they will become. And with enough practice, pretty soon you’ll be amazed at how you can effortlessly communicate with others without even thinking about it.",
+      "passageTranslation": "(1) 第一段的主要目的為何？\n(A) 顯示學校與社會的差異\n(B) 說明在學校考試成功的方法\n(C) 介紹學生記憶資訊的有用工具\n(D) 警告學生未來可能面臨的困難\n(2)\t解題關鍵：\nParagraph Three中”appreciative”指表達欣賞或讚賞。\n句意說明：\n欣賞他人會讓對方願意回報好行為。\n翻譯：\n(2) 下列哪個詞與第三段的”appreciative”最接近？\n(A) 敏感的\n(B) 聰明的\n(C) 有用的\n(D) 表示讚賞的\n(3)\t解題關鍵：\n社交能力的練習應注重他人，而不是只談自己。\n句意說明：\n只談自己不能增進人際互動，是無效方法。\n翻譯：\n(3) Simon想要練習他的社交能力，下列哪種方法可能沒有幫助？\n(A) 他提醒自己對周圍的人微笑\n(B) 他在朋友考得好時讚美他們\n(C) 他嘗試在與他人相處時多談自己\n(D) 他記很多笑話以便進行有趣的對話\n(4)\t解題關鍵：\n最後一段強調練習社交能力會變得容易。\n句意說明：\n熟能生巧，持續練習會自然掌握技能。\n翻譯：\n(4) 從最後一段，我們可以推測什麼？\n(A) 遲做總比不做好\n(B) 練習造就完美\n(C) 行動勝於言辭\n(D) 黑暗中總有一線希望\n\n    在學校裡，學生通常根據他們能記住多少資訊以及他們在考試中的表現來排名。但是一旦人們進入現實世界裡，他們很快就會意識到他們需要一套不同的工具才能在工作和個人生活中取得成功。\n    社交能力可以定義為我們用來與他人溝通的技能。如果你曾經欽佩過一位有影響力的演講者，你可能會對他們的社交能力印象深刻。如果你很害羞，你可能想知道他們是如何變得如此有魅力的。儘管有些人天生就有魅力，但透過正確的練習可以培養社交能力。你可以使用以下一些技巧來提高溝通能力。\n    要良好地溝通最簡單的方法就是開始多微笑。我們都喜歡和快樂、正面的人在一起，透過對他人微笑，其他人自然會對你的想法更有回應。另一種加強社交能力的方法是學會欣賞。每個人都喜歡聽到自己做得很好，表達你的讚賞會讓其他人想要做一些好事作為回報。\n    如果你希望能夠影響他人，你需要成為一名主動的傾聽者。我們都希望有個人能夠聆聽，所以當有人關注我們時，我們也更願意傾聽他們的內心想法。最後，在與人來往時，你應該記住一句老話：「笑是最好的良藥」。透過開玩笑和表現出幽默感，我們可以與周圍的人建立更緊密的聯繫。\n    社交能力就像生活中的其他事物一樣。我們花越多的時間學習和練習它們，它們就會變得越簡單。經過足夠的練習，很快你就會驚訝地發現自己可以毫不費力地與他人溝通，甚至無需思考。",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What’s the main purpose of the first paragraph?",
+          "options": [
+            "(A) To show the difference between in school and after school.",
+            "(B) To explain the methods to be successful on tests in school.",
+            "(C) To introduce useful tools for students to memorize information.",
+            "(D) To warn students about the difficulties they may face in the real world."
+          ],
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) Which of the following words is the closest in meaning to “appreciative” in Paragraph Three?",
+          "options": [
+            "(A) sensitive",
+            "(B) smart",
+            "(C) useful",
+            "(D) favorable"
+          ],
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) Simon wants to practice his interpersonal skills, which of the following methods is probably NOT helping?",
+          "options": [
+            "(A) He keeps reminding himself to smile at people around him.",
+            "(B) He praises his friends when they do well on tests.",
+            "(C) He tries to talk more about himself while being with others.",
+            "(D) He memorizes lots of jokes to have a fun conversation."
+          ],
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) What can we infer from the last paragraph?",
+          "options": [
+            "(A) Better late than never.",
+            "(B) Practice makes perfect.",
+            "(C) Actions speak louder than words.",
+            "(D) Every cloud has a silver lining."
+          ],
+          "answer": "B",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n第一段指出學校和現實世界對成功所需能力不同。\n句意說明：\n在校成績與記憶力重要，進入社會後需要不同技能。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-RD-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 5,
+      "questionNumberRange": "1-4",
+      "passage": "Life moves faster now than it ever has before. Everyone’s trying to do at least three different things at the same time, and then there’s social media to keep up with. It can be tough to be a student in this environment––it might even be impossible without good time management skills. These skills will help you organize your time and get the most from your day. That means less stress, more time for the things you enjoy, and probably better grades.\n    When managing your time, the first thing you’ll need to do is decide what really matters to you. You might want to hang out with friends, play for the school basketball team, and spend hours playing video games, but you probably can’t do it all. Decide what’s important, make time for it, and move the rest to the side.\n    Next up, organize your time. Create a schedule and split up the time in your day. If it helps, use colored blocks to break up time for study, hobbies, and relaxation, and make sure you keep these things separate. If you’re studying, turn off your social media, and if you’re spending time with friends, don’t even think about school.\n    Finally, remember to look after your physical and mental health. When you’re organizing a crowded schedule, it’s easy to think that cutting back on sleep or leisure time is a good idea. If you sleep less, you can work more, right? Well, probably not. The more tired you feel, the less effectively you’ll work, and you’re also more likely to feel sad or stressed. So, stay organized, stay rested, and stay happy!",
+      "passageTranslation": "(1) 這篇文章最適合的標題是什麼？\n(A) 時間管理的好處是什麼？\n(B) 如何有效地管理你的時間？\n(C) 為什麼人們會有時間管理的困難？\n(D) 時間管理重要嗎？\n(2)\t解題關鍵：\n文章依序說明了三個管理時間的步驟：決定重要事情、安排時間、保持健康。\n句意說明：\n先列出重要事情，再做計畫，最後注意身心健康。\n翻譯：\n(2) 根據文章，下列哪一組是管理時間的正確步驟？\na. 制定計畫並遵守它。\nb. 保持健康的時間表並休息。\nc. 列出重要的事情。\n(A) a. —> c. —> b.\n(B) a. —> b. —> c.\n(C) c. —> a. —> b.\n(D) c. —> b. —> a.\n(3)\t解題關鍵：\n文中「keep these things separate」指保持專注與平衡。\n句意說明：\n不同活動要分開，專注於手邊的事情。\n翻譯：\n(3) 第三段中的「確保將這些東西分開」是什麼意思？\n(A) 平衡工作與娛樂\n(B) 將時間表分解成小部分\n(C) 將不同時間表合併\n(D) 專注於一件事情\n(4)\t解題關鍵：\n文章提到使用色彩方塊標記時間是管理時間的方法之一。\n句意說明：\n用顏色標記行程能幫助安排時間，提高效率。\n翻譯：\n(4) 根據文章，下列哪一項關於時間管理是正確的？\n(A) 建議在時間表上使用顏色標記需要做的事情\n(B) 良好的時間管理能讓你同時做很多事情\n(C) 透過切斷社交媒體的時間幫助你更有效率\n(D) 少量的工作壓力能促進你更有效完成工作\n\n文章翻譯：\n    現在的生活節奏比以往任何時候都快。每個人都試圖同時做至少三件不同的事情，然後也要跟上社交媒體上的最新動態。在這種環境下做一名學生可能會很困難—如果沒有良好的時間管理技能，這甚至是不可能的。這些技能將幫助你安排時間並充分利用每一天。這意味著更少的壓力，更多的時間去做你喜歡的事情，並且可能會得到更好的成績。\n    在管理你的時間時，你需要做的第一件事就是決定什麼對你來說真正重要。你可能想與朋友一起出去玩，為學校籃球隊效力，並花好幾個小時玩電動，但你可能無法全部都做。決定什麼是重要的，為它空出時間，然後把其餘事情放在一邊。\n    接下來，安排好時間。建立一個時間表並分配一天中的時間。如果有幫助的話，可以使用色彩方塊來區別學習、嗜好和放鬆的時間，並確保將這些東西分開。如果你正在讀書，關閉社群媒體；如果你正和朋友在一起，不要想任何學校的事情。\n    最後，記得照顧好自己的身心健康。當你安排忙碌的行程時，很容易認為減少睡眠或休閒時間是個好主意。如果你睡得少，你就可以工作更多，對嗎？嗯，可能不會。你感覺越累，你的工作效率就越低，你也更有可能感到悲傷或壓力大。所以，保持井然有序，保持適當的休息，保持快樂！",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the best title for this passage?",
+          "options": [
+            "(A) What’s the Advantage of Time Management?",
+            "(B) How to Manage Your Time Well?",
+            "(C) Why Do People Have Trouble Managing Time?",
+            "(D) Is Time Management Important?"
+          ],
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) According to the passage, which are the correct steps of managing time?\na. Set up a plan and stick to it.\nb. Keep a healthy schedule and rest.\nc. Make a list of the important things.",
+          "options": [
+            "(A) a. —> c. —> b.",
+            "(B) a. —> b. —> c.",
+            "(C) c. —> a. —> b.",
+            "(D) c. —> b. —> a."
+          ],
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) What does the sentence “make sure you keep these things separate” mean in Paragraph Three?",
+          "options": [
+            "(A) To balance work and entertainment.",
+            "(B) To break down schedules into small pieces.",
+            "(C) To combine schedules together.",
+            "(D) To focus on one thing at a time."
+          ],
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) According to the passage, which of the following statements about time management is true?",
+          "options": [
+            "(A) It is advised to use colors to mark things you need to do on the schedule.",
+            "(B) Good time management skills allow you to do lots of things at the same time.",
+            "(C) It helps you to work more effectively by cutting off the time for social media.",
+            "(D) A little stress from your work encourages you to complete work effectively."
+          ],
+          "answer": "A",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n文章主題圍繞「時間管理的重要性及方法」。\n句意說明：\n良好的時間管理能減少壓力、提高效率，並讓生活更快樂。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-RD-06",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 6,
+      "questionNumberRange": "1-4",
+      "passage": "Experts have defined comfort zone as a mental state in which you have few risks, few dangers, and few challenges. If you’re wondering what’s so bad about that, these things make it almost impossible for you to develop and achieve your goals. To do that, you’ll have to leave the comfort zone and move to the growth zone.\n    In this zone, you won’t be able to fully relax, and life might not be all that easy. It’ll be worth it, though, because it’s only here that you can become the person you’ve always wanted to be. In the growth zone, you can think about a bigger future and push yourself to achieve more.\n    It’s clear that we need to leave the comfort zone behind if we want to live our best lives, but many of us struggle to do that. It’s not just laziness holding us back; psychologists think many of us simply don’t believe we’re able to achieve our goals. A large number don’t even believe they deserve success.\n    Getting past these mental blocks is difficult, especially if we’ve spent a long time living in our comfort zone. But, if you’re determined to pursue your dreams, focus on the positives instead of your doubts. And if moving forward will require hard work, see it as an opportunity rather than a burden.\n    Finally, what if you’re ready for a new challenge but don’t know where to start? The experts say you should make new friends, try a new hobby, watch a new YouTube channel—do anything you can to break your routine. The more new ideas you expose yourself to, the more you’ll be able to see new, exciting opportunities ahead of you.",
+      "passageTranslation": "(1) 這篇文章主要在介紹什麼？ (A) 醫生給出的健康建議 (B) 一份關於人類行為的調查 (C) 心理學上的新發現 (D) 一種心理狀態的介紹\n(2)\t解題關鍵：\n阻止人們離開舒適圈的原因包括缺乏信心或心理障礙，但文章指出「努力是負擔」不是阻礙的主要原因。\n句意說明：\n人們不離開舒適圈多半因為缺乏自信或不認為自己值得成功。\n翻譯：\n(2) 根據文章，下列哪一項不是阻止人們離開舒適圈的原因？ (A) 人們沒有動力促使自己前進 (B) 有些人對追求夢想缺乏信心 (C) 有些人覺得需要付出很多努力是一種負擔 (D) 許多人認為自己未來一定會失敗\n(3)\t解題關鍵：\n「growth zone」和「comfort zone」的對比是「充滿挑戰 vs 安全」。\n句意說明：\n成長區有挑戰，舒適圈則安全。\n翻譯：\n(3) 下列哪一組最能描述「成長區：舒適圈」？ (A) 消極：積極 (B) 有挑戰：安全 (C) 簡單：困難 (D) 風險：成功\n(4)\t解題關鍵：\n作者鼓勵離開舒適圈，以達到個人成長和發展，態度正面支持。\n句意說明：\n文章作者支持讀者勇於挑戰舒適圈。\n翻譯：\n(4) 作者對於離開舒適圈的態度是什麼？ (A) 支持 (B) 反對 (C) 主觀 (D) 客觀\n\n文章翻譯：\n    專家將舒適圈定義為一種幾乎沒有風險、幾乎沒有危險、幾乎沒有挑戰的心理狀態。如果你想知道這有什麼不好，那麼這些事情會讓你幾乎不可能發展和實現你的目標。為了要達到目標，你必須離開舒適圈並進入成長區。\n    在這個區域，你將無法完全放鬆，生活可能不會那麼輕鬆。不過，這會是值得的，因為只有在這裡，你才能成為你一直想成為的人。在成長區，你可以思考更大的未來，並驅使自己得到更多成就。\n    很顯然地，如果我們想要過上最好的生活，就需要離開舒適圈，但我們之中許多人都很難做到這一點。阻礙我們前進的不僅僅是懶惰；心理學家認為，我們之中許多人根本不相信自己能夠實現目標。很多人甚至不相信自己值得成功。\n    特別是如果我們長時間生活在舒適圈的話，克服這些心理障礙是很困難的。但是，如果你下定決心追求自己的夢想，專注正面的一面，而不是懷疑自己。如果你需要努力才能進步，要將其視為機會而不是負擔。\n    最後，如果你準備好迎接新挑戰，但不知道從哪裡開始怎麼辦？專家表示，你應該結交新朋友，嘗試新的嗜好，觀看新的YouTube頻道—盡一切努力打破常規。你接觸的新想法越多，你就越能看到前方新的、令人興奮的機會。",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the passage mainly about?",
+          "options": [
+            "(A) A health suggestion from doctors.",
+            "(B) A survey on human behavior.",
+            "(C) A new finding about psychology.",
+            "(D) An introduction of a mental state."
+          ],
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) According to the passage, which of the following is NOT a reason that stops people from leaving the comfort zone?",
+          "options": [
+            "(A) People don’t have the motivation to urge themselves to move forward.",
+            "(B) Some people have no confidence in their ability to pursue dreams.",
+            "(C) Some people find it a burden because lots of hard work is required.",
+            "(D) Many people think they would definitely fail to be successful in the future."
+          ],
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) Which of the following can best describe “growth zone: comfort zone”?",
+          "options": [
+            "(A) Negative: positive.",
+            "(B) Challenging: safe.",
+            "(C) Easy: difficult.",
+            "(D) Risky: successful."
+          ],
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) What is the author’s attitude toward leaving the comfort zone?",
+          "options": [
+            "(A) Supportive.",
+            "(B) Opposed.",
+            "(C) Subjective.",
+            "(D) Objective."
+          ],
+          "answer": "A",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n文章主要介紹心理狀態中的「舒適圈」與「成長區」，以及如何突破舒適圈以達成目標。\n句意說明：\n舒適圈安全但無挑戰，成長區雖困難，但能帶來發展和成就。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-LR-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "素養閱讀",
+      "questionNumber": 1,
+      "questionNumberRange": "1-4",
+      "passage": "This is a chart about the frequency and causes of stress from a survey done by a high school. Another chart is the information about the office hours of school counselors. Please answer the questions based on the information from the two charts.",
+      "passageTranslation": "(1) 做這份調查的目的為何？ (A) 比較本校與其他學校學生的表現 (B) 了解學生心理狀態，並告訴他們隨時可以尋求幫助 (C) 安慰家長，本校學生壓力較小 (D) 勸告老師不要給太多考試與作業\n(2)\t解題關鍵：\n根據圖表，「All the time」= 44.8% ≈ 半數，「Sometimes」= 36.6%，「Rarely」= 12.1%，「Never」= 6.3%。\n句意說明：\n接近一半的學生表示「總是感到壓力」。\n翻譯：\n(2) 根據兩張圖表，下列哪一個關於學生感到壓力頻率的說法正確？ (A) 感到壓力「很少」的學生比「有時候」的學生更多 (B) 超過 10% 的學生說自己從不感到壓力 (C) 幾乎一半的學生說自己總是感到壓力 (D) 從不感到壓力的學生幾乎是很少感到壓力學生的兩倍\n(3)\t解題關鍵：\nJames 的壓力來源是「和母親的關係」→ 對應圖表中的 Parents (13.46%)，輔導老師對應表格中「Ms. Rogers → Family → 週二 13:00–15:00」。\n句意說明：\n他最適合找 Ms. Rogers 談。\n翻譯：\n(3) James 自從上高中以來因為害怕不能滿足媽媽的期望，且常與她爭吵，長期焦慮。下列哪一項最符合 James 的情況？ (A) 他可以在週二 14:00 去找 Ms. Rogers 諮詢建議 (B) 大約 25% 的學生和 James 有相同的困擾 (C) 他可以在週五上午去 306 室找 Mr. Smith 幫忙 (D) 比起 James，更多學生擔心大學考試\n(4)\t解題關鍵：\n此類調查與輔導資訊通常會張貼在「健康中心或輔導室的海報」。\n句意說明：\n不是課本、會議議程或社團介紹。\n翻譯：\n(4) 我們最可能在哪裡看到這份資訊？ (A) 生物課本裡 (B) 學校會議議程上 (C) 社團活動介紹中 (D) 健康中心外張貼的海報\n翻譯：\n這是來自一所高中所做的調查，一張關於壓力發生頻率和原因的圖表。另一張圖表是有關學校輔導員辦公時間的資訊。請根據兩張圖表中的資訊回答問題。",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the purpose of doing this survey?",
+          "options": [
+            "(A) To compare students’ performance with students from other high schools.",
+            "(B) To understand students’ mental state and tell them they can always find help.",
+            "(C) To comfort parents that students in this high school have less stress.",
+            "(D) To urge teachers not to give students too many exams and assignments."
+          ],
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) According the two charts, which of the following statements about the frequency of students feeling stressed is true?",
+          "options": [
+            "(A) More students feel rarely stressed compared to those who are sometimes stressed.",
+            "(B) More than 10% of the students say that they never feel stressed.",
+            "(C) Almost half of the students say that they are stressed all the time.",
+            "(D) The number of students never stressed is nearly twice more than that of those who are rarely stressed."
+          ],
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) James has suffered from anxiety for a long time since getting into high school, because he is afraid of not meeting his mom’s expectations and often has arguments with her. Which of the following is most likely to fit James’s situation?",
+          "options": [
+            "(A) He can go talk to Ms. Rogers at 14:00 on Tuesday to get some advice.",
+            "(B) About 25% of the students have the same concern as James.",
+            "(C) He can ask for help from Mr. Smith on Friday morning in Room 306.",
+            "(D) More students are worried about college exams than James."
+          ],
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) Where can we see this information?",
+          "options": [
+            "(A) In a biology textbook.",
+            "(B) On an agenda for school meetings.",
+            "(C) In an introduction of club activities.",
+            "(D) On a poster outside a health care center."
+          ],
+          "answer": "D",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n問卷調查「壓力的頻率與來源」，再加上輔導老師的辦公時間 → 目的在於了解學生心理狀態，並告訴他們可以尋求協助。\n句意說明：\n選項 (B) 與調查目的最符合。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-LR-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "素養閱讀",
+      "questionNumber": 2,
+      "questionNumberRange": "1-4",
+      "passage": "This is one of Tim’s weekly schedules in the semester that he organizes for his high school life. Please answer the questions based on the information in the chart.",
+      "passageTranslation": "(1) Tim 如何安排他的行程表？\n(A) 用條狀標示分配時間\n(B) 用點標記重要日期\n(C) 用線連結時間和任務\n(D) 用方塊區分不同計畫\n(2)\t解題關鍵：\n觀察行程表可見，Tim 安排了許多課業和自習時間，社交和休閒時間相對較少。\n句意說明：\n他每天都有課業和自習，社交活動僅占部分時間，因此學習時間多於社交時間。\n翻譯：\n(2) 根據行程表，下列哪個敘述正確？\n(A) Tim 花在學習上的時間比社交多\n(B) Tim 每週打工四天\n(C) Tim 幾乎每天都有學習小組會議\n(D) Tim 在週三早上有物理考試\n(3)\t解題關鍵：\nTim 的行程表中不同的背景圖案有不同意義：灰色代表社交和運動，點狀背景代表課程，白色背景不一定代表小組會議，條紋背景代表自習時間。\n句意說明：\n白色背景並不是學習小組的專屬標示，因此選項 C 錯誤。\n翻譯：\n(3) Tim 在行程表中使用不同圖案。以下哪個選項對應錯誤？\n(A) 灰色背景：社交活動和運動\n(B) 點狀背景：課程和課堂\n(C) 白色背景：學習小組會議\n(D) 條紋背景：自習時間\n(4)\t解題關鍵：\nTim 在安排作息時兼顧課業、工作、社交和休閒，呈現出工作與娛樂的平衡。\n句意說明：\n他會建議新生合理分配時間，不要只專注於學習，也要安排休閒和社交活動。\n翻譯：\n(4) 如果學校輔導老師要請 Tim 在新學期第一天與新生分享時間管理技巧，他可能會建議什麼？\n(A) 嘗試在同一時間完成任務以提升效率\n(B) 在工作與娛樂間取得平衡\n(C) 將所有心力投入學習以取得好成績\n(D) 單獨完成任務比小組更有效\n翻譯：\n這是Tim為高中生活安排這學期每周時間表的其中一週行程。\n請根據圖表中的資訊回答問題。",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) How does Tim organize his schedule?",
+          "options": [
+            "(A) Making bars to assign time for tasks.",
+            "(B) Putting dots to mark important dates.",
+            "(C) Drawing lines to connect time and tasks.",
+            "(D) Using blocks to separate different plans."
+          ],
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) According to the chart, which of the following statements is true?",
+          "options": [
+            "(A) Tim spends more time studying than socializing.",
+            "(B) Tim works part-time four days a week.",
+            "(C) Tim has meetings for study groups almost every day.",
+            "(D) Tim has a physics exam on Wednesday morning."
+          ],
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) Tim uses different patterns in his schedule. Which of the following is NOT the correct patterns corresponding to the plans?",
+          "options": [
+            "(A) Gray backgrounds: social activities and exercise.",
+            "(B) Dotted backgrounds: courses and lessons.",
+            "(C) White backgrounds: meetings of study groups.",
+            "(D) Striped backgrounds: study time."
+          ],
+          "answer": "C",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) If school counselors are going to ask Tim to share his time management skills to freshmen on the first day of the new semester, what might he suggest?",
+          "options": [
+            "(A) Try to do tasks at the same time to work effectively.",
+            "(B) Strike a balance between work and entertainment.",
+            "(C) Put all your effort into your studies to get good grades.",
+            "(D) Work alone would be more efficient than in groups."
+          ],
+          "answer": "B",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\nTim 用不同的區塊來區分每日的活動和計畫，將每個時間段用「方塊」標示不同任務。\n句意說明：\n他用圖表化的方式安排每週活動，使每天的課業、運動、社交和工作一目了然。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-LR-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "素養閱讀",
+      "questionNumber": 3,
+      "questionNumberRange": "1-4",
+      "passage": "Tom just moved from Taiwan to America with his family, and today is his first day of school at an American high school.\n    Tom is definitely nervous. He knows that going to a new school can be a real challenge. He will go to school in an unfamiliar building, and he doesn’t even know his class schedule yet. He worries that the new school’s teachers will be scary. He also has concerns about whether he will fit in or not. Due to all his worries, Tom has decided to meet with a student ambassador, and finds this poster about school events.",
+      "passageTranslation": "(1) 這張海報的對象是誰？ (A) 家長 (B) 新生 (C) 老師 (D) 輔導老師\n(2)\t解題關鍵：\nTom 想了解校園環境，對應活動是「校園導覽」。\n句意說明：\n行程表顯示在 9/1(星期一)下午 14:00–17:00 有校園導覽。\n翻譯：\n(2) 如果 Tom 想更了解校園環境，他應該參加哪個時間的活動？ (A) 週一 14:00–17:00 (B) 週二 9:00–12:00 (C) 週二 14:00–17:00 (D) 週三 14:00–17:00\n(3)\t解題關鍵：\nTom 的擔心有四項：①不熟悉的校園、②不知道課表、③不知道能不能交到朋友、④老師會不會可怕。\n句意說明：\n活動安排能解決①校園導覽、②課表介紹、③新生派對，但沒有任何一項針對老師。\n翻譯：\n(3) 根據 Tom 的擔心和行程表，下列哪一項無法解決，即使他參加所有活動？ (A) 陌生的校園 (B) 在學校沒認識人 (C) 不知道課表 (D) 擔心老師怎麼樣\n(4)\t解題關鍵：\n海報下方附註提供聯絡方式：「如需進一步聯絡，可以寫信到edwardhsu@bamil.com.tw」。\n句意說明：\nTom 若還有問題，可以寫 email。\n翻譯：\n(4) 如果 Tom 在活動後還有問題，他該怎麼辦？ (A) 打給班導師 (B) 問父母 (C) 寄 email 給學生大使 (D) 問派對認識的新生\n\n文章翻譯：\n    Tom剛剛和家人從臺灣搬到美國，今天是他在美國高中上學的第一天。\n    Tom肯定很緊張。他知道去一所新學校可能是一個真正的挑戰。他將在不熟悉的大樓上學，他甚至還不知道自己的課表。他擔心新學校的老師會很可怕。他還擔心自己是否能適應。由於擔心，Tom決定與學生大使會面，並發現了這張關於學校活動的海報。",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) Who is this poster aimed at?",
+          "options": [
+            "(A) Parents.",
+            "(B) Freshmen.",
+            "(C) Teachers.",
+            "(D) School counselors."
+          ],
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) If Tom wants to know more about the environment on campus, what time should he join the event?",
+          "options": [
+            "(A) Monday 14:00-17:00.",
+            "(B) Tuesday 9:00-12:00.",
+            "(C) Tuesday 14:00-17:00.",
+            "(D) Wednesday 14:00-17:00."
+          ],
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) According to Tom’s concern and the schedule on the poster, which of the following worries from Tom is not solved even if he joins all activities on the schedule?",
+          "options": [
+            "(A) An unfamiliar campus.",
+            "(B) Not knowing anyone at school.",
+            "(C) What his class schedule would be like.",
+            "(D) How school teachers are."
+          ],
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) If Tom still has some questions after the school events, what can he do?",
+          "options": [
+            "(A) He can call the homeroom teacher.",
+            "(B) He can ask his parents.",
+            "(C) He can send an email to the student ambassador.",
+            "(D) He can talk to other freshmen he met at the party."
+          ],
+          "answer": "C",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n整張海報的活動(校園導覽、課表介紹、新生派對等)都是為「剛進入新學校的學生」設計的。\n句意說明：\n這些活動目標對象是新生，而不是家長或老師。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-MX-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "混合題",
+      "questionNumber": 1,
+      "questionNumberRange": "1-3",
+      "passage": "Please look at the chart down below and answer the questions based on the information in the chart.",
+      "passageTranslation": "(1) 以下哪些壓力來源讓女生比男生更容易感到壓力？\n(A) 課外活動\n(B) 家庭問題\n(C) 學業成績\n(D) 朋友\n(E) 心理健康\n(F) 外表\n(2)\t解題關鍵：\n圖表顯示男性最不擔心的壓力來源是身體健康，僅約 30% 的男生感到擔憂。\n句意說明：\n身體健康對男性而言是最輕微的壓力來源。\n翻譯：\n(2) 使男生感到壓力最小的是 __________，只有大約 __________ 的男生擔心這個問題。\n使男生感到壓力最小的是身體健康，只有大約30%的男生擔心這個問題。\n(3)\t解題關鍵：\n圖表顯示學業成績和作業是男女學生共同面臨的主要壓力來源。\n句意說明：\n這兩個壓力來源對男女學生都是最顯著的。\n翻譯：\n(3) 男女學生都會受到影響的兩個主要壓力來源是什麼？\n學業成績和作業",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "Which of the following sources of stress cause more female students than male ones to be stressed?",
+          "options": [
+            "(A) Extracurricular activities",
+            "(B) Family issues",
+            "(C) School grades",
+            "(D) Friends"
+          ],
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "What makes male students feel least stressed is __________, and only around __________ of them are worried about that.",
+          "options": [],
+          "answer": "",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "What are two main sources of stress that both male and female students suffer from?",
+          "options": [],
+          "answer": "",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n從圖表中觀察女生與男生在不同壓力來源的百分比，女生高於男生的有課外活動、\n學業成績、朋友和外表。\n句意說明：\n女生在這些壓力來源上比男生更容易感到壓力。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-MX-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "混合題",
+      "questionNumber": 2,
+      "questionNumberRange": "1-3",
+      "passage": "",
+      "passageTranslation": "(1) 下列哪些特徵屬於停留在舒適圈的人？\n(A) 對改變感到不安\n(B) 想要和他人一樣\n(C) 對未知感到興奮\n(D) 傾向於喜歡掌控事情\n(E) 對挑戰沒有遺憾\n(F) 僅僅是為了生存而活\n(2)\t解題關鍵：\n題目要求依照圖表填入從 Comfort Zone → Growth Zone 的過程。Fear zone 的特徵是害怕失敗；Learning zone 的特徵是增加知識。\n句意說明：\n此題考的是順序與對應特徵。\n翻譯：\n(2) 請填入正確的字詞，描述從舒適圈進入成長圈的過程。\n\n舒適圈—>\n恐懼圈—>\n學習圈—>\n成長圈\n安全\n害怕失敗\n增加知識\n找到目標\n\n(3)\t解題關鍵：\n圖表顯示從學習圈進入成長圈後，能設定新目標、找到人生目的並擴張舒適圈。\n句意說明：\n此題考的是進入 Growth Zone 的結果。\n翻譯：\n(3) 如果人們成功從學習圈進入成長圈，會發生什麼事？\n舒適圈會擴張\n翻譯：",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "Which of the following characteristics belong to people who stay in the comfort zone?",
+          "options": [
+            "(A) Feeling insecure about change.",
+            "(B) Wanting to be like others.",
+            "(C) Being excited about the unknown.",
+            "(D) Tending to like taking things in control."
+          ],
+          "answer": "A",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "Please fill in the blanks with the correct words to describe the process of moving from the comfort zone to the growth zone.\n\nComfort zone —>\nFear zone —>\nLearning zone —>\nGrowth zone\nSafe\nAfraid of __________\nIncrease __________\nFind purpose",
+          "options": [],
+          "answer": "",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "What would happen if people successfully step from the learning zone to the growth zone?",
+          "options": [],
+          "answer": "",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n觀察圖表中 Comfort Zone 的特徵，例如「感覺安全與掌控、想與他人一樣、只求生存、不安」。\n句意說明：\n題目要求選出仍停留在舒適圈的人所具備的特質。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-MX-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "混合題",
+      "questionNumber": 1,
+      "questionNumberRange": "1-3",
+      "passage": "Emotional intelligence is the ability to understand your emotions and those of other people. Developing your “E.I.” or “E.Q.” can help you in many situations. Emotional intelligence operates on two main levels.\n    On the personal level, you can work on managing your own emotions to lead a more productive life. For example, if you have to make a speech or take an exam, you may suffer from anxiety. This may paralyze you, stress you out, or even make you sick, thereby lowering your performance. However, thinking about the emotion can help.\n    “I am rightly anxious because I have something important to achieve. I will focus on how to reach my goal rather than my worry. In this way, negative stress can be converted into positive stress so that in the end I will be able to say, ‘Pass or fail, I did my best.’” In this situation, anxiety is transformed into helpful energy.\n    On the interpersonal level, you can develop your empathy by “putting yourself in another person’s shoes,” to try to understand their feelings. For example, you feel an old aunt you haven’t seen for twenty years is being cold and uncaring because she doesn’t invite you to visit her. You are angry and want to stop contacting her altogether.\n    But then you remember that when you used to visit she would always prepare a tasty dinner. Nowadays, she has a bad back and couldn’t possibly manage preparing such a meal. She would feel ashamed if you visited her. Having understood her feelings, you read the situation differently. Anger becomes sympathy, and you continue the relationship by calling her regularly.\n    These examples show that developing emotional intelligence can improve the quality of your own and other people’s lives. It can help you achieve your own goals and it can also make you better at handling working and family relationships.",
+      "passageTranslation": "(1) 這篇文章的結構是什麼？請將選項排成正確的順序。\n(A) 發展情緒智商的結果。\n(B) 兩個主要層面的例子。\n(C) 情緒智商造成的問題。\n(D) 情緒智商的定義。\n(E) 情緒智商運作的層面解釋。\n(F) 情緒問題的解決方法。\n(2)\t解題關鍵：\n個人層面是「嘗試管理情緒」，例子是「在演講或考試時思考情緒以減輕壓\n力」；人際層面是「培養同理心」，例子是「理解老親戚的困難」。\n翻譯：\n(2) 請依照文章內容完成下列表格。\n\n情緒智商的運作層面\n意義\n例子\n個人層面\n嘗試管理情緒\n在演講或考試時思考情緒以減輕壓力\n人際層面\n培養同理心\n理解一位老親戚的困難\n\n(3)\t解題關鍵：\nempathy 在文中解釋為 “putting yourself in another person’s shoes”，即設身處地。\n翻譯：\n(3) 第四段中哪一個片語最能描述 “empathy” 的意思？\n\n文章翻譯：\n\t(3)\n    情緒智商(情商)是理解自己和他人情緒的能力。發展你的「情商」可以在很多情況下幫助你。情商主要在兩個層面上發揮作用。\n    在個人層面上，你可以努力管理自己的情緒，以過更富有成效的生活。例如，如果你必須發表演講或參加考試，你可能會感到焦慮。這可能會讓你有無力感，給你壓力，甚至讓你生病，進而降低你的表現。然而，思考這種情緒會有所幫助。\n    「我確實感到焦慮，因為我有重要的事要達成。我會專注於如何實現我的目標，而不是擔心。這樣，負面壓力就可以被轉化為正面壓力，最後我就能說，『成功或失敗，我都盡力了。』」在這種情況下，焦慮被轉化為有益的能量。\n    在人際交往方面，你可以通過「設身處地為他人著想」來培養同理心，嘗試理解他們的感受。例如，你覺得一位二十年未見的老阿姨冷漠無情，因為她不邀請你去拜訪她。你很生氣，想完全停止與她聯繫。\n    但你會記得，當你之前去拜訪她時，她總是會準備一頓美味的晚餐。現今，她的背不好，不可能準備這樣的飯菜。如果你去看她，她會感到羞恥。理解了她的感受後，你對情況的解讀就不同了。憤怒變成了同情，你可以透過定期打電話給她來維持關係。\n    這些例子表示發展情商可以提高你自己和他人的生活品質。它可以幫助你實現自己的目標，還可以讓你把工作和家庭關係處理得更好。",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "How is the passage structured? Put the options into the correct order.",
+          "options": [
+            "(A) Results of developing emotional intelligence.",
+            "(B) Examples of the two main levels.",
+            "(C) Problems caused by emotional intelligence.",
+            "(D) Definitions of emotional intelligence."
+          ],
+          "answer": "D",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "Fill in the blanks with correct information from the passage.\n\nOperations of E.I.\nMeaning\nExample\nPersonal level\nTry to manage emotions\n__________\nInterpersonal level\n__________\nUnderstand the difficulty of an old relative.",
+          "options": [],
+          "answer": "",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "Which phrase can best describe the meaning of the word “empathy” in Paragraph Four?",
+          "options": [],
+          "answer": "",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n本文一開始先下定義(D)，再解釋情商的運作層面(E)，接著分別舉例(B)，\n最後總結效果(A)，正確順序是 D E B A。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-MX-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "混合題",
+      "questionNumber": 2,
+      "questionNumberRange": "1-3",
+      "passage": "All of us are conscious about how we look. We often focus our attention on our faults much more than other people do. This can lead to feelings of embarrassment or inferiority because we feel our physical faults stand out. Looking at particular physical attributes, we concentrate time and energy on changing them. This type of devotion to appearance can sometimes be a good thing. However, it can also be detrimental if it begins to consume us.\n    Rather than worrying so much about physical appearance, it is more important to focus on the good things about ourselves. Being a friendly, honest, and caring person is more important than how we look. People who only care to befriend us because of how we look are actually just superficial people themselves. Those who dig deeper and try to discover the things that make us unique human beings are the ones we should strive to have as friends. True friends are the ones who like us for who we are, and they have the ability to earn our friendship because their attitude shows in how they treat us.\n    It is essential to be yourself and find happiness with who you are rather than just what you look like. Let your inner beauty shine rather than wasting all of your time changing your looks or trying to keep up with the latest trends. If you do this, you will discover true, lasting friendships with those around you because they will not be false friends; they will be people who love you for who you are. In a world that is teeming with superficiality, who could ask for more?",
+      "passageTranslation": "(1) 下列哪些選項有在文章中提及？ (A) 人們如何投入於外表。 (B) 為什麼人們在意外表。 (C) 人們應該消耗什麼來變美。 (D) 哪些東西比外表更重要。 (E) 真正朋友應該是什麼樣子。 (F) 為什麼人們應該更關注內在美。\n(2)\t解題關鍵：\n文章區分「superficial friends」和「true friends」。前者只在乎外貌，後者喜歡真正的我們並能贏得友情。\n句意說明：\nbefriend us＝和我們交朋友；earn our friendship＝贏得我們的友誼。\n翻譯：\n(2) 根據文章填入正確的字詞：\n膚淺的朋友 \n這些人更在乎我們的外表，若我們不在意外貌就與我們交朋友。\n真正的朋友\n這些人喜歡真正的我們，並且有能力贏得我們的友誼。\n\n(3)\t解題關鍵：\n段落一最後一句 “Looking at particular physical attributes, we concentrate time and energy on changing them.” 中的 them 指前文的 physical attributes。\n句意說明：\n「them」不是泛指，而是特指身體特徵。\n翻譯：\n(3) 第一段中的 “them” 指的是什麼？\n\n文章翻譯：\n    我們所有人都在意自己的外表。我們常常比其他人更關注自己的錯誤。這可能會導致尷尬或自卑的感覺，因為我們覺得自己的身體缺陷很突兀。針對特定的身體特徵，我們會集中時間和精力來改變它們。這種對外表的追求有時是一件好事。然而，如果它開始吞噬我們，也可能是有害的。\n    與其過度擔心外表，更重要的是關注自己的優點。做一個友善、誠實、體貼的人比我們的外表更重要。那些只是因為我們的外表而想要與我們交朋友的人，實際上，他們本身就是膚淺的人。那些會深入挖掘並試圖發現讓我們成為人類獨特之處的人，才是我們應該努力結交的朋友，真正的朋友是那些喜歡我們本來樣子的人，他們有能力贏得我們的友誼，因為他們的態度表現在他們對待我們的方式上。\n    做你自己來找到幸福是很重要的，而不是透過你的外表。讓你的內在美發光，而不是浪費你所有的時間，改變你的外表或試圖跟上最新的潮流。如果你這樣做，你就會發現能與周圍的人建立真正、持久的友誼，因為他們不會是虛假的朋友；他們會因為你本來的樣子而愛你。在這個很膚淺的世界裡，誰還能要求更多呢？",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "Which of the following things are mentioned in the passage?",
+          "options": [
+            "(A) The ways people devote to physical appearance.",
+            "(B) Why people care about physical appearance.",
+            "(C) What people should consume to be beautiful.",
+            "(D) The things that are more important than physical appearance."
+          ],
+          "answer": "B",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 2,
+          "text": "Fill in the blanks with correct words about two kinds of friends that are mentioned in the passage.\n\nSuperficial friends\nPeople who care more about how we look and __________ us if we don’t care about our appearance.\nTrue friends\nPeople who like us for who we really are and have the ability to earn our __________.",
+          "options": [],
+          "answer": "",
+          "analysis": ""
+        },
+        {
+          "questionNumber": 3,
+          "text": "What does “them” mean in Paragraph One?",
+          "options": [],
+          "answer": "",
+          "analysis": ""
+        }
+      ],
+      "analysis": "(1)\t解題關鍵：\n文章說明為何人們在意外貌、什麼比外表更重要、真朋友的特質，以及為何應該注重內在美。\n句意說明：\n段落中強調要超越外表，專注於內在特質與真正的友誼。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-SC-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "完成句子",
+      "questionNumber": 1,
+      "text": "Amy/ finish/ her homework/before/she/play/video games (完成句子) ___________________________________________________________________",
+      "answer": "Amy had finished her homework before she played video games.",
+      "translation": "Amy 在玩電動之前，已經完成了作業。",
+      "analysis": "解題關鍵：\n表示「先完成作業，再玩遊戲」，前一動作用過去完成式 had finished，後一動作用過去式 played。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-SC-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "完成句子",
+      "questionNumber": 2,
+      "text": "By/time/Darren/begin/speech/his/classmates/put away/phone (完成句子) ___________________________________________________________________",
+      "answer": "By the time Darren began his speech, his classmates had put away their phones.",
+      "translation": "當 Darren 開始演講時，他的同學們已經收起了手機。",
+      "analysis": "解題關鍵：\nby the time(到…的時候)常搭配過去完成式。Darren 開始演講(過去式 began)\n之前，大家就已經把手機收起來(had put away)。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-SC-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "完成句子",
+      "questionNumber": 3,
+      "text": "she/has/leave/a message/her husband/before/she/go out/shop (完成句子) ___________________________________________________________________",
+      "answer": "She had left a message to her husband before she went out shopping.",
+      "translation": "她在外出購物之前，已經留了一張訊息給她的先生。",
+      "analysis": "解題關鍵：\n前後動作對比。她先「留話」→ 再「外出購物」。前者用過去完成式 had left，後\n者用過去式 went out shopping。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-SR-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "重組句子",
+      "questionNumber": 1,
+      "text": "all the clues/found/as/he had/The police officer/the criminal/he/organized (重組句子) ___________________________________________________________________",
+      "answer": "The police officer found the criminal as he organized all the clues he had.",
+      "translation": "那名警察在整理他手上的所有線索時，找到了那名罪犯。",
+      "analysis": "解題關鍵：\nas = 當…時。警察在「整理線索」的過程中找到了罪犯。had 表示線索是他已經掌握的。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-SR-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "重組句子",
+      "questionNumber": 2,
+      "text": "As/was caught cheating/on the test/his face/turned red/ and felt bad/Gary/for what/ he had done (重組句子) ___________________________________________________________________",
+      "answer": "As Gary was caught cheating on the test, he felt bad for what he had done.",
+      "translation": "當 Gary 被抓到考試作弊時，他為自己所做的事感到難過。",
+      "analysis": "解題關鍵：\n句型 As S + V, S + V。前面「被抓到作弊」用過去進行被動 was caught cheating。後面描述 Gary 的反應，用過去式 felt，並用 had done 表示「已經做過的事」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-SR-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "重組句子",
+      "questionNumber": 3,
+      "text": "he hurt/Jimmy/basketball/before/on the school team/had played/his shoulder (重組句子) ___________________________________________________________________",
+      "answer": "Jimmy had played basketball on the school team before he hurt his shoulder.",
+      "translation": "Jimmy 在受傷前就已經在校隊打過籃球了。",
+      "analysis": "解題關鍵：\n本題考 過去完成式 (had + p.p.)。表示在「受傷」之前，Jimmy 就已經「打過球隊的籃球」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-SM-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "合併句子",
+      "questionNumber": 1,
+      "text": "Scott dealt with all the housework (家務). Scott’s mother went home from work later. (合併句子) ___________________________________________________________________",
+      "answer": "Scott had dealt with all the housework before his mother went home from work.",
+      "translation": "Scott 在媽媽下班回家之前，已經處理完所有家務。",
+      "analysis": "解題關鍵：\n先做完家務 → 媽媽才下班回家。前一動作用 had dealt with，後一動作用 went \nhome。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-SM-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "合併句子",
+      "questionNumber": 2,
+      "text": "My parents lived in Hsinchu County in 2010. My parents moved to Taitung County in 2015. (用S + had + p.p.合併) ___________________________________________________________________",
+      "answer": "My parents had lived in Hsinchu County before they moved to Taitung County.",
+      "translation": "我的父母在搬到台東縣之前，曾經住在新竹縣。",
+      "analysis": "解題關鍵：\n比較兩個時間點。2010–2015 住在新竹，2015 搬到台東，所以要用 had lived 表示較早的動作。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-SW-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "改寫句子",
+      "questionNumber": 1,
+      "text": "Fred got to the train station at 2 p.m. The train left the station at 1 p.m. (用S + had + p.p.改寫) ___________________________________________________________________",
+      "answer": "When Fred got to the train station, the train had left the station.",
+      "translation": "當 Fred 到車站時，火車已經離開了。",
+      "analysis": "解題關鍵：\n比較時間先後。火車 1 點就開走 → Fred 2 點才到，因此火車「已經開走」要用 \nhad left。",
+      "tags": []
+    },
+    {
+      "id": "B1-U01-TG-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 1,
+      "text": "_____________ _____________ _____________ your studies, there are also other interesting things for you to experience at school, such as club activities.",
+      "answer": "In;addition;to",
+      "translation": "",
+      "analysis": "解題關鍵：\nin addition to + 名詞 = 除…之外，是固定片語，用來補充學業之外的活動。",
+      "tags": [],
+      "suggestedAnswer": "In addition to",
+      "chineseText": "除了學業之外，在學校還有其他有趣的事情等你去體驗，例如社團活動。",
+      "scaffolding": "_____________ _____________ _____________ your studies, there are also other interesting things for you to experience at school, such as club activities."
+    },
+    {
+      "id": "B1-U01-TG-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 2,
+      "text": "Ron是個好人，他很友善也很好相處。\nRon is a kind person. He is friendly and easy to _____________ _____________ _____________.",
+      "answer": "get;along;with",
+      "translation": "",
+      "analysis": "解題關鍵：\nget along with sb = 與某人相處融洽，是固定片語。",
+      "tags": [],
+      "suggestedAnswer": "get along with",
+      "chineseText": "Ron是個好人，他很友善也很好相處。",
+      "scaffolding": "Ron是個好人，他很友善也很好相處。\nRon is a kind person. He is friendly and easy to _____________ _____________ _____________."
+    },
+    {
+      "id": "B1-U01-TG-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 3,
+      "text": "除了英文之外，Ken還會說流利的韓文和泰文。\n_____________ _____________ _____________ English, Ken can speak fluent Korean and Thai.",
+      "answer": "In;addition;to",
+      "translation": "",
+      "analysis": "解題關鍵：\nin addition to + 名詞 = 除…之外，是固定片語，用來補充資訊。",
+      "tags": [],
+      "suggestedAnswer": "In addition to",
+      "chineseText": "除了英文之外，Ken還會說流利的韓文和泰文。",
+      "scaffolding": "除了英文之外，Ken還會說流利的韓文和泰文。\n_____________ _____________ _____________ English, Ken can speak fluent Korean and Thai."
+    },
+    {
+      "id": "B1-U01-TG-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 4,
+      "text": "Vivian現在無法跟你說話，她有很多事情要做。\nVivian cannot talk to you right now. She _____________ _____________ _____________ _____________ _____________ _____________.",
+      "answer": "has;a;lot;on;her;plate",
+      "translation": "",
+      "analysis": "解題關鍵：\nhave a lot on one’s plate = 有很多事情要做。用來解釋 Vivian 現在無法說話\n的原因。",
+      "tags": [],
+      "suggestedAnswer": "has a lot on her plate",
+      "chineseText": "Vivian現在無法跟你說話，她有很多事情要做。",
+      "scaffolding": "Vivian現在無法跟你說話，她有很多事情要做。\nVivian cannot talk to you right now. She _____________ _____________ _____________ _____________ _____________ _____________."
+    },
+    {
+      "id": "B1-U01-TG-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 5,
+      "text": "Samuel必須盡快處理這個問題，否則後果會越來越嚴重。\nSamuel has to ______ ______ ______ ______ as soon as possible, or it will get even worse.",
+      "answer": "deal;with;this;problem",
+      "translation": "",
+      "analysis": "解題關鍵：\ndeal with + 受詞 = 處理某事，是固定搭配。表示「必須盡快處理這個問題」。",
+      "tags": [],
+      "suggestedAnswer": "deal with this problem",
+      "chineseText": "Samuel必須盡快處理這個問題，否則後果會越來越嚴重。",
+      "scaffolding": "Samuel必須盡快處理這個問題，否則後果會越來越嚴重。\nSamuel has to ______ ______ ______ ______ as soon as possible, or it will get even worse."
+    },
+    {
+      "id": "B1-U01-TG-06",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 6,
+      "text": "這家公司說他們會在面試完不久後寄信給Jane。\nAfter the interview, the company said that they would send an email to Jane ______ ______ ______ ______.",
+      "answer": "in;the;near;future",
+      "translation": "",
+      "analysis": "解題關鍵：\nin the near future 是固定片語，表示「在不久的將來」。在英文中常用來描述未來即將發生的事情。",
+      "tags": [],
+      "suggestedAnswer": "in the near future",
+      "chineseText": "這家公司說他們會在面試完不久後寄信給Jane。",
+      "scaffolding": "這家公司說他們會在面試完不久後寄信給Jane。\nAfter the interview, the company said that they would send an email to Jane ______ ______ ______ ______."
+    },
+    {
+      "id": "B1-U01-TG-07",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 7,
+      "text": "Mary正在大學讀經濟學，她不久後想要成為一位經濟學家。\nMary is studying economics in college now. She wants to become an economist _____________ _____________ _____________ _____________.",
+      "answer": "in;the;near;future",
+      "translation": "",
+      "analysis": "解題關鍵：\nin the near future = 在不久的將來，表示未來即將發生的事情。",
+      "tags": [],
+      "suggestedAnswer": "in the near future",
+      "chineseText": "Mary正在大學讀經濟學，她不久後想要成為一位經濟學家。",
+      "scaffolding": "Mary正在大學讀經濟學，她不久後想要成為一位經濟學家。\nMary is studying economics in college now. She wants to become an economist _____________ _____________ _____________ _____________."
+    },
+    {
+      "id": "B1-U01-TG-08",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 8,
+      "text": "Tommy必須在晚上加班，因為他有很多事情要做。\nTommy has to work late at night because he ______ ______ ______ ______ ______ ______.",
+      "answer": "has;a;lot;on;his;plate",
+      "translation": "",
+      "analysis": "解題關鍵：\nhave a lot on one’s plate = 有很多事情要處理，是慣用語。後面用過去式或現在式視句子時態而定。",
+      "tags": [],
+      "suggestedAnswer": "has a lot on his plate",
+      "chineseText": "Tommy必須在晚上加班，因為他有很多事情要做。",
+      "scaffolding": "Tommy必須在晚上加班，因為他有很多事情要做。\nTommy has to work late at night because he ______ ______ ______ ______ ______ ______."
+    },
+    {
+      "id": "B1-U01-TG-09",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 9,
+      "text": "Mary 對和同學交朋友感到困難，因為她不知道如何與其他人相處融洽。\nMary has difficulty making friends with her classmates because she doesn’t know how to _____________ _____________ _____________ other people.",
+      "answer": "get;along;with",
+      "translation": "",
+      "analysis": "解題關鍵：\nget along with sb = 與某人相處融洽，用於說明 Mary 為何交朋友困難。",
+      "tags": [],
+      "suggestedAnswer": "get along with",
+      "chineseText": "Mary 對和同學交朋友感到困難，因為她不知道如何與其他人相處融洽。",
+      "scaffolding": "Mary 對和同學交朋友感到困難，因為她不知道如何與其他人相處融洽。\nMary has difficulty making friends with her classmates because she doesn’t know how to _____________ _____________ _____________ other people."
+    },
+    {
+      "id": "B1-U01-TG-10",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 10,
+      "text": "Facing the outbreak of the disease, the hospital is now busy _____________ _____________ a lot of patients.",
+      "answer": "dealing;with",
+      "translation": "",
+      "analysis": "解題關鍵：\ndealing with + 受詞 = 處理、應付，是固定片語。句子描述醫院正在忙著處理病患。",
+      "tags": [],
+      "suggestedAnswer": "dealing with",
+      "chineseText": "面臨疾病的爆發，醫院正忙著處理許多病患。",
+      "scaffolding": "Facing the outbreak of the disease, the hospital is now busy _____________ _____________ a lot of patients."
+    },
+    {
+      "id": "B1-U01-TS-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 1,
+      "text": "_______________________________________________________________________",
+      "answer": "As you have trouble managing your time, I advise you to organize your schedule first.",
+      "translation": "",
+      "analysis": "解題關鍵：\nAs + 現在式描述條件或背景，「建議」用一般現在式 advise，不用過去完成式。",
+      "tags": [],
+      "suggestedAnswer": "As you have trouble managing your time, I advise you to organize your schedule first.",
+      "chineseText": "當你在管理時間上有困難時，我建議你先整理你的行程表。",
+      "scaffolding": "_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TS-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 2,
+      "text": "當Roger在安排他的周末計畫時，他想到他還有一個企劃要做。\n_______________________________________________________________________",
+      "answer": "As Roger was making his plans for the weekend, he thought of a project he had to work on.",
+      "translation": "",
+      "analysis": "解題關鍵：\nAs + 過去進行式描述「當 Roger 安排週末計畫的同時」，he had to work on 的過去完成式表示他已有的任務。",
+      "tags": [],
+      "suggestedAnswer": "As Roger was making his plans for the weekend, he thought of a project he had to work on.",
+      "chineseText": "當Roger在安排他的周末計畫時，他想到他還有一個企劃要做。",
+      "scaffolding": "當Roger在安排他的周末計畫時，他想到他還有一個企劃要做。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TS-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 3,
+      "text": "在老闆要求解決方法之前，Oliver 就已經處理好這個緊急狀況了。\n_______________________________________________________________________",
+      "answer": "Before the boss asked for the solution, Oliver had dealt with this urgent situation.",
+      "translation": "",
+      "analysis": "解題關鍵：\nBefore + 過去式表示「在老闆要求解決方法之前」，Oliver 已經處理好緊急狀況，因此用過去完成式 had dealt with。",
+      "tags": [],
+      "suggestedAnswer": "Before the boss asked for the solution, Oliver had dealt with this urgent situation.",
+      "chineseText": "在老闆要求解決方法之前，Oliver 就已經處理好這個緊急狀況了。",
+      "scaffolding": "在老闆要求解決方法之前，Oliver 就已經處理好這個緊急狀況了。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TS-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 4,
+      "text": "上週結束前，Charlie已經遵從父母的建議而決定主修中文。\n_______________________________________________________________________",
+      "answer": "Charlie had followed his parents’ advice and decided to major in Chinese by the end of last week.",
+      "translation": "",
+      "analysis": "解題關鍵：\nby the end of last week + 過去完成式表示「在上週結束前 Charlie 已經遵從父母建議做出決定」。",
+      "tags": [],
+      "suggestedAnswer": "Charlie had followed his parents’ advice and decided to major in Chinese by the end of last week.",
+      "chineseText": "上週結束前，Charlie已經遵從父母的建議而決定主修中文。",
+      "scaffolding": "上週結束前，Charlie已經遵從父母的建議而決定主修中文。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TS-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 5,
+      "text": "_______________________________________________________________________",
+      "answer": "I decided to be a writer because my mother had had a great effect/influence on me in my childhood.",
+      "translation": "",
+      "analysis": "解題關鍵：\n過去完成式 had had 表示「母親在我童年時期已經對我產生影響」，動作先於「我決定成為作家」。",
+      "tags": [],
+      "suggestedAnswer": "I decided to be a writer because my mother had had a great effect/influence on me in my childhood.",
+      "chineseText": "我決定成為一個作家，因為我媽媽在我童年時期帶給我很大的影響。",
+      "scaffolding": "_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TS-06",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 6,
+      "text": "Andrew在新學期開始前，就完成寒假作業了。\n_______________________________________________________________________",
+      "answer": "Andrew had finished the winter homework before the new semester started.",
+      "translation": "",
+      "analysis": "解題關鍵：\n過去完成式表示 Andrew 在新學期開始前就已經完成寒假作業。",
+      "tags": [],
+      "suggestedAnswer": "Andrew had finished the winter homework before the new semester started.",
+      "chineseText": "Andrew在新學期開始前，就完成寒假作業了。",
+      "scaffolding": "Andrew在新學期開始前，就完成寒假作業了。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TS-07",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 7,
+      "text": "_______________________________________________________________________",
+      "answer": "I had learned some very useful ways to complete my homework more effectively in high school.",
+      "translation": "",
+      "analysis": "解題關鍵：\n過去完成式用於描述「在高中期間已學到的方法」，動作發生在另一過去事件之前。",
+      "tags": [],
+      "suggestedAnswer": "I had learned some very useful ways to complete my homework more effectively in high school.",
+      "chineseText": "我在高中的時候學到了一些非常實用的方法來更有效率地完成我的學校作業。",
+      "scaffolding": "_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TS-08",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 8,
+      "text": "_______________________________________________________________________",
+      "answer": "Every small step you take brings you closer to the top.",
+      "translation": "",
+      "analysis": "解題關鍵：\n此句使用一般現在式描述普遍真理或常態，不需要過去完成式。",
+      "tags": [],
+      "suggestedAnswer": "Every small step you take brings you closer to the top.",
+      "chineseText": "你走的每一小步會帶領你更靠近頂點。",
+      "scaffolding": "_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TS-09",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 9,
+      "text": "_______________________________________________________________________",
+      "answer": "The school bell had rung before the students left the classroom.",
+      "translation": "",
+      "analysis": "解題關鍵：\n過去完成式 (had + p.p.) 用來表示「鐘聲響」這個動作在「學生離開教室」之前已經完成。",
+      "tags": [],
+      "suggestedAnswer": "The school bell had rung before the students left the classroom.",
+      "chineseText": "學生離開教室前，學校鐘聲就已經響了。",
+      "scaffolding": "_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TS-10",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 10,
+      "text": "在Evelyn回到家的時候，妹妹已經睡著了。\n_______________________________________________________________________",
+      "answer": "When Evelyn got home, her younger sister had already fallen asleep.",
+      "translation": "",
+      "analysis": "解題關鍵：\n過去完成式表示妹妹在 Evelyn 回家之前就已經睡著。",
+      "tags": [],
+      "suggestedAnswer": "When Evelyn got home, her younger sister had already fallen asleep.",
+      "chineseText": "在Evelyn回到家的時候，妹妹已經睡著了。",
+      "scaffolding": "在Evelyn回到家的時候，妹妹已經睡著了。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TC-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 1,
+      "text": "_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)All of us like to travel overseas.　(2)We usually have trouble with the language when we are abroad.",
+      "translation": "",
+      "analysis": "(1)\t解題關鍵：\nlike to travel = 喜歡旅遊，是常見動詞搭配。\n(2)\t解題關鍵：\nhave trouble with = 在…方面遇到困難，是固定片語；when we are abroad 描述時間背景。",
+      "tags": [],
+      "suggestedAnswer": "(1)All of us like to travel overseas.　(2)We usually have trouble with the language when we are abroad.",
+      "chineseText": "(1)\t我們大家都喜歡出國旅遊。",
+      "scaffolding": "_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TC-02",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 2,
+      "text": "(1)\tStephanie早上7點離開家裡。\n_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)Stephanie left the house at seven in the morning.　(2)When she got to the company at nine in the morning, the meeting had started.",
+      "translation": "",
+      "analysis": "(1)\t解題關鍵：\n一般過去式 left 描述過去的動作。\n(2)\t解題關鍵：\n過去完成式 had started 用於描述「當她到公司時，會議已經開始」，先後動作要清楚區分。",
+      "tags": [],
+      "suggestedAnswer": "(1)Stephanie left the house at seven in the morning.　(2)When she got to the company at nine in the morning, the meeting had started.",
+      "chineseText": "(1)\tStephanie早上7點離開家裡。",
+      "scaffolding": "(1)\tStephanie早上7點離開家裡。\n_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TC-03",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 3,
+      "text": "(1)\tMia和Susan在五年前的高中期間一直彼此相處融洽。\n_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)Mia and Susan got along with each other well in high school five years ago.　(2)In addition to the time at school, they had played in a band together before they graduated.",
+      "translation": "",
+      "analysis": "(1)\t解題關鍵：\nget along with each other = 彼此相處融洽，是固定片語，用一般過去式描述五年前高中時的情況。\n(2)\t解題關鍵：\nin addition to + 名詞 = 除…之外，表示補充資訊；had played 表示在畢業前已經做過的動作，用過去完成式。",
+      "tags": [],
+      "suggestedAnswer": "(1)Mia and Susan got along with each other well in high school five years ago.　(2)In addition to the time at school, they had played in a band together before they graduated.",
+      "chineseText": "(1)\tMia和Susan在五年前的高中期間一直彼此相處融洽。",
+      "scaffolding": "(1)\tMia和Susan在五年前的高中期間一直彼此相處融洽。\n_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TC-04",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 4,
+      "text": "_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)Did you remember to register for the history course?　(2)Yes. I had done it a week before the deadline.",
+      "translation": "",
+      "analysis": "(1)\t解題關鍵：\n過去完成式 (had + p.p.) 用於描述在另一過去時間點(截止日前一週)之前已經完成的動作。\n(2)\t解題關鍵：\nDid you remember to… 是用來詢問對方是否記得做某事的自然用法。",
+      "tags": [],
+      "suggestedAnswer": "(1)Did you remember to register for the history course?　(2)Yes. I had done it a week before the deadline.",
+      "chineseText": "(1)\t你有記得去登記歷史課嗎？",
+      "scaffolding": "_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-TC-05",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 5,
+      "text": "(1)\t現在，因為COVID-19，去其他國家旅遊對我們來說還是有困難。\n_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)Now, we still have trouble traveling to other countries because of COVID-19.　(2)As the situation gets better, we will be able to go abroad in the near future.",
+      "translation": "",
+      "analysis": "(1)\t解題關鍵：\nstill have trouble + V-ing = 仍然在…方面有困難，描述現在的狀況。\n(2)\t解題關鍵：\nin the near future = 在不久的將來，描述未來即將發生的事情，搭配 will able to 表示能力或可能性。",
+      "tags": [],
+      "suggestedAnswer": "(1)Now, we still have trouble traveling to other countries because of COVID-19.　(2)As the situation gets better, we will be able to go abroad in the near future.",
+      "chineseText": "(1)\t現在，因為COVID-19，去其他國家旅遊對我們來說還是有困難。",
+      "scaffolding": "(1)\t現在，因為COVID-19，去其他國家旅遊對我們來說還是有困難。\n_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U01-ES-01",
+      "lesson": "B1-U01",
+      "book": 1,
+      "type": "作文",
+      "questionNumber": 1,
+      "topicDescription": "簡函寫作\n提示：當來到一個新環境中，我們總是感到不安也可能遭遇許多困難。請以學長姐的身份寫一封信分享你的經驗與建議給即將來到高中就讀的新生們，第一段請說明你曾在新環境中遭遇的困難與挑戰為何，第二段則分享你的建議說明你如何克服。\n請注意：信末請用Ray或Helen署名，不得使用自己的真實姓名。",
+      "modelEssayRaw": "",
+      "analysis": "文章結構：作文需分兩段，第一段描述困難與挑戰，第二段提供解決建議或經驗分享。清楚分段讓讀者一目了然。\n內容重點：\n第一段要寫出「我曾經在新環境中遇到哪些困難」並用具體例子說明(例如害羞、交新朋友困難、適應新環境的挑戰)。\n第二段要寫「我如何克服」或「給新生的建議」，可包含具體做法或策略(例如主動與同學聊天、記住名字、了解興趣)",
+      "tags": []
+    }
+  ]
+}

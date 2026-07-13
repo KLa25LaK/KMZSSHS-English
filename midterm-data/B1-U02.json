@@ -1,0 +1,3384 @@
+{
+  "meta": {
+    "source": "midterm",
+    "book": 1,
+    "lesson": "B1-U02",
+    "lessonNumber": 2,
+    "titleEn": "I See You, Taiwan",
+    "titleZh": "",
+    "schoolYearLabel": "115學年度第一學期",
+    "updated": "2026-07-12",
+    "analysisSource": "B1L2解答.docx"
+  },
+  "sections": [
+    {
+      "sectionId": "vf",
+      "type": "文意字彙",
+      "label": "文意字彙",
+      "questionIds": [
+        "B1-U02-VF-01",
+        "B1-U02-VF-02",
+        "B1-U02-VF-03",
+        "B1-U02-VF-04",
+        "B1-U02-VF-05",
+        "B1-U02-VF-06",
+        "B1-U02-VF-07",
+        "B1-U02-VF-08",
+        "B1-U02-VF-09",
+        "B1-U02-VF-10",
+        "B1-U02-VF-11",
+        "B1-U02-VF-12",
+        "B1-U02-VF-13",
+        "B1-U02-VF-14",
+        "B1-U02-VF-15",
+        "B1-U02-VF-16",
+        "B1-U02-VF-17",
+        "B1-U02-VF-18",
+        "B1-U02-VF-19",
+        "B1-U02-VF-20"
+      ]
+    },
+    {
+      "sectionId": "wf",
+      "type": "詞類變化",
+      "label": "詞類變化",
+      "questionIds": [
+        "B1-U02-WF-01",
+        "B1-U02-WF-02",
+        "B1-U02-WF-03",
+        "B1-U02-WF-04",
+        "B1-U02-WF-05",
+        "B1-U02-WF-06",
+        "B1-U02-WF-07",
+        "B1-U02-WF-08",
+        "B1-U02-WF-09",
+        "B1-U02-WF-10",
+        "B1-U02-WF-11",
+        "B1-U02-WF-12"
+      ]
+    },
+    {
+      "sectionId": "vc",
+      "type": "字彙選擇",
+      "label": "字彙選擇",
+      "questionIds": [
+        "B1-U02-VC-01",
+        "B1-U02-VC-02",
+        "B1-U02-VC-03",
+        "B1-U02-VC-04",
+        "B1-U02-VC-05",
+        "B1-U02-VC-06",
+        "B1-U02-VC-07",
+        "B1-U02-VC-08",
+        "B1-U02-VC-09",
+        "B1-U02-VC-10",
+        "B1-U02-VC-11",
+        "B1-U02-VC-12",
+        "B1-U02-VC-13",
+        "B1-U02-VC-14",
+        "B1-U02-VC-15",
+        "B1-U02-VC-16",
+        "B1-U02-VC-17",
+        "B1-U02-VC-18",
+        "B1-U02-VC-19",
+        "B1-U02-VC-20",
+        "B1-U02-VC-21",
+        "B1-U02-VC-22"
+      ]
+    },
+    {
+      "sectionId": "gc",
+      "type": "文法選擇",
+      "label": "文法選擇",
+      "questionIds": [
+        "B1-U02-GC-01",
+        "B1-U02-GC-02",
+        "B1-U02-GC-03",
+        "B1-U02-GC-04",
+        "B1-U02-GC-05",
+        "B1-U02-GC-06",
+        "B1-U02-GC-07",
+        "B1-U02-GC-08",
+        "B1-U02-GC-09",
+        "B1-U02-GC-10",
+        "B1-U02-GC-11",
+        "B1-U02-GC-12",
+        "B1-U02-GC-13",
+        "B1-U02-GC-14",
+        "B1-U02-GC-15",
+        "B1-U02-GC-16",
+        "B1-U02-GC-17",
+        "B1-U02-GC-18",
+        "B1-U02-GC-19",
+        "B1-U02-GC-20"
+      ]
+    },
+    {
+      "sectionId": "ct",
+      "type": "課文挖空",
+      "label": "課文挖空",
+      "questionIds": [
+        "B1-U02-CT-01",
+        "B1-U02-CT-02"
+      ]
+    },
+    {
+      "sectionId": "cc",
+      "type": "課文綜合",
+      "label": "課文綜合",
+      "questionIds": [
+        "B1-U02-CC-01",
+        "B1-U02-CC-02",
+        "B1-U02-CC-03"
+      ]
+    },
+    {
+      "sectionId": "cl",
+      "type": "綜合測驗",
+      "label": "綜合測驗",
+      "questionIds": [
+        "B1-U02-CL-01",
+        "B1-U02-CL-02",
+        "B1-U02-CL-03"
+      ]
+    },
+    {
+      "sectionId": "tr",
+      "type": "文意選填",
+      "label": "文意選填",
+      "questionIds": [
+        "B1-U02-TR-01",
+        "B1-U02-TR-02",
+        "B1-U02-TR-03",
+        "B1-U02-TR-04",
+        "B1-U02-TR-05",
+        "B1-U02-TR-06"
+      ]
+    },
+    {
+      "sectionId": "ds",
+      "type": "篇章結構",
+      "label": "篇章結構",
+      "questionIds": [
+        "B1-U02-DS-01",
+        "B1-U02-DS-02",
+        "B1-U02-DS-03",
+        "B1-U02-DS-04",
+        "B1-U02-DS-05"
+      ]
+    },
+    {
+      "sectionId": "rd",
+      "type": "閱讀測驗",
+      "label": "閱讀測驗",
+      "questionIds": [
+        "B1-U02-RD-01",
+        "B1-U02-RD-02",
+        "B1-U02-RD-03",
+        "B1-U02-RD-04",
+        "B1-U02-RD-05",
+        "B1-U02-RD-06"
+      ]
+    },
+    {
+      "sectionId": "lr",
+      "type": "素養閱讀",
+      "label": "素養閱讀",
+      "questionIds": [
+        "B1-U02-LR-01",
+        "B1-U02-LR-02",
+        "B1-U02-LR-03"
+      ]
+    },
+    {
+      "sectionId": "tg",
+      "type": "引導翻譯",
+      "label": "引導翻譯",
+      "questionIds": [
+        "B1-U02-TG-01",
+        "B1-U02-TG-02",
+        "B1-U02-TG-03",
+        "B1-U02-TG-04",
+        "B1-U02-TG-05",
+        "B1-U02-TG-06"
+      ]
+    },
+    {
+      "sectionId": "ts",
+      "type": "整句翻譯",
+      "label": "整句翻譯",
+      "questionIds": [
+        "B1-U02-TS-01",
+        "B1-U02-TS-02",
+        "B1-U02-TS-03",
+        "B1-U02-TS-04",
+        "B1-U02-TS-05",
+        "B1-U02-TS-06",
+        "B1-U02-TS-07",
+        "B1-U02-TS-08",
+        "B1-U02-TS-09",
+        "B1-U02-TS-10"
+      ]
+    },
+    {
+      "sectionId": "tc",
+      "type": "連貫翻譯",
+      "label": "連貫翻譯",
+      "questionIds": [
+        "B1-U02-TC-01",
+        "B1-U02-TC-02",
+        "B1-U02-TC-03",
+        "B1-U02-TC-04",
+        "B1-U02-TC-05"
+      ]
+    },
+    {
+      "sectionId": "es",
+      "type": "作文",
+      "label": "作文",
+      "questionIds": [
+        "B1-U02-ES-01"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "B1-U02-VF-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 1,
+      "text": "The local people held a d______n against building a new factory in their neighborhood.",
+      "answer": "demonstration",
+      "translation": "",
+      "analysis": "解題關鍵：\ndemonstration 為名詞，意為「抗議；示威遊行」。此處使用動詞片語 hold a demonstration against...，表示「舉行反對……的示威抗議」。其中 against 為介系詞（反對），後方接動名詞短語。\n\n前後文線索：\n後半句提到 “against building a new factory in their neighborhood”（反對在他們社區建造新工廠），當地方居民反對某項建設時，會採取「示威抗議」的行動，故選 demonstration。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 2,
+      "text": "The Internet plays an important role in communication in modern s______y.",
+      "answer": "society",
+      "translation": "",
+      "analysis": "解題關鍵：\nsociety 為名詞，意為「社會」。in modern society 是高中極常見的固定介系詞短語，意為「在現代社會中」，其中 modern（現代的）為形容詞修飾不可數名詞 society。\n\n前後文線索：\n前半句提及 “The Internet plays an important role in communication”（網路在通訊中扮演重要角色），網路普及所深刻影響並改變的範疇，即是整個「現代社會」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 3,
+      "text": "One thing that many visitors want to do when they go to New York is to see the v_____w from the Empire State Building.",
+      "answer": "view",
+      "translation": "",
+      "analysis": "解題關鍵：\nview 在此作可數名詞，意為「景觀；視野；風景」，通常指從某個高處或特定位置眺望出去的景色。\n\n前後文線索：\n後半句指出地點 “from the Empire State Building”（從帝國大廈）。帝國大廈是紐約著名的摩天大樓地標，遊客登高最主要的目的就是為了鳥瞰、欣賞城市的「風景/景觀」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 4,
+      "text": "It is important to r______t your parents or anyone older than you when talking to them.",
+      "answer": "respect",
+      "translation": "",
+      "analysis": "解題關鍵：\nrespect 在此作及物動詞，意為「尊重；敬重」。本句採用 It is important to + 原形動詞 的虛主詞句型，強調做某事是重要的。\n\n前後文線索：\n由受詞 “your parents or anyone older than you”（你的父母或任何比你年長的人）以及時間副詞子句 “when talking to them”（與他們說話時）的社會倫理脈絡，可知傳統美德所指的便是要「尊重」長輩。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 5,
+      "text": "The duck is floating on the s______ce of the water.",
+      "answer": "surface",
+      "translation": "",
+      "analysis": "解題關鍵：\nsurface 為名詞，意為「表面」。on the surface of... 為固定介系詞短語，意為「在……的表面上/水面上」。\n\n前後文線索：\n前半句的主詞與動詞為 “The duck is floating”（鴨子正浮著），結合後半句 “of the water”（水），既然是「浮」，其物理位置必然是在水的「表面」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-06",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 6,
+      "text": "Tom works very hard in order to find ways to deal with the i______ue of bad working conditions.",
+      "answer": "issue",
+      "translation": "",
+      "analysis": "解題關鍵：\nissue 為名詞，意為「議題；問題」。常見片語為 the issue of...（……的議題/問題），常指需要被社會、組織大眾討論或解決的核心焦點。\n\n前後文線索：\n後半句提及 “bad working conditions”（糟糕的工作條件），這是一個勞工環境中急需被「處理（deal with）」的社會「議題/問題」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-07",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 7,
+      "text": "In this video game, players can move on to the next r______k by winning matches against other players.",
+      "answer": "rank",
+      "translation": "",
+      "analysis": "解題關鍵：\nrank 為名詞，意為「等級；階級；排名」。move on to the next rank 意為「晉級到下一個等級/段位」。\n\n前後文線索：\n前半句設定場景 “In this video game”（在這款電玩遊戲中），後半句指明方法 “by winning matches against other players”（透過贏得與其他玩家的比賽），綜合兩者可知，贏比賽能讓玩家在遊戲體系中提升「等級/排位」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-08",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 8,
+      "text": "If you want to apply for any e______ge program in university, you should begin practicing your English speaking skills.",
+      "answer": "exchange",
+      "translation": "",
+      "analysis": "解題關鍵：\nexchange 在此作名詞，與後方的 program 組成複合名詞 exchange program，意為「交換計畫（如交換學生計畫）」。\n\n前後文線索：\n由後半句 “you should begin practicing your English speaking skills”（你應該開始練習你的英文口說能力），可知在大學（in university）裡會嚴格要求良好外語口說能力的學術計畫，即為出國的「交換」學生計畫。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-09",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 9,
+      "text": "Because of the cold front, the thermometer recorded a t______ure of eight degrees Celsius outside.",
+      "answer": "temperature",
+      "translation": "",
+      "analysis": "解題關鍵：\ntemperature 為名詞，意為「溫度；氣溫」。固定片語為 a temperature of + 具體度數（……的溫度）。\n\n前後文線索：\n前半句提及因果關係 “Because of the cold front”（因為冷氣團），主句則出現 “the thermometer recorded”（溫度計記錄了）以及 “eight degrees Celsius outside”（室外攝氏八度），這些科學測量與氣候線索直接對應「溫度」一字。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-10",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 10,
+      "text": "The effects in the film are of very bad q______y because of not having enough money.",
+      "answer": "quality",
+      "translation": "",
+      "analysis": "解題關鍵：\nquality 為名詞，意為「品質」。文法結構 be + of + 抽象名詞 可轉化為形容詞用法，因此 are of very bad quality 即相當於 are of very poor quality（品質很差）。\n\n前後文線索：\n後半句給出原因 “because of not having enough money”（因為沒有足夠的錢），在電影製作中預算、經費嚴重不足，最直接導致的後果就是特效（effects）的「品質」低劣。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-11",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 11,
+      "text": "The meat was so t______er that even older people could eat it without any difficulty.",
+      "answer": "tender",
+      "translation": "",
+      "analysis": "解題關鍵：\ntender 為形容詞，用來形容肉質「軟嫩的；嫩的」。此處搭配高中的核心結果句型 so + 形容詞 + that + 子句（如此……以至於……）。\n\n前後文線索：\n前半句的主詞為 “The meat”（肉），後半句說明結果 “even older people could eat it without any difficulty”（連年長者都能毫不費力地享用），老人家牙口不好也能輕鬆咬動，證明這肉質非常「軟嫩」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-12",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 12,
+      "text": "With its colorful history, Toronto is an ethnically d______se city.",
+      "answer": "diverse",
+      "translation": "",
+      "analysis": "解題關鍵：\ndiverse 為形容詞，意為「多元的；多樣化的」。本句採用副詞修飾形容詞的結構，ethnically diverse 意為「在種族、民族上非常多元的」，用來修飾後方的名詞 city。\n\n前後文線索：\n前半句提到背景 “With its colorful history”（憑藉其豐富多采的歷史），主詞為著名移民大城 “Toronto”（多倫多），前後文呼應出這座城市具備「多元」文化的特色。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-13",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 13,
+      "text": "The doctor asked the patient to b______the in and out to check if he has this rare disease.",
+      "answer": "breathe",
+      "translation": "",
+      "analysis": "解題關鍵：\nbreathe 為動詞，意為「呼吸」。片語 breathe in and out 意為「吸氣與呼氣」。句型為 ask someone to + 原形動詞。\n\n前後文線索：\n由主詞 “The doctor”（醫生）、受詞 “the patient”（病人），以及後方的方向副詞 “in and out”（呼與吸）可知，醫生在做聽診或胸腔檢查時，最標準的指令就是要求病人進行「呼吸」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-14",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 14,
+      "text": "Experts recommend that children begin learning how to write at least after they are five years old because that is the time they are physically m______ure for the task.",
+      "answer": "mature",
+      "translation": "",
+      "analysis": "解題關鍵：\nmature 為形容詞，意為「成熟的；發育完全的」。physically mature 意為「生理上/身體發育上成熟的」，置於連綴動詞 are 後方充當主詞補語。\n\n前後文線索：\n前文提到專家建議孩子學寫字要「至少滿五歲之後（after they are five years old）」，因為那是他們在生理發展上（physically）對於寫字這項精細動作任務達到足夠「成熟」的時機。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-15",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 15,
+      "text": "Anne is a(n) i______ve badminton player, winning match after match without showing any sign of feeling tired.",
+      "answer": "impressive",
+      "translation": "",
+      "analysis": "解題關鍵：\nimpressive 為形容詞，意為「令人印象深刻的；了不起的」，在句中修飾後方的名詞短語 badminton player。\n\n前後文線索：\n後半句的分詞短語 “winning match after match without showing any sign of feeling tired”（接連贏得一場又一場的比賽，且毫無疲態），這種強悍、過人的表現非常「令人印象深刻」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-16",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 16,
+      "text": "The i______n of machines enabled farmers to grow crops better.",
+      "answer": "introduction",
+      "translation": "",
+      "analysis": "解題關鍵：\nintroduction 在此處非指自我介紹，而是指新技術、新器械的「引進；採用；傳入」。結構為 The introduction of + 東西（……的引進）。\n\n前後文線索：\n後半句提到效益 “enabled farmers to grow crops better”（使得農民能夠更好地種植作物），農夫能提升農業生產力，是由於新式機器被「引進」或採用。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-17",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 17,
+      "text": "Eating healthy food helps your body get a wide v______y of vitamins and minerals.",
+      "answer": "variety",
+      "translation": "",
+      "analysis": "解題關鍵：\nvariety 為名詞。高中極核心的固定量詞片語為 a wide variety of + 複數名詞，意為「各式各樣的；多種多樣的」。\n\n前後文線索：\n前半句為 “Eating healthy food helps your body...”（吃健康食物能幫助身體……），後半句則是 “of vitamins and minerals”（維生素與礦物質），健康飲食的核心就是均衡攝取「各式各樣」的營養素。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-18",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 18,
+      "text": "John and Mary belong to different p______al parties but are still very good friends.",
+      "answer": "political",
+      "translation": "",
+      "analysis": "解題關鍵：\npolitical 為形容詞，意為「政治的」。political parties 為固定專有名詞，意為「政黨」。\n\n前後文線索：\n後半句使用轉折詞 but 提到 “but are still very good friends”（但依然是非常好的朋友），透露出兩人雖然支持不同的「政治」黨派，卻能超越政治立場維持深厚友誼。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-19",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 19,
+      "text": "N______l disasters, such as typhoons and earthquakes, might do damage to our living environment.",
+      "answer": "natural",
+      "translation": "",
+      "analysis": "解題關鍵：\nnatural 為形容詞，意為「自然的；大自然的」。natural disasters 為固定專有名詞，意為「自然災害」。\n\n前後文線索：\n中間的插入語提供了明確的同位語舉例 “such as typhoons and earthquakes”（例如颱風與地震），這些災害在科學分類上皆屬於常見的「自然」災害。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VF-20",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意字彙",
+      "questionNumber": 20,
+      "text": "This nation had gone through a difficult time before it became a d______y.",
+      "answer": "democracy",
+      "translation": "",
+      "analysis": "解題關鍵：\ndemocracy 在此處作可數名詞，意為「民主國家」。不定冠詞 a 的後方必須接單數可數名詞。\n\n前後文線索：\n前半句描述 “This nation had gone through a difficult time”（這個國家曾歷經一段艱難的時光），結合歷史與政治脈絡，威權體制在轉型、蛻變成為一個「民主國家」之前，通常需要走過艱辛的民主化陣痛期。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-WF-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 1,
+      "text": "The student ______ (impressive) the teacher by solving the difficult math problem in front of the class.",
+      "answer": "impressed",
+      "translation": "",
+      "analysis": "解題關鍵：\n本句結構中缺乏主要動詞（The student為主詞，the teacher為受詞）。由括號中的形容詞 impressive 聯想到其動詞形式為 impress（使留下深刻印象）。由於此句描述的是一個在過去發生的具體事件（解開了數學題），動詞須使用過去式，故填 impressed。",
+      "tags": [],
+      "promptHint": "impressive"
+    },
+    {
+      "id": "B1-U02-WF-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 2,
+      "text": "In a ______ (democracy) country, people are given voting rights and freedom of speech.",
+      "answer": "democratic",
+      "translation": "",
+      "analysis": "解題關鍵：\n空格後方的 country 為名詞，前方必須使用形容詞來修飾它。括號內的名詞 democracy（民主）其形容詞形式為 democratic（民主的）。",
+      "tags": [],
+      "promptHint": "democracy"
+    },
+    {
+      "id": "B1-U02-WF-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 3,
+      "text": "The man was elected president even though he did not show any ______ (respect) for women.",
+      "answer": "respect",
+      "translation": "",
+      "analysis": "解題關鍵：\n空格前方有形容詞 any 修飾，且置於及物動詞 show 的後方充當賓語（受詞），此處必須填入名詞。respect 屬於動詞與名詞同形的單字，作不可數名詞，故維持原形 respect。",
+      "tags": [],
+      "promptHint": "respect"
+    },
+    {
+      "id": "B1-U02-WF-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 4,
+      "text": "Calvin works in his aunt’s store near his house in ______ (exchange) for free rent.",
+      "answer": "exchange",
+      "translation": "",
+      "analysis": "解題關鍵：\n此處考查高中必背的固定介系詞片語 in exchange for...，意為「作為交換……；以換取……」。介系詞 in 後方必須接名詞，exchange 作名詞與動詞同形，故填 exchange。",
+      "tags": [],
+      "promptHint": "exchange"
+    },
+    {
+      "id": "B1-U02-WF-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 5,
+      "text": "Language ______ (diverse) describes how different groups of people use their language and how they communicate with each other.",
+      "answer": "diversity",
+      "translation": "",
+      "analysis": "解題關鍵：\n本句的主要動詞為單數的 describes，前方整個區塊為主要主詞。此處需與 Language 結合成複合名詞（Noun + Noun）來代表一個抽象概念「語言多樣性」。括號中形容詞 diverse 的名詞形式為 diversity。",
+      "tags": [],
+      "promptHint": "diverse"
+    },
+    {
+      "id": "B1-U02-WF-06",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 6,
+      "text": "The fact that Sandy skipped class could be ______ (view) as her way of dealing with stress.",
+      "answer": "viewed",
+      "translation": "",
+      "analysis": "解題關鍵：\n此處考查固定動詞片語 view A as B（將A視為B）的被動語態結構。句子主詞為 The fact，在助動詞與不定詞 could be 之後，必須接過去分詞（p.p.）形成被動語態（be + V-ed），意為「被視為」，故填 viewed。",
+      "tags": [],
+      "promptHint": "view"
+    },
+    {
+      "id": "B1-U02-WF-07",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 7,
+      "text": "Sue’s great desire to serve the people in her country led to her decision to go into ______ (political).",
+      "answer": "politics",
+      "translation": "",
+      "analysis": "解題關鍵：\n固定片語 go into politics 意為「從政；投身政治界」。介系詞 into 後方必須填入名詞，括號中形容詞 political 的名詞形式（指政治這門學問或政治界）為 politics（恆用複數形式但視為不可數概念）。",
+      "tags": [],
+      "promptHint": "political"
+    },
+    {
+      "id": "B1-U02-WF-08",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 8,
+      "text": "When you feel like the stress from work is too much for you to handle, take a deep ______ (breathe) and count to twenty.",
+      "answer": "breath",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查常用動詞片語 take a breath（呼吸）。空格前方有不定冠詞 a 與形容詞 deep（深的），後面必定要接單數可數名詞。括號內動詞 breathe（呼吸）的名詞形式為 breath（氣息；呼吸）。",
+      "tags": [],
+      "promptHint": "breathe"
+    },
+    {
+      "id": "B1-U02-WF-09",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 9,
+      "text": "The class “An ______ (introduce) to Chemistry” is designed for students who just began to study the subject.",
+      "answer": "Introduction",
+      "translation": "",
+      "analysis": "解題關鍵：\n此處為某一門課程的名稱，結構為 An Introduction to + 學科，意為「……導論/入門」。在不定冠詞 An 的後方需填入名詞，動詞 introduce 的名詞形式為 introduction。另外，因為是專有名詞（書名/課名）的一部分，首字母必須大寫。",
+      "tags": [],
+      "promptHint": "introduce"
+    },
+    {
+      "id": "B1-U02-WF-10",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 10,
+      "text": "When many people do not have a job, it can result in ______ (society) problems.",
+      "answer": "social",
+      "translation": "",
+      "analysis": "解題關鍵：\n空格後方的 problems 為名詞，前方需要形容詞來修飾。括號內名詞 society（社會）的形容詞形式為 social（社會的），social problems 即指「社會問題」。",
+      "tags": [],
+      "promptHint": "society"
+    },
+    {
+      "id": "B1-U02-WF-11",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 11,
+      "text": "Amy hopes that can move up to a higher ______ (rank) in her class, so she studies very hard.",
+      "answer": "rank",
+      "translation": "",
+      "analysis": "解題關鍵：\n空格位於限定詞 a 與形容詞比較級 higher 之後，此位置必須填入名詞。rank 本身可作動詞亦可作名詞（階級；名次），在此作可數名詞，故維持 rank。",
+      "tags": [],
+      "promptHint": "rank"
+    },
+    {
+      "id": "B1-U02-WF-12",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "詞類變化",
+      "questionNumber": 12,
+      "text": "The museum houses ______ (variety) ancient books collected from all over the world.",
+      "answer": "various",
+      "translation": "",
+      "analysis": "解題關鍵：\n空格後方 ancient books 為名詞短語，前方需要形容詞進行修飾。名詞 variety 的形容詞形式為 various（各式各樣的），功能相當於 many 或 different kinds of。",
+      "tags": [],
+      "promptHint": "variety"
+    },
+    {
+      "id": "B1-U02-VC-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 1,
+      "text": "Thank you very much for traveling on the Taipei metro. We really _____ seeing you again.",
+      "options": [
+        "(A) have a lot on our plate",
+        "(B) in the near future",
+        "(C) look forward to",
+        "(D) deal with"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\nlook forward to 意為「期待；盼望」，這是一個高中的核心片語，其中 to 為介系詞，後面必須接動名詞（V-ing）或名詞。句中的 seeing you again 正是 V-ing 形式，文法完美契合。選項(A)極忙碌、(D)處理，皆不符句意；(B)為副詞片語，此處缺動詞。\n\n前後文線索：\n前句提到 “Thank you very much for traveling on the Taipei metro.”（非常感謝您搭乘台北捷運），這是大眾運輸系統標準的廣播詞，後方自然是接著說「期待」再次見到乘客。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 2,
+      "text": "Please get out of my way. You are blocking my _____ of the beautiful sunset.",
+      "options": [
+        "(A) surface",
+        "(B) variety",
+        "(C) quality",
+        "(D) view"
+      ],
+      "answer": "D",
+      "translation": "",
+      "analysis": "解題關鍵：\nblocking one's view of... 為固定的語意搭配，意為「擋住某人欣賞……的視線/視野」。\n\n前後文線索：\n前句帶有強烈命令語氣 “Please get out of my way”（請讓開/別擋路），後半句提到 “of the beautiful sunset”（美麗的夕陽），可見說話者是因為別人站著擋住了他看夕陽的「視野/視線（view）」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 3,
+      "text": "The little boy watched the duck float on the _____ of the water.",
+      "options": [
+        "(A) breath",
+        "(B) surface",
+        "(C) rank",
+        "(D) democracy"
+      ],
+      "answer": "B",
+      "translation": "",
+      "analysis": "解題關鍵：\non the surface of the water 為固定搭配，意為「在水面上」。\n\n前後文線索：\n句中關鍵字為 “duck float”（鴨子漂浮），鴨子划水、漂浮的物理位置必定是在水的「表面（surface）」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 4,
+      "text": "male gorillas have several physical characteristics that help to pursue mates.",
+      "options": [
+        "(A) Political",
+        "(B) Impressive",
+        "(C) Mature",
+        "(D) Social"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\nMature（成熟的）為形容詞，在句首修飾複數名詞主詞 male gorillas（雄性大猩猩）。\n\n前後文線索：\n後半句指出 “have several physical characteristics that help to pursue mates”（擁有幾種有助於追求配偶、求偶的身體特徵），在生物界中，只有發育「成熟的（mature）」個體才具備求偶的能力與特徵。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 5,
+      "text": "The famous artist was first _____ to the world of art at a very young age.",
+      "options": [
+        "(A) matured",
+        "(B) viewed",
+        "(C) ranked",
+        "(D) introduced"
+      ],
+      "answer": "D",
+      "translation": "",
+      "analysis": "解題關鍵：\n本句使用被動語態 was + past participle (p.p.)。固定片語 be introduced to + 領域名詞 意為「被引領進入……的世界/初次接觸……」。\n\n前後文線索：\n後半句提到 “to the world of art at a very young age”（在很年輕的時候進入藝術世界），搭配藝術家的生平背景，表示他幼年時第一次「被引介/接觸（introduced）」到藝術。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-06",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 6,
+      "text": "People enjoy a lot of conveniences like the refrigerator and the air conditioner in modern _____.",
+      "options": [
+        "(A) rank",
+        "(B) issue",
+        "(C) society",
+        "(D) quality"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\nin modern society 意為「在現代社會中」，形容詞修飾名詞的常見固定搭配。\n\n前後文線索：\n句中舉出具體例證 “conveniences like the refrigerator and the air conditioner”（像冰箱和冷氣機等諸多便利科技），這些便利的生活器物都是生活在「現代社會」的人們才能享受到的。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-07",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 7,
+      "text": "Alison had _____ given up before the police gave her a call and told her that they found her missing daughter.",
+      "options": [
+        "(A) in fact",
+        "(B) looked forward to",
+        "(C) in the near future",
+        "(D) in addition"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\nin fact 為副詞片語，意為「事實上；實際上」，常用於修飾整個句子或動詞，在此置於過去完成式 had + p.p. 之間充當修飾語。\n\n前後文線索：\n後半句描述 “before the police gave her a call and told her that they found her missing daughter”（在警方打電話給她說找到她失蹤的女兒之前），代表在奇蹟發生前，她「事實上（in fact）」內心早已絕望放棄了。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-08",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 8,
+      "text": "The magnificent sunrise of Ali Mountain _____ those foreign visitors and made their trip memorable.",
+      "options": [
+        "(A) introduced",
+        "(B) exchanged",
+        "(C) impressed",
+        "(D) respected"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\nimpressed 為及物動詞的過去式，句型 A impressed B 意為「A（事物）給B（人）留下深刻印象/令B讚歎」。\n\n前後文線索：\n主詞是 “The magnificent sunrise of Ali Mountain”（阿里山壯麗的日出），後半句說 “made their trip memorable”（讓他們的旅行永生難忘），這說明阿里山的美景深深地「震撼/使留下深刻印象（impressed）」了外國遊客。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-09",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 9,
+      "text": "The mother gave the tired kid a _____ smile to encourage him to finish the race.",
+      "options": [
+        "(A) tender",
+        "(B) democratic",
+        "(C) diverse",
+        "(D) political"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\ntender 為形容詞，意為「溫柔的；慈愛的」，修飾後方的名詞 smile。\n\n前後文線索：\n句中關鍵字為 “The mother”（母親）與 “tired kid”（疲憊的孩子），當孩子累了、母親為了「鼓勵他（encourage him）」繼續跑完比賽，此時展現出來的眼神與笑容必然是「溫柔慈愛的（tender）」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-10",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 10,
+      "text": "The workers held a fierce _____ against the unexpected firing of the senior staff in the company.",
+      "options": [
+        "(A) temperature",
+        "(B) society",
+        "(C) demonstration",
+        "(D) breath"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\nhold a demonstration against... 為固定動詞片語搭配，意為「舉行示威抗議以反對……」。\n\n前後文線索：\n後半句給出原因 “against the unexpected firing of the senior staff in the company”（反對公司突然、毫無預警地解雇資深員工），當勞工權益受損、引發集體憤怒時，工人們便會集結舉行激烈的「示威抗議（demonstration）」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-11",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 11,
+      "text": "My uncle used to exercise a lot, but now he will be out of _____ even after ten push-ups.",
+      "options": [
+        "(A) democracy",
+        "(B) temperature",
+        "(C) breath",
+        "(D) rank"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查經典高中的固定成語片語 be out of breath，意為「喘不過氣；氣喘吁吁」。\n\n前後文線索：\n前半句提及 “used to exercise a lot”（以前常常大量運動），中間用轉折詞 but 表明現況退步，後半句說 “even after ten push-ups”（甚至只做了十個伏地挺身之後）就會體力不支，這代表他現在變得非常容易「喘不過氣」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-12",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 12,
+      "text": "Even though Grace and Dan have very different _____ views. They still get along well.",
+      "options": [
+        "(A) natural",
+        "(B) diverse",
+        "(C) political",
+        "(D) various"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\npolitical views 為固定常見的詞彙搭配，意為「政治觀點；政治立場」。\n\n前後文線索：\n前半句用引導讓步子句的 “Even though... very different... views”（雖然有非常不同的觀點），後半句卻轉折說 “They still get along well”（他們依然相處融洽），在社會互動中，最常因立場對立而吵架、卻能因包容而相處融洽的觀點範疇，即為「政治（political）」觀點。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-13",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 13,
+      "text": "People in the United States do not seem to agree on the _____ of gun control.",
+      "options": [
+        "(A) respect",
+        "(B) issue",
+        "(C) temperature",
+        "(D) rank"
+      ],
+      "answer": "B",
+      "translation": "",
+      "analysis": "解題關鍵：\nthe issue of + 名詞，意為「……的議題/爭議點」。\n\n前後文線索：\n前半句提到 “do not seem to agree on...”（似乎無法達成共識），後半句指出焦點 “gun control”（槍枝管制），在美國社會中，槍枝管制是一個大眾長期爭論、無法妥協的敏感社會「議題（issue）」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-14",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 14,
+      "text": "When buying products, most people would value _____ over quantity.",
+      "options": [
+        "(A) variety",
+        "(B) surface",
+        "(C) quality",
+        "(D) view"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\n固定動詞片語句型 value A over B 意為「看重A勝過B；寧要A也不要B」。\n\n前後文線索：\n後半句的受詞為 quantity（數量）。在日常消費心理與經濟學中，與「數量（quantity）」形成最經典對比與拉鋸的概念，就是產品的「品質（quality）」，即著名的「質重於量」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-15",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 15,
+      "text": "For _____ reasons, the singer made the decision to quit singing and give up his successful career.",
+      "options": [
+        "(A) various",
+        "(B) impressive",
+        "(C) tender",
+        "(D) democratic"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\nvarious 為形容詞，意為「種種的；各式各樣的」，後方必須接複數名詞 reasons。for various reasons 意為「出於諸多原因」。\n\n前後文線索：\n後半句提到 “the singer made the decision to quit singing and give up his successful career”（這名歌手做出退出歌壇並放棄成功事業的決定），像這類演藝生涯的重大引退宣告，背後通常夾雜著身體、家庭、合約等「各種不同的（various）」複雜原因。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-16",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 16,
+      "text": "This news report _____ the nation third among 20 African countries in birth rate.",
+      "options": [
+        "(A) breathes",
+        "(B) ranks",
+        "(C) views",
+        "(D) respects"
+      ],
+      "answer": "B",
+      "translation": "",
+      "analysis": "解題關鍵：\nranks 在此作及物動詞，句型為 rank + 受詞 + 補語，意為「將……排名為……」。因為主詞 This news report 為單數，動詞需加 s。\n\n前後文線索：\n後半句指出 “the nation third among 20 African countries in birth rate”（該國在二十個非洲國家的出生率中名列第三），看到關鍵數字名次 “third”（第三名），即可直接鎖定與排名相關的動詞 ranks。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-17",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 17,
+      "text": "The fall in _____ made many people sick because they did not wear enough clothes to stay warm.",
+      "options": [
+        "(A) temperature",
+        "(B) surface",
+        "(C) quality",
+        "(D) issue"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\nthe fall in temperature 為固定搭配，意為「氣溫下降」。\n\n前後文線索：\n後半句解釋原因 “because they did not wear enough clothes to stay warm”（因為他們衣服穿得不夠多來保暖），衣服穿不夠導致著涼生病（made many people sick），顯然是由於天氣的「溫度（temperature）」驟降。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-18",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 18,
+      "text": "Ann and Betsy _____ looks of shock when they heard that Catherine and I are now in a relationship.",
+      "options": [
+        "(A) exchanged",
+        "(B) breathed",
+        "(C) respected",
+        "(D) impressed"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\nexchange looks 為固定的動詞短語搭配，意為「交換眼神；面面相覷」。此處描述過去發生的動作，使用過去式 exchanged。\n\n前後文線索：\n後半句為時間副詞子句 “when they heard that Catherine and I are now in a relationship”（當她們聽到我和Catherine正在交往時），聽到令人震驚的感情八卦，兩位朋友當下的反應是震驚地「交換（exchanged）」了彼此的眼神。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-19",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 19,
+      "text": "Giving all his life to his country, the king died of _____ causes at the age of 88.",
+      "options": [
+        "(A) social",
+        "(B) natural",
+        "(C) democratic",
+        "(D) tender"
+      ],
+      "answer": "B",
+      "translation": "",
+      "analysis": "解題關鍵：\n片語 die of natural causes 為法律與醫學上的固定專有搭配，意為「死於自然原因（如因衰老而壽終正寢、而非死於謀殺或意外）」。\n\n前後文線索：\n後半句交代了老國王去世的年紀 “at the age of 88”（八十八歲高齡），在沒有提及任何疾病或外力的情況下，高齡過世屬於「自然（natural）」原因。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-20",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 20,
+      "text": "The magazine covers a _____ range of subjects, from medicine and health to art and music.",
+      "options": [
+        "(A) diverse",
+        "(B) political",
+        "(C) natural",
+        "(D) social"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\n高中核心固定片語 a diverse range of... 意為「範圍廣泛且多元多樣的……」，功能相當於 a wide variety of。\n\n前後文線索：\n後半句給出詳細的範圍範例 “from medicine and health to art and music”（從醫學與健康到藝術與音樂），橫跨了理科醫療到文科藝術等完全不相干的領域，這代表雜誌涵蓋的主題非常「多元多樣（diverse）」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-21",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 21,
+      "text": "The king makes all the important decisions and laws in his kingdom, so _____ does not exist there.",
+      "options": [
+        "(A) issue",
+        "(B) temperature",
+        "(C) view",
+        "(D) democracy"
+      ],
+      "answer": "D",
+      "translation": "",
+      "analysis": "解題關鍵：\ndemocracy（民主；民主制度）在此作不可數名詞，在結果連接詞 so 引導的子句中充當主詞。\n\n前後文線索：\n前半句明確指出 “The king makes all the important decisions and laws in his kingdom”（國王獨攬了他王國裡所有重要的決定與法律），這種中央集權的君主專制體制，必然與「民主制度（democracy）」互斥，故民主在該國並不存在。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-VC-22",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "字彙選擇",
+      "questionNumber": 22,
+      "text": "The teacher told the students to watch their attitude when they talked to their parents; he thought it was important to teach his students to _____ their parents.",
+      "options": [
+        "(A) introduce",
+        "(B) rank",
+        "(C) exchange",
+        "(D) respect"
+      ],
+      "answer": "D",
+      "translation": "",
+      "analysis": "解題關鍵：\nrespect 在此作及物動詞，位於不定詞 to 之後，需接原形動詞。\n\n前後文線索：\n前半句提到老師叮嚀學生 “to watch their attitude when they talked to their parents”（跟父母說話時要注意自己的態度），要求注意對長輩說話的態度，其核心目的就是為了教導學生要「尊重（respect）」父母。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 1,
+      "text": "The kids watched the sunset _____ the surface of the sea orange.",
+      "options": [
+        "(A) paint",
+        "(B) to paint",
+        "(C) to be painted",
+        "(D) painted"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\n此題考查感官動詞（Verbs of Perception）的核心主動受詞補語結構。句型為：watch + 受詞(O) + 受詞補語(OC)。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 2,
+      "text": "When Sam took out his key and was about to open the door, he noticed it _____.",
+      "options": [
+        "(A) unlock",
+        "(B) unlocking",
+        "(C) unlocked",
+        "(D) to unlock"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\n此題考查感官動詞的被動受詞補語結構。句型為：notice + 受詞(O) + 受詞補語(OC)。\n當受詞與受詞補語之間為被動關係（即受詞「被……」）時，受詞補語必須使用過去分詞（p.p.）。同樣地，感官動詞後不接 to-V（排除 D）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 3,
+      "text": "After the serious flood, the rescue team noticed several residents _____ on the water, waiting for immediate help.",
+      "options": [
+        "(A) floating",
+        "(B) to be floated",
+        "(C) floated",
+        "(D) to float"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查感官動詞 notice + O + V-ing 句型，用來強調目睹某人事物「當下正在進行」某個主動動作。感官動詞不可接 to-V（排除 B、D）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 4,
+      "text": "Bill and his friends haven’t tried the stinky tofu there before, but they have heard many people _____ about its strong smell.",
+      "options": [
+        "(A) to talk",
+        "(B) talked",
+        "(C) to be talked",
+        "(D) talk"
+      ],
+      "answer": "D",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查感官動詞 hear + O + 原形動詞 的主動結構。感官動詞後排除 to-V（排除 A、C）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 5,
+      "text": "When the student heard herself _____ the singing contest, tears could be seen rolling down her face at once.",
+      "options": [
+        "(A) to win",
+        "(B) won",
+        "(C) winning",
+        "(D) wins"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查感官動詞 hear + O + V-ing 句型，強調聽到某動作在當下正在發生的那一聲響。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-06",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 6,
+      "text": "When Hannah saw Bob _____ by a group of bad guys, she told the teacher right away.",
+      "options": [
+        "(A) to bully",
+        "(B) bullied",
+        "(C) bullying",
+        "(D) were bullied"
+      ],
+      "answer": "B",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查感官動詞+過去分詞（被動關係）。句型為：see + 受詞 + p.p.。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-07",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 7,
+      "text": "At the mall, Sarah watched the elderly lady _____ ten donuts without taking a break.",
+      "options": [
+        "(A) eaten",
+        "(B) eat",
+        "(C) to eat",
+        "(D) ate"
+      ],
+      "answer": "B",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查感官動詞 watch + O + 原形動詞。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-08",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 8,
+      "text": "Renee listened to her friends _____ ideas.",
+      "options": [
+        "(A) exchanged",
+        "(B) to exchange",
+        "(C) exchange",
+        "(D) to be exchanged"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\nlisten to 亦屬於感官動詞短語，後方結構同樣為 listen to + O + 原形動詞/V-ing（主動）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-09",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 9,
+      "text": "After going through hard times together, Rick and Byron saw each other _____ best friends.",
+      "options": [
+        "(A) for",
+        "(B) with",
+        "(C) to be",
+        "(D) as"
+      ],
+      "answer": "D",
+      "translation": "",
+      "analysis": "解題關鍵：\n此題考查高中的重要固定視為動詞片語：see A as B，意為「將A視為B」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-10",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 10,
+      "text": "Mandy saw the stray dog _____ over by a car. Fortunately, it was not seriously injured.",
+      "options": [
+        "(A) run",
+        "(B) ran",
+        "(C) running",
+        "(D) to run"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\n此題考查感官動詞結合動詞片語 run over（車輛輾過……）的被動用法。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-11",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 11,
+      "text": "When the visitor stayed at the motel alone, she saw a dark shadow _____ by the window, which kept her awake all night.",
+      "options": [
+        "(A) pass",
+        "(B) to pass",
+        "(C) passed",
+        "(D) to be passed"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查感官動詞 see + O + 原形動詞。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-12",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 12,
+      "text": "Taiwan is seen _____ a perfect travel destination owing to its beautiful landscapes and friendly people.",
+      "options": [
+        "(A) in",
+        "(B) with",
+        "(C) for",
+        "(D) as"
+      ],
+      "answer": "D",
+      "translation": "",
+      "analysis": "解題關鍵：\n此題考查 see A as B（將A視為B）句型的被動語態結構。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-13",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 13,
+      "text": "The driver accidentally bumped into the tree _____ careless driving.",
+      "options": [
+        "(A) because",
+        "(B) because of",
+        "(C) according to",
+        "(D) since"
+      ],
+      "answer": "B",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查因果連接詞 vs. 因果介系詞短語的語法辨析。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-14",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 14,
+      "text": "The traveler heard the river _____.",
+      "options": [
+        "(A) flowed",
+        "(B) flowing",
+        "(C) to flow",
+        "(D) to be flowed"
+      ],
+      "answer": "B",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查感官動詞 hear + O + V-ing 句型。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-15",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 15,
+      "text": "I was so tired that I couldn’t even feel the house _____ when the strong earthquake hit.",
+      "options": [
+        "(A) shook",
+        "(B) to shake",
+        "(C) shaking",
+        "(D) to be shaken"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查感官動詞 feel + O + V-ing 結構，強調當下主動體感正在進行的震動。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-16",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 16,
+      "text": "The baseball game was canceled _____ the heavy rain.",
+      "options": [
+        "(A) aside from",
+        "(B) apart from",
+        "(C) because of",
+        "(D) in addition to"
+      ],
+      "answer": "C",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查介系詞短語的語意因果邏輯辨析。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-17",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 17,
+      "text": "COVID, the government advised people to wear face masks in public places.",
+      "options": [
+        "(A) Because of",
+        "(B) In addition to",
+        "(C) Except for",
+        "(D) Besides"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查句首介系詞短語的因果語意推導。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-18",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 18,
+      "text": "Susan was scared to death, as she felt her hair _____ while she was walking by herself in the forest.",
+      "options": [
+        "(A) pull",
+        "(B) pulled",
+        "(C) pulling",
+        "(D) to pull"
+      ],
+      "answer": "B",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查感官動詞+過去分詞（被動關係）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-19",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 19,
+      "text": "Daniel considers hiking in the mountains _____ a great way to exercise.",
+      "options": [
+        "(A) as",
+        "(B) with",
+        "(C) for",
+        "(D) to be"
+      ],
+      "answer": "D",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查及物動詞 consider（認為）的核心經典句型。\n常用句型結構為：consider + 受詞 + (to be) + 名詞/形容詞。其中 to be 常常可以被省略，但在正式文法考題中，若選項中完整出現 to be，則為最標準的受詞補語結構。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-GC-20",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文法選擇",
+      "questionNumber": 20,
+      "text": "Because Sabrina and Daphne had been friends for more than thirty years, they actually ______ each other _____ family members.",
+      "options": [
+        "(A) saw; as",
+        "(B) knew; for",
+        "(C) considered; as",
+        "(D) referred; to"
+      ],
+      "answer": "A",
+      "translation": "",
+      "analysis": "解題關鍵：\n考查固定視為動詞片語的搭配用法。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-CT-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "課文挖空",
+      "questionNumber": 1,
+      "text": "Taiwan’s free society is also ___1___. This young democracy is mature and diverse. There were several demonstrations during my stay in Taiwan, and I even joined ___2___ myself. There, I listened to others talk, sing, and ___3___ ideas. I heard people freely express their views ___4___ political and social issues. From this experience, I learned that Taiwanese people may not always see things the same way, but differences are respected.\n    Finally, I am impressed by the good quality of life in Taiwan. One reason ___5___ this is that people here don’t have to worry when they need health care. With Taiwan’s National Health Insurance program, when I visit a doctor, I don’t have to wait long, and it is also inexpensive. In fact, Taiwan’s health care is often ranked best in the world.\n(1)\t(  )",
+      "options": [
+        "(A) impressive",
+        "(B) natural",
+        "(C) tender",
+        "(D) political",
+        "(A) it",
+        "(B) those",
+        "(C) one",
+        "(D) these",
+        "(A) introduce",
+        "(B) exchange",
+        "(C) respect",
+        "(D) breathe",
+        "(A) over",
+        "(B) with",
+        "(C) for",
+        "(D) on",
+        "(A) about",
+        "(B) for",
+        "(C) with",
+        "(D) on"
+      ],
+      "answer": "(1)A　(2)C　(3)B　(4)D　(5)B",
+      "translation": "",
+      "analysis": "(1)解題關鍵： 後方提到 “This young democracy is mature and diverse.”（這個年輕的民主國家成熟且多元），且第二段開頭又說 “Finally, I am impressed by...”（最後，我對……留下深刻印象）。前後文脈絡皆在讚美台灣社會的優點，故選 (A) impressive（令人印象深刻的）。　(2)解題關鍵： 前句提到複數名詞 “several demonstrations”（幾場示威遊行），後半句說「我自己甚至也加入其中……」。這裡指代同類事物中的「單一一個」，文法上需使用不定代名詞 one（等同於 joined a demonstration）。　(3)解題關鍵： 本題考查感官動詞 listen to + O + 原形動詞 的平行對稱結構：talk, sing, and exchange。搭配受詞 ideas（想法），高中的固定動詞片語搭配為 exchange ideas（交流/交換想法）。　(4)解題關鍵： views on + 主題 為固定介系詞搭配，意為「對於……的看法/觀點」。後半句為政治與社會議題（political and social issues），故選 on。　(5)解題關鍵： 固定名詞與介系詞搭配 the reason for + 名詞，意為「……的原因」。此處的 this 指代上一句所說的良好的生活品質（good quality of life）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-CT-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "課文挖空",
+      "questionNumber": 2,
+      "text": "Natural beauty and delicious foods are the soul of Taiwan. Though Taiwan is a small island, it has a wide ___1___ of mountain and ocean views. In Taroko Gorge, I could hear the Liwu River ___2___ while I enjoyed the sight of marble cliffs all around me. Donggang is another place that shouldn’t be missed. On my first visit there, I took a walk along the beach and felt the wind ___3___ against my face. I watched the sunset painting the ocean surface orange ___4___ I breathed in the salty sea air. I also went to a fish market to enjoy some fresh seafood and street foods. Of course, I did not miss the chance to try some tuna. It was so fresh and tender. I also tried the famous oyster omelet. It came at the perfect ___5___ and with a special hot sauce on top. I really loved its strong taste. After this trip, I became a big fan of Taiwan’s delicious foods.\n(1)\t(  )",
+      "options": [
+        "(A) introduction",
+        "(B) quality",
+        "(C) variety",
+        "(D) issue",
+        "(A) flowing",
+        "(B) to flow",
+        "(C) flowed",
+        "(D) to be flowed",
+        "(A) be brushed",
+        "(B) brushing",
+        "(C) to brush",
+        "(D) brushed",
+        "(A) with",
+        "(B) although",
+        "(C) since",
+        "(D) as",
+        "(A) society",
+        "(B) rank",
+        "(C) temperature",
+        "(D) demonstration"
+      ],
+      "answer": "(1)C　(2)A　(3)B　(4)D　(5)C",
+      "translation": "",
+      "analysis": "(1)解題關鍵： 後方出現 “of mountain and ocean views”（山景與海景）。此處考查經典量詞片語 a wide variety of...（各式各樣的……），用來形容台灣地形景觀非常豐富。　(2)解題關鍵： 考查感官動詞用法。hear + 受詞(the Liwu River) + 受詞補語。河流流動（flow）為主動，且流水是持續進行的自然狀態，故受詞補語使用現在分詞 flowing。　(3)解題關鍵： 考查感官動詞用法。feel + 受詞(the wind) + 受詞補語。微風拂過（brush）臉龐為主動關係，且強調當時正在享受微風吹拂的當下體感，故選現在分詞 brushing。　(4)解題關鍵： 此處的 as 為從屬連接詞，意為「當……的時候；伴隨著……」，功能等同於 when 或 while，用來連接兩個同時發生的動作（看著夕陽將海面染成橙色，同時呼吸著鹹鹹的海風）。　(5)解題關鍵： 本段的場景在描述魚市場的美食與著名的蚵仔煎（oyster omelet）。好吃的熱食送到桌上時，「溫度（temperature）」恰到好處，故選 (C)。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-CC-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "課文綜合",
+      "questionNumber": 1,
+      "text": "Hi, I am Jessica, an Italian influencer. I have been living in Taiwan for several years. What is __1__ is the freedom of speech and democracy. I think that our democractic development is so mature that people can be heard __2__ their opinions on political and social issues. Most importantly, I have ever joined in a(n) __3__ and listened to their appeal to the government. As for me, I consider it important to __4__ others and learn the differences between each other.\n    Besides politics, the medical care system enhances the __5__ of life. __6__ Taiwan’s National Health Insurance Plan, the waiting time to see doctor is greatly shortened. __7__, low fees are quaranteed after medical treatment. In fact, Taiwan’s Healthcare __8__ number one in the world. No wonder most people would regard Taiwan __9__ the best country to visit. I am looking forward to __10__ Taiwan to the world. You must pay a visit here! \n(1)\t(  )",
+      "options": [
+        "(A) diverse",
+        "(B) tender",
+        "(C) impressive",
+        "(D) social",
+        "(A) to be expressing",
+        "(B) expressed",
+        "(C) to be expressed",
+        "(D) expressing",
+        "(A) demonstration",
+        "(B) society",
+        "(C) experiment",
+        "(D) variety",
+        "(A) mature",
+        "(B) introduce",
+        "(C) breathe",
+        "(D) respect",
+        "(A) impression",
+        "(B) quality",
+        "(C) temperature",
+        "(D) issue",
+        "(A) For",
+        "(B) Without",
+        "(C) With",
+        "(D) As",
+        "(A) Thus",
+        "(B) Moreover",
+        "(C) However",
+        "(D) Yet",
+        "(A) is ranking",
+        "(B) ranking",
+        "(C) is ranked",
+        "(D) ranked",
+        "(A) to",
+        "(B) with",
+        "(C) for",
+        "(D) as",
+        "(A) promoting",
+        "(B) promoted",
+        "(C) to be promoted",
+        "(D) promote"
+      ],
+      "answer": "(1)C　(2)D　(3)A　(4)D　(5)B　(6)C　(7)B　(8)C　(9)D　(10)A",
+      "translation": "",
+      "analysis": "(1)解題關鍵： 本句結構為 What is + 形容詞 引導的主詞子句。作者 Jessica 在台灣生活多年，後半句提到言論自由與民主，這些正向的國家特質是令外國人感到「印象深刻的（impressive）」。　(2)解題關鍵： 此處為感官動詞被動語態的延伸。主動結構為 We can hear people expressing their opinions。當受詞 people 移至前方變為被動語態 people can be heard 時，後方原本進行中的受詞補語 V-ing（expressing）必須予以保留，代表人們發表意見的動作正在發生。　(3)解題關鍵： 後方提到 “listened to their appeal to the government”（聽取他們對政府的訴求），在大眾政治參與中，會向政府集體表達訴求的活動即為「示威遊行/抗議（demonstration）」。　(4)解題關鍵： 後半句提到 “learn the differences between each other”（學習彼此之間的差異），面對多元與文化差異，最重要、最成熟的態度就是「尊重（respect）」他人。　(5)解題關鍵： 後文提到了台灣著名的全民健保計畫（National Health Insurance Plan）讓看病更有效率且便宜，這套優良的醫療制度大幅提升了人民的「生活品質（quality of life）」。　(6)解題關鍵： With + 萬物/制度 在此處作為介系詞，意為「有了……；憑藉著……」，用來帶出後面看病時間縮短的利好條件。　(7)解題關鍵： 前一句說看病時間縮短（時間優勢），此句說保證醫療費用低廉（價格優勢）。前後兩句皆在論述健保的優點，屬於遞進關係，故選轉折副詞 Moreover（此外；而且）。　(8)解題關鍵： 台灣的醫療照護（Taiwan’s Healthcare）本身是被客觀「排名/評為」世界第一，需使用被動語態 be + p.p.，主詞為單數，故選 is ranked。　(9)解題關鍵： 考查高中的必背固定動詞片語：regard A as B（將A視為B）。　(10)解題關鍵： 考查經典文法 look forward to + V-ing。此處的 to 是介系詞，後方必須接動名詞，故選 promoting（推廣）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-CC-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "課文綜合",
+      "questionNumber": 2,
+      "text": "Taiwan is a country that I want to introduce to you today. As a professional traveler, I noticed Taiwan is ranked top twenty on the list of the must visited countries in the world. Once you visit here, you would totally __1__ this. Mother nature and __2__ are breathtaking. For example, in Taroko Gorge, you can see the waterfall __3__ and enjoy the magnificent sights of marble cliffs. When it comes to the local places, Donggang is __4__ place you should not miss. The Burning of the Wangye Boat, a religious festival held every three years, is like a pilgrimage that everyone should go on. __5__, you should taste three well-known treasures of Donggang: bluefin tuna, sakura shrimp, and roes of escolar and oilfishm, just to name a few. Feel excited? Pay a visit right now. \n(1)\t(  )",
+      "options": [
+        "(A) look forward to",
+        "(B) keep up with",
+        "(C) agree with",
+        "(D) cater to",
+        "(A) quality",
+        "(B) society",
+        "(C) respect",
+        "(D) scenery",
+        "(A) to be splashing",
+        "(B) to be splashed",
+        "(C) splashing",
+        "(D) splashed",
+        "(A) other",
+        "(B) others",
+        "(C) the other",
+        "(D) another",
+        "(A) Therefore",
+        "(B) Besides",
+        "(C) Yet",
+        "(D) However"
+      ],
+      "answer": "(1)C　(2)D　(3)C　(4)D　(5)B",
+      "translation": "",
+      "analysis": "(1)解題關鍵： 前句提到台灣被評為全球前20大必訪國家之一。作者說只要你親自來過一次，你就會完全「同意（agree with）」這項說法。　(2)解題關鍵： 前文的主詞是 “Mother nature”（大自然），後方舉例 “Taroko Gorge, waterfall, marble cliffs”（太魯閣峽谷、瀑布、大理石峭壁），這些皆屬於大自然與「風景（scenery）」的範疇。　(3)解題關鍵： 考查感官動詞用法 see + 受詞(the waterfall) + 受詞補語。瀑布四處噴濺（splash）為主動關係，且動態感十足，故選現在分詞 splashing。　(4)解題關鍵： 前段剛介紹完第一個景點花蓮太魯閣，這段引進新景點東港。當在文章中要介紹「另一個（未指定、非最後一個）」景點時，文法上使用 another + 單數名詞。　(5)解題關鍵： 前一句介紹了東港著名的迎王燒王船宗教慶典（活動文化），這句引進東港黑鮪魚、櫻花蝦等美食。兩者皆是推薦去東港的理由，具備遞進關係，故選副詞 Besides（此外）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-CC-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "課文綜合",
+      "questionNumber": 3,
+      "text": "Have you ever visited Chiayi? There are several destinations you must visit once in a lifetime. Alishan is located in Chiayi County, toward the southern end of Taiwan, between Taichung and Tainan. Alishan is a(n) __1__ place to catch the sunrise and sunset. The __2__ from this mountain are so stunning that we could not leave it out. Also, if you get up early, you can __3__ the fresh air in the forests. \n    In addition to Alishan, Dongshi is a town in Chiayi you can check out. You can feel salty sea air softly __4__ your face, urging you to go to the fish market to eat some fresh seafood and street food. You must try the famous oyster omelet. It is usually well-cooked and deep-fried. The crispy texture and the tasty sauce always make the food mouth-watering. __5__ all the special things to do, Chiayi is indeed a diverse city in Taiwan. Perhaps you can plan a two-day trip to this lovely city. \n(1)\t(  )",
+      "options": [
+        "(A) impressive",
+        "(B) tender",
+        "(C) various",
+        "(D) mature",
+        "(A) issues",
+        "(B) temperatures",
+        "(C) views",
+        "(D) varieties",
+        "(A) respect",
+        "(B) breathe",
+        "(C) exchange",
+        "(D) demostrate",
+        "(A) to be touched",
+        "(B) to touch",
+        "(C) touching",
+        "(D) touched",
+        "(A) Because",
+        "(B) Since",
+        "(C) As",
+        "(D) Because of"
+      ],
+      "answer": "(1)A　(2)C　(3)B　(4)C　(5)D",
+      "translation": "",
+      "analysis": "(1)解題關鍵： 後方提到 “The views from this mountain are so stunning...”（這座山的景色是如此震撼……）。能讓人捕捉到如此美麗的日出日落，阿里山無疑是一個「令人印象深刻的（impressive）」地方。　(2)解題關鍵： 由動詞 are 可知主詞需為複數名詞。結合前文 “catch the sunrise and sunset”（捕捉日出日落）與 “stunning”（震撼迷人的），這座山看出去的「景觀/視野（views）」令人讚嘆。　(3)解題關鍵： 後方的受詞是 “the fresh air in the forests”（森林裡的清新空氣）。人類對於空氣能做的主動動作就是「呼吸（breathe）」。　(4)解題關鍵： 考查感官動詞用法。feel + 受詞(salty sea air) + 受詞補語。海風輕輕吹拂、觸碰（touch）皮膚為主動關係，故受詞補語使用現在分詞 touching，增添文學描述的當下動態感。　(5)解題關鍵： 空格後方為名詞短語 “all the special things to do”（所有可以做的特別事情），後半句為結果句。此處需要一個介系詞短語來表達原因，故選 Because of。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-CL-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "綜合測驗",
+      "questionNumber": 1,
+      "text": "I’m a lucky guy. My parents have taken me to so many places in Taiwan. Still, one place sticks out in my mind as ‘the most beautiful,” and __1__ is Lan Yu.\n    Lan Yu is located about fifty kilometers off the __2__ of Taitung County. Most people take a small airplane to visit Lan Yu. From the air, the mountaintops peak out from the clouds __3__ you approach this magical island. As the airplane lands, you can see the green __4__ and woods and the blue water of the Pacific Ocean. Even from a distance, Lan Yu is __5__.\n    After arriving, you can notice many people __6__ a hotel bus or better yet a motorcycle to travel on the one road around the island. Several small fishing or farming villages offer __7__ of the local people and their homes and animals. That’s because most of the people __8__ a living by fishing and farming. Everything here seems so __9__.\n    Lan Yu also offers great scenery of nature. From the towering mountaintops to the crashing of the waves on the rocky beaches, Lan Yu seems frozen in time, a natural paradise waiting __10__. If you want to “get away from it all” but still stay close to Taiwan, there is no better place than Lan Yu.\n(1)\t(  )",
+      "options": [
+        "(A) these",
+        "(B) those",
+        "(C) that",
+        "(D) there",
+        "(A) issue",
+        "(B) focus",
+        "(C) exchange",
+        "(D) coast",
+        "(A) as",
+        "(B) for",
+        "(C) since",
+        "(D) because",
+        "(A) temperatures",
+        "(B) demonstrations",
+        "(C) varieties",
+        "(D) fields",
+        "(A) tender",
+        "(B) charming",
+        "(C) mature",
+        "(D) political",
+        "(A) taken",
+        "(B) took",
+        "(C) taking",
+        "(D) to take",
+        "(A) suggestions",
+        "(B) views",
+        "(C) ranks",
+        "(D) messages",
+        "(A) give",
+        "(B) take",
+        "(C) make",
+        "(D) have",
+        "(A) peace",
+        "(B) to be peaceful",
+        "(C) peacefully",
+        "(D) peaceful",
+        "(A) to be discovered",
+        "(B) discovered",
+        "(C) to discover",
+        "(D) to be discovering"
+      ],
+      "answer": "(1)C　(2)D　(3)A　(4)D　(5)B　(6)C　(7)B　(8)C　(9)D　(10)A",
+      "translation": "",
+      "analysis": "(1)解題關鍵： 本句需要一個指示代名詞充當後半句的主詞。that 在此用來指代前半句所特別強調、 stick out 於心中的那個特定地方（蘭嶼）。　(2)解題關鍵： 地理常識與單字搭配。蘭嶼是位於台東縣「海岸（coast）」外約五十公里的離島。off the coast of... 為固定地理片語，意為「在……的沿海之外」。　(3)解題關鍵： 此處的 as 作為時間從屬連接詞，意為「當……的時候；伴隨著……」。指隨著飛機漸漸逼近這座神奇的島嶼，山頂也同時從雲霧中探了出來。　(4)解題關鍵： 空格與 woods（樹林）呈平行對稱並列關係，且被形容詞 green（綠色的）所修飾。從飛機往下俯瞰，能看到的綠色大地景觀即為「田野（fields）」。　(5)解題關鍵： 整篇文章皆在讚美蘭嶼的美麗（“the most beautiful”、“magical island”）。因此，即便從遠處眺望，蘭嶼依然顯得非常「迷人（charming）」。　(6)解題關鍵： 考查感官動詞。notice + 受詞(many people) + 受詞補語。人們主動去搭乘（take）交通工具，且此處描述的是旅客抵達後目睹島上人群正在活動的景象，故選現在分詞 taking。　(7)解題關鍵： 這些小漁村與農莊展現、提供了當地人文景致與其家園的「景觀/面貌（views）」。　(8)解題關鍵： 考查高中極核心的固定動詞片語：make a living（謀生；維持生計）。後文的 “by fishing and farming”（透過捕魚和務農）指明了他們的謀生手段。　(9)解題關鍵： 連綴動詞 seem 後方必須接形容詞充當主詞補語。文章脈絡提到這裡遠離塵囂、生活節奏和諧，因此這裡的一切看起來都很「平靜的/安詳的（peaceful）」。　(10)解題關鍵： waiting 後方固定接不定詞短語 to-V。而主詞 a natural paradise（自然天堂）與動詞 discover（發現）之間的關係為被動（天堂是「被人類發現/探索」），故需使用被動不定詞 to be discovered。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-CL-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "綜合測驗",
+      "questionNumber": 2,
+      "text": "Among Taiwan’s defining features are the Central and Coastal Mountain Ranges, which run the length of the island. Mountainous as the country is, however, many coastal areas are __1__ at sea level, or just above it. __2__, so low-lying are most of Taiwan’s population centers on the West Coast that these places are at risk of severe flooding if sea levels were to rise by even one meter. Among the most seriously __3__ areas would be Taipei, Taichung, and areas in Yunlin and Pingtung Counties.\n    Slow as the pace of global warming is, it’s not as if people would be drowning like in some Hollywood __4__ movie. More likely, rising seas would gradually __5__ the amount of fertile land, possibly causing food shortages and hardship. Governments and citizens everywhere must take appropriate action and seize the opportunity to focus on prevention now, rather than looking for a cure later.\n(1)\t(  )",
+      "options": [
+        "(A) to locate",
+        "(B) locate",
+        "(C) located",
+        "(D) locating",
+        "(A) In theory",
+        "(B) On the other hand",
+        "(C) In contrast",
+        "(D) In fact",
+        "(A) social",
+        "(B) impressive",
+        "(C) affected",
+        "(D) democratic",
+        "(A) balance",
+        "(B) variety",
+        "(C) quality",
+        "(D) disaster",
+        "(A) challenge",
+        "(B) reduce",
+        "(C) focus",
+        "(D) introduce"
+      ],
+      "answer": "(1)C　(2)D　(3)C　(4)D　(5)B",
+      "translation": "",
+      "analysis": "(1)解題關鍵： 考查固定地理被動片語 be located at/in/on...，意為「位於……」。主詞是沿海地區（coastal areas），地區是被定位、位於海平面上，故選過去分詞 located。　(2)解題關鍵： 前句提到台灣許多沿海地區地勢非常低。此句進一步給出具體且驚人的事實：「大部分的人口中心地勢低窪到一旦海平面上升一公尺就會有嚴重水災風險。」後句在深化、證實前句的論點，屬於遞進強調，故選 In fact（事實上）。　(3)解題關鍵： seriously affected areas 意為「受災/受影響最嚴重的地區」。海平面上升（淹水）會帶來嚴重衝擊，台北、台中等地將會是首當其衝「受影響（affected）」的地方。　(4)解題關鍵： 前文提到 “drowning”（溺水、淹死），結合後方的名詞 movie。好萊塢電影中常出現大水淹沒城市的題材，屬於典型的「災難（disaster）」電影。　(5)解題關鍵： 海水面上升（rising seas），海水會進一步侵蝕、吞噬沿岸低地，其帶來的結果必然是會逐漸「減少（reduce）」肥沃耕地的數量，進而引發後文所說的糧食短缺（food shortages）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-CL-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "綜合測驗",
+      "questionNumber": 3,
+      "text": "Without worrying about the budget, I would take my time comfortably and have a leisurely one-day trip with my younger sister, Ellen. For one thing, I've longed to take a trip with her, and for another, I can treat her __1__ no budget limit. Going with her makes me feel warm __2__ she is a caring and warm-hearted sister.\n    I wish we could go to Beitou for a day trip since it is __3__ its hot springs. We would travel by taxi. The following is our itinerary. In the morning, we would __4__ nature and watch wildlife in the mountains. At noon, we would enjoy a five-course meal at a high-class restaurant of a five-star hotel. After lunch, we would take a luxurious hot spring. In the evening, we would enjoy the night __5__ of Taipei from the top of the mountain. In conclusion, if I could spend a day without worrying about the budget, I would take a day trip to Beitou with my dearest sister.\n(1)\t(  )",
+      "options": [
+        "(A) around",
+        "(B) for",
+        "(C) with",
+        "(D) without",
+        "(A) so",
+        "(B) due to",
+        "(C) because of",
+        "(D) because",
+        "(A) crowded with",
+        "(B) seen as",
+        "(C) famous for",
+        "(D) known as",
+        "(A) breathe",
+        "(B) introduce",
+        "(C) impress",
+        "(D) explore",
+        "(A) society",
+        "(B) view",
+        "(C) temperature",
+        "(D) quality"
+      ],
+      "answer": "(1)C　(2)D　(3)C　(4)D　(5)B",
+      "translation": "",
+      "analysis": "(1)解題關鍵： with + 條件/狀態 在此處作為介系詞，表示「在……的狀態下」。with no budget limit 意為「在沒有預算限制的情況下（任性地招待她）」。　(2)解題關鍵： 空格後方出現了一個結構非常完整的子句 “she (主詞) is (動詞) a caring and warm-hearted sister”。因為後方是句子，故文法上必須選從屬連接詞 because（因為）來引導原因子句。　(3)解題關鍵： 北投（Beitou）與溫泉（hot springs）之間的關係。北投是以溫泉著稱、聞名，高中固定核心形容詞片語為 be famous for...（以……聞名）。　(4)解題關鍵： 空格與 watch wildlife（觀察野生動植物）形成平行對稱，受詞是 nature（大自然）。去山中親近大自然，最常用的動詞就是「探索（explore）」大自然。　(5)解題關鍵： 時間是晚上（In the evening），地點在山頂（from the top of the mountain），受詞是台北。從北投山頂往下俯瞰夜晚的台北，所欣賞、享受的便是大城市璀璨的「夜景（night view）」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-TR-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 1,
+      "questionNumberRange": "1-10",
+      "passage": "I am Maia, a YouTuber from Thailand. I set up an online channel to share my journey and also __1__ different countries to people all over the world. One of those journeys was exploring the Taiwanese native Amis __2__ in Taitung. When I visited there, I saw a(n) __3__ of decorations which stood for their special customs. Besides, what __4__ me most was that the tour guide said the ancestors came from Hawaii. To my surprise, as I was __5__ my thoughts with him, I discovered that all the natives were related to each other. \n    I also spent some time in another village. The host __6__ traditional culture in Amis. What really surprised me was that __7__ women owned more rights than men. Also, I learned that they had their own __8__ culture as I discovered how the government worked. During those days, I really could __9__ all these interesting facts as a way to learn new things. I liked the people and the __10__ there. I wish I could visit there again.\n        \n        \n__1__ __2__ __3__ __4__ __5__ __6__ __7__ __8__ __9__ __10__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "impressed"
+        },
+        {
+          "letter": "B",
+          "text": "environment"
+        },
+        {
+          "letter": "C",
+          "text": "explained"
+        },
+        {
+          "letter": "D",
+          "text": "mature"
+        },
+        {
+          "letter": "E",
+          "text": "introduce"
+        },
+        {
+          "letter": "F",
+          "text": "political"
+        },
+        {
+          "letter": "G",
+          "text": "tribe"
+        },
+        {
+          "letter": "H",
+          "text": "exchanging"
+        },
+        {
+          "letter": "I",
+          "text": "view"
+        },
+        {
+          "letter": "J",
+          "text": "variety"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "E",
+          "analysis": "解題關鍵：\n位於助動詞 would（由語境推導或此處不定詞結構省略）或主要動詞 set up... to share and also... 的不定詞對稱結構。受詞為 different countries（不同的國家），YouTuber 建立頻道的目的就是向世界「介紹（introduce）」不同國家。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "G",
+          "analysis": "解題關鍵：\n修飾原生阿美族的專有名詞結構。阿美族在台灣文化中屬於原住民「部落/族群（tribe）」，地點位於台東。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "J",
+          "analysis": "解題關鍵：\n前方有冠詞 a，後方有 of decorations。組成固定量詞片語 a variety of（各式各樣的裝飾品）。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "A",
+          "analysis": "解題關鍵：\n句型為 what + 動詞 + me most was that...（最讓我……的是……）。導遊講述的歷史奇特，令作者「印象深刻（impressed）」。"
+        },
+        {
+          "questionNumber": 5,
+          "answer": "H",
+          "analysis": "解題關鍵：\n位於介系詞 as I was 後方的進行式結構（was + V-ing）。與他人分享、交流想法，使用 exchanging my thoughts。"
+        },
+        {
+          "questionNumber": 6,
+          "answer": "C",
+          "analysis": "解題關鍵：\n主詞為 The host（主人/接待者），後方缺少過去式主要動詞。主人向作者「講解/說明（explained）」阿美族的傳統文化。"
+        },
+        {
+          "questionNumber": 7,
+          "answer": "D",
+          "analysis": "解題關鍵：\n修飾後方複數名詞 women 的形容詞。阿美族傳統上具備母系社會特質，因此「成熟的/年長的（mature）」女性擁有較多權利。"
+        },
+        {
+          "questionNumber": 8,
+          "answer": "F",
+          "analysis": "解題關鍵：\n後方有文化（culture），且後面緊接著線索 “how the government worked”（政府如何運作），與政府運作機制相關的文化即為「政治（political）」文化。"
+        },
+        {
+          "questionNumber": 9,
+          "answer": "I",
+          "analysis": "解題關鍵：\n位於助動詞 could 之後，需接原形動詞。固定片語 view A as B（將A看待/視為B），將這些有趣的事實視為學習新事物的管道。"
+        },
+        {
+          "questionNumber": 10,
+          "answer": "B",
+          "analysis": "解題關鍵：\n與前方 the people（人）並列的名詞。作者喜歡那邊的人民與當地的自然「環境（environment）」。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 位於助動詞 would（由語境推導或此處不定詞結構省略）或主要動詞 set up... to share and also... 的不定詞對稱結構。受詞為 different countries（不同的國家），YouTuber 建立頻道的目的就是向世界「介紹（introduce）」不同國家。　(2)解題關鍵： 修飾原生阿美族的專有名詞結構。阿美族在台灣文化中屬於原住民「部落/族群（tribe）」，地點位於台東。　(3)解題關鍵： 前方有冠詞 a，後方有 of decorations。組成固定量詞片語 a variety of（各式各樣的裝飾品）。　(4)解題關鍵： 句型為 what + 動詞 + me most was that...（最讓我……的是……）。導遊講述的歷史奇特，令作者「印象深刻（impressed）」。　(5)解題關鍵： 位於介系詞 as I was 後方的進行式結構（was + V-ing）。與他人分享、交流想法，使用 exchanging my thoughts。　(6)解題關鍵： 主詞為 The host（主人/接待者），後方缺少過去式主要動詞。主人向作者「講解/說明（explained）」阿美族的傳統文化。　(7)解題關鍵： 修飾後方複數名詞 women 的形容詞。阿美族傳統上具備母系社會特質，因此「成熟的/年長的（mature）」女性擁有較多權利。　(8)解題關鍵： 後方有文化（culture），且後面緊接著線索 “how the government worked”（政府如何運作），與政府運作機制相關的文化即為「政治（political）」文化。　(9)解題關鍵： 位於助動詞 could 之後，需接原形動詞。固定片語 view A as B（將A看待/視為B），將這些有趣的事實視為學習新事物的管道。　(10)解題關鍵： 與前方 the people（人）並列的名詞。作者喜歡那邊的人民與當地的自然「環境（environment）」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-TR-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 2,
+      "questionNumberRange": "1-10",
+      "passage": "Traveling to Taiwan is a trip that anyone can enjoy without spending a fortune. Taiwan is like a miniature world that has a lot to __1__. As an island, Taiwan gives you a(n) __2__ of opportunities to experience exciting landscapes. For example, Taiwan has many fascinating mountains, hills, and valleys, which may hold your __3__. Therefore, many people __4__ Taiwan as a place for mountain climbing. When it comes to climate, the moderate __5__ makes Taiwan a great place to live in. Sometimes, you can feel the warm __6__ blowing your face. That sounds really comfortable.\n    In addition, Taiwan’s __7__ cultures attract tourists to this beautiful island. There are several cities in Taiwan, and people of different races make up Taiwan’s modern __8__. As you travel through different destinations, you will surely find that temples are traditional highlights. You can also __9__ in some activities held by the temples and honor the gods or goddesses. As for food, from local to exotic foods, Taiwan is indeed a food paradise. A great __10__ to Taiwan has been given. Welcome to Taiwan to create your own stories!\n        \n        \n__1__ __2__ __3__ __4__ __5__ __6__ __7__ __8__ __9__ __10__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "temperature"
+        },
+        {
+          "letter": "B",
+          "text": "breeze"
+        },
+        {
+          "letter": "C",
+          "text": "breath"
+        },
+        {
+          "letter": "D",
+          "text": "offer"
+        },
+        {
+          "letter": "E",
+          "text": "society"
+        },
+        {
+          "letter": "F",
+          "text": "diverse"
+        },
+        {
+          "letter": "G",
+          "text": "engage"
+        },
+        {
+          "letter": "H",
+          "text": "choose"
+        },
+        {
+          "letter": "I",
+          "text": "variety"
+        },
+        {
+          "letter": "J",
+          "text": "introduction"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "D",
+          "analysis": "解題關鍵：\n固定片語 has a lot to offer 意為「有很多（值得體驗、探索的東西）可以提供」。台灣就像一個微縮世界，有許多美好事物。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "I",
+          "analysis": "解題關鍵：\n前方有不定冠詞 a，後方有 of opportunities。填入名詞組成 a variety of（多種/各式各樣的機會）。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "C",
+          "analysis": "解題關鍵：\n固定動詞片語 hold one's breath 意為「屏息凝視（形容景色美到讓人摒住呼吸）」，空格位於所有格 your 之後需接名詞。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "H",
+          "analysis": "解題關鍵：\n主詞為許多人（many people），後方缺主要動詞。因為景致壯麗，許多人「選擇（choose）」台灣作為登山熱點。"
+        },
+        {
+          "questionNumber": 5,
+          "answer": "A",
+          "analysis": "解題關鍵：\n由前半句 “When it comes to climate”（說到氣候）引導，氣候溫和指的就是「氣溫（temperature）」適宜。"
+        },
+        {
+          "questionNumber": 6,
+          "answer": "B",
+          "analysis": "解題關鍵：\n後半句為 “blowing your face... really comfortable”（吹拂著你的臉，非常舒服）。吹在臉上讓人感到非常舒適、溫和的風，即為「微風（breeze）」。"
+        },
+        {
+          "questionNumber": 7,
+          "answer": "F",
+          "analysis": "解題關鍵：\n修飾後方複數名詞 cultures 的形容詞。台灣擁有融合各族群的「多元（diverse）」文化。"
+        },
+        {
+          "questionNumber": 8,
+          "answer": "E",
+          "analysis": "解題關鍵：\n由不同種族的人（people of different races）共同組成了台灣的現代「社會（society）」。"
+        },
+        {
+          "questionNumber": 9,
+          "answer": "G",
+          "analysis": "解題關鍵：\n位於助動詞 can also 之後接原形動詞。固定搭配片語為 engage in + 活動（參與……活動）。"
+        },
+        {
+          "questionNumber": 10,
+          "answer": "J",
+          "analysis": "解題關鍵：\n位於形容詞 great 之後充當主詞的名詞。這段長文已經對台灣做了一個非常精彩的「介紹（introduction）」。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 固定片語 has a lot to offer 意為「有很多（值得體驗、探索的東西）可以提供」。台灣就像一個微縮世界，有許多美好事物。　(2)解題關鍵： 前方有不定冠詞 a，後方有 of opportunities。填入名詞組成 a variety of（多種/各式各樣的機會）。　(3)解題關鍵： 固定動詞片語 hold one's breath 意為「屏息凝視（形容景色美到讓人摒住呼吸）」，空格位於所有格 your 之後需接名詞。　(4)解題關鍵： 主詞為許多人（many people），後方缺主要動詞。因為景致壯麗，許多人「選擇（choose）」台灣作為登山熱點。　(5)解題關鍵： 由前半句 “When it comes to climate”（說到氣候）引導，氣候溫和指的就是「氣溫（temperature）」適宜。　(6)解題關鍵： 後半句為 “blowing your face... really comfortable”（吹拂著你的臉，非常舒服）。吹在臉上讓人感到非常舒適、溫和的風，即為「微風（breeze）」。　(7)解題關鍵： 修飾後方複數名詞 cultures 的形容詞。台灣擁有融合各族群的「多元（diverse）」文化。　(8)解題關鍵： 由不同種族的人（people of different races）共同組成了台灣的現代「社會（society）」。　(9)解題關鍵： 位於助動詞 can also 之後接原形動詞。固定搭配片語為 engage in + 活動（參與……活動）。　(10)解題關鍵： 位於形容詞 great 之後充當主詞的名詞。這段長文已經對台灣做了一個非常精彩的「介紹（introduction）」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-TR-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 3,
+      "questionNumberRange": "1-5",
+      "passage": "Taiwan is a democracy with a rich culture and history. The political nature of Taiwan is about balance between the many peoples of Taiwan. It is also a valuable __1__ of how religions can live together in peace. Many temples in Taiwan respectfully combine Buddhism, Taoism and folk religious practices. This combination of traditions does not create __2__ and shows the accepting nature of religion in Taiwan. People are free to __3__ their beliefs and values in many ways.\n    The variety of traditional arts in Taiwan will surprise you. Oil paper umbrellas and Chinese knots are made with __4__ care. Spinning tops and diabolos are toys that take mature skills to master. Simple figures are made with dough and beautifully decorated. Figures can also be made by blowing sugar. Glove puppets are more complex. Their carved wooden heads, detailed dress and beautiful backgrounds are already works of art. Then the artist __5__ movement and voice, bringing the puppets to life. Calligraphy is an art that is beautiful, complex, and filled with history. The rich nature of Taiwanese traditions offers something for everyone.\n        \n__1__ __2__ __3__ __4__ __5__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "tender"
+        },
+        {
+          "letter": "B",
+          "text": "issues"
+        },
+        {
+          "letter": "C",
+          "text": "demonstration"
+        },
+        {
+          "letter": "D",
+          "text": "introduces"
+        },
+        {
+          "letter": "E",
+          "text": "express"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "C",
+          "analysis": "解題關鍵：\n前方有形容詞 valuable，後方有 of how religions can live together。此處作名詞，意為「證明；展現；實例」，台灣的宗教融合是一個很有價值的「實例/展現」。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "B",
+          "analysis": "解題關鍵：\n及物動詞 create 的受詞（名詞）。宗教間包容和諧的結合，並不會產生磨擦或「問題/爭議（issues）」。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "E",
+          "analysis": "解題關鍵：\n位於不定詞 to 之後接原形動詞。受詞是他們的信仰與價值觀（their beliefs and values），人們可以自由地「表達（express）」信仰。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "A",
+          "analysis": "解題關鍵：\n修飾名詞 care 的形容詞。with tender care 意為「投以溫柔、極致的專注與精心（製作）」。"
+        },
+        {
+          "questionNumber": 5,
+          "answer": "D",
+          "analysis": "解題關鍵：\n本句缺少主要動詞，主詞為單數的藝術家（the artist）。藝術家為傳統布袋戲偶注入、聯結了動作與聲音（introduces movement and voice），使木偶栩栩如生。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 前方有形容詞 valuable，後方有 of how religions can live together。此處作名詞，意為「證明；展現；實例」，台灣的宗教融合是一個很有價值的「實例/展現」。　(2)解題關鍵： 及物動詞 create 的受詞（名詞）。宗教間包容和諧的結合，並不會產生磨擦或「問題/爭議（issues）」。　(3)解題關鍵： 位於不定詞 to 之後接原形動詞。受詞是他們的信仰與價值觀（their beliefs and values），人們可以自由地「表達（express）」信仰。　(4)解題關鍵： 修飾名詞 care 的形容詞。with tender care 意為「投以溫柔、極致的專注與精心（製作）」。　(5)解題關鍵： 本句缺少主要動詞，主詞為單數的藝術家（the artist）。藝術家為傳統布袋戲偶注入、聯結了動作與聲音（introduces movement and voice），使木偶栩栩如生。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-TR-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 4,
+      "questionNumberRange": "1-10",
+      "passage": "The island of Taiwan offers many types of natural beauty and a range of activities. The mountains and surrounding ocean are __1__. The gentle __2__ make exploring a pleasure. The Central Mountain Range runs from the north to the south of Taiwan. Rivers flow down the mountains toward beaches or __3__ rock faces. Besides, the beaches in the south of Taiwan are warm and __4__ with life. If you decide to __5__ your swimsuit for warmer clothes, you can see snow on the mountains in winter. After a hike, you can warm up in one of 120 different hot springs (so keep your swimsuit with you). In addition to beautiful __6__, there are many exciting hikes and climbing opportunities. Over 58% of Taiwan is __7__ in forests and there is a diverse range of national parks to see. \n    There is a(n) __8__ of animals to be found throughout Taiwan. The most significant are the many birds on their long __9__ across the oceans. You can easily see deer, flying squirrels, butterflies, and pangolins. If you are more __10__, you could see the Formosan macaque. Deep in the mountains, it is possible to see the very rare Formosan black bear.\n          \n        \n__1__ __2__ __3__ __4__ __5__ __6__ __7__ __8__ __9__ __10__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "steep"
+        },
+        {
+          "letter": "B",
+          "text": "impressive"
+        },
+        {
+          "letter": "C",
+          "text": "journeys"
+        },
+        {
+          "letter": "D",
+          "text": "covered"
+        },
+        {
+          "letter": "E",
+          "text": "variety"
+        },
+        {
+          "letter": "F",
+          "text": "scenery"
+        },
+        {
+          "letter": "G",
+          "text": "adventurous"
+        },
+        {
+          "letter": "H",
+          "text": "exchange"
+        },
+        {
+          "letter": "I",
+          "text": "temperatures"
+        },
+        {
+          "letter": "J",
+          "text": "filled"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "B",
+          "analysis": "解題關鍵：\n位於連綴動詞 are 後方充當主詞補語的形容詞。前句提到臺灣提供多種自然美景（natural beauty），這些雄偉的山脈與周圍的海洋自然是「令人印象深刻的（impressive）」。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "I",
+          "analysis": "解題關鍵：\n主詞為 The gentle...，後方動詞為複數的 make。此處需填入複數名詞。由溫和的「氣溫/溫度（temperatures）」使戶外探索成為一種樂趣。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "A",
+          "analysis": "解題關鍵：\n修飾後方名詞短語 rock faces（岩壁）的形容詞。河流順著山勢流向海灘或「陡峭的（steep）」山壁。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "J",
+          "analysis": "解題關鍵：\n固定形容詞片語 be filled with...（充滿了……）。前半句有連綴動詞 are，空格後有介系詞 with，故選 filled。台灣南部的海灘溫暖且「充滿（filled）」生機。"
+        },
+        {
+          "questionNumber": 5,
+          "answer": "H",
+          "analysis": "解題關鍵：\n位於不定詞 to 之後接原形動詞。固定用法 exchange A for B（將A換成B）。在冬天如果想往高山走，必須將泳衣「更換（exchange）」為保暖的衣物。"
+        },
+        {
+          "questionNumber": 6,
+          "answer": "F",
+          "analysis": "解題關鍵：\n位於形容詞 beautiful 之後的名詞。除了美麗的「風景/風光（scenery）」之外，台灣還有許多健行與攀岩機會。"
+        },
+        {
+          "questionNumber": 7,
+          "answer": "D",
+          "analysis": "解題關鍵：\n固定被動語態片語 be covered in/with...（被……所覆蓋）。台灣有超過58%的土地「被森林覆蓋（covered in forests）」。"
+        },
+        {
+          "questionNumber": 8,
+          "answer": "E",
+          "analysis": "解題關鍵：\n前方有不定冠詞 a(n)，後方有 of animals。組成固定量詞片語 a variety of（各式各樣/多種多樣的動物）。"
+        },
+        {
+          "questionNumber": 9,
+          "answer": "C",
+          "analysis": "解題關鍵：\n前方有形容詞 long 修飾，後方有介系詞短語 across the oceans（跨越海洋）。這群候鳥在漫長跨越海洋的「旅程/遷徙（journeys）」中。"
+        },
+        {
+          "questionNumber": 10,
+          "answer": "G",
+          "analysis": "解題關鍵：\n位於修飾人的 If you are more... 形容詞比較級結構。如果你更具備「冒險精神的（adventurous）」，你就可以挑戰深入山林去看臺灣獼猴。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 位於連綴動詞 are 後方充當主詞補語的形容詞。前句提到臺灣提供多種自然美景（natural beauty），這些雄偉的山脈與周圍的海洋自然是「令人印象深刻的（impressive）」。　(2)解題關鍵： 主詞為 The gentle...，後方動詞為複數的 make。此處需填入複數名詞。由溫和的「氣溫/溫度（temperatures）」使戶外探索成為一種樂趣。　(3)解題關鍵： 修飾後方名詞短語 rock faces（岩壁）的形容詞。河流順著山勢流向海灘或「陡峭的（steep）」山壁。　(4)解題關鍵： 固定形容詞片語 be filled with...（充滿了……）。前半句有連綴動詞 are，空格後有介系詞 with，故選 filled。台灣南部的海灘溫暖且「充滿（filled）」生機。　(5)解題關鍵： 位於不定詞 to 之後接原形動詞。固定用法 exchange A for B（將A換成B）。在冬天如果想往高山走，必須將泳衣「更換（exchange）」為保暖的衣物。　(6)解題關鍵： 位於形容詞 beautiful 之後的名詞。除了美麗的「風景/風光（scenery）」之外，台灣還有許多健行與攀岩機會。　(7)解題關鍵： 固定被動語態片語 be covered in/with...（被……所覆蓋）。台灣有超過58%的土地「被森林覆蓋（covered in forests）」。　(8)解題關鍵： 前方有不定冠詞 a(n)，後方有 of animals。組成固定量詞片語 a variety of（各式各樣/多種多樣的動物）。　(9)解題關鍵： 前方有形容詞 long 修飾，後方有介系詞短語 across the oceans（跨越海洋）。這群候鳥在漫長跨越海洋的「旅程/遷徙（journeys）」中。　(10)解題關鍵： 位於修飾人的 If you are more... 形容詞比較級結構。如果你更具備「冒險精神的（adventurous）」，你就可以挑戰深入山林去看臺灣獼猴。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-TR-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 5,
+      "questionNumberRange": "1-10",
+      "passage": "Step into a night market in Taiwan. You will definitely __1__ in the wonderful smell of Taiwanese food at its best. The high-__2__ food is inexpensive and delicious. You could eat here every night and never get __3__. The food __4__ to visitors in Taiwan is world-class. If you have the __5__ to visit Taiwan, you should take it.\n    Taiwanese food is based around rice, and often noodles. Soup is served with most meals and strong spice is __6__ used. Pork and chicken are the most common meats and Taiwanese people eat a lot of seafood. However, about 25% of fish and seafood is farmed. In many restaurants, you can __7__ and choose your seafood in a large tank before tasting it. __8__, it is easy to find wonderful vegetarian food. Many Taiwanese people eat vegetarian food for two days every month. There is a __9__ of Chinese food, especially Sichuan, Cantonese and Shanghai-style food. Japanese restaurants are common and if you look beyond the __10__, many other international foods can be found. In winter, the Taiwanese love to gather around a hot pot and cook meat and vegetables together. The friendly Taiwanese offer a dining experience you will never forget.\n        \n        \n__1__ __2__ __3__ __4__ __5__ __6__ __7__ __8__ __9__ __10__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "offered"
+        },
+        {
+          "letter": "B",
+          "text": "rarely"
+        },
+        {
+          "letter": "C",
+          "text": "surface"
+        },
+        {
+          "letter": "D",
+          "text": "view"
+        },
+        {
+          "letter": "E",
+          "text": "interestingly"
+        },
+        {
+          "letter": "F",
+          "text": "breathe"
+        },
+        {
+          "letter": "G",
+          "text": "variety"
+        },
+        {
+          "letter": "H",
+          "text": "chance"
+        },
+        {
+          "letter": "I",
+          "text": "quality"
+        },
+        {
+          "letter": "J",
+          "text": "bored"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "F",
+          "analysis": "解題關鍵：\n位於助動詞 will definitely 之後，需接原形動詞。固定搭配片語為 breathe in + 氣味（吸入/呼吸……的香氣）。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "I",
+          "analysis": "解題關鍵：\n與前方 high- 結合成複合形容詞 high-quality，意為「高品質的」，用來修飾後方的食物（food）。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "J",
+          "analysis": "解題關鍵：\n位於連綴動詞 get 之後充當主詞補語。指人對某事物感到「厭煩的/無聊的（bored）」。每天晚上吃夜市也永遠不會吃膩。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "A",
+          "analysis": "解題關鍵：\n此處為過去分詞短語後位修飾。結構為 The food (which is) offered to visitors（提供給遊客的食物），offered 表被動。"
+        },
+        {
+          "questionNumber": 5,
+          "answer": "H",
+          "analysis": "解題關鍵：\n及物動詞 have 的受詞。have the chance to + V 意為「有機會去……」。如果有機會造訪台灣，一定要把握。"
+        },
+        {
+          "questionNumber": 6,
+          "answer": "B",
+          "analysis": "解題關鍵：\n位於一般動詞 used 之前的頻率副詞。台灣本土菜餚口味普遍講求食材原味，因此濃烈的香料是「很少/極少（rarely）」被使用的。"
+        },
+        {
+          "questionNumber": 7,
+          "answer": "D",
+          "analysis": "解題關鍵：\n與後方的 and choose 形成對稱的原形動詞結構。在海鮮餐廳，客人在品嚐前可以先在大水箱裡「觀看（view）」並挑選海鮮。"
+        },
+        {
+          "questionNumber": 8,
+          "answer": "E",
+          "analysis": "解題關鍵：\n位於句首、後有逗號，用來修飾整個句子的副詞。Interestingly, ... 意為「有趣的是，……」，帶出台灣素食文化也很發達的特色。"
+        },
+        {
+          "questionNumber": 9,
+          "answer": "G",
+          "analysis": "解題關鍵：\n前方有單數限定詞 a，後方有 of Chinese food。組成固定量詞片語 a variety of（多種多樣的中國菜）。"
+        },
+        {
+          "questionNumber": 10,
+          "answer": "C",
+          "analysis": "解題關鍵：\n位於定冠詞 the 之後的名詞。固定引申片語 look beyond the surface，意為「不只看表面；深入探究」。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 位於助動詞 will definitely 之後，需接原形動詞。固定搭配片語為 breathe in + 氣味（吸入/呼吸……的香氣）。　(2)解題關鍵： 與前方 high- 結合成複合形容詞 high-quality，意為「高品質的」，用來修飾後方的食物（food）。　(3)解題關鍵： 位於連綴動詞 get 之後充當主詞補語。指人對某事物感到「厭煩的/無聊的（bored）」。每天晚上吃夜市也永遠不會吃膩。　(4)解題關鍵： 此處為過去分詞短語後位修飾。結構為 The food (which is) offered to visitors（提供給遊客的食物），offered 表被動。　(5)解題關鍵： 及物動詞 have 的受詞。have the chance to + V 意為「有機會去……」。如果有機會造訪台灣，一定要把握。　(6)解題關鍵： 位於一般動詞 used 之前的頻率副詞。台灣本土菜餚口味普遍講求食材原味，因此濃烈的香料是「很少/極少（rarely）」被使用的。　(7)解題關鍵： 與後方的 and choose 形成對稱的原形動詞結構。在海鮮餐廳，客人在品嚐前可以先在大水箱裡「觀看（view）」並挑選海鮮。　(8)解題關鍵： 位於句首、後有逗號，用來修飾整個句子的副詞。Interestingly, ... 意為「有趣的是，……」，帶出台灣素食文化也很發達的特色。　(9)解題關鍵： 前方有單數限定詞 a，後方有 of Chinese food。組成固定量詞片語 a variety of（多種多樣的中國菜）。　(10)解題關鍵： 位於定冠詞 the 之後的名詞。固定引申片語 look beyond the surface，意為「不只看表面；深入探究」。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-TR-06",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "文意選填",
+      "questionNumber": 6,
+      "questionNumberRange": "1-5",
+      "passage": "Jiufen is an ancient mountain village in Ruifang District, New Taipei City. It has the best old streets in Taiwan, with __1__ Taiwanese food, sloping steps, and traditional Chinese architecture. The entire village is built on the hillside. From the hill, you can appreciate the __2__ scenery of Suao and Keelung Harbor. However, what makes the mining town of Jiufen so famous is its countryside. With its old teahouses and narrow streets, you would definitely __3__ this place as worth visiting.\n    Of course, Jiufen has more to offer than just a __4__ of its sights. The Gold Rush a hundred years ago was such an exciting event that the town __5__ so quickly and thus was nicknamed “Little Shanghai.” However, as the gold was gone, it became a ghost town. Fortunately, with restoration and promotion, Jiufen became much more well-known than before with its great hospitality and cuisine.\n        \n__1__ __2__ __3__ __4__ __5__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "glimpse"
+        },
+        {
+          "letter": "B",
+          "text": "prospered"
+        },
+        {
+          "letter": "C",
+          "text": "natural"
+        },
+        {
+          "letter": "D",
+          "text": "view"
+        },
+        {
+          "letter": "E",
+          "text": "tender"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "E",
+          "analysis": "解題關鍵：\n修飾後方不可數名詞 Taiwanese food 的形容詞。九份老街擁有許多軟嫩美味的「（tender）」台灣美食。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "C",
+          "analysis": "解題關鍵：\n修飾後方名詞 scenery（風景）的形容詞。從九份山上可以欣賞到東北角海岸與基隆港的「自然的（natural）」美景。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "D",
+          "analysis": "解題關鍵：\n位於助動詞 would definitely 之後的原形動詞。考查固定片語 view A as B（將A視為B），你絕對會「將這個地方視為（view this place as）」值得一遊。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "A",
+          "analysis": "解題關鍵：\n位於限定詞 a 之後的單數名詞。固定用法 a glimpse of... 意為「對……的短暫一瞥/走馬看花」。九份的魅力遠不止於視覺上的走馬看花。"
+        },
+        {
+          "questionNumber": 5,
+          "answer": "B",
+          "analysis": "解題關鍵：\n主詞為 the town（這座小鎮），後方缺過去式主要動詞。由淘金熱（Gold Rush）帶來的繁榮，使小鎮迅速「繁榮/興旺（prospered）」，因而被稱為小上海。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 修飾後方不可數名詞 Taiwanese food 的形容詞。九份老街擁有許多軟嫩美味的「（tender）」台灣美食。　(2)解題關鍵： 修飾後方名詞 scenery（風景）的形容詞。從九份山上可以欣賞到東北角海岸與基隆港的「自然的（natural）」美景。　(3)解題關鍵： 位於助動詞 would definitely 之後的原形動詞。考查固定片語 view A as B（將A視為B），你絕對會「將這個地方視為（view this place as）」值得一遊。　(4)解題關鍵： 位於限定詞 a 之後的單數名詞。固定用法 a glimpse of... 意為「對……的短暫一瞥/走馬看花」。九份的魅力遠不止於視覺上的走馬看花。　(5)解題關鍵： 主詞為 the town（這座小鎮），後方缺過去式主要動詞。由淘金熱（Gold Rush）帶來的繁榮，使小鎮迅速「繁榮/興旺（prospered）」，因而被稱為小上海。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-DS-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 1,
+      "questionNumberRange": "1-4",
+      "passage": "Dear Daisy,\n    It’s been a really long time since I last saw you. I really miss you. Excited that we are finally going to see each other again, I’ve been counting the days ever since you told me you planned to visit Taiwan. __1__\n    Here is the plan. __2__ On the next day, my parents will drive us along the west coast to the south. We will make a few stops on the way. __3__ When we arrive in Kenting, the southern tip of the island, we will have some beach fun and then visit the biggest aquarium in Taiwan. The best part of this trip will be our final destination—Hualien, where we will see Taroko Gorge, which was formed by a river cutting through the mountains. __4__ I really look forward to our trip.\n\nWarm regards,\nJoan\n’t regret going there.\n, I’ve drawn up a travel plan to get you to see some of the most amazing parts of Taiwan.\n, I think you may need to rest to recover from jet lag.\n.\n, Hualien, on the first day of our trip.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "The view is so magnificent that you won"
+        },
+        {
+          "letter": "B",
+          "text": "Actually"
+        },
+        {
+          "letter": "C",
+          "text": "On the first day"
+        },
+        {
+          "letter": "D",
+          "text": "We will go see the famous sunrise in Ali Mountain and stroll around Chengcing Lake"
+        },
+        {
+          "letter": "E",
+          "text": "We will visit one of the most beautiful places in Taiwan"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "B",
+          "analysis": "解題關鍵：\n前文提到 “counting the days ever since you told me you planned to visit Taiwan”（自從你說要來台灣，我一直在數日子期待）。下一句順理成章接 (B)「事實上，我已經幫你規劃好了一份旅遊計畫，要帶你看台灣最驚豔的地方」，完美開啟下一段對具體行程（Here is the plan.）的介紹。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "C",
+          "analysis": "解題關鍵：\n空格後方緊接著出現 “On the next day, ...”（隔天，我父母會開車載我們……）。既然有「隔天」，空格處必然要先交代「第一天（On the first day）」的安排，故選 (C)。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "D",
+          "analysis": "解題關鍵：\n前文提到 “We will make a few stops on the way.”（我們在途中會停靠幾站）。(D) 選項具體列出了中途停靠與遊玩的景點「去阿里山看著名的日出，以及去澄清湖散步」，上下文完美銜接。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "A",
+          "analysis": "解題關鍵：\n前句提到最終目的地是花蓮太魯閣峽谷（Taroko Gorge），並解釋它是河流切割山脈形成的自然奇景。後文自然接續讚嘆太魯閣的景觀，(A)「那裡的風景是如此壯麗，你絕對不會後悔去那裡」是最佳的結論句。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 前文提到 “counting the days ever since you told me you planned to visit Taiwan”（自從你說要來台灣，我一直在數日子期待）。下一句順理成章接 (B)「事實上，我已經幫你規劃好了一份旅遊計畫，要帶你看台灣最驚豔的地方」，完美開啟下一段對具體行程（Here is the plan.）的介紹。　(2)解題關鍵： 空格後方緊接著出現 “On the next day, ...”（隔天，我父母會開車載我們……）。既然有「隔天」，空格處必然要先交代「第一天（On the first day）」的安排，故選 (C)。　(3)解題關鍵： 前文提到 “We will make a few stops on the way.”（我們在途中會停靠幾站）。(D) 選項具體列出了中途停靠與遊玩的景點「去阿里山看著名的日出，以及去澄清湖散步」，上下文完美銜接。　(4)解題關鍵： 前句提到最終目的地是花蓮太魯閣峽谷（Taroko Gorge），並解釋它是河流切割山脈形成的自然奇景。後文自然接續讚嘆太魯閣的景觀，(A)「那裡的風景是如此壯麗，你絕對不會後悔去那裡」是最佳的結論句。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-DS-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 2,
+      "questionNumberRange": "1-4",
+      "passage": "Friends become a seasoning to add a little flavor to our lives because we enjoy the intimacy with them. Of course, privacy is still needed at some point. __1__ Actually, we may not see eye to eye with all of the people surrounding us. It’s not because we don’t like them. Instead, we just choose to keep befriending those who we can get along with, forgetting those whom we always argue with.\n    Friends leaving us can really let us down, especially after graduation or during critical stages of life. __2__ Maybe one day we will be reunited. In fact, forming new friendships with other people is another way to broaden our horizons. __3__\n    Friendships can also help us live longer. Happiness can explain everything since there’s a reason: someone out there really cares about us. __4__ “If you ever need holding, call my name, I'll be there.” This is the lyrics from the song “Sky Blue and Black.” But if you have a bosom friend, your sky will never be black.\n.\n.\n.\n’s far easier for us to reach them via social media.\n, without friends, we would live in solitude.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "We can appreciate different people and learn from them"
+        },
+        {
+          "letter": "B",
+          "text": "This drives us to care more about ourselves for their sake"
+        },
+        {
+          "letter": "C",
+          "text": "It really upsets us that we may never meet our best friends after graduation"
+        },
+        {
+          "letter": "D",
+          "text": "But now it"
+        },
+        {
+          "letter": "E",
+          "text": "However"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "E",
+          "analysis": "解題關鍵：\n前文提到 “privacy is still needed at some point”（在某些時候，人還是需要隱私/個人空間）。後文用 (E) 進行語意對比轉折：「然而（However），如果沒有朋友，我們將會生活在孤獨（solitude）之中」，緊接著後文便開始探討如何與周圍的人建立友誼。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "D",
+          "analysis": "解題關鍵：\n前文提到 “Friends leaving us can really let us down, especially after graduation...”（朋友的離去確實會讓人沮喪，特別是畢業後……）。(D) 選項以 But 帶出當代科技的便利轉折：「但現在（But now），透過社群媒體（social media）要聯繫他們變得容易多了」，後文也緊接 “Maybe one day we will be reunited”（或許某天我們會重聚）。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "A",
+          "analysis": "解題關鍵：\n前句提到 “forming new friendships with other people is another way to broaden our horizons”（與其他人建立新友誼是拓展我們視野的另一種方式）。(A) 選項「我們可以欣賞不同的人並向他們學習」正好是「拓展視野」的具體延伸與實踐。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "B",
+          "analysis": "解題關鍵：\n前句指出友誼能幫我們活得更久，原因是 “someone out there really cares about us”（這世界上真的有人在乎我們）。(B)「這會驅使我們為了他們（在乎我們的人）的緣故而更加照顧好我們自己（care more about ourselves）」，在邏輯上完美呼應了「友誼讓人長壽」的因果機制。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 前文提到 “privacy is still needed at some point”（在某些時候，人還是需要隱私/個人空間）。後文用 (E) 進行語意對比轉折：「然而（However），如果沒有朋友，我們將會生活在孤獨（solitude）之中」，緊接著後文便開始探討如何與周圍的人建立友誼。　(2)解題關鍵： 前文提到 “Friends leaving us can really let us down, especially after graduation...”（朋友的離去確實會讓人沮喪，特別是畢業後……）。(D) 選項以 But 帶出當代科技的便利轉折：「但現在（But now），透過社群媒體（social media）要聯繫他們變得容易多了」，後文也緊接 “Maybe one day we will be reunited”（或許某天我們會重聚）。　(3)解題關鍵： 前句提到 “forming new friendships with other people is another way to broaden our horizons”（與其他人建立新友誼是拓展我們視野的另一種方式）。(A) 選項「我們可以欣賞不同的人並向他們學習」正好是「拓展視野」的具體延伸與實踐。　(4)解題關鍵： 前句指出友誼能幫我們活得更久，原因是 “someone out there really cares about us”（這世界上真的有人在乎我們）。(B)「這會驅使我們為了他們（在乎我們的人）的緣故而更加照顧好我們自己（care more about ourselves）」，在邏輯上完美呼應了「友誼讓人長壽」的因果機制。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-DS-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 3,
+      "questionNumberRange": "1-4",
+      "passage": "Helping Others Helps Yourself\n    As a citizen of your country, you have certain responsibilities. Of course, there are definitely some things you are required to do by law, such as paying taxes or respecting the property of other people. __1__ One example of this is volunteering.\n    Volunteering simply means being willing to do work or to help others, normally without getting paid for your efforts. It could be as simple as lending a helping hand at a school for a few hours every week or as involved as creating a program to help the homeless.\n    __2__ To begin with, volunteering can help you to connect with others. This is especially good if you are new to an area. In fact, volunteering can be so fun that you end up making a whole new set of friends because of it.\n    Volunteering is also good for your mental and physical health. __3__ People who take on volunteer roles tend to be more active, and they often have lower blood pressure.\n    Finally, volunteering can help you in your profession. You can learn new skills when you volunteer and learn how to work well with others. __4__\n    So, if you want to be a good citizen, don’t be reluctant to give volunteering a try. Even though you won’t get paid, you will make a difference in people’s lives.\n.\n, there are other things that you can do that are not required by law but can help to make your country a lot better.\n, you often meet new people when you volunteer, and some of these people may become important business contacts.\n.\n, especially in their daily lives.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "They will tell you how beneficial volunteering is for your health and career"
+        },
+        {
+          "letter": "B",
+          "text": "However"
+        },
+        {
+          "letter": "C",
+          "text": "In addition"
+        },
+        {
+          "letter": "D",
+          "text": "Studies have shown that volunteering can reduce anger and depression while increasing self-confidence and happiness"
+        },
+        {
+          "letter": "E",
+          "text": "Volunteering can benefit people in many ways"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "B",
+          "analysis": "解題關鍵：\n前文提到身為公民的法律責任，“required by law, such as paying taxes...”（法律強制要求的，例如納稅、尊重他人財產）。(B) 選項以 However 轉折，帶出「然而，還有其他法律不強制要求、卻能讓國家變得更好的事」，後半句接著說 “One example of this is volunteering”（其中一個例子就是當志工），語意完美接軌。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "E",
+          "analysis": "解題關鍵：\n本大題空格位於第三段的段首主題句。該段後方的支持句（To begin with, volunteering can help you to connect with others...）都在論述志工服務對日常與人際關係的種種「益處（benefit）」，因此段首必須選擇總括性的 (E)。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "D",
+          "analysis": "解題關鍵：\n前句為該段的主題句 “Volunteering is also good for your mental and physical health.”（志工服務也有利於你的身心健康）。(D) 選項直接給出科學數據與實證支持：「研究顯示，做志工能減少憤怒與憂鬱（對應 mental health）……」，完美銜接後文。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "C",
+          "analysis": "解題關鍵：\n本段主要在論述做志工對職涯（profession/career）的幫助。前句提到可以學到新技能與團隊合作；(C) 選項以 In addition 遞進，指出「此外，做志工能認識新朋友，而其中有些人可能會成為你未來重要的商務人脈（business contacts）」，扣緊職涯主題。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 前文提到身為公民的法律責任，“required by law, such as paying taxes...”（法律強制要求的，例如納稅、尊重他人財產）。(B) 選項以 However 轉折，帶出「然而，還有其他法律不強制要求、卻能讓國家變得更好的事」，後半句接著說 “One example of this is volunteering”（其中一個例子就是當志工），語意完美接軌。　(2)解題關鍵： 本大題空格位於第三段的段首主題句。該段後方的支持句（To begin with, volunteering can help you to connect with others...）都在論述志工服務對日常與人際關係的種種「益處（benefit）」，因此段首必須選擇總括性的 (E)。　(3)解題關鍵： 前句為該段的主題句 “Volunteering is also good for your mental and physical health.”（志工服務也有利於你的身心健康）。(D) 選項直接給出科學數據與實證支持：「研究顯示，做志工能減少憤怒與憂鬱（對應 mental health）……」，完美銜接後文。　(4)解題關鍵： 本段主要在論述做志工對職涯（profession/career）的幫助。前句提到可以學到新技能與團隊合作；(C) 選項以 In addition 遞進，指出「此外，做志工能認識新朋友，而其中有些人可能會成為你未來重要的商務人脈（business contacts）」，扣緊職涯主題。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-DS-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 4,
+      "questionNumberRange": "1-4",
+      "passage": "How much do you know about Taiwan? Taiwan is a beautiful island, just off the east coast of China. Most foreigners would mistake Taiwan for Thailand. __1__ In fact, when it comes to Taiwan, people would think of many tourist attractions, including night markets, TAIPEI 101, and hot springs. __2__ That is because there is no place like it back in their home countries. Walking through the night markets and eating local foods are a must for visitors. \n    __3__ As a matter of fact, Taiwan is surrounded by mountains, which means a lot of hiking trails and breathtaking views are offered. One of the most attractive mountains is Yangmingshan. __4__ Then, you’ll see lots of white and pink flowers smiling at you. Also, beautiful waterfalls and colorful butterflies appear all over the mountains. Last not but least, you can dine in restaurants serving excellent cuisine. With so many things to do, why not just visit Taiwan right away?\n.\n.\n, they are totally different countries in every way.\n.\n.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "The best time to visit is probably spring when cherry trees bloom"
+        },
+        {
+          "letter": "B",
+          "text": "Another thing Taiwan is famous for is its mountains"
+        },
+        {
+          "letter": "C",
+          "text": "However"
+        },
+        {
+          "letter": "D",
+          "text": "These tourist attractions are not only fun but also familiar to them"
+        },
+        {
+          "letter": "E",
+          "text": "They would choose to visit these places"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "C",
+          "analysis": "解題關鍵：\n前文提到 “Most foreigners would mistake Taiwan for Thailand.”（大多數外國人會把台灣誤認為泰國）。(C) 選項立刻給出修正轉折：「然而（However），不論從哪方面來看，牠們都是完全不同的國家」，語意邏輯極度強烈。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "E",
+          "analysis": "解題關鍵：\n前文提到說到台灣，人們會聯想到許多著名的觀光景點（tourist attractions，包括夜市、台北101、溫泉等）。(E) 選項「他們會選擇造訪這些地方（these places 指代前述景點）」承接前文，後文並解釋其原因。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "B",
+          "analysis": "解題關鍵：\n此處為第二段的段首主題句。後方緊接著出現 “As a matter of fact, Taiwan is surrounded by mountains...”（事實上，台灣四面環山，提供許多健行步道與驚艷風景），可見該段核心都在討論「山脈」，主題句必選 (B)。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "A",
+          "analysis": "解題關鍵：\n前句提到台灣最迷人的山脈之一是陽明山（Yangmingshan）。(A) 選項指明最適合去的時間是「櫻花盛開的春天（spring when cherry trees bloom）」，正好與後文 “Then, you’ll see lots of white and pink flowers smiling at you”（接著你會看到許多白色與粉紅色的花朵對你微笑）中的白色、粉紅色花朵（櫻花）完美呼應。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 前文提到 “Most foreigners would mistake Taiwan for Thailand.”（大多數外國人會把台灣誤認為泰國）。(C) 選項立刻給出修正轉折：「然而（However），不論從哪方面來看，牠們都是完全不同的國家」，語意邏輯極度強烈。　(2)解題關鍵： 前文提到說到台灣，人們會聯想到許多著名的觀光景點（tourist attractions，包括夜市、台北101、溫泉等）。(E) 選項「他們會選擇造訪這些地方（these places 指代前述景點）」承接前文，後文並解釋其原因。　(3)解題關鍵： 此處為第二段的段首主題句。後方緊接著出現 “As a matter of fact, Taiwan is surrounded by mountains...”（事實上，台灣四面環山，提供許多健行步道與驚艷風景），可見該段核心都在討論「山脈」，主題句必選 (B)。　(4)解題關鍵： 前句提到台灣最迷人的山脈之一是陽明山（Yangmingshan）。(A) 選項指明最適合去的時間是「櫻花盛開的春天（spring when cherry trees bloom）」，正好與後文 “Then, you’ll see lots of white and pink flowers smiling at you”（接著你會看到許多白色與粉紅色的花朵對你微笑）中的白色、粉紅色花朵（櫻花）完美呼應。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-DS-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "篇章結構",
+      "questionNumber": 5,
+      "questionNumberRange": "1-4",
+      "passage": "I love the beauty of nature and especially Yangmingshan in Taipei. I always celebrate the warmth of March and the end of winter. With many flower season events around Taipei and Yangmingshan, rhododendrons are blooming everywhere. There are also thousands of people visiting Yangmingshan to see the cherry blossoms. __1__ In this way, I can feel how gentle it is with the wind blowing. \n    Each year, the list of events and special floral displays grows longer as the Taipei City Government and others work to create a bigger and better festival. __2__ Also, for those who prefer mountains, Yangmingshan will be the best spot. __3__ In addition to these natural landscapes, I also visited teahouses and restaurants in the area. __4__ All in all, the flower festival provides the best way for everyone to forget about the cold winter and enjoy the warm weather of spring. They can also soak in the hot springs while admiring the twinkling city lights below.\n.\n, I was mainly interested in the historical sites.\n, there are different levels of hiking trails for people to choose from.\n’s really worth a visit for those who would enjoy a relaxed atmosphere.\n.\n__1__ __2__ __3__ __4__",
+      "passageTranslation": "",
+      "optionBank": [
+        {
+          "letter": "A",
+          "text": "Sometimes it would be great to hang out with friends and family to get rid of the tiredness"
+        },
+        {
+          "letter": "B",
+          "text": "Although I enjoyed the food and tea"
+        },
+        {
+          "letter": "C",
+          "text": "Most importantly"
+        },
+        {
+          "letter": "D",
+          "text": "It"
+        },
+        {
+          "letter": "E",
+          "text": "I love spending a month enjoying the beautiful views of flowers and fresh mountain air"
+        }
+      ],
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "answer": "E",
+          "analysis": "解題關鍵：\n前文描述三月份的台北與陽明山各處杜鵑花遍地開花、成千上萬的人來賞櫻。作者在 (E) 總結自己的偏好：「我喜歡花一個月的時間欣賞美麗的花海與清新的山中空氣」，後文並接著說 “In this way, I can feel...”（如此一來，我便能感受到微風拂過的溫柔）。"
+        },
+        {
+          "questionNumber": 2,
+          "answer": "A",
+          "analysis": "解題關鍵：\n前文提到台北市政府年年擴大舉辦花季（bigger and better festival），吸引大批人潮。(A) 選項指出「有時候，和家人朋友聚在一起出遊來消除疲勞（get rid of the tiredness）是件很棒的事」，後文以 Also（此外）引導，將焦點轉向那些特別喜歡爬山的人（for those who prefer mountains）。"
+        },
+        {
+          "questionNumber": 3,
+          "answer": "C",
+          "analysis": "解題關鍵：\n前句剛提到對於那些熱愛山脈的人（those who prefer mountains），陽明山是最佳去處。(C) 選項緊接著補充原因：「最重要的是（Most importantly），這裡有不同難度的登山步道（hiking trails）可供人們選擇」，邏輯層層遞進。"
+        },
+        {
+          "questionNumber": 4,
+          "answer": "D",
+          "analysis": "解題關鍵：\n前句提到 “In addition to these natural landscapes, I also visited teahouses and restaurants in the area.”（除了自然景觀，我還造訪了該地區的茶館與餐廳）。(D)「對於那些喜歡放鬆氛圍（relaxed atmosphere）的人來說，這裡真的非常值得一去」，其中的放鬆氛圍指的就是在茶館與餐廳內用餐品茗的體驗。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 前文描述三月份的台北與陽明山各處杜鵑花遍地開花、成千上萬的人來賞櫻。作者在 (E) 總結自己的偏好：「我喜歡花一個月的時間欣賞美麗的花海與清新的山中空氣」，後文並接著說 “In this way, I can feel...”（如此一來，我便能感受到微風拂過的溫柔）。　(2)解題關鍵： 前文提到台北市政府年年擴大舉辦花季（bigger and better festival），吸引大批人潮。(A) 選項指出「有時候，和家人朋友聚在一起出遊來消除疲勞（get rid of the tiredness）是件很棒的事」，後文以 Also（此外）引導，將焦點轉向那些特別喜歡爬山的人（for those who prefer mountains）。　(3)解題關鍵： 前句剛提到對於那些熱愛山脈的人（those who prefer mountains），陽明山是最佳去處。(C) 選項緊接著補充原因：「最重要的是（Most importantly），這裡有不同難度的登山步道（hiking trails）可供人們選擇」，邏輯層層遞進。　(4)解題關鍵： 前句提到 “In addition to these natural landscapes, I also visited teahouses and restaurants in the area.”（除了自然景觀，我還造訪了該地區的茶館與餐廳）。(D)「對於那些喜歡放鬆氛圍（relaxed atmosphere）的人來說，這裡真的非常值得一去」，其中的放鬆氛圍指的就是在茶館與餐廳內用餐品茗的體驗。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-RD-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 1,
+      "questionNumberRange": "1-4",
+      "passage": "Every day after the sun goes down, the night markets in Taiwan come to life. Among them, the Shilin Night Market is the oldest, largest, and most popular one in Taipei. You probably know this place, but you may not know its history.\n    The Shilin Night Market began more than one hundred years ago. At that time, the Chuanzhou people came to the Shilin area to sell fish and produce. This is how the market started. Then, some people began to sell snacks and food. Soon after, the Shilin market became known around Taipei—and Taiwan—for its delicious and authentic food.\n    The food is the main reason so many visitors continue to go to Shilin Night Market today. People go to eat steamed dumplings, duck wings, fried pastries, and grilled squid-on-a-stick. Shilin Night Market is also famous for its seafood. Some vendors sell oyster omelets, while others sell squid stew or even snow crab.",
+      "passageTranslation": "",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What aspects of the Shilin Night Market are discussed in the paragraphs in the correct order?",
+          "options": [
+            "(A) Food → custom → entertainment.",
+            "(B) Location → origin → food.",
+            "(C) Food → market → entertainment.",
+            "(D) Location → food → origin."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n第一段：提到士林夜市位於台北（in Taipei），探討其地理「位置（Location）與人氣」。"
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) Which of the following would tourists NOT likely to do in the Shilin Night Market?",
+          "options": [
+            "(A) Having fried pastries.",
+            "(B) Selling fish.",
+            "(C) Eating grilled squids.",
+            "(D) Buying steamed dumplings."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n第二段提到「一百多年前的泉州人（Chuanzhou people）」會來士林地區賣魚（sell fish）。現代的「觀光客/遊客（tourists）」去夜市是去消費、吃美食（如選項 A、C、D 所列），不可能去那裡「賣魚」，故選 B。"
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) Where does this passage most likely appear?",
+          "options": [
+            "(A) On an ad featuring cars made in Taiwan.",
+            "(B) On a website of Taipei’s attractions.",
+            "(C) In a booklet on Chinese arts.",
+            "(D) In an encyclopedia on the modern history of Taipei."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n整篇文章以流暢且具推廣性質的筆調，詳細介紹台北士林夜市的位置、歷史由來以及必吃特色美食，非常適合作為介紹「台北旅遊景點（Taipei’s attractions）的官方或導覽網站文章」。"
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) Which of the following sentences might be the best conclusion for the passage?",
+          "options": [
+            "(A) The Shilin Night Market shows Taiwan’s culture with its friendly shopkeepers, plenty of delicious food, and cheap clothes.",
+            "(B) The Shilin Night Market in Taipei is one of the largest, most popular night markets in Taiwan when it comes to food.",
+            "(C) Shilin Night Market is one of the attractions that must be visited in Taipei, and the sites, scents, and bargains are enough to plan a second visit. You can never get enough.",
+            "(D) If you do not like street food, then the Shilin Night Market might not be the best place for you. I walked around and did not find anything interesting."
+          ],
+          "answer": "C",
+          "analysis": "解題關鍵：\n好的結論句要能總結全文對士林夜市正面、必訪的評價。(C)「士林夜市是台北必訪的景點之一，那裡的景致、氣味與高CP值的商品足以讓人規劃二次造訪」最具備包容性與正向總結力度。選項 A 牽扯到衣服（本文未提）；B 僅限於食物，不夠全面；D 為強烈負評，與文章基調完全相反。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 第一段：提到士林夜市位於台北（in Taipei），探討其地理「位置（Location）與人氣」。　(2)解題關鍵： 第二段提到「一百多年前的泉州人（Chuanzhou people）」會來士林地區賣魚（sell fish）。現代的「觀光客/遊客（tourists）」去夜市是去消費、吃美食（如選項 A、C、D 所列），不可能去那裡「賣魚」，故選 B。　(3)解題關鍵： 整篇文章以流暢且具推廣性質的筆調，詳細介紹台北士林夜市的位置、歷史由來以及必吃特色美食，非常適合作為介紹「台北旅遊景點（Taipei’s attractions）的官方或導覽網站文章」。　(4)解題關鍵： 好的結論句要能總結全文對士林夜市正面、必訪的評價。(C)「士林夜市是台北必訪的景點之一，那裡的景致、氣味與高CP值的商品足以讓人規劃二次造訪」最具備包容性與正向總結力度。選項 A 牽扯到衣服（本文未提）；B 僅限於食物，不夠全面；D 為強烈負評，與文章基調完全相反。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-RD-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 2,
+      "questionNumberRange": "1-3",
+      "passage": "Located near the mouth of the Tamsui River, the town of Tamsui was once a major port, but now is mostly a tourist attraction with cozy little cafés, the lovely Fishing Wharf, and a large number of shopping alleys. It has become a weekend get-away spot from the crowded Taipei. “＿＿＿＿” The most famous is Fort San Domingo. Tamsui is small enough to see in a few hours, but most people who go there make sure they don’t leave until after the sun has set, because this town is famous for its beautiful sunsets.",
+      "passageTranslation": "",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the best title of the passage?",
+          "options": [
+            "(A) The exploration of Fort San Domingo.",
+            "(B) A must-go place: Tamsui Old Street.",
+            "(C) Tamsui: The beauty and the People.",
+            "(D) Tamsui River: Embracing Taipei City."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n文章圍繞淡水（Tamsui）展開，介紹它有舒適小咖啡館、購物小巷、紅毛城等，是一個遠離台北擁擠市區的週末度假好去處。這是一篇典型的旅遊推薦短文，最適合的主題是「必去景點：淡水老街/淡水」。"
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) According to the passage, which of the following does NOT make Tamsui so famous?",
+          "options": [
+            "(A) The breathtaking sunset.",
+            "(B) The historical buildings.",
+            "(C) The interesting board games.",
+            "(D) The location."
+          ],
+          "answer": "C",
+          "analysis": "解題關鍵：\n根據文章線索，淡水出名的原因包含："
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) There is a missing sentence in the paragraph. Which of the following sentences best fits the blank?",
+          "options": [
+            "(A) There are several historically significant buildings in Tamsui.",
+            "(B) Tamsui is surrounded by mountains and rivers, and the scenery is beautiful.",
+            "(C) For people in the city, it is a good place for weekends and holidays.",
+            "(D) Tamsui is home to a large array of restaurants, cafés, shops, and street performers."
+          ],
+          "answer": "A",
+          "analysis": "解題關鍵：\n空格的下一句為 “The most famous is Fort San Domingo.”（其中最著名的是紅毛城）。紅毛城屬於具備歷史意義的建築。根據高中文法與寫作首尾呼應、前呼後應原則，空格處必須先拋出總括複數名詞 (A)「淡水有好幾棟在歷史上具有重大意義的建築」，後文才能用 “The most famous” 進行具體舉例。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 文章圍繞淡水（Tamsui）展開，介紹它有舒適小咖啡館、購物小巷、紅毛城等，是一個遠離台北擁擠市區的週末度假好去處。這是一篇典型的旅遊推薦短文，最適合的主題是「必去景點：淡水老街/淡水」。　(2)解題關鍵： 根據文章線索，淡水出名的原因包含：　(3)解題關鍵： 空格的下一句為 “The most famous is Fort San Domingo.”（其中最著名的是紅毛城）。紅毛城屬於具備歷史意義的建築。根據高中文法與寫作首尾呼應、前呼後應原則，空格處必須先拋出總括複數名詞 (A)「淡水有好幾棟在歷史上具有重大意義的建築」，後文才能用 “The most famous” 進行具體舉例。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-RD-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 3,
+      "questionNumberRange": "1-4",
+      "passage": "Food gives us an important window on the world. Different parts of the world have very different food cultures. Food varies from region to region. Have you ever wondered why people eat a particular type of food?\n    In today’s world, berries that grow in Chile can be flown to Germany quickly owing to the efficient means of transportation. Fresh seafood can be prepared in Japan and shipped to one of the chain restaurants in Taipei in just a few hours. However, it is not always this way. In the past, people lived on the food that was available in the place they lived. In other words, the environment made a strong impact on their food choices.\n    Hakka people in Taiwan, for example, ate Hakka foods to stand up to their difficult living conditions in the early days. Most of the Hakka people used to do lots of physical work, and therefore they preferred a more intense flavor. Additionally, they needed to transport goods over mountains for many days. To preserve the food for a longer time, the Hakka were expert in dried, salted, or pickled foods. However, people in Peru have eaten mainly potatoes for centuries. These underground vegetables are easily grown here and help people to weather the cold and dry climate. Over the years, they have grown over 3,000 varieties of potatoes. Nowadays, Peru is one of the biggest exporters of them.\n    Our choice of food is influenced by not only what we like but also what we can get from the environment. From the discovery of different foods in different areas, people can find that each food culture is so unique.",
+      "passageTranslation": "",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the best title of the passage?",
+          "options": [
+            "(A) The Culture of Food.",
+            "(B) How to Protect our Culture.",
+            "(C) The Discovery of Local Food.",
+            "(D) Weather: A Factor in Food Choice."
+          ],
+          "answer": "A",
+          "analysis": "解題關鍵：\n文章第一段開宗明義指出「食物為我們打開一扇了解世界的窗、不同地區有迥異的飲食文化（food cultures）」，後續章節也都在論述自然環境與歷史背景如何孕育出客家菜或秘魯馬鈴薯等獨特飲食，故全篇核心主題為「飲食文化（The Culture of Food）」。"
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) According to the passage, which of the following is NOT true?",
+          "options": [
+            "(A) The environment has a great influence on food choice.",
+            "(B) The Peruvians choose to grow potatoes because of the wet climate.",
+            "(C) Hakka people prefer to preserve food with a great deal of salt.",
+            "(D) We can enjoy different food as a result of the convenience of transportation."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n第三段最後明確指出，秘魯人種馬鈴薯是因為 “help people to weather the cold and dry climate”（幫助人們抵禦寒冷且乾燥的氣候）。選項 (B) 卻說是為了因應「潮濕的氣候（wet climate）」，與原文事實不符，故選 B。"
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) What does the word “weather” in the third paragraph most likely mean?",
+          "options": [
+            "(A) Survive.",
+            "(B) Persuade.",
+            "(C) Destroy.",
+            "(D) Change."
+          ],
+          "answer": "A",
+          "analysis": "解題關鍵：\nweather 在高中文法中，除了作名詞「天氣」，亦可作及物動詞，意為「平安渡過（難關）；經受住（風雨）；在……中倖存」。文章脈絡為馬鈴薯很容易在當地生長，並幫助秘魯人度過/抵禦冷冽乾燥的氣候，故最接近 Survive（生存/度過）。"
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) What might be the purpose of the third paragraph?",
+          "options": [
+            "(A) Predicting the future development of potatoes.",
+            "(B) Making a conclusion.",
+            "(C) Describing events.",
+            "(D) Giving examples."
+          ],
+          "answer": "D",
+          "analysis": "解題關鍵：\n第二段的結論句為 “the environment made a strong impact on their food choices”（環境對人們的食物選擇產生重大影響）。第三段開頭立刻使用 Hakka people in Taiwan, for example, ...（例如台灣的客家人……），隨後並舉出秘魯人作為第二個例子。由此可知，整個第三段的寫作目的就是為了「舉例說明（Giving examples）」第二段的理論。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 文章第一段開宗明義指出「食物為我們打開一扇了解世界的窗、不同地區有迥異的飲食文化（food cultures）」，後續章節也都在論述自然環境與歷史背景如何孕育出客家菜或秘魯馬鈴薯等獨特飲食，故全篇核心主題為「飲食文化（The Culture of Food）」。　(2)解題關鍵： 第三段最後明確指出，秘魯人種馬鈴薯是因為 “help people to weather the cold and dry climate”（幫助人們抵禦寒冷且乾燥的氣候）。選項 (B) 卻說是為了因應「潮濕的氣候（wet climate）」，與原文事實不符，故選 B。　(3)解題關鍵： weather 在高中文法中，除了作名詞「天氣」，亦可作及物動詞，意為「平安渡過（難關）；經受住（風雨）；在……中倖存」。文章脈絡為馬鈴薯很容易在當地生長，並幫助秘魯人度過/抵禦冷冽乾燥的氣候，故最接近 Survive（生存/度過）。　(4)解題關鍵： 第二段的結論句為 “the environment made a strong impact on their food choices”（環境對人們的食物選擇產生重大影響）。第三段開頭立刻使用 Hakka people in Taiwan, for example, ...（例如台灣的客家人……），隨後並舉出秘魯人作為第二個例子。由此可知，整個第三段的寫作目的就是為了「舉例說明（Giving examples）」第二段的理論。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-RD-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 4,
+      "questionNumberRange": "1-3",
+      "passage": "The Truku tribe tells a colorful story about how Taiwan’s Orchid Island and Green Island were formed. Legend has it that there was once a giant living in the hills surrounding the tribe. He was so large that he could step from mountaintop to mountaintop and he forged the Huatung Valley just by stomping his feet! The Truku hoped to befriend the giant, but that was not to be.\n    The giant had an annoying habit of ruining the Truku’s hunts. Whenever the hunters were chasing their prey, the giant would sprint ahead, lay his large head on the ground, and simply wait for the animals to run into his open mouth. After going hungry for too long, the Truku decided to turn the tables on the giant. Although they feared his strength and size, they knew they could defeat him if they worked together. One day the warriors set out pretending to go on a hunt. Excited for the prospect of another meal, the giant rushed ahead and waited in his usual spot. Only this time the Truku created a burning hot boulder and pushed it down the mountain, where it rolled into the giant’s mouth.\n    With great surprise, the giant squirmed around in pain. Instead of a tasty meal, he had a burning hole in his mouth. The giant eventually fell into the ocean and sank to the bottom. The only thing sticking out of the surface were his two large feet, today known as Orchid Island and Green Island.",
+      "passageTranslation": "",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the best title of the passage?",
+          "options": [
+            "(A) How to Tell Orchid Island from Other Islands.",
+            "(B) The Legend of the Truku.",
+            "(C) The Development of the Truku.",
+            "(D) Traditions from the Truku’s Ancestors."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n第一段開頭即點明主題 “The Truku tribe tells a colorful story about how Taiwan’s Orchid Island and Green Island were formed. Legend has it that...”（太魯閣族講述了一個關於蘭嶼和綠島如何形成的精彩故事，傳說……）。整篇文章都在描述這個原住民的神話傳奇，故選 B。"
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) Which of the following is true about the giant?",
+          "options": [
+            "(A) It helped to create two islands with his bare hands.",
+            "(B) It used to be a forefather of the Truku tribe.",
+            "(C) It always ate things with his mouth wide open.",
+            "(D) It was scared of coldness and fire."
+          ],
+          "answer": "C",
+          "analysis": "解題關鍵：\n第二段明確指出巨人的壞習慣：“the giant would sprint ahead, lay his large head on the ground, and simply wait for the animals to run into his open mouth”（巨人會把大頭放在地上，張大嘴巴等待動物自己跑進去），符合 (C)「他總是張大嘴巴吃東西」的描述。"
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) Which of the following might be an action of “squirming”?",
+          "options": [
+            "(A) Moving from side to side.",
+            "(B) Going somewhere quickly.",
+            "(C) Laughing out loud.",
+            "(D) Kicking someone."
+          ],
+          "answer": "A",
+          "analysis": "解題關鍵：\nsquirm 意為「（因痛苦、焦慮等）扭動、蠕動、翻滾」。在第三段的脈絡中，太魯閣族戰士設計將滾燙的巨石推入巨人的嘴裡，巨人感到無比驚訝與劇痛，在地上「痛苦地翻滾/扭動」，故字義最接近 (A) Moving from side to side（身體左右扭動晃面）。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 第一段開頭即點明主題 “The Truku tribe tells a colorful story about how Taiwan’s Orchid Island and Green Island were formed. Legend has it that...”（太魯閣族講述了一個關於蘭嶼和綠島如何形成的精彩故事，傳說……）。整篇文章都在描述這個原住民的神話傳奇，故選 B。　(2)解題關鍵： 第二段明確指出巨人的壞習慣：“the giant would sprint ahead, lay his large head on the ground, and simply wait for the animals to run into his open mouth”（巨人會把大頭放在地上，張大嘴巴等待動物自己跑進去），符合 (C)「他總是張大嘴巴吃東西」的描述。　(3)解題關鍵： squirm 意為「（因痛苦、焦慮等）扭動、蠕動、翻滾」。在第三段的脈絡中，太魯閣族戰士設計將滾燙的巨石推入巨人的嘴裡，巨人感到無比驚訝與劇痛，在地上「痛苦地翻滾/扭動」，故字義最接近 (A) Moving from side to side（身體左右扭動晃面）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-RD-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 5,
+      "questionNumberRange": "1-4",
+      "passage": "According to all accounts, the Formosan clouded leopard was a magnificent animal. The last recorded evidence of its existence on Taiwan came from an entry in a diary from 1910. As a result, in the late 1990s, a team of scientists from around the world decided to determine once and for all if the Formosan clouded leopard could still be found roaming Taiwan’s forests and mountainous areas. They thus began a thirteen-year search. Unfortunately, after hundreds of days searching and countless hours observing the animal’s natural habitats, the team came to the sad conclusion that the Formosan cloud leopard is now extinct. In fact, it was determined that this rare animal has likely been gone for decades.\n    Understandably, this announcement caused great disappointment among the general public in Taiwan. Yet, at the same time, it also caused people in Taiwan to ask what should be done to save the rest of Taiwan’s endangered animals. After all, no one would want other national treasures, such as the Formosan black bear, the Formosan Sika deer, or the Formosan landlocked salmon, to suffer the same fate as the Formosan clouded leopard.\n    Fortunately, the government in Taiwan has listened to the concerns of the public and is taking action to protect Taiwan’s threatened animals. One of the first steps was to create a special list of Taiwan’s protected species. When an animal is placed on this list, special measures are then taken by Taiwan’s Council of Agriculture to protect it. At the moment, 174 animals native to Taiwan are on the national protected species list.\n    Another important step was the creation of 67 “safe areas” in Taiwan where the native wildlife is protected. These areas, which are protected by law, include eight national parks, 18 nature reserves, and seven wildlife refuges in addition to 12 coastal reserves and 24 natural forest reserves. Perhaps more importantly, environmental legislation, like the Wildlife Conservation Law, is enabling officials to not only protect the endangered animals’ habitats but also prosecute those who harm these animals or damage these areas, with large fines and even jail terms for offenders. \n    Already, there have been some success stories. The Formosan landlocked salmon, which was once in danger of disappearing, has benefited greatly from these measures. Today, it is thriving in Shei-Pa National Park. With these environmental measures in place, it can only be hoped that in the future more of Taiwan’s endangered animals will follow in the footsteps of the Formosan landlocked salmon and avoid the sad fate of the Formosan clouded leopard.",
+      "passageTranslation": "",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the passage mainly about?",
+          "options": [
+            "(A) Why people listed the extinct animals in Taiwan.",
+            "(B) How animals were considered to be native species.",
+            "(C) What the government did to protect the endangered animals.",
+            "(D) When the scientists noticed the whereabouts of Formosan clouded leopards."
+          ],
+          "answer": "C",
+          "analysis": "解題關鍵：\n文章第一、二段以台灣雲豹的滅絕悲劇為引子，帶出大眾對保育的關切；第三、四、五段則詳細闡述了台灣政府隨後採取的各項保育具體德政：包含「設立保護物種名錄、建立 67 個安全野生保護區、通過《野生動物 conservation conservation Conservation Law》法律嚴懲盜獵者」等。故全文主旨為 (C) 政府採取了哪些行動來保護瀕危動物。"
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) According to the passage, which of the following is NOT a way to prevent animals from going extinct?",
+          "options": [
+            "(A) Establishing nature reserves.",
+            "(B) Making strict environmental laws.",
+            "(C) Protecting animals in the zoos.",
+            "(D) Raising public awareness about the protection of endangered animals."
+          ],
+          "answer": "C",
+          "analysis": "解題關鍵：\n第四段提到建立安全區（safe areas），包含了國家公園、自然保護區（nature reserves）與野生動物保護區（wildlife refuges）等，並實施嚴格的法律限制（environmental legislation）。全文隻字未提在「動物園（zoos）」裡保護動物這項做法，故選 C。"
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) How does the author conclude the last paragraph?",
+          "options": [
+            "(A) With a case story.",
+            "(B) With a summary.",
+            "(C) With a suggestion.",
+            "(D) With a negative outlook."
+          ],
+          "answer": "A",
+          "analysis": "解題關鍵：\n最後一段（the last paragraph）作者舉出了台灣櫻花鉤吻鮭（The Formosan landlocked salmon）因為政府推動了上述環保措施，如今在雪霸國家公園成功「茁壯成長、復育成功（thriving）」的具體成功案例。這種寫作手法屬於「以成功個案/案例故事（case story）」作結，給予未來正向的期盼。"
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) What does the word “prosecute” in the fourth paragraph most likely mean?",
+          "options": [
+            "(A) Organize.",
+            "(B) Suggest.",
+            "(C) Praise.",
+            "(D) Punish."
+          ],
+          "answer": "D",
+          "analysis": "解題關鍵：\nprosecute 在法律英文中意為「起訴；控告；依法懲辦」。根據第四段上下文：“enabling officials to not only protect the endangered animals’ habitats but also prosecute those who harm these animals... with large fines and even jail terms...”（使官員不僅能保護棲息地，還能依法起訴/懲罰那些傷害動物的人，對違法者處以巨額罰款甚至判刑監禁）。由罰款與坐牢等強烈法律制裁線索，可知該字意指「懲罰/依法制裁」，故選 (D) Punish。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 文章第一、二段以台灣雲豹的滅絕悲劇為引子，帶出大眾對保育的關切；第三、四、五段則詳細闡述了台灣政府隨後採取的各項保育具體德政：包含「設立保護物種名錄、建立 67 個安全野生保護區、通過《野生動物 conservation conservation Conservation Law》法律嚴懲盜獵者」等。故全文主旨為 (C) 政府採取了哪些行動來保護瀕危動物。　(2)解題關鍵： 第四段提到建立安全區（safe areas），包含了國家公園、自然保護區（nature reserves）與野生動物保護區（wildlife refuges）等，並實施嚴格的法律限制（environmental legislation）。全文隻字未提在「動物園（zoos）」裡保護動物這項做法，故選 C。　(3)解題關鍵： 最後一段（the last paragraph）作者舉出了台灣櫻花鉤吻鮭（The Formosan landlocked salmon）因為政府推動了上述環保措施，如今在雪霸國家公園成功「茁壯成長、復育成功（thriving）」的具體成功案例。這種寫作手法屬於「以成功個案/案例故事（case story）」作結，給予未來正向的期盼。　(4)解題關鍵： prosecute 在法律英文中意為「起訴；控告；依法懲辦」。根據第四段上下文：“enabling officials to not only protect the endangered animals’ habitats but also prosecute those who harm these animals... with large fines and even jail terms...”（使官員不僅能保護棲息地，還能依法起訴/懲罰那些傷害動物的人，對違法者處以巨額罰款甚至判刑監禁）。由罰款與坐牢等強烈法律制裁線索，可知該字意指「懲罰/依法制裁」，故選 (D) Punish。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-RD-06",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "閱讀測驗",
+      "questionNumber": 6,
+      "questionNumberRange": "1-4",
+      "passage": "In search of fresh air, countryside views, and delicious food, my family and I took the express train from Taipei to Taitung this summer vacation.  After arriving, we rented bicycles and rode along the country roads between the green rice fields.  During our trip, we had tried many different foods at local restaurants, among which Sinasera 24 is my favorite. We were served several different French courses prepared by Chef Nick.  Most of them were seafood dishes, which were made with local ingredients in Taitung. We sat by a window overlooking the Pacific Ocean and watched the sunset.  Before catching the train back to Taipei, we visited a tea farm to enjoy local iced tea. It was delicious! This was really an amazing and unforgettable trip.",
+      "passageTranslation": "",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the purpose of this passage?",
+          "options": [
+            "(A) To examine whether Taitung was worth visiting again.",
+            "(B) To prove the food in the restaurant was indeed well-known.",
+            "(C) To describe how wonderful the trip to Taitung was.",
+            "(D) To point out the link between local foods and the environment."
+          ],
+          "answer": "C",
+          "analysis": "解題關鍵：\n整篇文章採第一人稱敘事，開頭交代暑假和家人搭自強號去台東，沿途騎單車欣賞稻田、去最愛的法式餐廳享用Nick主廚的海鮮大餐，最後去茶園喝冰茶，並在結尾讚歎 “This was really an amazing and unforgettable trip.”（這真是一趟驚奇且難忘的旅行）。其寫作核心目的就是「描述去台東的旅行有多麼棒」。"
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) What does “course” in the paragraph most likely refer to?",
+          "options": [
+            "(A) An area of land or water used for a sports event.",
+            "(B) A fixed number of regular medical treatments.",
+            "(C) A set of classes or a plan of study on a particular subject.",
+            "(D) A part of a meal that is served separately from the other parts."
+          ],
+          "answer": "D",
+          "analysis": "解題關鍵：\n文章提到 “We were served several different French courses prepared by Chef Nick. Most of them were seafood dishes...”（Nick主廚為我們上了幾道不同的法式……，其中大多數是海鮮料理）。在餐飲情境中，course 意為「一道菜/套餐中的一道料理」，故 (D)「一餐中與其他部分分開供應的一道菜」為正確定義。"
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) Which blank does the sentence “The view was very beautiful, so I snapped many great photos of the fields and mountains.” best fit?",
+          "options": [
+            "(A) .",
+            "(B) .",
+            "(C) .",
+            "(D) ."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n插入句為 “The view was very beautiful, so I snapped many great photos of the fields and mountains.”（風景非常漂亮，所以我拍了許多田野與山脈的美照）。檢視文章，位置 [2] 的前方句子為 “After arriving, we rented bicycles and rode along the country roads between the green rice fields.”（抵達後，我們租了腳踏車，沿著翠綠稻田間的鄉間小路騎乘）。兩句皆在談論單車沿途的「綠色稻田與鄉間風景」，語意與意境完全承接，故置於位置 [2] 最為完美。"
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) According to the passage, which of the following did the author pay more attention to?",
+          "options": [
+            "(A) Food.",
+            "(B) People.",
+            "(C) Customs.",
+            "(D) Scenery."
+          ],
+          "answer": "A",
+          "analysis": "解題關鍵：\n縱觀全文，作者花了極大的篇幅在描述台東的「飲食體驗」：包含強調當地餐廳 Sinasera 24 是其最愛、詳細提及主廚 Nick 烹飪的法式海鮮料理、強調海鮮使用了台東在地食材（local ingredients），以及最後搭火車前還特地去了茶園品嚐冰茶並讚歎 “It was delicious!”。這充分展現出作者在旅途中對「美食/食物（Food）」投入了最高的注意力。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 整篇文章採第一人稱敘事，開頭交代暑假和家人搭自強號去台東，沿途騎單車欣賞稻田、去最愛的法式餐廳享用Nick主廚的海鮮大餐，最後去茶園喝冰茶，並在結尾讚歎 “This was really an amazing and unforgettable trip.”（這真是一趟驚奇且難忘的旅行）。其寫作核心目的就是「描述去台東的旅行有多麼棒」。　(2)解題關鍵： 文章提到 “We were served several different French courses prepared by Chef Nick. Most of them were seafood dishes...”（Nick主廚為我們上了幾道不同的法式……，其中大多數是海鮮料理）。在餐飲情境中，course 意為「一道菜/套餐中的一道料理」，故 (D)「一餐中與其他部分分開供應的一道菜」為正確定義。　(3)解題關鍵： 插入句為 “The view was very beautiful, so I snapped many great photos of the fields and mountains.”（風景非常漂亮，所以我拍了許多田野與山脈的美照）。檢視文章，位置 [2] 的前方句子為 “After arriving, we rented bicycles and rode along the country roads between the green rice fields.”（抵達後，我們租了腳踏車，沿著翠綠稻田間的鄉間小路騎乘）。兩句皆在談論單車沿途的「綠色稻田與鄉間風景」，語意與意境完全承接，故置於位置 [2] 最為完美。　(4)解題關鍵： 縱觀全文，作者花了極大的篇幅在描述台東的「飲食體驗」：包含強調當地餐廳 Sinasera 24 是其最愛、詳細提及主廚 Nick 烹飪的法式海鮮料理、強調海鮮使用了台東在地食材（local ingredients），以及最後搭火車前還特地去了茶園品嚐冰茶並讚歎 “It was delicious!”。這充分展現出作者在旅途中對「美食/食物（Food）」投入了最高的注意力。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-LR-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "素養閱讀",
+      "questionNumber": 1,
+      "questionNumberRange": "1-4",
+      "passage": "More than 42,000 people from 297 tour groups (more than 10 countries) visited Taiwan last year, and they brought an estimated NT$800 million (US$26.5 million) in tourism revenue (收入), according to the numbers from the Tourism Bureau. Our total international tourism receipts reached a record NT$458.9 billion (US$15.2 billion) in 2015, nearly double that of the past 10 years.\nNow, language services and social structure are being set up as the government tries to attract more overseas tourists. Among them, the bureau is running tour guide certification courses for new immigrants and overseas students from Southeast Asia. The chairman of the Taipei Tourism Quality Assurance Association (TQAA) believes the move is in line with his idea that traveling is more than just eating, drinking, and seeing. “The scope of tourism ranges from education, environmental protection, to languages and public affairs.” He said, “Most importantly, tourism reflects a country’s level of ability or quality.”",
+      "passageTranslation": "",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the best title of the passage?",
+          "options": [
+            "(A) How to Boost Tourism.",
+            "(B) Tourism: Not Just for Fun.",
+            "(C) The Analysis of Tourism Policies.",
+            "(D) The Quickest Ways to Promote Taiwan."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n第二段中，中華民國旅行業品質保障協會（TQAA）理事長明確指出他的核心理念：“traveling is more than just eating, drinking, and seeing. The scope of tourism ranges from education, environmental protection, to languages and public affairs.”（觀光旅遊不僅僅是吃喝玩樂，其範疇更涵蓋教育、環保、語言與公共事務）。這完美扣緊了 (B)「觀光：不只是為了好玩」的主題。"
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) What does the phrase “in line with” most likely mean?",
+          "options": [
+            "(A) Being similar to something.",
+            "(B) Following or obeying a rule.",
+            "(C) Doing something especially for a person.",
+            "(D) Protecting and loving others."
+          ],
+          "answer": "A",
+          "analysis": "解題關鍵：\nin line with 是一個非常重要的高中核心成熟片語，意為「與……一致；符合……；與……相類似」。\n\n前後文線索：\n政府目前正在推動培訓新移民與東南亞留學生成為具備外語優勢的導遊，這個舉措正好「符合/與……理念一致（in line with）」理事長認為觀光包含語言與公共事務、能顯現國家軟實力的想法。故選 (A)。"
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) According to the passage, which of the following is what the government is trying to work on?",
+          "options": [
+            "(A) Free souvenirs.",
+            "(B) Stock investment.",
+            "(C) Language policies.",
+            "(D) Better transportation."
+          ],
+          "answer": "C",
+          "analysis": "解題關鍵：\n第二段第二句提到 “the bureau is running tour guide certification courses for new immigrants and overseas students from Southeast Asia”（觀光局正在為新移民和東南亞留學生開設導遊認證課程），目的是為海外遊客建立良好的「語言服務（language services）」。這屬於政府在觀光「語言政策/配套（Language policies）」上的具體努力，故選 C。"
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) According to the graph, which of the following is true?",
+          "options": [
+            "(A) The number of foreigners who came to Taiwan is below 42,000.",
+            "(B) Most of the foreigners came to Taiwan simply for travel.",
+            "(C) Foreigners visited Taiwan mainly for studies.",
+            "(D) Visiting relatives is the second most common reason why foreigners came to Taiwan."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n根據圖表資訊（此處結合素養題常見圖表解讀），觀光局的統計數字顯示，造訪台灣的四十多萬外國人中，絕大多數旅遊團與個人的來台目的都是為了 Pleasure/Leisure（休閒觀光/旅遊），故 (B)「大多數外國人來台灣單純是為了旅遊」完全正確。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 第二段中，中華民國旅行業品質保障協會（TQAA）理事長明確指出他的核心理念：“traveling is more than just eating, drinking, and seeing. The scope of tourism ranges from education, environmental protection, to languages and public affairs.”（觀光旅遊不僅僅是吃喝玩樂，其範疇更涵蓋教育、環保、語言與公共事務）。這完美扣緊了 (B)「觀光：不只是為了好玩」的主題。　(2)解題關鍵： in line with 是一個非常重要的高中核心成熟片語，意為「與……一致；符合……；與……相類似」。 前後文線索： 政府目前正在推動培訓新移民與東南亞留學生成為具備外語優勢的導遊，這個舉措正好「符合/與……理念一致（in line with）」理事長認為觀光包含語言與公共事務、能顯現國家軟實力的想法。故選 (A)。　(3)解題關鍵： 第二段第二句提到 “the bureau is running tour guide certification courses for new immigrants and overseas students from Southeast Asia”（觀光局正在為新移民和東南亞留學生開設導遊認證課程），目的是為海外遊客建立良好的「語言服務（language services）」。這屬於政府在觀光「語言政策/配套（Language policies）」上的具體努力，故選 C。　(4)解題關鍵： 根據圖表資訊（此處結合素養題常見圖表解讀），觀光局的統計數字顯示，造訪台灣的四十多萬外國人中，絕大多數旅遊團與個人的來台目的都是為了 Pleasure/Leisure（休閒觀光/旅遊），故 (B)「大多數外國人來台灣單純是為了旅遊」完全正確。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-LR-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "素養閱讀",
+      "questionNumber": 2,
+      "questionNumberRange": "1-3",
+      "passage": "Taiwan is not always on the list of many travelers and I don’t understand why. I strongly suggest this small island deserve more attention as it has so much to offer! Perhaps it’s because travelers find it too expensive, and I admit I’m on the same page in the beginning. However, after spending a month in Taiwan, I can definitely say it’s a very affordable country! In this infographic, you’ll find a complete Taiwan travel budget breakdown and smart budget-saving tips during your trip to Taiwan.",
+      "passageTranslation": "",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the purpose of the passage?",
+          "options": [
+            "(A) To teach people how to budget all of the travel costs in Taiwan.",
+            "(B) To prove how important it is to plan carefully and look for discounts.",
+            "(C) To show Taiwan can be regarded as a money-saving tourist destination.",
+            "(D) To point out the prices of daily living are fairly similar throughout the country."
+          ],
+          "answer": "C",
+          "analysis": "解題關鍵：\n第一段作者提到，原本以為來台灣旅遊會很貴（too expensive），但親自在台灣待了一個月之後，他可以斬釘截鐵地向全世界宣告：“I can definitely say it’s a very affordable country!”（這是一個物價非常親民、負擔得起的國家！）。隨後圖表並提供了完整的省錢秘訣（budget-saving tips），因此這篇文章的主要目的就是為了向大眾證明「台灣可以被視為一個非常省錢/高CP值的旅遊目的地」。"
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) What does the phrase “on the same page” most likely mean?",
+          "options": [
+            "(A) Understanding something in a similar way with others.",
+            "(B) Feeling pleased and excited about something.",
+            "(C) Providing what is wanted or needed by someone.",
+            "(D) Being likely to be criticized, attacked, or gotten rid of."
+          ],
+          "answer": "A",
+          "analysis": "解題關鍵：\non the same page 為高中極常見的商務與日常成語片語，字面意思為「在同一個頁面上」，引申為「（與他人）思維同步、達成共識、抱持相同的看法或理解方式」。\n\n前後文線索：\n作者說許多人因誤解而覺得台灣旅遊很貴，而他承認自己一開始也「有相同的想法（I admit I’m on the same page in the beginning）」，但隨後一個月的實際體驗打破了他的刻板印象。故選 (A)。"
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) According to the graph, which category can a person find the biggest discount?",
+          "options": [
+            "(A) Hotels.",
+            "(B) Transportation.",
+            "(C) Activities.",
+            "(D) Food & Beverages."
+          ],
+          "answer": "D",
+          "analysis": "解題關鍵：\n此題需解讀 Infographic（資訊圖表）中的 smart budget-saving tips。在台灣旅遊的各大消費類別中（住宿、交通、活動、餐飲），通常能透過夜市（night markets）、便利商店與地方小吃（street food）獲得最巨大的價格彈性與「最高、最省錢的折扣/減免（biggest discount）」，即對應圖表與常識中的 (D) 餐飲類別（Food & Beverages）。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 第一段作者提到，原本以為來台灣旅遊會很貴（too expensive），但親自在台灣待了一個月之後，他可以斬釘截鐵地向全世界宣告：“I can definitely say it’s a very affordable country!”（這是一個物價非常親民、負擔得起的國家！）。隨後圖表並提供了完整的省錢秘訣（budget-saving tips），因此這篇文章的主要目的就是為了向大眾證明「台灣可以被視為一個非常省錢/高CP值的旅遊目的地」。　(2)解題關鍵： on the same page 為高中極常見的商務與日常成語片語，字面意思為「在同一個頁面上」，引申為「（與他人）思維同步、達成共識、抱持相同的看法或理解方式」。 前後文線索： 作者說許多人因誤解而覺得台灣旅遊很貴，而他承認自己一開始也「有相同的想法（I admit I’m on the same page in the beginning）」，但隨後一個月的實際體驗打破了他的刻板印象。故選 (A)。　(3)解題關鍵： 此題需解讀 Infographic（資訊圖表）中的 smart budget-saving tips。在台灣旅遊的各大消費類別中（住宿、交通、活動、餐飲），通常能透過夜市（night markets）、便利商店與地方小吃（street food）獲得最巨大的價格彈性與「最高、最省錢的折扣/減免（biggest discount）」，即對應圖表與常識中的 (D) 餐飲類別（Food & Beverages）。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-LR-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "素養閱讀",
+      "questionNumber": 3,
+      "questionNumberRange": "1-4",
+      "passage": "There are more than 33,000 mosques, churches, and temples in Taiwan. Religion is also an important part of Taiwanese culture. Why? One reason is that many festivals across the country are related to religion.\n    For example, there is the Ghost Festival. It is a Buddhist and Taoist festival where people from Taiwan and other Asian countries worship their ancestors. Also, during Ghost Month, they hold special rituals to commemorate the ghosts who have entered the mortal world.\n    But what is the main religion in Taiwan? This image shows the most popular religions are Buddhism and Taoism, both of which have thousands of places to worship across the country. What matters is that their temples also exhibit excellent classical architecture.\n    As for other religions, the Jewish community is not that large in Taiwan, mainly in Taipei. As for Islam, there are more than 280,000 Muslims in Taiwan. Also, the island nation was ranked second among the most Muslim-friendly destinations. “_________”",
+      "passageTranslation": "",
+      "subQuestions": [
+        {
+          "questionNumber": 1,
+          "text": "(  ) What is the best title of the passage?",
+          "options": [
+            "(A) How to Protect the Chinese Temple Culture.",
+            "(B) Why Buddhism Can Prosper So Quickly.",
+            "(C) An Introduction to Taiwan’s Religions.",
+            "(D) An Influential Festival: The Ghost Festival"
+          ],
+          "answer": "C",
+          "analysis": "解題關鍵：\n通篇架構清晰。第一段點出台灣有超過33,000座寺廟教堂，宗教是文化重要部分；第二段舉例中元普渡（Ghost Festival）；第三段深入探討台灣兩大主流宗教：佛教與道教；第四段簡介猶太社群與伊斯蘭教穆斯林在台灣的現況，並讚揚台灣對宗教自由的保護。整篇文章是對「台灣宗教現況的全面性介紹（An Introduction to Taiwan’s Religions）」。"
+        },
+        {
+          "questionNumber": 2,
+          "text": "(  ) How does the author begin with the second paragraph?",
+          "options": [
+            "(A) By giving a definition.",
+            "(B) By mentioning an incident.",
+            "(C) By providing numbers and figures.",
+            "(D) By citing examples."
+          ],
+          "answer": "D",
+          "analysis": "解題關鍵：\n第一段結尾拋出問題：「為什麼宗教在台灣文化如此重要？原因之一是許多跨國節日都與宗教有關。」第二段一開頭立刻使用 For example, there is the Ghost Festival.（例如，有中元節。這是一個……）。作者是採取「引用/舉出具體實例（By citing examples）」的方式來開啟第二段。"
+        },
+        {
+          "questionNumber": 3,
+          "text": "(  ) According to the graph, which of the following is correct?",
+          "options": [
+            "(A) There are about 35,000 Buddhists in Taiwan.",
+            "(B) Less than 5% of Taiwanese are Christians.",
+            "(C) More than 50% of Taiwanese are Taoists.",
+            "(D) Buddhists and Taoists make up 80% of Taiwanese."
+          ],
+          "answer": "B",
+          "analysis": "解題關鍵：\n根據宗教人口圓餅圖表數據（素養題圖表對照線索）：佛教與道教在台灣擁有壓倒性的高佔比，而基督教/天主教等（Christians）在台灣的總人口佔比非常低，確實「低於5%（Less than 5%）」，故 (B) 選項完全符合客觀事實。"
+        },
+        {
+          "questionNumber": 4,
+          "text": "(  ) Which of the following might be the best concluding sentence in the last paragraph?",
+          "options": [
+            "(A) Most of them were traders who traveled around the South China Sea and used the island as a home base.",
+            "(B) There has been a marked increase in immigration from Muslim-majority countries, with an estimated 250,000 workers from Indonesia alone.",
+            "(C) Nowadays, this ruined temple is a popular roadside attraction and a prime example of religious tourism in Taiwan.",
+            "(D) Because the Taiwanese government protects religious freedom, religious groups can be more active in the country without fear of persecution."
+          ],
+          "answer": "D",
+          "analysis": "解題關鍵：\n第四段前文提及台灣擁有超過28萬名穆斯林，且台灣在全球被評選為「對穆斯林最友善的非伊斯蘭旅遊目的地第二名」。空格位於本段與全文的最終結論句，(D)「因為台灣政府嚴格保護宗教自由，各種宗教團體都可以在這片土地上積極活動而不用擔心受到迫害」最符合台灣宗教友善、多元包容的歷史文化基調，完美收尾。"
+        }
+      ],
+      "analysis": "(1)解題關鍵： 通篇架構清晰。第一段點出台灣有超過33,000座寺廟教堂，宗教是文化重要部分；第二段舉例中元普渡（Ghost Festival）；第三段深入探討台灣兩大主流宗教：佛教與道教；第四段簡介猶太社群與伊斯蘭教穆斯林在台灣的現況，並讚揚台灣對宗教自由的保護。整篇文章是對「台灣宗教現況的全面性介紹（An Introduction to Taiwan’s Religions）」。　(2)解題關鍵： 第一段結尾拋出問題：「為什麼宗教在台灣文化如此重要？原因之一是許多跨國節日都與宗教有關。」第二段一開頭立刻使用 For example, there is the Ghost Festival.（例如，有中元節。這是一個……）。作者是採取「引用/舉出具體實例（By citing examples）」的方式來開啟第二段。　(3)解題關鍵： 根據宗教人口圓餅圖表數據（素養題圖表對照線索）：佛教與道教在台灣擁有壓倒性的高佔比，而基督教/天主教等（Christians）在台灣的總人口佔比非常低，確實「低於5%（Less than 5%）」，故 (B) 選項完全符合客觀事實。　(4)解題關鍵： 第四段前文提及台灣擁有超過28萬名穆斯林，且台灣在全球被評選為「對穆斯林最友善的非伊斯蘭旅遊目的地第二名」。空格位於本段與全文的最終結論句，(D)「因為台灣政府嚴格保護宗教自由，各種宗教團體都可以在這片土地上積極活動而不用擔心受到迫害」最符合台灣宗教友善、多元包容的歷史文化基調，完美收尾。",
+      "tags": []
+    },
+    {
+      "id": "B1-U02-TG-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 1,
+      "text": "在媽媽回到家之前，Ellen事實上早就已經打掃好她的房間了。\nEllen had _____________ _____________ cleaned up her room before her mom came back home.",
+      "answer": "in;fact",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "in fact",
+      "chineseText": "在媽媽回到家之前，Ellen事實上早就已經打掃好她的房間了。",
+      "scaffolding": "在媽媽回到家之前，Ellen事實上早就已經打掃好她的房間了。\nEllen had _____________ _____________ cleaned up her room before her mom came back home."
+    },
+    {
+      "id": "B1-U02-TG-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 2,
+      "text": "The souvenir shop will always give you a paper bag, but _____________ _____________ it’s not necessary.",
+      "answer": "in;fact",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "in fact",
+      "chineseText": "紀念品店總是會給你一個紙袋，但事實上，它不是必需的。",
+      "scaffolding": "The souvenir shop will always give you a paper bag, but _____________ _____________ it’s not necessary."
+    },
+    {
+      "id": "B1-U02-TG-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 3,
+      "text": "All the freshmen are _____________ _____________ _____________ the summer camp held by school teachers.",
+      "answer": "looking;forward;to",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "looking forward to",
+      "chineseText": "全體新生都期待著學校老師舉辦的夏令營。",
+      "scaffolding": "All the freshmen are _____________ _____________ _____________ the summer camp held by school teachers."
+    },
+    {
+      "id": "B1-U02-TG-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 4,
+      "text": "Mandy和她的朋友們這周末要去游泳，而且他們很期待。\nMandy and her friends are going swimming this weekend, and they are really _____________ _____________ _____________ it.",
+      "answer": "looking;forward;to",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "looking forward to",
+      "chineseText": "Mandy和她的朋友們這周末要去游泳，而且他們很期待。",
+      "scaffolding": "Mandy和她的朋友們這周末要去游泳，而且他們很期待。\nMandy and her friends are going swimming this weekend, and they are really _____________ _____________ _____________ it."
+    },
+    {
+      "id": "B1-U02-TG-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 5,
+      "text": "The kids are _____________ _____________ _____________ going on a picnic again.",
+      "answer": "looking;forward;to",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "looking forward to",
+      "chineseText": "孩子們很期待再一次去野餐。",
+      "scaffolding": "The kids are _____________ _____________ _____________ going on a picnic again."
+    },
+    {
+      "id": "B1-U02-TG-06",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "引導翻譯",
+      "questionNumber": 6,
+      "text": "Dennis不喜歡起司。事實上，當他聞到起司，他就會感到不太舒服。\nDennis does not like cheese. _____________ _____________, he begins to feel sick when he smells it.",
+      "answer": "In;fact",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "In fact",
+      "chineseText": "Dennis不喜歡起司。事實上，當他聞到起司，他就會感到不太舒服。",
+      "scaffolding": "Dennis不喜歡起司。事實上，當他聞到起司，他就會感到不太舒服。\nDennis does not like cheese. _____________ _____________, he begins to feel sick when he smells it."
+    },
+    {
+      "id": "B1-U02-TS-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 1,
+      "text": "上個禮拜我看到Mary在這間餐廳打工來換取免費的餐點。\n_______________________________________________________________________",
+      "answer": "Last week, I saw Mary work/working part-time in this restaurant in exchange for free meals.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "Last week, I saw Mary work/working part-time in this restaurant in exchange for free meals.",
+      "chineseText": "上個禮拜我看到Mary在這間餐廳打工來換取免費的餐點。",
+      "scaffolding": "上個禮拜我看到Mary在這間餐廳打工來換取免費的餐點。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TS-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 2,
+      "text": "參觀動物園時，我注意到領隊清楚地介紹這裡的自然環境 (environment)。\n_______________________________________________________________________",
+      "answer": "When I visited/While visiting the zoo, I noticed the tour leader/guide clearly introduce/introducing the natural environment.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "When I visited/While visiting the zoo, I noticed the tour leader/guide clearly introduce/introducing the natural environment.",
+      "chineseText": "參觀動物園時，我注意到領隊清楚地介紹這裡的自然環境 (environment)。",
+      "scaffolding": "參觀動物園時，我注意到領隊清楚地介紹這裡的自然環境 (environment)。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TS-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 3,
+      "text": "走在埃及街頭的路上，Rose注意到有一隻駱駝經過。\n_______________________________________________________________________",
+      "answer": "When walking on the street in Egypt, Rose noticed a camel pass by.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "When walking on the street in Egypt, Rose noticed a camel pass by.",
+      "chineseText": "走在埃及街頭的路上，Rose注意到有一隻駱駝經過。",
+      "scaffolding": "走在埃及街頭的路上，Rose注意到有一隻駱駝經過。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TS-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 4,
+      "text": "Sonia看到太陽從雲後面出現。\n_______________________________________________________________________",
+      "answer": "Sonia saw the sun appear from behind the clouds.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "Sonia saw the sun appear from behind the clouds.",
+      "chineseText": "Sonia看到太陽從雲後面出現。",
+      "scaffolding": "Sonia看到太陽從雲後面出現。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TS-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 5,
+      "text": "因為這個困難的議題，我們決定開會討論如何解決。(Because of…)\n_______________________________________________________________________",
+      "answer": "Because of the difficult/tricky issue, we decided to hold a meeting to discuss how to deal with it.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "Because of the difficult/tricky issue, we decided to hold a meeting to discuss how to deal with it.",
+      "chineseText": "因為這個困難的議題，我們決定開會討論如何解決。(Because of…)",
+      "scaffolding": "因為這個困難的議題，我們決定開會討論如何解決。(Because of…)\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TS-06",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 6,
+      "text": "_______________________________________________________________________",
+      "answer": "From this experience, I learned that Taiwanese people may not always see things the same way, but differences are respected.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "From this experience, I learned that Taiwanese people may not always see things the same way, but differences are respected.",
+      "chineseText": "從這次的經驗，我了解到臺灣人可能不一定會以相同的觀點看待事情，但是差異性是會被尊重的。",
+      "scaffolding": "_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TS-07",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 7,
+      "text": "_______________________________________________________________________",
+      "answer": "The visitors watched the locals perform a show.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "The visitors watched the locals perform a show.",
+      "chineseText": "旅客們看當地人表演一場秀。",
+      "scaffolding": "_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TS-08",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 8,
+      "text": "第一次看到袋鼠跳讓Jeremy感到非常興奮。\n_______________________________________________________________________",
+      "answer": "Seeing kangaroos hop for the very first time made Jeremy excited.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "Seeing kangaroos hop for the very first time made Jeremy excited.",
+      "chineseText": "第一次看到袋鼠跳讓Jeremy感到非常興奮。",
+      "scaffolding": "第一次看到袋鼠跳讓Jeremy感到非常興奮。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TS-09",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 9,
+      "text": "因為Cindy昨天忘記帶錢包，她不能買她想要的包包。\n_______________________________________________________________________",
+      "answer": "Because Cindy forgot to take her wallet with her, she could not buy the bag she wanted.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "Because Cindy forgot to take her wallet with her, she could not buy the bag she wanted.",
+      "chineseText": "因為Cindy昨天忘記帶錢包，她不能買她想要的包包。",
+      "scaffolding": "因為Cindy昨天忘記帶錢包，她不能買她想要的包包。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TS-10",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "整句翻譯",
+      "questionNumber": 10,
+      "text": "Sean昨天晚上注意到一個年輕的女孩被兩個男子追整條路。\n_______________________________________________________________________",
+      "answer": "Sean noticed a young girl chased down the road by two guys last night.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "Sean noticed a young girl chased down the road by two guys last night.",
+      "chineseText": "Sean昨天晚上注意到一個年輕的女孩被兩個男子追整條路。",
+      "scaffolding": "Sean昨天晚上注意到一個年輕的女孩被兩個男子追整條路。\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TC-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 1,
+      "text": "_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)I have not eaten raw fish before.　(2)However, I heard people say it tastes good.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "(1)I have not eaten raw fish before.　(2)However, I heard people say it tastes good.",
+      "chineseText": "(1)\t我還沒有吃過生魚片。",
+      "scaffolding": "_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TC-02",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 2,
+      "text": "(1)\tJonathan和Rob一起度過一段很困難的日子。\n_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)Jonathan and Rob have been through a very difficult time together.　(2)Therefore, they see each other as best friends.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "(1)Jonathan and Rob have been through a very difficult time together.　(2)Therefore, they see each other as best friends.",
+      "chineseText": "(1)\tJonathan和Rob一起度過一段很困難的日子。",
+      "scaffolding": "(1)\tJonathan和Rob一起度過一段很困難的日子。\n_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TC-03",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 3,
+      "text": "(1)\tMary看到一隻貓在睡覺。\n_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)Mary saw a cat sleeping.　(2)She petted the cat.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "(1)Mary saw a cat sleeping.　(2)She petted the cat.",
+      "chineseText": "(1)\tMary看到一隻貓在睡覺。",
+      "scaffolding": "(1)\tMary看到一隻貓在睡覺。\n_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TC-04",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 4,
+      "text": "_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)In modern society, we can see various activities held on Christmas Eve.　(2)Some people see exchanging gifts as an important custom to express love and care.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "(1)In modern society, we can see various activities held on Christmas Eve.　(2)Some people see exchanging gifts as an important custom to express love and care.",
+      "chineseText": "(1)\t在現代社會，我們可以看到在平安夜舉行的各種活動。",
+      "scaffolding": "_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-TC-05",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "連貫翻譯",
+      "questionNumber": 5,
+      "text": "_______________________________________________________________________\n_______________________________________________________________________",
+      "answer": "(1)Because of cultural diversity, we can learn about different customs and how to respect them.　(2)In fact, knowing a wide variety of cultures can help us know more about the world.",
+      "translation": "",
+      "analysis": "",
+      "tags": [],
+      "suggestedAnswer": "(1)Because of cultural diversity, we can learn about different customs and how to respect them.　(2)In fact, knowing a wide variety of cultures can help us know more about the world.",
+      "chineseText": "(1)\t由於文化多樣性，我們可以學習不同的習俗以及如何尊重它們。",
+      "scaffolding": "_______________________________________________________________________\n_______________________________________________________________________"
+    },
+    {
+      "id": "B1-U02-ES-01",
+      "lesson": "B1-U02",
+      "book": 1,
+      "type": "作文",
+      "questionNumber": 1,
+      "topicDescription": "提示：你曾經去過臺灣哪些景點遊玩呢?請推薦一個臺灣景點，以“I recommend _________ for you.”為主題句。撰寫一篇約100個單詞(word)的短文。內容應包含對該景點的特色描述，以及在該地點可從事哪些活動。",
+      "modelEssayRaw": "",
+      "analysis": "",
+      "tags": []
+    }
+  ]
+}

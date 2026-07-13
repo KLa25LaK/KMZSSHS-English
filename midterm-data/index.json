@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "lastUpdated": "2026-07-12",
+    "books": [
+      1
+    ],
+    "source": "midterm"
+  },
+  "lessons": [
+    {
+      "lesson": "B1-U01",
+      "book": 1,
+      "lessonNumber": 1,
+      "titleEn": "Are You Ready for the Climb?",
+      "questionCount": 137,
+      "sections": [
+        {
+          "type": "文意字彙",
+          "count": 19
+        },
+        {
+          "type": "詞類變化",
+          "count": 12
+        },
+        {
+          "type": "字彙選擇",
+          "count": 19
+        },
+        {
+          "type": "文法選擇",
+          "count": 20
+        },
+        {
+          "type": "課文挖空",
+          "count": 2
+        },
+        {
+          "type": "課文綜合",
+          "count": 3
+        },
+        {
+          "type": "綜合測驗",
+          "count": 3
+        },
+        {
+          "type": "文意選填",
+          "count": 6
+        },
+        {
+          "type": "篇章結構",
+          "count": 5
+        },
+        {
+          "type": "閱讀測驗",
+          "count": 6
+        },
+        {
+          "type": "素養閱讀",
+          "count": 3
+        },
+        {
+          "type": "混合題",
+          "count": 2
+        },
+        {
+          "type": "混合題",
+          "count": 2
+        },
+        {
+          "type": "完成句子",
+          "count": 3
+        },
+        {
+          "type": "重組句子",
+          "count": 3
+        },
+        {
+          "type": "合併句子",
+          "count": 2
+        },
+        {
+          "type": "改寫句子",
+          "count": 1
+        },
+        {
+          "type": "引導翻譯",
+          "count": 10
+        },
+        {
+          "type": "整句翻譯",
+          "count": 10
+        },
+        {
+          "type": "連貫翻譯",
+          "count": 5
+        },
+        {
+          "type": "作文",
+          "count": 1
+        }
+      ],
+      "file": "B1-U01.json"
+    },
+    {
+      "lesson": "B1-U02",
+      "book": 1,
+      "lessonNumber": 2,
+      "titleEn": "I See You, Taiwan",
+      "questionCount": 124,
+      "sections": [
+        {
+          "type": "文意字彙",
+          "count": 20
+        },
+        {
+          "type": "詞類變化",
+          "count": 12
+        },
+        {
+          "type": "字彙選擇",
+          "count": 22
+        },
+        {
+          "type": "文法選擇",
+          "count": 20
+        },
+        {
+          "type": "課文挖空",
+          "count": 2
+        },
+        {
+          "type": "課文綜合",
+          "count": 3
+        },
+        {
+          "type": "綜合測驗",
+          "count": 3
+        },
+        {
+          "type": "文意選填",
+          "count": 6
+        },
+        {
+          "type": "篇章結構",
+          "count": 5
+        },
+        {
+          "type": "閱讀測驗",
+          "count": 6
+        },
+        {
+          "type": "素養閱讀",
+          "count": 3
+        },
+        {
+          "type": "引導翻譯",
+          "count": 6
+        },
+        {
+          "type": "整句翻譯",
+          "count": 10
+        },
+        {
+          "type": "連貫翻譯",
+          "count": 5
+        },
+        {
+          "type": "作文",
+          "count": 1
+        }
+      ],
+      "file": "B1-U02.json"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "高中英文學習系統",
+  "short_name": "高中英文",
+  "description": "整合單字、模卷、錯題與老師分析的高中英文 PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#ff9ec8",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
