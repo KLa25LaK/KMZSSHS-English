@@ -1,5 +1,6 @@
-const CACHE_NAME = "english-learning-system-v2";
-const STATIC_ASSETS = ["/manifest.webmanifest", "/icon.svg"];
+const CACHE_NAME = "english-learning-system-v3";
+const BASE = self.location.pathname.replace(/\/sw\.js$/, "").replace(/\/$/, "") || "";
+const STATIC_ASSETS = [`${BASE}/manifest.webmanifest`, `${BASE}/icon.svg`];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
