@@ -1,4 +1,4 @@
-const CACHE_NAME = "english-learning-system-v13-unlicense";
+const CACHE_NAME = "english-learning-system-v14-layout-choice-fix";
 const BASE = self.location.pathname.replace(/\/sw\.js$/, "").replace(/\/$/, "") || "";
 const STATIC_ASSETS = [`${BASE}/manifest.webmanifest`, `${BASE}/icon.svg`];
 
