@@ -73,6 +73,7 @@
       opt.textContent = count + " 字";
       opt.addEventListener("click", function () {
         window.__KMZ_SPEAKING_COUNT = count;
+        window.__KMZ_SPEAKING_FRESH = Date.now();
         allowNextSpeakingClick = true;
         closeDialog();
         window.setTimeout(function () {
