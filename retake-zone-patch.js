@@ -1,14 +1,15 @@
 (function () {
+  var selectedFolder = null;
   function mount() {
     var vocabulary = document.getElementById('vocabulary');
     if (!vocabulary || document.getElementById('retake-zone')) return;
     var panel = document.createElement('article');
     panel.id = 'retake-zone';
     panel.className = 'entryPanel indexPanel';
-    panel.innerHTML = '<div class="entryHeader"><div class="inlineTitle"><h2>補考專區</h2></div></div><div class="customHomeGrid" aria-label="補考資料夾"></div><div class="retakeContents" hidden></div>';
+    panel.innerHTML = '<div class="entryHeader"><div class="inlineTitle"><h2>115-1補充教材</h2></div></div><div class="customHomeGrid" aria-label="補充教材資料夾"></div><div class="retakeContents" hidden></div>';
     var grid = panel.querySelector('.customHomeGrid');
     var contents = panel.querySelector('.retakeContents');
-    ['4U', '解析', '一般單字'].forEach(function (name) {
+    ['4U', '解析', '一般單字', '補考專區'].forEach(function (name) {
       var button = document.createElement('button');
       button.type = 'button';
       button.className = 'customHomeFolderButton';
@@ -18,6 +19,7 @@
         var open = button.getAttribute('aria-expanded') !== 'true';
         grid.querySelectorAll('button').forEach(function (item) { item.setAttribute('aria-expanded', 'false'); });
         button.setAttribute('aria-expanded', String(open));
+        selectedFolder = open ? name : null;
         contents.hidden = !open;
         contents.replaceChildren();
         if (open) {
@@ -41,11 +43,7 @@
               folders.appendChild(child);
             });
             contents.appendChild(folders);
-          } else { contents.appendChild(empty); }
-        }
-      };
-      grid.appendChild(button);
-    });
+          } else if (name === '補考專區') {
     var actions = document.createElement('div');
     actions.className = 'kmzRetakeDirections';
     [['英選中', 'enToZh'], ['中選英', 'zhToEn']].forEach(function (item) {
@@ -54,11 +52,20 @@
       button.onclick = function () { window.dispatchEvent(new CustomEvent('kmz-retake-choice', {detail:{direction:item[1]}})); };
       actions.appendChild(button);
     });
-    panel.insertBefore(actions, contents);
+    contents.appendChild(actions);
+          } else { contents.appendChild(empty); }
+        }
+      };
+      grid.appendChild(button);
+    });
     vocabulary.insertAdjacentElement('afterend', panel);
+    if (selectedFolder) {
+      var restore = Array.from(grid.children).find(function (button) { return button.textContent === '📁 ' + selectedFolder; });
+      if (restore) restore.click();
+    }
   }
   var style = document.createElement('style');
-  style.textContent = '#retake-zone{grid-column:1/-1}#retake-zone .customHomeGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}#retake-zone button{font:inherit;cursor:pointer;min-height:64px;border-radius:12px;padding:14px;border:1px solid #d99f45;background:#fff5dc;color:#533b20;font-weight:700}#retake-zone button[aria-expanded=true]{background:#ffe2a0;outline:2px solid #b77820}#retake-zone .retakeContents{margin-top:16px;padding:16px;border:1px solid #d99f45;border-radius:12px}#retake-zone h3{margin:0 0 8px}#retake-zone p{margin:0}@media(max-width:480px){#retake-zone .customHomeGrid{grid-template-columns:1fr}}';
+  style.textContent = '#retake-zone{grid-column:1/-1}#retake-zone .customHomeGrid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}#retake-zone button{font:inherit;cursor:pointer;min-height:64px;border-radius:12px;padding:14px;border:1px solid #d99f45;background:#fff5dc;color:#533b20;font-weight:700}#retake-zone button[aria-expanded=true]{background:#ffe2a0;outline:2px solid #b77820}#retake-zone .retakeContents{grid-column:1/-1;margin-top:16px;padding:16px;border:1px solid #d99f45;border-radius:12px}#retake-zone h3{margin:0 0 8px}#retake-zone p{margin:0}@media(max-width:760px){#retake-zone .customHomeGrid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:480px){#retake-zone .customHomeGrid{grid-template-columns:1fr}}';
   style.textContent += '.kmzRetakeDirections{display:flex;gap:12px;margin-top:16px}.kmzRetakeDirections button{flex:1;background:#f7d88c!important}.kmzRetakeChoice{display:flex!important;flex-direction:column;align-items:stretch;gap:8px;max-width:760px;width:100%;margin:auto;box-sizing:border-box}.kmzRetakeChoice h2{margin:8px 0}.kmzRetakeChoice>button:first-child{align-self:flex-start}.kmzRetakeChoice fieldset{border:1px solid #d99f45;border-radius:12px;padding:12px;margin:8px 0}.kmzRetakeRange{display:flex;gap:12px;align-items:center;padding:8px;border-bottom:1px solid #7774}.kmzRetakeRange input{width:20px;height:20px}.kmzRetakeCount{display:flex;align-items:center;gap:12px;margin:8px 0}.kmzRetakeChoice select,.kmzRetakeChoice input[type=number]{font:inherit;padding:10px;max-width:170px;border-radius:8px}.kmzRetakeChoice button{font:inherit;padding:10px 16px;margin:4px;border-radius:8px;cursor:pointer}.kmzRetakeChoice button:disabled{opacity:.45;cursor:not-allowed}';
   style.textContent += '.kmzRetakeRounds{border:1px solid #7776;border-radius:10px;padding:12px;margin:12px 0}.kmzRetakeRounds summary{cursor:pointer;font-weight:700;padding:6px 0}.kmzRetakeRounds label{line-height:1.5}';document.head.appendChild(style);
   new MutationObserver(mount).observe(document.body, {childList:true, subtree:true});
