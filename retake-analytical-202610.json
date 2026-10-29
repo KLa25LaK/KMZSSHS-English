@@ -1,0 +1,1063 @@
+{
+  "title": "解析10月",
+  "round": 1001,
+  "weeks": [
+    {
+      "id": "W1",
+      "title": "解析10月W1",
+      "words": [
+        "elusive",
+        "ecosystem",
+        "characteristic",
+        "identification",
+        "continuous",
+        "camouflage",
+        "prominent",
+        "adaptable",
+        "thrive",
+        "pronunciation",
+        "resemble",
+        "ecological",
+        "endangered",
+        "fragmentation",
+        "residential",
+        "territory",
+        "fatal",
+        "collision",
+        "transmit",
+        "underway",
+        "initiative",
+        "agricultural",
+        "route",
+        "puzzling",
+        "pilot",
+        "sphere",
+        "globe",
+        "location",
+        "curved",
+        "overhead",
+        "emergency",
+        "oddly",
+        "shortcut",
+        "endless",
+        "imaginary",
+        "mysterious",
+        "routine",
+        "unexpected",
+        "confidence",
+        "obstacle",
+        "tackle",
+        "carbon",
+        "overlook",
+        "analyze",
+        "emission",
+        "composition",
+        "format",
+        "protein",
+        "transportation",
+        "nutritional",
+        "infection",
+        "formulate",
+        "informed",
+        "clarity"
+      ]
+    },
+    {
+      "id": "W2",
+      "title": "解析10月W2",
+      "words": [
+        "tremendous",
+        "obsession",
+        "an attention span",
+        "sedentary",
+        "diminish",
+        "accommodate",
+        "participant",
+        "dormitory",
+        "foster",
+        "addiction",
+        "virtual",
+        "academic",
+        "peer",
+        "literature",
+        "accompany",
+        "delicacy",
+        "boundary",
+        "colonial",
+        "preserve",
+        "navigate",
+        "construct",
+        "remote",
+        "isolated",
+        "cautious",
+        "pioneering",
+        "tag",
+        "assume",
+        "invention",
+        "communication",
+        "manuscript",
+        "document",
+        "merchant",
+        "abbreviation",
+        "vessel",
+        "transport",
+        "widespread",
+        "accounting",
+        "ultimately",
+        "viable",
+        "destination",
+        "interfere",
+        "format",
+        "popularity",
+        "imaginative",
+        "curly",
+        "elsewhere",
+        "digital"
+      ]
+    },
+    {
+      "id": "W3",
+      "title": "解析10月W3",
+      "words": [
+        "ai",
+        "reservation",
+        "bin",
+        "discard",
+        "ingredient",
+        "identify",
+        "generate",
+        "accurately",
+        "innovative",
+        "leftover",
+        "advanced",
+        "yield",
+        "experimental",
+        "progression",
+        "lifespan",
+        "regulate",
+        "eventually",
+        "clump",
+        "conduct",
+        "biological",
+        "symptom",
+        "patent",
+        "therapy",
+        "fast-paced",
+        "groceries",
+        "produce",
+        "demanding",
+        "tap",
+        "vendor",
+        "dependability",
+        "household",
+        "smoothly",
+        "illustrated",
+        "confine",
+        "sophisticated",
+        "pursue",
+        "beloved",
+        "format",
+        "minimize",
+        "potential",
+        "familiarity",
+        "leap",
+        "breakthrough",
+        "convincing",
+        "blur",
+        "anticipate",
+        "disappointed",
+        "transition",
+        "betray",
+        "condense",
+        "episode",
+        "essential",
+        "controversy",
+        "fierce",
+        "departure",
+        "spectacular",
+        "irony"
+      ]
+    },
+    {
+      "id": "W4",
+      "title": "解析10月W4",
+      "words": [
+        "solid",
+        "charge",
+        "innovation",
+        "conventional",
+        "dense",
+        "flammable",
+        "sustain",
+        "component",
+        "modification",
+        "manufacturer",
+        "consistent",
+        "groundwork",
+        "pursuit",
+        "endure",
+        "undertake",
+        "anchor",
+        "latitude",
+        "stage",
+        "morale",
+        "adapt",
+        "voyage",
+        "boredom",
+        "orchestra",
+        "wreck",
+        "indigenous",
+        "conquer",
+        "immense",
+        "utilize",
+        "unload",
+        "provisions",
+        "squad",
+        "controversy",
+        "navigation",
+        "analyses",
+        "remarkably",
+        "fiercely",
+        "plead",
+        "prohibit",
+        "initially",
+        "legalize",
+        "profession",
+        "restriction",
+        "regarding",
+        "register",
+        "an entry requirement",
+        "collapse",
+        "incompetent",
+        "reform"
+      ]
+    }
+  ],
+  "newWords": {
+    "elusive": {
+      "word": "elusive",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "（人或動物）難找到的"
+      ],
+      "examples": [
+        {
+          "en": "The mountain leopard is highly elusive and rarely shows itself in daylight.",
+          "zh": "這種山豹形跡極其隱密，很少在白天現蹤。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "The mountain leopard is highly elusive and rarely shows itself in daylight.",
+        "zh": "這種山豹形跡極其隱密，很少在白天現蹤。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 10
+      }
+    },
+    "camouflage": {
+      "word": "camouflage",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "偽裝"
+      ],
+      "examples": [
+        {
+          "en": "The white fur of the arctic fox serves as perfect camouflage in the heavy snow.",
+          "zh": "北極狐白色的毛皮在厚雪中充當了完美的偽裝。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "The white fur of the arctic fox serves as perfect camouflage in the heavy snow.",
+        "zh": "北極狐白色的毛皮在厚雪中充當了完美的偽裝。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 10
+      }
+    },
+    "endangered": {
+      "word": "endangered",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "瀕臨絕種的"
+      ],
+      "examples": [
+        {
+          "en": "The giant blue whale is still on the endangered species list.",
+          "zh": "巨大的藍鯨目前仍名列為瀕臨絕種的物種。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "The giant blue whale is still on the endangered species list.",
+        "zh": "巨大的藍鯨目前仍名列為瀕臨絕種的物種。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 11
+      }
+    },
+    "puzzling": {
+      "word": "puzzling",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "令人不解的"
+      ],
+      "examples": [
+        {
+          "en": "Scientists are trying to explain the puzzling behavior of the animal.",
+          "zh": "科學家試圖解釋這種動物令人不解的行為。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "Scientists are trying to explain the puzzling behavior of the animal.",
+        "zh": "科學家試圖解釋這種動物令人不解的行為。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 15
+      }
+    },
+    "curved": {
+      "word": "curved",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "彎曲的"
+      ],
+      "examples": [
+        {
+          "en": "A curved bridge connects the two sides of the huge park.",
+          "zh": "一座彎曲的橋連接這一大片公園的兩側。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "A curved bridge connects the two sides of the huge park.",
+        "zh": "一座彎曲的橋連接這一大片公園的兩側。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 15
+      }
+    },
+    "shortcut": {
+      "word": "shortcut",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "捷徑"
+      ],
+      "examples": [
+        {
+          "en": "We took a shortcut through the alley to get home faster.",
+          "zh": "我們走那條小巷的捷徑以更快到家。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "We took a shortcut through the alley to get home faster.",
+        "zh": "我們走那條小巷的捷徑以更快到家。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 15
+      }
+    },
+    "informed": {
+      "word": "informed",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "有根據的；明智的"
+      ],
+      "examples": [
+        {
+          "en": "Reviews helped me make an informed choice about which laptop to buy.",
+          "zh": "評論幫助我在選購筆電時做出明智的選擇。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "Reviews helped me make an informed choice about which laptop to buy.",
+        "zh": "評論幫助我在選購筆電時做出明智的選擇。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 27
+      }
+    },
+    "obsession": {
+      "word": "obsession",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "痴迷"
+      ],
+      "examples": [
+        {
+          "en": "The modern obsession with smartphones has changed how people communicate.",
+          "zh": "現代人對智慧型手機的痴迷改變了人們溝通的方式。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "The modern obsession with smartphones has changed how people communicate.",
+        "zh": "現代人對智慧型手機的痴迷改變了人們溝通的方式。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 33
+      }
+    },
+    "an attention span": {
+      "word": "an attention span",
+      "level": null,
+      "ipa": "",
+      "pos": "noun phrase",
+      "meanings": [
+        "注意力時長"
+      ],
+      "examples": [
+        {
+          "en": "Young children generally have limited attention spans and need frequent breaks.",
+          "zh": "幼童通常注意力持續時間有限，需要頻繁的休息。",
+          "pos": "noun phrase"
+        }
+      ],
+      "example": {
+        "en": "Young children generally have limited attention spans and need frequent breaks.",
+        "zh": "幼童通常注意力持續時間有限，需要頻繁的休息。",
+        "pos": "noun phrase"
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 33
+      }
+    },
+    "sedentary": {
+      "word": "sedentary",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "久坐不動的"
+      ],
+      "examples": [
+        {
+          "en": "Spending too many hours in a sedentary position weakens back muscles.",
+          "zh": "長時間保持坐著不動的姿勢會使背部肌肉變弱。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "Spending too many hours in a sedentary position weakens back muscles.",
+        "zh": "長時間保持坐著不動的姿勢會使背部肌肉變弱。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 33
+      }
+    },
+    "delicacy": {
+      "word": "delicacy",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "美食；佳餚"
+      ],
+      "examples": [
+        {
+          "en": "Many vendors sell local delicacies at the market.",
+          "zh": "許多小販在這個市場販賣當地美食。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "Many vendors sell local delicacies at the market.",
+        "zh": "許多小販在這個市場販賣當地美食。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 36
+      }
+    },
+    "isolated": {
+      "word": "isolated",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "單獨的；個別的"
+      ],
+      "examples": [
+        {
+          "en": "The virus was found in an isolated case, with no evidence of further spread.",
+          "zh": "該病毒在單一病例中被發現，無進一步擴散的跡象。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "The virus was found in an isolated case, with no evidence of further spread.",
+        "zh": "該病毒在單一病例中被發現，無進一步擴散的跡象。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 37
+      }
+    },
+    "pioneering": {
+      "word": "pioneering",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "先驅性的；開創性的"
+      ],
+      "examples": [
+        {
+          "en": "The pioneering eco-friendly buildings generate more energy than they consume.",
+          "zh": "這些開創性的環保建築所產生的能源比消耗的還要多。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "The pioneering eco-friendly buildings generate more energy than they consume.",
+        "zh": "這些開創性的環保建築所產生的能源比消耗的還要多。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 37
+      }
+    },
+    "curly": {
+      "word": "curly",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "捲曲的"
+      ],
+      "examples": [
+        {
+          "en": "Emily’s curly hair makes her easy to recognize in a crowd.",
+          "zh": "艾蜜莉的捲髮讓她在人群中很容易被認出來。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "Emily’s curly hair makes her easy to recognize in a crowd.",
+        "zh": "艾蜜莉的捲髮讓她在人群中很容易被認出來。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 45
+      }
+    },
+    "ai": {
+      "word": "AI",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "人工智慧"
+      ],
+      "examples": [
+        {
+          "en": "Artificial intelligence helps many industries improve efficiency and solve complex problems.",
+          "zh": "人工智慧幫助許多產業提高效率、解決複雜問題。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "Artificial intelligence helps many industries improve efficiency and solve complex problems.",
+        "zh": "人工智慧幫助許多產業提高效率、解決複雜問題。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 49
+      }
+    },
+    "leftover": {
+      "word": "leftover",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "剩餘的；未吃完的"
+      ],
+      "examples": [
+        {
+          "en": "My father turned the leftover vegetables into a delicious soup.",
+          "zh": "我爸把剩下的蔬菜做成了一鍋美味的湯。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "My father turned the leftover vegetables into a delicious soup.",
+        "zh": "我爸把剩下的蔬菜做成了一鍋美味的湯。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 49
+      }
+    },
+    "progression": {
+      "word": "progression",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "進展；發展"
+      ],
+      "examples": [
+        {
+          "en": "The patient showed a dangerous progression of chest pain last night.",
+          "zh": "昨晚，那名病患的胸痛出現了危險的惡化進展。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "The patient showed a dangerous progression of chest pain last night.",
+        "zh": "昨晚，那名病患的胸痛出現了危險的惡化進展。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 53
+      }
+    },
+    "lifespan": {
+      "word": "lifespan",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "壽命"
+      ],
+      "examples": [
+        {
+          "en": "Better medical care has increased the average lifespan in this country.",
+          "zh": "更完善的醫療照護提高了這個國家的平均壽命。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "Better medical care has increased the average lifespan in this country.",
+        "zh": "更完善的醫療照護提高了這個國家的平均壽命。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 53
+      }
+    },
+    "clump": {
+      "word": "clump",
+      "level": null,
+      "ipa": "",
+      "pos": "vi.",
+      "meanings": [
+        "結成團；結成塊"
+      ],
+      "examples": [
+        {
+          "en": "This cat litter is designed to clump quickly for easy cleaning.",
+          "zh": "這種貓砂的設計能夠快速結塊，以便於清理。",
+          "pos": "vi."
+        }
+      ],
+      "example": {
+        "en": "This cat litter is designed to clump quickly for easy cleaning.",
+        "zh": "這種貓砂的設計能夠快速結塊，以便於清理。",
+        "pos": "vi."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 53
+      }
+    },
+    "fast-paced": {
+      "word": "fast-paced",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "步調快速的"
+      ],
+      "examples": [
+        {
+          "en": "Albert quit his fast-paced job for a peaceful life.",
+          "zh": "亞伯特辭去了他快步調的工作，以追求平靜的生活。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "Albert quit his fast-paced job for a peaceful life.",
+        "zh": "亞伯特辭去了他快步調的工作，以追求平靜的生活。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 57
+      }
+    },
+    "groceries": {
+      "word": "groceries",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "食品雜貨（恆為複數）"
+      ],
+      "examples": [
+        {
+          "en": "My father carried the groceries into the kitchen to prepare lunch.",
+          "zh": "我爸把食品雜貨拿進廚房，準備煮午餐。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "My father carried the groceries into the kitchen to prepare lunch.",
+        "zh": "我爸把食品雜貨拿進廚房，準備煮午餐。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 57
+      }
+    },
+    "demanding": {
+      "word": "demanding",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "費力的"
+      ],
+      "examples": [
+        {
+          "en": "Being a nurse is a demanding job, but Barry enjoys it.",
+          "zh": "當護理師是一份勞心勞力的工作，但貝瑞樂在其中。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "Being a nurse is a demanding job, but Barry enjoys it.",
+        "zh": "當護理師是一份勞心勞力的工作，但貝瑞樂在其中。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 57
+      }
+    },
+    "dependability": {
+      "word": "dependability",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "可靠性"
+      ],
+      "examples": [
+        {
+          "en": "Customers appreciate the dependability of this delivery service.",
+          "zh": "這項外送服務很可靠而受到顧客肯定。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "Customers appreciate the dependability of this delivery service.",
+        "zh": "這項外送服務很可靠而受到顧客肯定。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 57
+      }
+    },
+    "illustrated": {
+      "word": "illustrated",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "有插圖的"
+      ],
+      "examples": [
+        {
+          "en": "The children’s book creates an illustrated world where everything is vivid.",
+          "zh": "這本童書打造了一個插圖世界，一切都非常生動。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "The children’s book creates an illustrated world where everything is vivid.",
+        "zh": "這本童書打造了一個插圖世界，一切都非常生動。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 60
+      }
+    },
+    "convincing": {
+      "word": "convincing",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "令人信服的"
+      ],
+      "examples": [
+        {
+          "en": "The lawyer’s convincing arguments persuaded the jury.",
+          "zh": "那名律師有力的論點說服了陪審團。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "The lawyer’s convincing arguments persuaded the jury.",
+        "zh": "那名律師有力的論點說服了陪審團。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 60
+      }
+    },
+    "disappointed": {
+      "word": "disappointed",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "感到失望的"
+      ],
+      "examples": [
+        {
+          "en": "I was disappointed when my trip was canceled due to bad weather.",
+          "zh": "因為天氣不好導致旅程取消時，我感到很失望。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "I was disappointed when my trip was canceled due to bad weather.",
+        "zh": "因為天氣不好導致旅程取消時，我感到很失望。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 61
+      }
+    },
+    "flammable": {
+      "word": "flammable",
+      "level": null,
+      "ipa": "",
+      "pos": "a.",
+      "meanings": [
+        "易燃的"
+      ],
+      "examples": [
+        {
+          "en": "Please do not leave flammable materials near the heat source.",
+          "zh": "請不要將易燃物放置於熱源附近。",
+          "pos": "a."
+        }
+      ],
+      "example": {
+        "en": "Please do not leave flammable materials near the heat source.",
+        "zh": "請不要將易燃物放置於熱源附近。",
+        "pos": "a."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 65
+      }
+    },
+    "modification": {
+      "word": "modification",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "修改；改變"
+      ],
+      "examples": [
+        {
+          "en": "These modifications will improve the performance of the old machine.",
+          "zh": "這些調整將會提升這部舊機器的效能。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "These modifications will improve the performance of the old machine.",
+        "zh": "這些調整將會提升這部舊機器的效能。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 65
+      }
+    },
+    "groundwork": {
+      "word": "groundwork",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "基礎；根基"
+      ],
+      "examples": [
+        {
+          "en": "These initial experiments lay the groundwork for a permanent cure for the disease.",
+          "zh": "這些初步實驗為徹底治癒該疾病奠下了基礎。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "These initial experiments lay the groundwork for a permanent cure for the disease.",
+        "zh": "這些初步實驗為徹底治癒該疾病奠下了基礎。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 65
+      }
+    },
+    "unload": {
+      "word": "unload",
+      "level": null,
+      "ipa": "",
+      "pos": "vt.",
+      "meanings": [
+        "卸下（貨物等）"
+      ],
+      "examples": [
+        {
+          "en": "Workers began to unload the large packages from the cargo truck.",
+          "zh": "工人們開始從貨車上卸下大型包裹。",
+          "pos": "vt."
+        }
+      ],
+      "example": {
+        "en": "Workers began to unload the large packages from the cargo truck.",
+        "zh": "工人們開始從貨車上卸下大型包裹。",
+        "pos": "vt."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 71
+      }
+    },
+    "provisions": {
+      "word": "provisions",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "補給品（恆用複數）"
+      ],
+      "examples": [
+        {
+          "en": "The rescue team brought food and water as provisions for earthquake victims.",
+          "zh": "搜救小隊為地震災民送來了食物和水作為補給品。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "The rescue team brought food and water as provisions for earthquake victims.",
+        "zh": "搜救小隊為地震災民送來了食物和水作為補給品。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 71
+      }
+    },
+    "analyses": {
+      "word": "analyses",
+      "level": null,
+      "ipa": "",
+      "pos": "n.",
+      "meanings": [
+        "分析（複數形）"
+      ],
+      "examples": [
+        {
+          "en": "Scientists completed several analyses to check the quality of river water.",
+          "zh": "科學家完成數項分析來檢測河川水質。",
+          "pos": "n."
+        }
+      ],
+      "example": {
+        "en": "Scientists completed several analyses to check the quality of river water.",
+        "zh": "科學家完成數項分析來檢測河川水質。",
+        "pos": "n."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 71
+      }
+    },
+    "an entry requirement": {
+      "word": "an entry requirement",
+      "level": null,
+      "ipa": "",
+      "pos": "noun phrase",
+      "meanings": [
+        "入門條件"
+      ],
+      "examples": [
+        {
+          "en": "A bachelor’s degree is one of the entry requirements for the position.",
+          "zh": "學士學位是這個職位的任職條件之一。",
+          "pos": "noun phrase"
+        }
+      ],
+      "example": {
+        "en": "A bachelor’s degree is one of the entry requirements for the position.",
+        "zh": "學士學位是這個職位的任職條件之一。",
+        "pos": "noun phrase"
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 75
+      }
+    }
+  }
+}
