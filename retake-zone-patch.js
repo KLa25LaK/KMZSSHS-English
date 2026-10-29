@@ -46,10 +46,20 @@
       };
       grid.appendChild(button);
     });
+    var actions = document.createElement('div');
+    actions.className = 'kmzRetakeDirections';
+    [['英選中', 'enToZh'], ['中選英', 'zhToEn']].forEach(function (item) {
+      var button = document.createElement('button');
+      button.type = 'button'; button.textContent = item[0];
+      button.onclick = function () { window.dispatchEvent(new CustomEvent('kmz-retake-choice', {detail:{direction:item[1]}})); };
+      actions.appendChild(button);
+    });
+    panel.insertBefore(actions, contents);
     vocabulary.insertAdjacentElement('afterend', panel);
   }
   var style = document.createElement('style');
   style.textContent = '#retake-zone{grid-column:1/-1}#retake-zone .customHomeGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}#retake-zone button{font:inherit;cursor:pointer;min-height:64px;border-radius:12px;padding:14px;border:1px solid #d99f45;background:#fff5dc;color:#533b20;font-weight:700}#retake-zone button[aria-expanded=true]{background:#ffe2a0;outline:2px solid #b77820}#retake-zone .retakeContents{margin-top:16px;padding:16px;border:1px solid #d99f45;border-radius:12px}#retake-zone h3{margin:0 0 8px}#retake-zone p{margin:0}@media(max-width:480px){#retake-zone .customHomeGrid{grid-template-columns:1fr}}';
+  style.textContent += '.kmzRetakeDirections{display:flex;gap:12px;margin-top:16px}.kmzRetakeDirections button{flex:1;background:#f7d88c!important}.kmzRetakeChoice{display:flex!important;flex-direction:column;align-items:stretch;gap:8px;max-width:760px;width:100%;margin:auto;box-sizing:border-box}.kmzRetakeChoice h2{margin:8px 0}.kmzRetakeChoice>button:first-child{align-self:flex-start}.kmzRetakeChoice fieldset{border:1px solid #d99f45;border-radius:12px;padding:12px;margin:8px 0}.kmzRetakeRange{display:flex;gap:12px;align-items:center;padding:8px;border-bottom:1px solid #7774}.kmzRetakeRange input{width:20px;height:20px}.kmzRetakeCount{display:flex;align-items:center;gap:12px;margin:8px 0}.kmzRetakeChoice select,.kmzRetakeChoice input[type=number]{font:inherit;padding:10px;max-width:170px;border-radius:8px}.kmzRetakeChoice button{font:inherit;padding:10px 16px;margin:4px;border-radius:8px;cursor:pointer}.kmzRetakeChoice button:disabled{opacity:.45;cursor:not-allowed}';
   document.head.appendChild(style);
   new MutationObserver(mount).observe(document.body, {childList:true, subtree:true});
   mount();
