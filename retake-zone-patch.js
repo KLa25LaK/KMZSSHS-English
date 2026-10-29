@@ -35,13 +35,13 @@
           contents.append(title);
           if (name === '解析') {
             var weeks = ['解析10月W1', '解析10月W2', '解析10月W3', '解析10月W4'];
-            var counts = [54, 47, 57, 48];
+            var counts = [78, 65, 78, 67];
             var folders = document.createElement('div');
             folders.className = 'customHomeGrid';
             weeks.forEach(function (label, index) {
               var child = document.createElement('button');
               child.type = 'button';
-              child.textContent = '📁 ' + label + '（' + counts[index] + ' 字）';
+              child.textContent = '📁 ' + label + '（' + counts[index] + ' 項）';
               child.onclick = function () {
                 window.dispatchEvent(new CustomEvent('kmz-open-retake', {detail:{unitId:'W' + (index + 1)}}));
               };

@@ -60,7 +60,35 @@
         "formulate",
         "informed",
         "clarity"
-      ]
+      ],
+      "phrases": [
+        "translate to...",
+        "mistake a for b",
+        "distinguish a from b",
+        "at first glance",
+        "in terms of",
+        "classify a as b",
+        "an estimated + 數字 + 複數名詞",
+        "be concentrated in...",
+        "in search of",
+        "for generations to come",
+        "steer clear of...",
+        "prohibit sb/sth from n/v-ing",
+        "in case of",
+        "take advantage of",
+        "chances are + (that) 子句",
+        "search for",
+        "be full of...",
+        "lie ahead",
+        "adapt to",
+        "spare no effort to v",
+        "shed light on",
+        "by contrast",
+        "compared with / to...",
+        "balance a with b"
+      ],
+      "wordCount": 54,
+      "phraseCount": 24
     },
     {
       "id": "W2",
@@ -113,7 +141,29 @@
         "curly",
         "elsewhere",
         "digital"
-      ]
+      ],
+      "phrases": [
+        "suffer from",
+        "scroll through...",
+        "disconnect from...",
+        "be intended for...",
+        "present a as b",
+        "against the / a backdrop of...",
+        "be central to...",
+        "connect a to / with b",
+        "divide a into b",
+        "connect a with b",
+        "stretch back...",
+        "in place of",
+        "at the rate of...",
+        "make one’s way onto...",
+        "separate a from b",
+        "associate a with b",
+        "liken a to b",
+        "refer to a as b"
+      ],
+      "wordCount": 47,
+      "phraseCount": 18
     },
     {
       "id": "W3",
@@ -176,7 +226,32 @@
         "departure",
         "spectacular",
         "irony"
-      ]
+      ],
+      "phrases": [
+        "consist of",
+        "throw away... / throw... away",
+        "reduce... by half",
+        "cut down on",
+        "interfere with",
+        "apply for",
+        "at one’s fingertips",
+        "make a purchase",
+        "in contrast, s + v",
+        "rely on",
+        "tear down... / tear... down",
+        "sweep through",
+        "appeal to",
+        "tap into...",
+        "invest in",
+        "show no signs of...",
+        "more often than not",
+        "in an effort to v",
+        "trade a for b",
+        "replace a with b",
+        "the heart of..."
+      ],
+      "wordCount": 57,
+      "phraseCount": 21
     },
     {
       "id": "W4",
@@ -230,7 +305,30 @@
         "collapse",
         "incompetent",
         "reform"
-      ]
+      ],
+      "phrases": [
+        "catch fire",
+        "come down to n/v-ing",
+        "may well + 原形動詞",
+        "lock away... / lock... away",
+        "in search of",
+        "close in",
+        "ward off... / ward... off",
+        "bring... to an end",
+        "set out on...",
+        "be credited as...",
+        "be met with...",
+        "recognize a as b",
+        "fall short of...",
+        "land sb in trouble",
+        "start out as + 身分",
+        "in practice, s + v",
+        "on one’s behalf / on behalf of sb",
+        "in the pursuit of...",
+        "give voice to sb/sth"
+      ],
+      "wordCount": 48,
+      "phraseCount": 19
     }
   ],
   "newWords": {
@@ -1057,6 +1155,2276 @@
       "source": {
         "issue": 459,
         "pdf_page": 75
+      }
+    }
+  },
+  "newPhrases": {
+    "translate to...": {
+      "word": "translate to...",
+      "phrase": "translate to...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "意同……；意味著……"
+      ],
+      "examples": [
+        {
+          "en": "In their culture, heavy rain translates to good luck.",
+          "zh": "在他們的文化中，大雨就意同好運。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "In their culture, heavy rain translates to good luck.",
+        "zh": "在他們的文化中，大雨就意同好運。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 10,
+        "original_text": "translate to..."
+      }
+    },
+    "mistake a for b": {
+      "word": "mistake a for b",
+      "phrase": "mistake a for b",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "把 A 誤認為 B"
+      ],
+      "examples": [
+        {
+          "en": "The tourist mistook the local guide for a police officer because of his uniform-like jacket.",
+          "zh": "那位遊客因為導遊穿著類似制服的外套，而把他誤認成警察。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The tourist mistook the local guide for a police officer because of his uniform-like jacket.",
+        "zh": "那位遊客因為導遊穿著類似制服的外套，而把他誤認成警察。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 10,
+        "original_text": "mistake A for B"
+      }
+    },
+    "distinguish a from b": {
+      "word": "distinguish A from B",
+      "phrase": "distinguish A from B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "區別 A 與 B"
+      ],
+      "examples": [
+        {
+          "en": "An expert can easily distinguish glass from a real diamond.",
+          "zh": "專家可以輕鬆區別玻璃與真正的鑽石。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "An expert can easily distinguish glass from a real diamond.",
+        "zh": "專家可以輕鬆區別玻璃與真正的鑽石。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 10,
+        "original_text": "distinguish A from B"
+      }
+    },
+    "at first glance": {
+      "word": "at first glance",
+      "phrase": "at first glance",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "乍看之下"
+      ],
+      "examples": [
+        {
+          "en": "At first glance, the data seemed to support the new theory.",
+          "zh": "乍一看，數據似乎支持這個新理論。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "At first glance, the data seemed to support the new theory.",
+        "zh": "乍一看，數據似乎支持這個新理論。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 10,
+        "original_text": "at first glance"
+      }
+    },
+    "in terms of": {
+      "word": "in terms of",
+      "phrase": "in terms of",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "就……而言"
+      ],
+      "examples": [
+        {
+          "en": "In terms of energy efficiency, the new model outperforms its predecessor.",
+          "zh": "在能源效率方面，新車型優於其前身。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "In terms of energy efficiency, the new model outperforms its predecessor.",
+        "zh": "在能源效率方面，新車型優於其前身。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 10,
+        "original_text": "in terms of..."
+      }
+    },
+    "classify a as b": {
+      "word": "classify A as B",
+      "phrase": "classify A as B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "將 A 歸類為 B"
+      ],
+      "examples": [
+        {
+          "en": "The army classified the report as top secret.",
+          "zh": "軍方將該報告列為最高機密。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The army classified the report as top secret.",
+        "zh": "軍方將該報告列為最高機密。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 11,
+        "original_text": "classify A as B"
+      }
+    },
+    "an estimated + 數字 + 複數名詞": {
+      "word": "an estimated + 數字 + 複數名詞",
+      "phrase": "an estimated + 數字 + 複數名詞",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "估計有……（數字）的……"
+      ],
+      "examples": [
+        {
+          "en": "An estimated one million tourists visit the park yearly.",
+          "zh": "估計每年有一百萬名遊客造訪這座公園。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "An estimated one million tourists visit the park yearly.",
+        "zh": "估計每年有一百萬名遊客造訪這座公園。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 11,
+        "original_text": "an estimated + 數字 + 複數名詞"
+      }
+    },
+    "be concentrated in...": {
+      "word": "be concentrated in...",
+      "phrase": "be concentrated in...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "集中於……"
+      ],
+      "examples": [
+        {
+          "en": "Heavy industries are concentrated in the northern part of town.",
+          "zh": "重工業都聚集在這個城鎮的北部。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Heavy industries are concentrated in the northern part of town.",
+        "zh": "重工業都聚集在這個城鎮的北部。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 11,
+        "original_text": "be concentrated in..."
+      }
+    },
+    "in search of": {
+      "word": "in search of",
+      "phrase": "in search of",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "尋找"
+      ],
+      "examples": [
+        {
+          "en": "Many species are migrating northward in search of cooler habitats.",
+          "zh": "許多物種正在向北遷徙，尋找更涼爽的棲息地。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Many species are migrating northward in search of cooler habitats.",
+        "zh": "許多物種正在向北遷徙，尋找更涼爽的棲息地。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 11,
+        "original_text": "in search of..."
+      }
+    },
+    "for generations to come": {
+      "word": "for generations to come",
+      "phrase": "for generations to come",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "未來世世代代"
+      ],
+      "examples": [
+        {
+          "en": "For generations to come, the nation will remember the bravery of its soldiers who died in battle.",
+          "zh": "在未來的世代中，全國人民都將記得那些士兵戰死於沙場的英勇表現。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "For generations to come, the nation will remember the bravery of its soldiers who died in battle.",
+        "zh": "在未來的世代中，全國人民都將記得那些士兵戰死於沙場的英勇表現。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 11,
+        "original_text": "for generations to come"
+      }
+    },
+    "steer clear of...": {
+      "word": "steer clear of...",
+      "phrase": "steer clear of...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "避開；避免……"
+      ],
+      "examples": [
+        {
+          "en": "As a newcomer to the office, Lance tries to steer clear of disagreements at work.",
+          "zh": "身為辦公室新人，蘭斯盡量避免工作上的意見分歧。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "As a newcomer to the office, Lance tries to steer clear of disagreements at work.",
+        "zh": "身為辦公室新人，蘭斯盡量避免工作上的意見分歧。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 15,
+        "original_text": "steer clear of..."
+      }
+    },
+    "prohibit sb/sth from n/v-ing": {
+      "word": "prohibit sb/sth from N/V-ing",
+      "phrase": "prohibit sb/sth from N/V-ing",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "禁止某人／某物（做）……"
+      ],
+      "examples": [
+        {
+          "en": "Visitors are prohibited from entering the restricted zone without permission.",
+          "zh": "未經許可，訪客不得進入管制區域。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Visitors are prohibited from entering the restricted zone without permission.",
+        "zh": "未經許可，訪客不得進入管制區域。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 15,
+        "original_text": "prohibit sb/sth from N/V-ing"
+      }
+    },
+    "in case of": {
+      "word": "in case of",
+      "phrase": "in case of",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "萬一；如果發生"
+      ],
+      "examples": [
+        {
+          "en": "In case of a power outage, the hospital's generators start automatically within seconds.",
+          "zh": "萬一停電，醫院的發電機會在幾秒內自動啟動。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "In case of a power outage, the hospital's generators start automatically within seconds.",
+        "zh": "萬一停電，醫院的發電機會在幾秒內自動啟動。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 15,
+        "original_text": "in case of..."
+      }
+    },
+    "take advantage of": {
+      "word": "take advantage of",
+      "phrase": "take advantage of",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "善用；利用"
+      ],
+      "examples": [
+        {
+          "en": "Students should take advantage of the library's free tutoring sessions.",
+          "zh": "學生應該利用圖書館的免費輔導課程。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Students should take advantage of the library's free tutoring sessions.",
+        "zh": "學生應該利用圖書館的免費輔導課程。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 15,
+        "original_text": "take advantage of..."
+      }
+    },
+    "chances are + (that) 子句": {
+      "word": "chances are + (that) 子句",
+      "phrase": "chances are + (that) 子句",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "很有可能……"
+      ],
+      "examples": [
+        {
+          "en": "Chances are that Rita is stuck in traffic, so she may be a few minutes late.",
+          "zh": "瑞塔很有可能塞在車陣中，所以或許會晚幾分鐘到。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Chances are that Rita is stuck in traffic, so she may be a few minutes late.",
+        "zh": "瑞塔很有可能塞在車陣中，所以或許會晚幾分鐘到。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 15,
+        "original_text": "chances are + (that) 子句"
+      }
+    },
+    "search for": {
+      "word": "search for",
+      "phrase": "search for",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "尋找"
+      ],
+      "examples": [
+        {
+          "en": "Scientists are searching for alternative sources of clean energy.",
+          "zh": "科學家們正在尋找清潔能源的替代來源。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Scientists are searching for alternative sources of clean energy.",
+        "zh": "科學家們正在尋找清潔能源的替代來源。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 25,
+        "original_text": "search for..."
+      }
+    },
+    "be full of...": {
+      "word": "be full of...",
+      "phrase": "be full of...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "充滿著……"
+      ],
+      "examples": [
+        {
+          "en": "The museum was full of visitors during the holiday weekend.",
+          "zh": "假日期間，博物館裡擠滿了遊客。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The museum was full of visitors during the holiday weekend.",
+        "zh": "假日期間，博物館裡擠滿了遊客。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 25,
+        "original_text": "be full of..."
+      }
+    },
+    "lie ahead": {
+      "word": "lie ahead",
+      "phrase": "lie ahead",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "即將到來"
+      ],
+      "examples": [
+        {
+          "en": "Nobody could predict what challenges lay ahead for the newly merged company.",
+          "zh": "沒有人能預料這家剛合併的公司未來將面臨什麼挑戰。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Nobody could predict what challenges lay ahead for the newly merged company.",
+        "zh": "沒有人能預料這家剛合併的公司未來將面臨什麼挑戰。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 25,
+        "original_text": "lie ahead"
+      }
+    },
+    "adapt to": {
+      "word": "adapt to",
+      "phrase": "adapt to",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "適應"
+      ],
+      "examples": [
+        {
+          "en": "Wildlife must adapt to rapidly changing habitats.",
+          "zh": "野生動物必須適應快速變化的棲息地。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Wildlife must adapt to rapidly changing habitats.",
+        "zh": "野生動物必須適應快速變化的棲息地。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 25,
+        "original_text": "adapt to..."
+      }
+    },
+    "spare no effort to v": {
+      "word": "spare no effort to v",
+      "phrase": "spare no effort to v",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "不遺餘力做……"
+      ],
+      "examples": [
+        {
+          "en": "The rescue team spared no effort to locate the missing hikers before nightfall.",
+          "zh": "搜救隊不遺餘力地想在天黑前找到失蹤的登山客。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The rescue team spared no effort to locate the missing hikers before nightfall.",
+        "zh": "搜救隊不遺餘力地想在天黑前找到失蹤的登山客。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 27,
+        "original_text": "spare no effort to V"
+      }
+    },
+    "shed light on": {
+      "word": "shed light on",
+      "phrase": "shed light on",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "闡明；使清楚"
+      ],
+      "examples": [
+        {
+          "en": "The satellite data sheds light on how quickly the ice sheet is melting.",
+          "zh": "衛星數據揭示了冰蓋融化的速度。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The satellite data sheds light on how quickly the ice sheet is melting.",
+        "zh": "衛星數據揭示了冰蓋融化的速度。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 27,
+        "original_text": "shed light on..."
+      }
+    },
+    "by contrast": {
+      "word": "by contrast",
+      "phrase": "by contrast",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "相較之下"
+      ],
+      "examples": [
+        {
+          "en": "Rural hospitals struggled with staff shortages; urban hospitals, by contrast, were fully staffed.",
+          "zh": "鄉村醫院面臨人力短缺；相較之下，都市醫院人力則相當充足。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Rural hospitals struggled with staff shortages; urban hospitals, by contrast, were fully staffed.",
+        "zh": "鄉村醫院面臨人力短缺；相較之下，都市醫院人力則相當充足。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 27,
+        "original_text": "by contrast"
+      }
+    },
+    "compared with / to...": {
+      "word": "compared with / to...",
+      "phrase": "compared with / to...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "與……相比"
+      ],
+      "examples": [
+        {
+          "en": "Compared with the old system, the new software is very easy to use.",
+          "zh": "與舊系統相比，新軟體非常容易使用。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Compared with the old system, the new software is very easy to use.",
+        "zh": "與舊系統相比，新軟體非常容易使用。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 27,
+        "original_text": "compared with / to..."
+      }
+    },
+    "balance a with b": {
+      "word": "balance A with B",
+      "phrase": "balance A with B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "在 A 與 B 間取得平衡"
+      ],
+      "examples": [
+        {
+          "en": "Rachel learned to balance her studies with her social life.",
+          "zh": "瑞秋學會在課業與社交生活間取得平衡。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Rachel learned to balance her studies with her social life.",
+        "zh": "瑞秋學會在課業與社交生活間取得平衡。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 27,
+        "original_text": "balance A with B"
+      }
+    },
+    "suffer from": {
+      "word": "suffer from",
+      "phrase": "suffer from",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "遭受"
+      ],
+      "examples": [
+        {
+          "en": "Many regions suffer from severe water shortages.",
+          "zh": "許多地區嚴重缺水。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Many regions suffer from severe water shortages.",
+        "zh": "許多地區嚴重缺水。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 33,
+        "original_text": "suffer from..."
+      }
+    },
+    "scroll through...": {
+      "word": "scroll through...",
+      "phrase": "scroll through...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "滑動……（螢幕等）"
+      ],
+      "examples": [
+        {
+          "en": "To change the display language, users must scroll through the settings menu on the screen.",
+          "zh": "若要更改顯示語言，使用者必須滑動螢幕上的設定選單。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "To change the display language, users must scroll through the settings menu on the screen.",
+        "zh": "若要更改顯示語言，使用者必須滑動螢幕上的設定選單。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 33,
+        "original_text": "scroll through..."
+      }
+    },
+    "disconnect from...": {
+      "word": "disconnect from...",
+      "phrase": "disconnect from...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "從……分離；脫離……"
+      ],
+      "examples": [
+        {
+          "en": "Taking a camping trip is an excellent way to disconnect from the digital world.",
+          "zh": "去露營旅行是脫離數位世界的極佳方法。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Taking a camping trip is an excellent way to disconnect from the digital world.",
+        "zh": "去露營旅行是脫離數位世界的極佳方法。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 33,
+        "original_text": "disconnect from..."
+      }
+    },
+    "be intended for...": {
+      "word": "be intended for...",
+      "phrase": "be intended for...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "為……提供；為……設計的"
+      ],
+      "examples": [
+        {
+          "en": "The grammar textbook is specially intended for beginners.",
+          "zh": "這本文法書是專為初學者設計的。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The grammar textbook is specially intended for beginners.",
+        "zh": "這本文法書是專為初學者設計的。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 33,
+        "original_text": "be intended for..."
+      }
+    },
+    "present a as b": {
+      "word": "present A as B",
+      "phrase": "present A as B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "把 A 呈現為 B"
+      ],
+      "examples": [
+        {
+          "en": "Some movies present history as a dramatic story.",
+          "zh": "有些電影會把歷史呈現為戲劇化的故事。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Some movies present history as a dramatic story.",
+        "zh": "有些電影會把歷史呈現為戲劇化的故事。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 36,
+        "original_text": "present A as B"
+      }
+    },
+    "against the / a backdrop of...": {
+      "word": "against the / a backdrop of...",
+      "phrase": "against the / a backdrop of...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "在……的背景下"
+      ],
+      "examples": [
+        {
+          "en": "This story unfolds against the backdrop of a war-torn country.",
+          "zh": "這個故事以一個戰火紛飛的國家為背景而展開。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "This story unfolds against the backdrop of a war-torn country.",
+        "zh": "這個故事以一個戰火紛飛的國家為背景而展開。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 36,
+        "original_text": "against the / a backdrop of..."
+      }
+    },
+    "be central to...": {
+      "word": "be central to...",
+      "phrase": "be central to...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "是……的核心"
+      ],
+      "examples": [
+        {
+          "en": "Communication is central to effective teamwork.",
+          "zh": "溝通是有效團隊合作的核心。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Communication is central to effective teamwork.",
+        "zh": "溝通是有效團隊合作的核心。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 36,
+        "original_text": "be central to..."
+      }
+    },
+    "connect a to / with b": {
+      "word": "connect A to / with B",
+      "phrase": "connect A to / with B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "連接 A 和 B"
+      ],
+      "examples": [
+        {
+          "en": "The road connects the village to the nearest town.",
+          "zh": "這條道路連接該村莊和最近的城鎮。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The road connects the village to the nearest town.",
+        "zh": "這條道路連接該村莊和最近的城鎮。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 37,
+        "original_text": "connect A to / with B"
+      }
+    },
+    "divide a into b": {
+      "word": "divide A into B",
+      "phrase": "divide A into B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "將 A 劃分成 B"
+      ],
+      "examples": [
+        {
+          "en": "The manager divided the project into several stages and set a goal for each one.",
+          "zh": "經理將該專案分成幾個階段，每階段都設一個目標。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The manager divided the project into several stages and set a goal for each one.",
+        "zh": "經理將該專案分成幾個階段，每階段都設一個目標。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 37,
+        "original_text": "divide A into B"
+      }
+    },
+    "connect a with b": {
+      "word": "connect A with B",
+      "phrase": "connect A with B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "使 A 和 B 產生關聯；把 A 和 B 聯想在一起"
+      ],
+      "examples": [
+        {
+          "en": "People often connect Paris with fashion and fine dining.",
+          "zh": "人們經常將巴黎與時尚及精緻餐飲聯想在一起。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "People often connect Paris with fashion and fine dining.",
+        "zh": "人們經常將巴黎與時尚及精緻餐飲聯想在一起。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 44,
+        "original_text": "connect A with B"
+      }
+    },
+    "stretch back...": {
+      "word": "stretch back...",
+      "phrase": "stretch back...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "追溯到；回溯到……"
+      ],
+      "examples": [
+        {
+          "en": "Their friendship stretches back many years.",
+          "zh": "他們的交情可追溯至好多年以前。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Their friendship stretches back many years.",
+        "zh": "他們的交情可追溯至好多年以前。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 44,
+        "original_text": "stretch back..."
+      }
+    },
+    "in place of": {
+      "word": "in place of",
+      "phrase": "in place of",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "代替"
+      ],
+      "examples": [
+        {
+          "en": "The school introduced an online quiz in place of the traditional midterm exam.",
+          "zh": "這所學校用線上小考取代了傳統的期中考。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The school introduced an online quiz in place of the traditional midterm exam.",
+        "zh": "這所學校用線上小考取代了傳統的期中考。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 44,
+        "original_text": "in place of..."
+      }
+    },
+    "at the rate of...": {
+      "word": "at the rate of...",
+      "phrase": "at the rate of...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "以……的速度；以……的比率"
+      ],
+      "examples": [
+        {
+          "en": "The population of the town is growing at the rate of 3% each year.",
+          "zh": "這座城鎮的人口正以每年 3% 的速率成長。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The population of the town is growing at the rate of 3% each year.",
+        "zh": "這座城鎮的人口正以每年 3% 的速率成長。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 44,
+        "original_text": "at the rate of..."
+      }
+    },
+    "make one’s way onto...": {
+      "word": "make one’s way onto...",
+      "phrase": "make one’s way onto...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "出現在……上；被引入……之中"
+      ],
+      "examples": [
+        {
+          "en": "The young singer’s music eventually made its way onto international radio stations.",
+          "zh": "這位年輕歌手的音樂終於登上了國際廣播電臺。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The young singer’s music eventually made its way onto international radio stations.",
+        "zh": "這位年輕歌手的音樂終於登上了國際廣播電臺。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 44,
+        "original_text": "make one’s way onto..."
+      }
+    },
+    "separate a from b": {
+      "word": "separate A from B",
+      "phrase": "separate A from B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "將 A 與 B 分開；區分 A 與 B"
+      ],
+      "examples": [
+        {
+          "en": "The teacher asked students to separate recyclable waste from regular trash.",
+          "zh": "老師要求學生將可回收垃圾與一般垃圾分開。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The teacher asked students to separate recyclable waste from regular trash.",
+        "zh": "老師要求學生將可回收垃圾與一般垃圾分開。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 45,
+        "original_text": "separate A from B"
+      }
+    },
+    "associate a with b": {
+      "word": "associate A with B",
+      "phrase": "associate A with B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "將 A 與 B 聯想在一起；認為 A 與 B 有關"
+      ],
+      "examples": [
+        {
+          "en": "Many people associate autumn with cooler weather and colorful leaves.",
+          "zh": "許多人會將秋天與較涼爽的天氣及繽紛的樹葉聯想在一起。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Many people associate autumn with cooler weather and colorful leaves.",
+        "zh": "許多人會將秋天與較涼爽的天氣及繽紛的樹葉聯想在一起。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 45,
+        "original_text": "associate A with B"
+      }
+    },
+    "liken a to b": {
+      "word": "liken A to B",
+      "phrase": "liken A to B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "把 A 比作 B；把 A 比擬為 B"
+      ],
+      "examples": [
+        {
+          "en": "The coach likened the team to a family that supports one another.",
+          "zh": "教練把這支隊伍比喻成彼此扶持的家庭。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The coach likened the team to a family that supports one another.",
+        "zh": "教練把這支隊伍比喻成彼此扶持的家庭。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 45,
+        "original_text": "liken A to B"
+      }
+    },
+    "refer to a as b": {
+      "word": "refer to A as B",
+      "phrase": "refer to A as B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "稱 A 為 B；把 A 稱作 B"
+      ],
+      "examples": [
+        {
+          "en": "Many people refer to New York City as “the Big Apple.”",
+          "zh": "許多人將紐約市稱為「大蘋果」。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Many people refer to New York City as “the Big Apple.”",
+        "zh": "許多人將紐約市稱為「大蘋果」。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 45,
+        "original_text": "refer to A as B"
+      }
+    },
+    "consist of": {
+      "word": "consist of",
+      "phrase": "consist of",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "由……組成"
+      ],
+      "examples": [
+        {
+          "en": "The research team consists of climatologists and marine biologists.",
+          "zh": "研究小組由氣候學家和海洋生物學家組成。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The research team consists of climatologists and marine biologists.",
+        "zh": "研究小組由氣候學家和海洋生物學家組成。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 49,
+        "original_text": "consist of..."
+      }
+    },
+    "throw away... / throw... away": {
+      "word": "throw away... / throw... away",
+      "phrase": "throw away... / throw... away",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "丟棄；扔掉……"
+      ],
+      "examples": [
+        {
+          "en": "After cleaning her room, Emma threw away several boxes of old papers and broken toys.",
+          "zh": "整理房間後，艾瑪丟掉了好幾箱舊文件和壞掉的玩具。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "After cleaning her room, Emma threw away several boxes of old papers and broken toys.",
+        "zh": "整理房間後，艾瑪丟掉了好幾箱舊文件和壞掉的玩具。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 49,
+        "original_text": "throw away... / throw... away"
+      }
+    },
+    "reduce... by half": {
+      "word": "reduce... by half",
+      "phrase": "reduce... by half",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "將……減少一半"
+      ],
+      "examples": [
+        {
+          "en": "By using reusable containers, the café reduced its plastic waste by half within a year.",
+          "zh": "透過使用可重複利用的容器，這家咖啡館在一年內將塑膠垃圾減少了一半。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "By using reusable containers, the café reduced its plastic waste by half within a year.",
+        "zh": "透過使用可重複利用的容器，這家咖啡館在一年內將塑膠垃圾減少了一半。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 49,
+        "original_text": "reduce... by half"
+      }
+    },
+    "cut down on": {
+      "word": "cut down on",
+      "phrase": "cut down on",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "減少"
+      ],
+      "examples": [
+        {
+          "en": "Cities are encouraging residents to cut down on car use.",
+          "zh": "城市鼓勵居民減少汽車使用。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Cities are encouraging residents to cut down on car use.",
+        "zh": "城市鼓勵居民減少汽車使用。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 49,
+        "original_text": "cut down on..."
+      }
+    },
+    "interfere with": {
+      "word": "interfere with",
+      "phrase": "interfere with",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "干擾"
+      ],
+      "examples": [
+        {
+          "en": "Light pollution can interfere with the migration patterns of birds.",
+          "zh": "光污染會幹擾鳥類的遷移模式。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Light pollution can interfere with the migration patterns of birds.",
+        "zh": "光污染會幹擾鳥類的遷移模式。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 53,
+        "original_text": "interfere with..."
+      }
+    },
+    "apply for": {
+      "word": "apply for",
+      "phrase": "apply for",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "申請"
+      ],
+      "examples": [
+        {
+          "en": "High school seniors are applying for scholarships this month.",
+          "zh": "高中生本月正在申請獎學金。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "High school seniors are applying for scholarships this month.",
+        "zh": "高中生本月正在申請獎學金。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 53,
+        "original_text": "apply for..."
+      }
+    },
+    "at one’s fingertips": {
+      "word": "at one’s fingertips",
+      "phrase": "at one’s fingertips",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "唾手可得"
+      ],
+      "examples": [
+        {
+          "en": "With the internet, we have information at our fingertips.",
+          "zh": "網路讓我們可以隨時取得資訊。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "With the internet, we have information at our fingertips.",
+        "zh": "網路讓我們可以隨時取得資訊。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 57,
+        "original_text": "at one’s fingertips"
+      }
+    },
+    "make a purchase": {
+      "word": "make a purchase",
+      "phrase": "make a purchase",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "購買"
+      ],
+      "examples": [
+        {
+          "en": "Consumers are more cautious before making a large purchase these days.",
+          "zh": "如今，消費者在大額購買前變得更加謹慎。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Consumers are more cautious before making a large purchase these days.",
+        "zh": "如今，消費者在大額購買前變得更加謹慎。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 57,
+        "original_text": "make a purchase"
+      }
+    },
+    "in contrast, s + v": {
+      "word": "in contrast, s + v",
+      "phrase": "in contrast, s + v",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "相較之下"
+      ],
+      "examples": [
+        {
+          "en": "Coastal cities invested heavily in flood barriers; in contrast, inland towns largely ignored the same risk.",
+          "zh": "沿海城市大力投資防洪設施；相較之下，內陸城鎮大多忽視了同樣的風險。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Coastal cities invested heavily in flood barriers; in contrast, inland towns largely ignored the same risk.",
+        "zh": "沿海城市大力投資防洪設施；相較之下，內陸城鎮大多忽視了同樣的風險。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 57,
+        "original_text": "In contrast, S + V"
+      }
+    },
+    "rely on": {
+      "word": "rely on",
+      "phrase": "rely on",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "依賴"
+      ],
+      "examples": [
+        {
+          "en": "Many coastal communities rely on fishing for their livelihood.",
+          "zh": "許多沿海社區依靠捕魚為生。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Many coastal communities rely on fishing for their livelihood.",
+        "zh": "許多沿海社區依靠捕魚為生。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 57,
+        "original_text": "rely on..."
+      }
+    },
+    "tear down... / tear... down": {
+      "word": "tear down... / tear... down",
+      "phrase": "tear down... / tear... down",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "拆除……"
+      ],
+      "examples": [
+        {
+          "en": "The old amusement park was torn down to make room for a shopping complex.",
+          "zh": "那座老舊遊樂園被拆除，以騰出空間興建購物中心。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The old amusement park was torn down to make room for a shopping complex.",
+        "zh": "那座老舊遊樂園被拆除，以騰出空間興建購物中心。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 60,
+        "original_text": "tear down... / tear... down"
+      }
+    },
+    "sweep through": {
+      "word": "sweep through",
+      "phrase": "sweep through",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "席捲"
+      ],
+      "examples": [
+        {
+          "en": "A wave of layoffs swept through the tech industry earlier this year.",
+          "zh": "一波裁員潮在今年稍早席捲了科技業。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "A wave of layoffs swept through the tech industry earlier this year.",
+        "zh": "一波裁員潮在今年稍早席捲了科技業。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 60,
+        "original_text": "sweep through..."
+      }
+    },
+    "appeal to": {
+      "word": "appeal to",
+      "phrase": "appeal to",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "吸引；訴諸"
+      ],
+      "examples": [
+        {
+          "en": "The advertising campaign appeals to young professionals in the city.",
+          "zh": "該廣告活動吸引了該市的年輕專業人士。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The advertising campaign appeals to young professionals in the city.",
+        "zh": "該廣告活動吸引了該市的年輕專業人士。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 60,
+        "original_text": "appeal to..."
+      }
+    },
+    "tap into...": {
+      "word": "tap into...",
+      "phrase": "tap into...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "充分利用……"
+      ],
+      "examples": [
+        {
+          "en": "By tapping into nostalgia, advertisements can feel more emotionally appealing.",
+          "zh": "利用懷舊情感，廣告可以更具情感吸引力。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "By tapping into nostalgia, advertisements can feel more emotionally appealing.",
+        "zh": "利用懷舊情感，廣告可以更具情感吸引力。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 60,
+        "original_text": "tap into..."
+      }
+    },
+    "invest in": {
+      "word": "invest in",
+      "phrase": "invest in",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "投資"
+      ],
+      "examples": [
+        {
+          "en": "Countries are being urged to invest in renewable infrastructure.",
+          "zh": "正在敦促各國投資再生基礎設施。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Countries are being urged to invest in renewable infrastructure.",
+        "zh": "正在敦促各國投資再生基礎設施。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 60,
+        "original_text": "invest in..."
+      }
+    },
+    "show no signs of...": {
+      "word": "show no signs of...",
+      "phrase": "show no signs of...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "沒有……的跡象"
+      ],
+      "examples": [
+        {
+          "en": "After the storm passed, the sky still showed no signs of sunshine.",
+          "zh": "暴風雨過後，天空仍沒有放晴的跡象。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "After the storm passed, the sky still showed no signs of sunshine.",
+        "zh": "暴風雨過後，天空仍沒有放晴的跡象。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 60,
+        "original_text": "show no signs of..."
+      }
+    },
+    "more often than not": {
+      "word": "more often than not",
+      "phrase": "more often than not",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "多半；通常"
+      ],
+      "examples": [
+        {
+          "en": "Text messages can cause misunderstandings more often than not.",
+          "zh": "文字訊息通常容易引發誤會。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Text messages can cause misunderstandings more often than not.",
+        "zh": "文字訊息通常容易引發誤會。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 61,
+        "original_text": "more often than not"
+      }
+    },
+    "in an effort to v": {
+      "word": "in an effort to v",
+      "phrase": "in an effort to v",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "為了努力做……"
+      ],
+      "examples": [
+        {
+          "en": "The city planted thousands of trees in an effort to reduce urban heat.",
+          "zh": "這座城市種植了數千棵樹，以努力降低都市高溫。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The city planted thousands of trees in an effort to reduce urban heat.",
+        "zh": "這座城市種植了數千棵樹，以努力降低都市高溫。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 61,
+        "original_text": "in an effort to V"
+      }
+    },
+    "trade a for b": {
+      "word": "trade A for B",
+      "phrase": "trade A for B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "以 A 換取 B"
+      ],
+      "examples": [
+        {
+          "en": "Many young people choose to trade a high-paying salary for flexibility.",
+          "zh": "許多年輕人放棄高薪，選擇更多的彈性。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Many young people choose to trade a high-paying salary for flexibility.",
+        "zh": "許多年輕人放棄高薪，選擇更多的彈性。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 61,
+        "original_text": "trade A for B"
+      }
+    },
+    "replace a with b": {
+      "word": "replace A with B",
+      "phrase": "replace A with B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "以 B 取代 A"
+      ],
+      "examples": [
+        {
+          "en": "Nutritionists advise people to replace sugary sodas with sparkling water.",
+          "zh": "營養學家建議人們以氣泡水取代含糖汽水。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Nutritionists advise people to replace sugary sodas with sparkling water.",
+        "zh": "營養學家建議人們以氣泡水取代含糖汽水。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 61,
+        "original_text": "replace A with B"
+      }
+    },
+    "the heart of...": {
+      "word": "the heart of...",
+      "phrase": "the heart of...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "……的核心；重點"
+      ],
+      "examples": [
+        {
+          "en": "Investigators got to the heart of the financial matter after reviewing the company’s records.",
+          "zh": "審查了該公司的紀錄之後，調查人員觸及了財務問題的核心。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Investigators got to the heart of the financial matter after reviewing the company’s records.",
+        "zh": "審查了該公司的紀錄之後，調查人員觸及了財務問題的核心。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 61,
+        "original_text": "the heart of..."
+      }
+    },
+    "catch fire": {
+      "word": "catch fire",
+      "phrase": "catch fire",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "趕上；理解"
+      ],
+      "examples": [
+        {
+          "en": "Dry grass along the highway can catch fire easily during periods of extreme drought.",
+          "zh": "在極度乾旱期間，公路旁的乾草很容易著火。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Dry grass along the highway can catch fire easily during periods of extreme drought.",
+        "zh": "在極度乾旱期間，公路旁的乾草很容易著火。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 65,
+        "original_text": "catch fire"
+      }
+    },
+    "come down to n/v-ing": {
+      "word": "come down to N/V-ing",
+      "phrase": "come down to N/V-ing",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "主要取決於……；歸結為……"
+      ],
+      "examples": [
+        {
+          "en": "The safety of a flight comes down to a complete check of the system.",
+          "zh": "飛航安全主要取決於對系統的完整檢查。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The safety of a flight comes down to a complete check of the system.",
+        "zh": "飛航安全主要取決於對系統的完整檢查。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 65,
+        "original_text": "come down to N/V-ing"
+      }
+    },
+    "may well + 原形動詞": {
+      "word": "may well + 原形動詞",
+      "phrase": "may well + 原形動詞",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "很有可能……"
+      ],
+      "examples": [
+        {
+          "en": "The dark clouds show that it may well rain before the soccer match starts.",
+          "zh": "烏雲的出現顯示，足球賽開始前很有可能會下雨。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The dark clouds show that it may well rain before the soccer match starts.",
+        "zh": "烏雲的出現顯示，足球賽開始前很有可能會下雨。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 65,
+        "original_text": "may well + 原形動詞"
+      }
+    },
+    "lock away... / lock... away": {
+      "word": "lock away... / lock... away",
+      "phrase": "lock away... / lock... away",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "把……鎖起來；使……與外界隔絕"
+      ],
+      "examples": [
+        {
+          "en": "The hotel guest locked away her jewelry in a safe before leaving.",
+          "zh": "這位旅館住客在出門前將珠寶鎖在保險箱裡。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The hotel guest locked away her jewelry in a safe before leaving.",
+        "zh": "這位旅館住客在出門前將珠寶鎖在保險箱裡。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 70,
+        "original_text": "lock away... / lock... away"
+      }
+    },
+    "close in": {
+      "word": "close in",
+      "phrase": "close in",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "逼近；包圍；籠罩"
+      ],
+      "examples": [
+        {
+          "en": "The fog closed in around the village.",
+          "zh": "霧氣逐漸籠罩村莊。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The fog closed in around the village.",
+        "zh": "霧氣逐漸籠罩村莊。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 70,
+        "original_text": "close in"
+      }
+    },
+    "ward off... / ward... off": {
+      "word": "ward off... / ward... off",
+      "phrase": "ward off... / ward... off",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "阻止；避開……"
+      ],
+      "examples": [
+        {
+          "en": "You can drink hot ginger tea to ward off the cold.",
+          "zh": "你可以喝熱薑茶來祛寒。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "You can drink hot ginger tea to ward off the cold.",
+        "zh": "你可以喝熱薑茶來祛寒。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 70,
+        "original_text": "ward off... / ward... off"
+      }
+    },
+    "bring... to an end": {
+      "word": "bring... to an end",
+      "phrase": "bring... to an end",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "使……結束"
+      ],
+      "examples": [
+        {
+          "en": "A peace agreement finally brought the conflict between the two nations to an end.",
+          "zh": "一項和平協議終於結束了這兩國之間的衝突。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "A peace agreement finally brought the conflict between the two nations to an end.",
+        "zh": "一項和平協議終於結束了這兩國之間的衝突。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 70,
+        "original_text": "bring... to an end"
+      }
+    },
+    "set out on...": {
+      "word": "set out on...",
+      "phrase": "set out on...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "出發展開……（旅程、冒險等）"
+      ],
+      "examples": [
+        {
+          "en": "The adventurers set out on a long journey across the desert.",
+          "zh": "這群探險家出發踏上穿越沙漠的長途旅程。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The adventurers set out on a long journey across the desert.",
+        "zh": "這群探險家出發踏上穿越沙漠的長途旅程。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 70,
+        "original_text": "set out on..."
+      }
+    },
+    "be credited as...": {
+      "word": "be credited as...",
+      "phrase": "be credited as...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "被認為是……"
+      ],
+      "examples": [
+        {
+          "en": "Daniel can be credited as a main contributor to the educational reform.",
+          "zh": "丹尼爾可以說是這項教育改革的主要貢獻者。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Daniel can be credited as a main contributor to the educational reform.",
+        "zh": "丹尼爾可以說是這項教育改革的主要貢獻者。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 71,
+        "original_text": "be credited as..."
+      }
+    },
+    "be met with...": {
+      "word": "be met with...",
+      "phrase": "be met with...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "遭到……"
+      ],
+      "examples": [
+        {
+          "en": "The manager’s plan regarding salary reduction was met with great anger from workers.",
+          "zh": "經理的減薪計畫遭受員工強烈的不滿。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The manager’s plan regarding salary reduction was met with great anger from workers.",
+        "zh": "經理的減薪計畫遭受員工強烈的不滿。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 71,
+        "original_text": "be met with..."
+      }
+    },
+    "recognize a as b": {
+      "word": "recognize A as B",
+      "phrase": "recognize A as B",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "認可 A 為 B"
+      ],
+      "examples": [
+        {
+          "en": "The company recognizes Herman as a key leader in the project.",
+          "zh": "公司認可赫曼是該專案的關鍵領導者。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The company recognizes Herman as a key leader in the project.",
+        "zh": "公司認可赫曼是該專案的關鍵領導者。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 71,
+        "original_text": "recognize A as B"
+      }
+    },
+    "fall short of...": {
+      "word": "fall short of...",
+      "phrase": "fall short of...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "未達到……"
+      ],
+      "examples": [
+        {
+          "en": "The student’s report falls short of the required standard due to weak writing.",
+          "zh": "這位學生的報告未達要求標準，因為寫作不夠成熟。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The student’s report falls short of the required standard due to weak writing.",
+        "zh": "這位學生的報告未達要求標準，因為寫作不夠成熟。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 71,
+        "original_text": "fall short of..."
+      }
+    },
+    "land sb in trouble": {
+      "word": "land sb in trouble",
+      "phrase": "land sb in trouble",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "使某人陷入麻煩"
+      ],
+      "examples": [
+        {
+          "en": "Posting the leaked memo online landed the intern in serious trouble with management.",
+          "zh": "把外洩的備忘錄貼到網路上，讓這名實習生惹上了與管理層之間的嚴重麻煩。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "Posting the leaked memo online landed the intern in serious trouble with management.",
+        "zh": "把外洩的備忘錄貼到網路上，讓這名實習生惹上了與管理層之間的嚴重麻煩。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 75,
+        "original_text": "land sb in trouble"
+      }
+    },
+    "start out as + 身分": {
+      "word": "start out as + 身分",
+      "phrase": "start out as + 身分",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "剛開始是……"
+      ],
+      "examples": [
+        {
+          "en": "The international restaurant chain started out as a small food stall.",
+          "zh": "該國際連鎖餐廳起初只是一個小吃攤。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The international restaurant chain started out as a small food stall.",
+        "zh": "該國際連鎖餐廳起初只是一個小吃攤。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 75,
+        "original_text": "start out as + 身分"
+      }
+    },
+    "in practice, s + v": {
+      "word": "In practice, S + V",
+      "phrase": "In practice, S + V",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "實際上，……"
+      ],
+      "examples": [
+        {
+          "en": "In practice, the plan requires much hard work, although it sounds simple.",
+          "zh": "實際上，這項計畫需要耗費很多心力，儘管聽起來簡單。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "In practice, the plan requires much hard work, although it sounds simple.",
+        "zh": "實際上，這項計畫需要耗費很多心力，儘管聽起來簡單。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 75,
+        "original_text": "In practice, S + V"
+      }
+    },
+    "on one’s behalf / on behalf of sb": {
+      "word": "on one’s behalf / on behalf of sb",
+      "phrase": "on one’s behalf / on behalf of sb",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "代表某人"
+      ],
+      "examples": [
+        {
+          "en": "The spokesperson made a statement on the mayor’s behalf.",
+          "zh": "發言人代表市長發表聲明。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The spokesperson made a statement on the mayor’s behalf.",
+        "zh": "發言人代表市長發表聲明。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 75,
+        "original_text": "on one’s behalf / on behalf of sb"
+      }
+    },
+    "in the pursuit of...": {
+      "word": "in the pursuit of...",
+      "phrase": "in the pursuit of...",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "尋求……"
+      ],
+      "examples": [
+        {
+          "en": "My brother moved to a different city in the pursuit of better job opportunities.",
+          "zh": "我哥搬到別的城市，以尋求更好的工作機會。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "My brother moved to a different city in the pursuit of better job opportunities.",
+        "zh": "我哥搬到別的城市，以尋求更好的工作機會。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 75,
+        "original_text": "in the pursuit of..."
+      }
+    },
+    "give voice to sb/sth": {
+      "word": "give voice to sb/sth",
+      "phrase": "give voice to sb/sth",
+      "entry_type": "phrase",
+      "level": null,
+      "ipa": "",
+      "pos": "phr.",
+      "meanings": [
+        "為某人發聲；表達某事"
+      ],
+      "examples": [
+        {
+          "en": "The speech gave voice to the frustration felt by many workers.",
+          "zh": "這場演講道出了許多工人所感受到的挫折。",
+          "pos": "phr."
+        }
+      ],
+      "example": {
+        "en": "The speech gave voice to the frustration felt by many workers.",
+        "zh": "這場演講道出了許多工人所感受到的挫折。",
+        "pos": "phr."
+      },
+      "source": {
+        "issue": 459,
+        "pdf_page": 75,
+        "original_text": "give voice to sb/sth"
       }
     }
   }
