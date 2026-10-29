@@ -14,8 +14,13 @@
       button.type = 'button';
       button.className = 'customHomeFolderButton';
       button.textContent = '📁 ' + name;
-      button.setAttribute('aria-expanded', 'false');
+      if (name !== '補考專區') button.setAttribute('aria-expanded', 'false');
       button.onclick = function () {
+        if (name === '補考專區') {
+          selectedFolder = null;
+          window.dispatchEvent(new CustomEvent('kmz-retake-choice', {detail:{direction:'enToZh'}}));
+          return;
+        }
         var open = button.getAttribute('aria-expanded') !== 'true';
         grid.querySelectorAll('button').forEach(function (item) { item.setAttribute('aria-expanded', 'false'); });
         button.setAttribute('aria-expanded', String(open));
@@ -43,16 +48,6 @@
               folders.appendChild(child);
             });
             contents.appendChild(folders);
-          } else if (name === '補考專區') {
-    var actions = document.createElement('div');
-    actions.className = 'kmzRetakeDirections';
-    [['英選中', 'enToZh'], ['中選英', 'zhToEn']].forEach(function (item) {
-      var button = document.createElement('button');
-      button.type = 'button'; button.textContent = item[0];
-      button.onclick = function () { window.dispatchEvent(new CustomEvent('kmz-retake-choice', {detail:{direction:item[1]}})); };
-      actions.appendChild(button);
-    });
-    contents.appendChild(actions);
           } else { contents.appendChild(empty); }
         }
       };
