@@ -44,17 +44,19 @@
           var empty = document.createElement('p');
           empty.textContent = '此資料夾尚未加入單字。';
           contents.append(title);
-          if (name === '解析') {
-            var weeks = ['解析10月W1', '解析10月W2', '解析10月W3', '解析10月W4'];
-            var counts = [78, 65, 78, 67];
+          if (name === '解析' || name === '一般單字') {
+            var units = name === '一般單字' ? window.__KMZ_GENERAL_UNITS : [
+              {id:'W1',title:'解析10月W1',count:78},{id:'W2',title:'解析10月W2',count:65},
+              {id:'W3',title:'解析10月W3',count:78},{id:'W4',title:'解析10月W4',count:67}
+            ];
             var folders = document.createElement('div');
             folders.className = 'customHomeGrid';
-            weeks.forEach(function (label, index) {
+            units.forEach(function (unit) {
               var child = document.createElement('button');
               child.type = 'button';
-              child.textContent = '📁 ' + label + '（' + counts[index] + ' 項）';
+              child.textContent = '📁 ' + unit.title + '（' + unit.count + ' 項）';
               actions.set(child, function () {
-                window.dispatchEvent(new CustomEvent('kmz-open-retake', {detail:{unitId:'W' + (index + 1)}}));
+                window.dispatchEvent(new CustomEvent('kmz-open-retake', {detail:{unitId:unit.id,roundNumber:name === '一般單字' ? 1002 : 1001}}));
               });
               folders.appendChild(child);
             });

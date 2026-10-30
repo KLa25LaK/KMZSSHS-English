@@ -1,0 +1,6482 @@
+{
+  "title": "115-1高二第二次段考講義1",
+  "sections": [
+    {
+      "id": "A1",
+      "articleNumber": 1,
+      "title": "Frigatebirds That Sleep While Flying",
+      "entries": [
+        {
+          "term": "able",
+          "pos": "adj.",
+          "zh": "有能力的",
+          "systemKey": "able",
+          "origin": "system-word"
+        },
+        {
+          "term": "unable",
+          "pos": "adj.",
+          "zh": "無法……的",
+          "systemKey": "unable",
+          "origin": "system-word"
+        },
+        {
+          "term": "ability",
+          "pos": "n.",
+          "zh": "能力",
+          "systemKey": "ability",
+          "origin": "system-word"
+        },
+        {
+          "term": "inability",
+          "pos": "n.",
+          "zh": "無能；無法",
+          "origin": "handout"
+        },
+        {
+          "term": "enable",
+          "pos": "v.",
+          "zh": "使能夠",
+          "systemKey": "enable",
+          "origin": "system-word"
+        },
+        {
+          "term": "complete",
+          "pos": "v./adj.",
+          "zh": "完成；完整的",
+          "systemKey": "complete",
+          "origin": "system-word"
+        },
+        {
+          "term": "completion",
+          "pos": "n.",
+          "zh": "完成",
+          "origin": "handout"
+        },
+        {
+          "term": "completely",
+          "pos": "adv.",
+          "zh": "完全地",
+          "systemKey": "completely",
+          "origin": "system-word"
+        },
+        {
+          "term": "incomplete",
+          "pos": "adj.",
+          "zh": "不完整的",
+          "systemKey": "incomplete",
+          "origin": "system-word"
+        },
+        {
+          "term": "amaze",
+          "pos": "v.",
+          "zh": "使驚訝",
+          "systemKey": "amaze",
+          "origin": "system-word"
+        },
+        {
+          "term": "amazing",
+          "pos": "adj.",
+          "zh": "令人驚訝的",
+          "origin": "handout"
+        },
+        {
+          "term": "amazed",
+          "pos": "adj.",
+          "zh": "感到驚訝的",
+          "origin": "handout"
+        },
+        {
+          "term": "amazement",
+          "pos": "n.",
+          "zh": "驚訝",
+          "systemKey": "amazement",
+          "origin": "system-word"
+        },
+        {
+          "term": "incredible",
+          "pos": "adj.",
+          "zh": "難以置信的",
+          "systemKey": "incredible",
+          "origin": "system-word"
+        },
+        {
+          "term": "incredibly",
+          "pos": "adv.",
+          "zh": "難以置信地",
+          "systemKey": "incredibly",
+          "origin": "system-word"
+        },
+        {
+          "term": "frigatebird",
+          "pos": "n.",
+          "zh": "軍艦鳥",
+          "origin": "handout"
+        },
+        {
+          "term": "Galapagos Islands",
+          "pos": "phr.",
+          "zh": "加拉巴哥群島",
+          "origin": "handout"
+        },
+        {
+          "term": "motion",
+          "pos": "n.",
+          "zh": "移動；運動",
+          "systemKey": "motion",
+          "origin": "system-word"
+        },
+        {
+          "term": "asleep",
+          "pos": "adj.",
+          "zh": "睡著的",
+          "systemKey": "asleep",
+          "origin": "system-word"
+        },
+        {
+          "term": "in motion",
+          "pos": "phr.",
+          "zh": "在移動中",
+          "origin": "handout"
+        },
+        {
+          "term": "observe",
+          "pos": "v.",
+          "zh": "觀察",
+          "systemKey": "observe",
+          "origin": "system-word"
+        },
+        {
+          "term": "observation",
+          "pos": "n.",
+          "zh": "觀察；觀察結果",
+          "systemKey": "observation",
+          "origin": "system-word"
+        },
+        {
+          "term": "observer",
+          "pos": "n.",
+          "zh": "觀察者",
+          "systemKey": "observer",
+          "origin": "system-word"
+        },
+        {
+          "term": "curious",
+          "pos": "adj.",
+          "zh": "好奇的",
+          "systemKey": "curious",
+          "origin": "system-word"
+        },
+        {
+          "term": "curiosity",
+          "pos": "n.",
+          "zh": "好奇心",
+          "systemKey": "curiosity",
+          "origin": "system-word"
+        },
+        {
+          "term": "curiously",
+          "pos": "adv.",
+          "zh": "好奇地",
+          "systemKey": "curiously",
+          "origin": "system-word"
+        },
+        {
+          "term": "manage",
+          "pos": "v.",
+          "zh": "管理；設法做到",
+          "systemKey": "manage",
+          "origin": "system-word"
+        },
+        {
+          "term": "management",
+          "pos": "n.",
+          "zh": "管理",
+          "systemKey": "management",
+          "origin": "system-word"
+        },
+        {
+          "term": "manager",
+          "pos": "n.",
+          "zh": "經理",
+          "systemKey": "manager",
+          "origin": "system-word"
+        },
+        {
+          "term": "report",
+          "pos": "n./v.",
+          "zh": "報導；報告",
+          "systemKey": "report",
+          "origin": "system-word"
+        },
+        {
+          "term": "reporter",
+          "pos": "n.",
+          "zh": "記者",
+          "systemKey": "reporter",
+          "origin": "system-word"
+        },
+        {
+          "term": "record",
+          "pos": "v./n.",
+          "zh": "記錄；紀錄",
+          "systemKey": "record",
+          "origin": "system-word"
+        },
+        {
+          "term": "scientist",
+          "pos": "n.",
+          "zh": "科學家",
+          "systemKey": "scientist",
+          "origin": "system-word"
+        },
+        {
+          "term": "study",
+          "pos": "n.",
+          "zh": "研究",
+          "systemKey": "study",
+          "origin": "system-word"
+        },
+        {
+          "term": "remain",
+          "pos": "v.",
+          "zh": "保持；停留",
+          "systemKey": "remain",
+          "origin": "system-word"
+        },
+        {
+          "term": "land",
+          "pos": "n.",
+          "zh": "陸地",
+          "systemKey": "land",
+          "origin": "system-word"
+        },
+        {
+          "term": "Charles Darwin",
+          "pos": "phr.",
+          "zh": "查爾斯・達爾文",
+          "origin": "handout"
+        },
+        {
+          "term": "be curious about",
+          "pos": "phr.",
+          "zh": "對……感到好奇",
+          "systemPhrase": "be curious about",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "manage to V",
+          "pos": "phr.",
+          "zh": "設法做到……",
+          "systemPhrase": "manage to",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "at a time",
+          "pos": "phr.",
+          "zh": "每次",
+          "origin": "handout"
+        },
+        {
+          "term": "research",
+          "pos": "n./v.",
+          "zh": "研究",
+          "systemKey": "research",
+          "origin": "system-word"
+        },
+        {
+          "term": "researcher",
+          "pos": "n.",
+          "zh": "研究人員",
+          "systemKey": "researcher",
+          "origin": "system-word"
+        },
+        {
+          "term": "occasion",
+          "pos": "n.",
+          "zh": "場合；時機",
+          "systemKey": "occasion",
+          "origin": "system-word"
+        },
+        {
+          "term": "occasional",
+          "pos": "adj.",
+          "zh": "偶爾的",
+          "systemKey": "occasional",
+          "origin": "system-word"
+        },
+        {
+          "term": "occasionally",
+          "pos": "adv.",
+          "zh": "偶爾",
+          "systemKey": "occasionally",
+          "origin": "system-word"
+        },
+        {
+          "term": "general",
+          "pos": "adj.",
+          "zh": "一般的",
+          "systemKey": "general",
+          "origin": "system-word"
+        },
+        {
+          "term": "generally",
+          "pos": "adv.",
+          "zh": "通常；一般而言",
+          "systemKey": "generally",
+          "origin": "system-word"
+        },
+        {
+          "term": "enter",
+          "pos": "v.",
+          "zh": "進入",
+          "systemKey": "enter",
+          "origin": "system-word"
+        },
+        {
+          "term": "entry",
+          "pos": "n.",
+          "zh": "進入；進入權",
+          "systemKey": "entry",
+          "origin": "system-word"
+        },
+        {
+          "term": "entrance",
+          "pos": "n.",
+          "zh": "入口",
+          "systemKey": "entrance",
+          "origin": "system-word"
+        },
+        {
+          "term": "track",
+          "pos": "v./n.",
+          "zh": "追蹤；軌跡",
+          "systemKey": "track",
+          "origin": "system-word"
+        },
+        {
+          "term": "brain wave",
+          "pos": "phr.",
+          "zh": "腦波",
+          "origin": "handout"
+        },
+        {
+          "term": "reveal",
+          "pos": "v.",
+          "zh": "揭示",
+          "systemKey": "reveal",
+          "origin": "system-word"
+        },
+        {
+          "term": "nevertheless",
+          "pos": "adv.",
+          "zh": "然而",
+          "systemKey": "nevertheless",
+          "origin": "system-word"
+        },
+        {
+          "term": "stage",
+          "pos": "n.",
+          "zh": "階段",
+          "systemKey": "stage",
+          "origin": "system-word"
+        },
+        {
+          "term": "period",
+          "pos": "n.",
+          "zh": "一段時間",
+          "systemKey": "period",
+          "origin": "system-word"
+        },
+        {
+          "term": "journey",
+          "pos": "n.",
+          "zh": "旅程",
+          "systemKey": "journey",
+          "origin": "system-word"
+        },
+        {
+          "term": "bout",
+          "pos": "n.",
+          "zh": "一段短暫的活動或狀態",
+          "systemKey": "bout",
+          "origin": "system-word"
+        },
+        {
+          "term": "last",
+          "pos": "v.",
+          "zh": "持續",
+          "systemKey": "last",
+          "origin": "system-word"
+        },
+        {
+          "term": "settle",
+          "pos": "v.",
+          "zh": "停留；安頓",
+          "systemKey": "settle",
+          "origin": "system-word"
+        },
+        {
+          "term": "in flight",
+          "pos": "phr.",
+          "zh": "飛行中",
+          "origin": "handout"
+        },
+        {
+          "term": "short periods",
+          "pos": "phr.",
+          "zh": "短暫期間",
+          "origin": "handout"
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "articleNumber": 2,
+      "title": "Tourism Restrictions in Kyoto’s Gion District",
+      "entries": [
+        {
+          "term": "preserve",
+          "pos": "v.",
+          "zh": "保存；保護",
+          "systemKey": "preserve",
+          "origin": "system-word"
+        },
+        {
+          "term": "preservation",
+          "pos": "n.",
+          "zh": "保存；保護",
+          "systemKey": "preservation",
+          "origin": "system-word"
+        },
+        {
+          "term": "history",
+          "pos": "n.",
+          "zh": "歷史",
+          "systemKey": "history",
+          "origin": "system-word"
+        },
+        {
+          "term": "historical",
+          "pos": "adj.",
+          "zh": "歷史的",
+          "systemKey": "historical",
+          "origin": "system-word"
+        },
+        {
+          "term": "historic",
+          "pos": "adj.",
+          "zh": "具歷史意義的",
+          "systemKey": "historic",
+          "origin": "system-word"
+        },
+        {
+          "term": "historian",
+          "pos": "n.",
+          "zh": "歷史學家",
+          "systemKey": "historian",
+          "origin": "system-word"
+        },
+        {
+          "term": "art",
+          "pos": "n.",
+          "zh": "藝術",
+          "systemKey": "art",
+          "origin": "system-word"
+        },
+        {
+          "term": "artist",
+          "pos": "n.",
+          "zh": "藝術家",
+          "systemKey": "artist",
+          "origin": "system-word"
+        },
+        {
+          "term": "artistic",
+          "pos": "adj.",
+          "zh": "藝術的",
+          "systemKey": "artistic",
+          "origin": "system-word"
+        },
+        {
+          "term": "decorate",
+          "pos": "v.",
+          "zh": "裝飾",
+          "systemKey": "decorate",
+          "origin": "system-word"
+        },
+        {
+          "term": "decoration",
+          "pos": "n.",
+          "zh": "裝飾；裝飾品",
+          "systemKey": "decoration",
+          "origin": "system-word"
+        },
+        {
+          "term": "decorative",
+          "pos": "adj.",
+          "zh": "裝飾性的",
+          "origin": "handout"
+        },
+        {
+          "term": "practice",
+          "pos": "n./v.",
+          "zh": "練習；實行",
+          "systemKey": "practice",
+          "origin": "system-word"
+        },
+        {
+          "term": "practical",
+          "pos": "adj.",
+          "zh": "實用的",
+          "systemKey": "practical",
+          "origin": "system-word"
+        },
+        {
+          "term": "practically",
+          "pos": "adv.",
+          "zh": "幾乎；實際上",
+          "systemKey": "practically",
+          "origin": "system-word"
+        },
+        {
+          "term": "impractical",
+          "pos": "adj.",
+          "zh": "不切實際的",
+          "systemKey": "impractical",
+          "origin": "system-word"
+        },
+        {
+          "term": "tradition",
+          "pos": "n.",
+          "zh": "傳統",
+          "systemKey": "tradition",
+          "origin": "system-word"
+        },
+        {
+          "term": "traditional",
+          "pos": "adj.",
+          "zh": "傳統的",
+          "systemKey": "traditional",
+          "origin": "system-word"
+        },
+        {
+          "term": "traditionally",
+          "pos": "adv.",
+          "zh": "傳統上",
+          "systemKey": "traditionally",
+          "origin": "system-word"
+        },
+        {
+          "term": "skill",
+          "pos": "n.",
+          "zh": "技巧",
+          "systemKey": "skill",
+          "origin": "system-word"
+        },
+        {
+          "term": "skilled",
+          "pos": "adj.",
+          "zh": "技藝純熟的",
+          "systemKey": "skilled",
+          "origin": "system-word"
+        },
+        {
+          "term": "skillful",
+          "pos": "adj.",
+          "zh": "技巧純熟的",
+          "systemKey": "skillful",
+          "origin": "system-word"
+        },
+        {
+          "term": "skillfully",
+          "pos": "adv.",
+          "zh": "熟練地",
+          "systemKey": "skillfully",
+          "origin": "system-word"
+        },
+        {
+          "term": "unskilled",
+          "pos": "adj.",
+          "zh": "無專門技能的；不熟練的",
+          "systemKey": "unskilled",
+          "origin": "system-word"
+        },
+        {
+          "term": "require",
+          "pos": "v.",
+          "zh": "要求；需要",
+          "systemKey": "require",
+          "origin": "system-word"
+        },
+        {
+          "term": "requirement",
+          "pos": "n.",
+          "zh": "要求；必要條件",
+          "systemKey": "requirement",
+          "origin": "system-word"
+        },
+        {
+          "term": "entertain",
+          "pos": "v.",
+          "zh": "娛樂；招待",
+          "systemKey": "entertain",
+          "origin": "system-word"
+        },
+        {
+          "term": "entertainment",
+          "pos": "n.",
+          "zh": "娛樂",
+          "systemKey": "entertainment",
+          "origin": "system-word"
+        },
+        {
+          "term": "entertainer",
+          "pos": "n.",
+          "zh": "表演者",
+          "systemKey": "entertainer",
+          "origin": "system-word"
+        },
+        {
+          "term": "entertaining",
+          "pos": "adj.",
+          "zh": "有趣的",
+          "origin": "handout"
+        },
+        {
+          "term": "recognize",
+          "pos": "v.",
+          "zh": "認出；認可",
+          "systemKey": "recognize",
+          "origin": "system-word"
+        },
+        {
+          "term": "recognition",
+          "pos": "n.",
+          "zh": "辨認；認可",
+          "systemKey": "recognition",
+          "origin": "system-word"
+        },
+        {
+          "term": "recognizable",
+          "pos": "adj.",
+          "zh": "可辨認的",
+          "systemKey": "recognizable",
+          "origin": "system-word"
+        },
+        {
+          "term": "iconic",
+          "pos": "adj.",
+          "zh": "具代表性的",
+          "systemKey": "iconic",
+          "origin": "system-word"
+        },
+        {
+          "term": "site",
+          "pos": "n.",
+          "zh": "地點；場所",
+          "systemKey": "site",
+          "origin": "system-word"
+        },
+        {
+          "term": "historical site",
+          "pos": "phr.",
+          "zh": "歷史景點；歷史遺址",
+          "origin": "handout"
+        },
+        {
+          "term": "effort",
+          "pos": "n.",
+          "zh": "努力",
+          "systemKey": "effort",
+          "origin": "system-word"
+        },
+        {
+          "term": "image",
+          "pos": "n.",
+          "zh": "圖像；形象",
+          "systemKey": "image",
+          "origin": "system-word"
+        },
+        {
+          "term": "district",
+          "pos": "n.",
+          "zh": "地區",
+          "systemKey": "district",
+          "origin": "system-word"
+        },
+        {
+          "term": "geisha",
+          "pos": "n.",
+          "zh": "藝伎",
+          "origin": "handout"
+        },
+        {
+          "term": "renowned",
+          "pos": "adj.",
+          "zh": "著名的",
+          "systemKey": "renowned",
+          "origin": "system-word"
+        },
+        {
+          "term": "ceremony",
+          "pos": "n.",
+          "zh": "儀式",
+          "systemKey": "ceremony",
+          "origin": "system-word"
+        },
+        {
+          "term": "tea ceremony",
+          "pos": "phr.",
+          "zh": "茶道儀式",
+          "origin": "handout"
+        },
+        {
+          "term": "brightly colored",
+          "pos": "phr.",
+          "zh": "色彩鮮豔的",
+          "origin": "handout"
+        },
+        {
+          "term": "kimono",
+          "pos": "n.",
+          "zh": "和服",
+          "origin": "handout"
+        },
+        {
+          "term": "thick",
+          "pos": "adj.",
+          "zh": "厚的；濃重的",
+          "systemKey": "thick",
+          "origin": "system-word"
+        },
+        {
+          "term": "makeup",
+          "pos": "n.",
+          "zh": "化妝品；妝容",
+          "systemKey": "makeup",
+          "origin": "system-word"
+        },
+        {
+          "term": "hairstyle",
+          "pos": "n.",
+          "zh": "髮型",
+          "systemKey": "hairstyle",
+          "origin": "system-word"
+        },
+        {
+          "term": "private",
+          "pos": "adj.",
+          "zh": "私人的",
+          "systemKey": "private",
+          "origin": "system-word"
+        },
+        {
+          "term": "privacy",
+          "pos": "n.",
+          "zh": "隱私",
+          "systemKey": "privacy",
+          "origin": "system-word"
+        },
+        {
+          "term": "privately",
+          "pos": "adv.",
+          "zh": "私下地",
+          "systemKey": "privately",
+          "origin": "system-word"
+        },
+        {
+          "term": "surround",
+          "pos": "v.",
+          "zh": "圍繞",
+          "systemKey": "surround",
+          "origin": "system-word"
+        },
+        {
+          "term": "surrounding",
+          "pos": "adj.",
+          "zh": "周圍的",
+          "origin": "handout"
+        },
+        {
+          "term": "surroundings",
+          "pos": "n.",
+          "zh": "周遭環境",
+          "systemKey": "surroundings",
+          "origin": "system-word"
+        },
+        {
+          "term": "surprise",
+          "pos": "n./v.",
+          "zh": "驚訝；使驚訝",
+          "systemKey": "surprise",
+          "origin": "system-word"
+        },
+        {
+          "term": "surprising",
+          "pos": "adj.",
+          "zh": "令人驚訝的",
+          "origin": "handout"
+        },
+        {
+          "term": "surprised",
+          "pos": "adj.",
+          "zh": "感到驚訝的",
+          "systemKey": "surprised",
+          "origin": "system-word"
+        },
+        {
+          "term": "surprisingly",
+          "pos": "adv.",
+          "zh": "令人意外地",
+          "origin": "handout"
+        },
+        {
+          "term": "unsurprisingly",
+          "pos": "adv.",
+          "zh": "不意外地",
+          "origin": "handout"
+        },
+        {
+          "term": "culture",
+          "pos": "n.",
+          "zh": "文化",
+          "systemKey": "culture",
+          "origin": "system-word"
+        },
+        {
+          "term": "cultural",
+          "pos": "adj.",
+          "zh": "文化的",
+          "systemKey": "cultural",
+          "origin": "system-word"
+        },
+        {
+          "term": "culturally",
+          "pos": "adv.",
+          "zh": "在文化上",
+          "systemKey": "culturally",
+          "origin": "system-word"
+        },
+        {
+          "term": "tour",
+          "pos": "n./v.",
+          "zh": "遊覽",
+          "systemKey": "tour",
+          "origin": "system-word"
+        },
+        {
+          "term": "tourism",
+          "pos": "n.",
+          "zh": "觀光業",
+          "systemKey": "tourism",
+          "origin": "system-word"
+        },
+        {
+          "term": "tourist",
+          "pos": "n.",
+          "zh": "遊客",
+          "systemKey": "tourist",
+          "origin": "system-word"
+        },
+        {
+          "term": "observe",
+          "pos": "v.",
+          "zh": "觀察；遵守",
+          "systemKey": "observe",
+          "origin": "system-word"
+        },
+        {
+          "term": "observation",
+          "pos": "n.",
+          "zh": "觀察；觀察結果",
+          "systemKey": "observation",
+          "origin": "system-word"
+        },
+        {
+          "term": "observer",
+          "pos": "n.",
+          "zh": "觀察者",
+          "systemKey": "observer",
+          "origin": "system-word"
+        },
+        {
+          "term": "photograph",
+          "pos": "n./v.",
+          "zh": "照片；拍照",
+          "systemKey": "photograph",
+          "origin": "system-word"
+        },
+        {
+          "term": "photography",
+          "pos": "n.",
+          "zh": "攝影",
+          "systemKey": "photography",
+          "origin": "system-word"
+        },
+        {
+          "term": "photographer",
+          "pos": "n.",
+          "zh": "攝影師",
+          "systemKey": "photographer",
+          "origin": "system-word"
+        },
+        {
+          "term": "photographic",
+          "pos": "adj.",
+          "zh": "攝影的",
+          "systemKey": "photographic",
+          "origin": "system-word"
+        },
+        {
+          "term": "attract",
+          "pos": "v.",
+          "zh": "吸引",
+          "systemKey": "attract",
+          "origin": "system-word"
+        },
+        {
+          "term": "attraction",
+          "pos": "n.",
+          "zh": "吸引力；景點",
+          "systemKey": "attraction",
+          "origin": "system-word"
+        },
+        {
+          "term": "attractive",
+          "pos": "adj.",
+          "zh": "有吸引力的",
+          "systemKey": "attractive",
+          "origin": "system-word"
+        },
+        {
+          "term": "tea house",
+          "pos": "phr.",
+          "zh": "茶館",
+          "origin": "handout"
+        },
+        {
+          "term": "host",
+          "pos": "v./n.",
+          "zh": "主持；招待；主人／主持人",
+          "systemKey": "host",
+          "origin": "system-word"
+        },
+        {
+          "term": "event",
+          "pos": "n.",
+          "zh": "活動",
+          "systemKey": "event",
+          "origin": "system-word"
+        },
+        {
+          "term": "private event",
+          "pos": "phr.",
+          "zh": "私人活動",
+          "origin": "handout"
+        },
+        {
+          "term": "area",
+          "pos": "n.",
+          "zh": "地區；區域",
+          "systemKey": "area",
+          "origin": "system-word"
+        },
+        {
+          "term": "picturesque",
+          "pos": "adj.",
+          "zh": "風景如畫的",
+          "systemKey": "picturesque",
+          "origin": "system-word"
+        },
+        {
+          "term": "alley",
+          "pos": "n.",
+          "zh": "小巷",
+          "systemKey": "alley",
+          "origin": "system-word"
+        },
+        {
+          "term": "visitor",
+          "pos": "n.",
+          "zh": "訪客；遊客",
+          "systemKey": "visitor",
+          "origin": "system-word"
+        },
+        {
+          "term": "eager",
+          "pos": "adj.",
+          "zh": "渴望的；熱切的",
+          "systemKey": "eager",
+          "origin": "system-word"
+        },
+        {
+          "term": "unique",
+          "pos": "adj.",
+          "zh": "獨特的",
+          "systemKey": "unique",
+          "origin": "system-word"
+        },
+        {
+          "term": "aspect",
+          "pos": "n.",
+          "zh": "方面；層面",
+          "systemKey": "aspect",
+          "origin": "system-word"
+        },
+        {
+          "term": "reside",
+          "pos": "v.",
+          "zh": "居住",
+          "systemKey": "reside",
+          "origin": "system-word"
+        },
+        {
+          "term": "resident",
+          "pos": "n.",
+          "zh": "居民",
+          "systemKey": "resident",
+          "origin": "system-word"
+        },
+        {
+          "term": "residence",
+          "pos": "n.",
+          "zh": "住所",
+          "systemKey": "residence",
+          "origin": "system-word"
+        },
+        {
+          "term": "residential",
+          "pos": "adj.",
+          "zh": "住宅的",
+          "systemKey": "residential",
+          "origin": "system-word"
+        },
+        {
+          "term": "permit",
+          "pos": "v.",
+          "zh": "允許",
+          "systemKey": "permit",
+          "origin": "system-word"
+        },
+        {
+          "term": "permission",
+          "pos": "n.",
+          "zh": "許可",
+          "systemKey": "permission",
+          "origin": "system-word"
+        },
+        {
+          "term": "govern",
+          "pos": "v.",
+          "zh": "統治；治理",
+          "systemKey": "govern",
+          "origin": "system-word"
+        },
+        {
+          "term": "government",
+          "pos": "n.",
+          "zh": "政府",
+          "systemKey": "government",
+          "origin": "system-word"
+        },
+        {
+          "term": "fortunate",
+          "pos": "adj.",
+          "zh": "幸運的",
+          "systemKey": "fortunate",
+          "origin": "system-word"
+        },
+        {
+          "term": "fortunately",
+          "pos": "adv.",
+          "zh": "幸運地",
+          "systemKey": "fortunately",
+          "origin": "system-word"
+        },
+        {
+          "term": "unfortunate",
+          "pos": "adj.",
+          "zh": "不幸的",
+          "systemKey": "unfortunate",
+          "origin": "system-word"
+        },
+        {
+          "term": "unfortunately",
+          "pos": "adv.",
+          "zh": "不幸地；遺憾地",
+          "origin": "handout"
+        },
+        {
+          "term": "following",
+          "pos": "prep.",
+          "zh": "在……之後",
+          "systemKey": "following",
+          "origin": "system-word"
+        },
+        {
+          "term": "COVID-19",
+          "pos": "n.",
+          "zh": "新冠肺炎",
+          "origin": "handout"
+        },
+        {
+          "term": "pandemic",
+          "pos": "n./adj.",
+          "zh": "全球性流行病；大流行的",
+          "systemKey": "pandemic",
+          "origin": "system-word"
+        },
+        {
+          "term": "huge",
+          "pos": "adj.",
+          "zh": "巨大的；大量的",
+          "systemKey": "huge",
+          "origin": "system-word"
+        },
+        {
+          "term": "disrupt",
+          "pos": "v.",
+          "zh": "擾亂；使中斷",
+          "systemKey": "disrupt",
+          "origin": "system-word"
+        },
+        {
+          "term": "life",
+          "pos": "n.",
+          "zh": "生活；生命（複數為 lives）",
+          "systemKey": "life",
+          "origin": "system-word"
+        },
+        {
+          "term": "local",
+          "pos": "adj.",
+          "zh": "當地的",
+          "systemKey": "local",
+          "origin": "system-word"
+        },
+        {
+          "term": "local resident",
+          "pos": "phr.",
+          "zh": "當地居民",
+          "origin": "handout"
+        },
+        {
+          "term": "fine",
+          "pos": "v./n.",
+          "zh": "處以罰款；罰款",
+          "systemKey": "fine",
+          "origin": "system-word"
+        },
+        {
+          "term": "bother",
+          "pos": "v.",
+          "zh": "打擾",
+          "systemKey": "bother",
+          "origin": "system-word"
+        },
+        {
+          "term": "take photos",
+          "pos": "phr.",
+          "zh": "拍照",
+          "systemPhrase": "take photos",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "without",
+          "pos": "prep.",
+          "zh": "沒有；未經",
+          "systemKey": "without",
+          "origin": "system-word"
+        },
+        {
+          "term": "in huge numbers",
+          "pos": "phr.",
+          "zh": "大量地",
+          "origin": "handout"
+        },
+        {
+          "term": "in the past",
+          "pos": "phr.",
+          "zh": "在過去",
+          "systemPhrase": "in the past",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "access",
+          "pos": "n./v.",
+          "zh": "使用權；進入、使用",
+          "systemKey": "access",
+          "origin": "system-word"
+        },
+        {
+          "term": "accessible",
+          "pos": "adj.",
+          "zh": "可進入的；易取得的",
+          "systemKey": "accessible",
+          "origin": "system-word"
+        },
+        {
+          "term": "inaccessible",
+          "pos": "adj.",
+          "zh": "無法進入的；難以取得的",
+          "systemKey": "inaccessible",
+          "origin": "system-word"
+        },
+        {
+          "term": "restrict",
+          "pos": "v.",
+          "zh": "限制",
+          "systemKey": "restrict",
+          "origin": "system-word"
+        },
+        {
+          "term": "restriction",
+          "pos": "n.",
+          "zh": "限制；限制規定",
+          "systemKey": "restriction",
+          "origin": "system-word"
+        },
+        {
+          "term": "restricted",
+          "pos": "adj.",
+          "zh": "受限制的",
+          "origin": "handout"
+        },
+        {
+          "term": "restrictive",
+          "pos": "adj.",
+          "zh": "限制性的",
+          "origin": "handout"
+        },
+        {
+          "term": "agree",
+          "pos": "v.",
+          "zh": "同意",
+          "systemKey": "agree",
+          "origin": "system-word"
+        },
+        {
+          "term": "agreement",
+          "pos": "n.",
+          "zh": "同意；協議",
+          "systemKey": "agreement",
+          "origin": "system-word"
+        },
+        {
+          "term": "disagree",
+          "pos": "v.",
+          "zh": "不同意",
+          "systemKey": "disagree",
+          "origin": "system-word"
+        },
+        {
+          "term": "disagreement",
+          "pos": "n.",
+          "zh": "意見不合",
+          "systemKey": "disagreement",
+          "origin": "system-word"
+        },
+        {
+          "term": "act",
+          "pos": "v.",
+          "zh": "行動",
+          "systemKey": "act",
+          "origin": "system-word"
+        },
+        {
+          "term": "action",
+          "pos": "n.",
+          "zh": "行動；措施",
+          "systemKey": "action",
+          "origin": "system-word"
+        },
+        {
+          "term": "active",
+          "pos": "adj.",
+          "zh": "活躍的",
+          "systemKey": "active",
+          "origin": "system-word"
+        },
+        {
+          "term": "actively",
+          "pos": "adv.",
+          "zh": "積極地",
+          "systemKey": "actively",
+          "origin": "system-word"
+        },
+        {
+          "term": "activity",
+          "pos": "n.",
+          "zh": "活動",
+          "systemKey": "activity",
+          "origin": "system-word"
+        },
+        {
+          "term": "inactive",
+          "pos": "adj.",
+          "zh": "不活躍的",
+          "systemKey": "inactive",
+          "origin": "system-word"
+        },
+        {
+          "term": "enter",
+          "pos": "v.",
+          "zh": "進入",
+          "systemKey": "enter",
+          "origin": "system-word"
+        },
+        {
+          "term": "entry",
+          "pos": "n.",
+          "zh": "進入；進入權",
+          "systemKey": "entry",
+          "origin": "system-word"
+        },
+        {
+          "term": "entrance",
+          "pos": "n.",
+          "zh": "入口",
+          "systemKey": "entrance",
+          "origin": "system-word"
+        },
+        {
+          "term": "request",
+          "pos": "v./n.",
+          "zh": "要求；請求",
+          "systemKey": "request",
+          "origin": "system-word"
+        },
+        {
+          "term": "further",
+          "pos": "adj.",
+          "zh": "進一步的",
+          "systemKey": "further",
+          "origin": "system-word"
+        },
+        {
+          "term": "foreign",
+          "pos": "adj.",
+          "zh": "外國的",
+          "systemKey": "foreign",
+          "origin": "system-word"
+        },
+        {
+          "term": "sign",
+          "pos": "n.",
+          "zh": "告示；標誌",
+          "systemKey": "sign",
+          "origin": "system-word"
+        },
+        {
+          "term": "post",
+          "pos": "v.",
+          "zh": "張貼",
+          "systemKey": "post",
+          "origin": "system-word"
+        },
+        {
+          "term": "throughout",
+          "pos": "prep.",
+          "zh": "遍及",
+          "systemKey": "throughout",
+          "origin": "system-word"
+        },
+        {
+          "term": "guest",
+          "pos": "n.",
+          "zh": "客人；訪客",
+          "systemKey": "guest",
+          "origin": "system-word"
+        },
+        {
+          "term": "side street",
+          "pos": "phr.",
+          "zh": "支路",
+          "origin": "handout"
+        },
+        {
+          "term": "main road",
+          "pos": "phr.",
+          "zh": "主要道路",
+          "origin": "handout"
+        },
+        {
+          "term": "face",
+          "pos": "v.",
+          "zh": "面臨",
+          "systemKey": "face",
+          "origin": "system-word"
+        },
+        {
+          "term": "JPY",
+          "pos": "",
+          "zh": "日圓（貨幣代碼）",
+          "origin": "handout"
+        },
+        {
+          "term": "trespass",
+          "pos": "v.",
+          "zh": "擅闖",
+          "systemKey": "trespass",
+          "origin": "system-word"
+        },
+        {
+          "term": "harass",
+          "pos": "v.",
+          "zh": "騷擾",
+          "systemKey": "harass",
+          "origin": "system-word"
+        },
+        {
+          "term": "the number of ...",
+          "pos": "phr.",
+          "zh": "……的數量",
+          "origin": "handout"
+        },
+        {
+          "term": "or more",
+          "pos": "phr.",
+          "zh": "或以上",
+          "origin": "handout"
+        }
+      ]
+    },
+    {
+      "id": "A3",
+      "articleNumber": 3,
+      "title": "Appearance Anxiety in the Digital Age",
+      "entries": [
+        {
+          "term": "appear",
+          "pos": "v.",
+          "zh": "出現；看似",
+          "systemKey": "appear",
+          "origin": "system-word"
+        },
+        {
+          "term": "appearance",
+          "pos": "n.",
+          "zh": "外貌；出現",
+          "systemKey": "appearance",
+          "origin": "system-word"
+        },
+        {
+          "term": "disappear",
+          "pos": "v.",
+          "zh": "消失",
+          "systemKey": "disappear",
+          "origin": "system-word"
+        },
+        {
+          "term": "disappearance",
+          "pos": "n.",
+          "zh": "消失",
+          "origin": "handout"
+        },
+        {
+          "term": "anxious",
+          "pos": "adj.",
+          "zh": "焦慮的",
+          "systemKey": "anxious",
+          "origin": "system-word"
+        },
+        {
+          "term": "anxiety",
+          "pos": "n.",
+          "zh": "焦慮",
+          "systemKey": "anxiety",
+          "origin": "system-word"
+        },
+        {
+          "term": "anxiously",
+          "pos": "adv.",
+          "zh": "焦慮地",
+          "systemKey": "anxiously",
+          "origin": "system-word"
+        },
+        {
+          "term": "society",
+          "pos": "n.",
+          "zh": "社會",
+          "systemKey": "society",
+          "origin": "system-word"
+        },
+        {
+          "term": "social",
+          "pos": "adj.",
+          "zh": "社會的；社交的",
+          "systemKey": "social",
+          "origin": "system-word"
+        },
+        {
+          "term": "socially",
+          "pos": "adv.",
+          "zh": "在社會上",
+          "systemKey": "socially",
+          "origin": "system-word"
+        },
+        {
+          "term": "experience",
+          "pos": "n./v.",
+          "zh": "經驗；經歷",
+          "systemKey": "experience",
+          "origin": "system-word"
+        },
+        {
+          "term": "experienced",
+          "pos": "adj.",
+          "zh": "有經驗的",
+          "systemKey": "experienced",
+          "origin": "system-word"
+        },
+        {
+          "term": "inexperienced",
+          "pos": "adj.",
+          "zh": "缺乏經驗的",
+          "origin": "handout"
+        },
+        {
+          "term": "frequent",
+          "pos": "adj.",
+          "zh": "頻繁的",
+          "systemKey": "frequent",
+          "origin": "system-word"
+        },
+        {
+          "term": "frequently",
+          "pos": "adv.",
+          "zh": "頻繁地",
+          "systemKey": "frequently",
+          "origin": "system-word"
+        },
+        {
+          "term": "frequency",
+          "pos": "n.",
+          "zh": "頻率",
+          "systemKey": "frequency",
+          "origin": "system-word"
+        },
+        {
+          "term": "certain",
+          "pos": "adj.",
+          "zh": "確定的",
+          "systemKey": "certain",
+          "origin": "system-word"
+        },
+        {
+          "term": "certainty",
+          "pos": "n.",
+          "zh": "確定性",
+          "systemKey": "certainty",
+          "origin": "system-word"
+        },
+        {
+          "term": "uncertain",
+          "pos": "adj.",
+          "zh": "不確定的",
+          "systemKey": "uncertain",
+          "origin": "system-word"
+        },
+        {
+          "term": "uncertainty",
+          "pos": "n.",
+          "zh": "不確定感",
+          "systemKey": "uncertainty",
+          "origin": "system-word"
+        },
+        {
+          "term": "judge",
+          "pos": "n./v.",
+          "zh": "法官；評斷",
+          "systemKey": "judge",
+          "origin": "system-word"
+        },
+        {
+          "term": "judgment",
+          "pos": "n.",
+          "zh": "判斷",
+          "systemKey": "judgment",
+          "origin": "system-word"
+        },
+        {
+          "term": "compete",
+          "pos": "v.",
+          "zh": "競爭",
+          "systemKey": "compete",
+          "origin": "system-word"
+        },
+        {
+          "term": "competition",
+          "pos": "n.",
+          "zh": "競爭",
+          "systemKey": "competition",
+          "origin": "system-word"
+        },
+        {
+          "term": "competitive",
+          "pos": "adj.",
+          "zh": "有競爭力的",
+          "systemKey": "competitive",
+          "origin": "system-word"
+        },
+        {
+          "term": "attract",
+          "pos": "v.",
+          "zh": "吸引",
+          "systemKey": "attract",
+          "origin": "system-word"
+        },
+        {
+          "term": "attraction",
+          "pos": "n.",
+          "zh": "吸引力",
+          "systemKey": "attraction",
+          "origin": "system-word"
+        },
+        {
+          "term": "attractive",
+          "pos": "adj.",
+          "zh": "有吸引力的",
+          "systemKey": "attractive",
+          "origin": "system-word"
+        },
+        {
+          "term": "press",
+          "pos": "v.",
+          "zh": "壓；催促",
+          "systemKey": "press",
+          "origin": "system-word"
+        },
+        {
+          "term": "pressure",
+          "pos": "n./v.",
+          "zh": "壓力；施壓",
+          "systemKey": "pressure",
+          "origin": "system-word"
+        },
+        {
+          "term": "digital age",
+          "pos": "phr.",
+          "zh": "數位時代",
+          "origin": "handout"
+        },
+        {
+          "term": "adult",
+          "pos": "n.",
+          "zh": "成人",
+          "systemKey": "adult",
+          "origin": "system-word"
+        },
+        {
+          "term": "challenge",
+          "pos": "n.",
+          "zh": "挑戰",
+          "systemKey": "challenge",
+          "origin": "system-word"
+        },
+        {
+          "term": "source",
+          "pos": "n.",
+          "zh": "來源",
+          "systemKey": "source",
+          "origin": "system-word"
+        },
+        {
+          "term": "stress",
+          "pos": "n.",
+          "zh": "壓力",
+          "systemKey": "stress",
+          "origin": "system-word"
+        },
+        {
+          "term": "excessive",
+          "pos": "adj.",
+          "zh": "過度的",
+          "systemKey": "excessive",
+          "origin": "system-word"
+        },
+        {
+          "term": "constant",
+          "pos": "adj.",
+          "zh": "持續不斷的",
+          "systemKey": "constant",
+          "origin": "system-word"
+        },
+        {
+          "term": "online presence",
+          "pos": "phr.",
+          "zh": "網路上的形象與存在感",
+          "origin": "handout"
+        },
+        {
+          "term": "sense",
+          "pos": "n.",
+          "zh": "感覺",
+          "systemKey": "sense",
+          "origin": "system-word"
+        },
+        {
+          "term": "physical appearance",
+          "pos": "phr.",
+          "zh": "外貌",
+          "origin": "handout"
+        },
+        {
+          "term": "fashion",
+          "pos": "n.",
+          "zh": "時尚",
+          "systemKey": "fashion",
+          "origin": "system-word"
+        },
+        {
+          "term": "accessory",
+          "pos": "n.",
+          "zh": "配件",
+          "systemKey": "accessory",
+          "origin": "system-word"
+        },
+        {
+          "term": "status symbol",
+          "pos": "phr.",
+          "zh": "身分地位的象徵",
+          "origin": "handout"
+        },
+        {
+          "term": "environment",
+          "pos": "n.",
+          "zh": "環境",
+          "systemKey": "environment",
+          "origin": "system-word"
+        },
+        {
+          "term": "regularly",
+          "pos": "adv.",
+          "zh": "定期地",
+          "systemKey": "regularly",
+          "origin": "system-word"
+        },
+        {
+          "term": "damage",
+          "pos": "v./n.",
+          "zh": "損害",
+          "systemKey": "damage",
+          "origin": "system-word"
+        },
+        {
+          "term": "self-esteem",
+          "pos": "n.",
+          "zh": "自尊",
+          "origin": "handout"
+        },
+        {
+          "term": "due to",
+          "pos": "phr.",
+          "zh": "由於",
+          "systemPhrase": "due to",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "along with",
+          "pos": "phr.",
+          "zh": "連同；以及",
+          "systemPhrase": "along with",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "satisfy",
+          "pos": "v.",
+          "zh": "使滿意",
+          "systemKey": "satisfy",
+          "origin": "system-word"
+        },
+        {
+          "term": "satisfied",
+          "pos": "adj.",
+          "zh": "滿意的",
+          "origin": "handout"
+        },
+        {
+          "term": "satisfaction",
+          "pos": "n.",
+          "zh": "滿意",
+          "systemKey": "satisfaction",
+          "origin": "system-word"
+        },
+        {
+          "term": "dissatisfied",
+          "pos": "adj.",
+          "zh": "不滿意的",
+          "origin": "handout"
+        },
+        {
+          "term": "satisfactory",
+          "pos": "adj.",
+          "zh": "令人滿意的",
+          "systemKey": "satisfactory",
+          "origin": "system-word"
+        },
+        {
+          "term": "include",
+          "pos": "v.",
+          "zh": "包含",
+          "systemKey": "include",
+          "origin": "system-word"
+        },
+        {
+          "term": "including",
+          "pos": "prep.",
+          "zh": "包括",
+          "systemKey": "including",
+          "origin": "system-word"
+        },
+        {
+          "term": "inclusion",
+          "pos": "n.",
+          "zh": "包含；納入",
+          "origin": "handout"
+        },
+        {
+          "term": "found",
+          "pos": "v.",
+          "zh": "創立",
+          "systemKey": "found",
+          "origin": "system-word"
+        },
+        {
+          "term": "founder",
+          "pos": "n.",
+          "zh": "創辦人",
+          "systemKey": "founder",
+          "origin": "system-word"
+        },
+        {
+          "term": "foundation",
+          "pos": "n.",
+          "zh": "基金會；基礎",
+          "systemKey": "foundation",
+          "origin": "system-word"
+        },
+        {
+          "term": "Child Welfare League Foundation",
+          "pos": "phr.",
+          "zh": "兒童福利聯盟文教基金會",
+          "origin": "handout"
+        },
+        {
+          "term": "welfare",
+          "pos": "n.",
+          "zh": "福利",
+          "systemKey": "welfare",
+          "origin": "system-word"
+        },
+        {
+          "term": "league",
+          "pos": "n.",
+          "zh": "聯盟",
+          "systemKey": "league",
+          "origin": "system-word"
+        },
+        {
+          "term": "adolescent",
+          "pos": "n./adj.",
+          "zh": "青少年；青春期的",
+          "systemKey": "adolescent",
+          "origin": "system-word"
+        },
+        {
+          "term": "diet",
+          "pos": "v./n.",
+          "zh": "節食；飲食",
+          "systemKey": "diet",
+          "origin": "system-word"
+        },
+        {
+          "term": "makeup",
+          "pos": "n.",
+          "zh": "化妝品；妝容",
+          "systemKey": "makeup",
+          "origin": "system-word"
+        },
+        {
+          "term": "dye",
+          "pos": "v.",
+          "zh": "染色",
+          "systemKey": "dye",
+          "origin": "system-word"
+        },
+        {
+          "term": "latest",
+          "pos": "adj.",
+          "zh": "最新的",
+          "systemKey": "latest",
+          "origin": "system-word"
+        },
+        {
+          "term": "trend",
+          "pos": "n.",
+          "zh": "趨勢",
+          "systemKey": "trend",
+          "origin": "system-word"
+        },
+        {
+          "term": "be satisfied with",
+          "pos": "phr.",
+          "zh": "對……感到滿意",
+          "origin": "handout"
+        },
+        {
+          "term": "dye one’s hair",
+          "pos": "phr.",
+          "zh": "染髮",
+          "origin": "handout"
+        },
+        {
+          "term": "respond",
+          "pos": "v.",
+          "zh": "回應",
+          "systemKey": "respond",
+          "origin": "system-word"
+        },
+        {
+          "term": "response",
+          "pos": "n.",
+          "zh": "回應",
+          "systemKey": "response",
+          "origin": "system-word"
+        },
+        {
+          "term": "respondent",
+          "pos": "n.",
+          "zh": "受訪者",
+          "systemKey": "respondent",
+          "origin": "system-word"
+        },
+        {
+          "term": "accurate",
+          "pos": "adj.",
+          "zh": "準確的",
+          "systemKey": "accurate",
+          "origin": "system-word"
+        },
+        {
+          "term": "accurately",
+          "pos": "adv.",
+          "zh": "準確地",
+          "systemKey": "accurately",
+          "origin": "system-word"
+        },
+        {
+          "term": "accuracy",
+          "pos": "n.",
+          "zh": "準確性",
+          "systemKey": "accuracy",
+          "origin": "system-word"
+        },
+        {
+          "term": "inaccurate",
+          "pos": "adj.",
+          "zh": "不準確的",
+          "systemKey": "inaccurate",
+          "origin": "system-word"
+        },
+        {
+          "term": "reflect",
+          "pos": "v.",
+          "zh": "反映；反射",
+          "systemKey": "reflect",
+          "origin": "system-word"
+        },
+        {
+          "term": "reflection",
+          "pos": "n.",
+          "zh": "反映；反射；省思",
+          "systemKey": "reflection",
+          "origin": "system-word"
+        },
+        {
+          "term": "real",
+          "pos": "adj.",
+          "zh": "真實的",
+          "systemKey": "real",
+          "origin": "system-word"
+        },
+        {
+          "term": "really",
+          "pos": "adv.",
+          "zh": "真正地",
+          "systemKey": "really",
+          "origin": "system-word"
+        },
+        {
+          "term": "reality",
+          "pos": "n.",
+          "zh": "現實；真實情況",
+          "systemKey": "reality",
+          "origin": "system-word"
+        },
+        {
+          "term": "similar",
+          "pos": "adj.",
+          "zh": "相似的",
+          "systemKey": "similar",
+          "origin": "system-word"
+        },
+        {
+          "term": "similarly",
+          "pos": "adv.",
+          "zh": "相似地",
+          "systemKey": "similarly",
+          "origin": "system-word"
+        },
+        {
+          "term": "similarity",
+          "pos": "n.",
+          "zh": "相似處",
+          "systemKey": "similarity",
+          "origin": "system-word"
+        },
+        {
+          "term": "survey",
+          "pos": "n.",
+          "zh": "調查",
+          "systemKey": "survey",
+          "origin": "system-word"
+        },
+        {
+          "term": "filter",
+          "pos": "n./v.",
+          "zh": "濾鏡；過濾",
+          "systemKey": "filter",
+          "origin": "system-word"
+        },
+        {
+          "term": "image-editing tool",
+          "pos": "phr.",
+          "zh": "影像編輯工具",
+          "origin": "handout"
+        },
+        {
+          "term": "enhance",
+          "pos": "v.",
+          "zh": "提升；改善",
+          "systemKey": "enhance",
+          "origin": "system-word"
+        },
+        {
+          "term": "furthermore",
+          "pos": "adv.",
+          "zh": "此外",
+          "systemKey": "furthermore",
+          "origin": "system-word"
+        },
+        {
+          "term": "admit",
+          "pos": "v.",
+          "zh": "承認",
+          "systemKey": "admit",
+          "origin": "system-word"
+        },
+        {
+          "term": "ensure",
+          "pos": "v.",
+          "zh": "確保",
+          "systemKey": "ensure",
+          "origin": "system-word"
+        },
+        {
+          "term": "percent",
+          "pos": "n.",
+          "zh": "百分之……",
+          "systemKey": "percent",
+          "origin": "system-word"
+        },
+        {
+          "term": "percentage",
+          "pos": "n.",
+          "zh": "百分比",
+          "systemKey": "percentage",
+          "origin": "system-word"
+        },
+        {
+          "term": "somewhat",
+          "pos": "adv.",
+          "zh": "稍微；有點",
+          "systemKey": "somewhat",
+          "origin": "system-word"
+        },
+        {
+          "term": "inferior",
+          "pos": "adj.",
+          "zh": "較差的；自卑的",
+          "systemKey": "inferior",
+          "origin": "system-word"
+        },
+        {
+          "term": "view",
+          "pos": "v.",
+          "zh": "觀看",
+          "systemKey": "view",
+          "origin": "system-word"
+        },
+        {
+          "term": "one-third",
+          "pos": "",
+          "zh": "三分之一",
+          "origin": "handout"
+        },
+        {
+          "term": "reflect reality",
+          "pos": "phr.",
+          "zh": "反映真實情況",
+          "origin": "handout"
+        },
+        {
+          "term": "reduce",
+          "pos": "v.",
+          "zh": "減少",
+          "systemKey": "reduce",
+          "origin": "system-word"
+        },
+        {
+          "term": "reduction",
+          "pos": "n.",
+          "zh": "減少",
+          "systemKey": "reduction",
+          "origin": "system-word"
+        },
+        {
+          "term": "improve",
+          "pos": "v.",
+          "zh": "改善",
+          "systemKey": "improve",
+          "origin": "system-word"
+        },
+        {
+          "term": "improvement",
+          "pos": "n.",
+          "zh": "改善",
+          "systemKey": "improvement",
+          "origin": "system-word"
+        },
+        {
+          "term": "confidence",
+          "pos": "n.",
+          "zh": "自信",
+          "systemKey": "confidence",
+          "origin": "system-word"
+        },
+        {
+          "term": "confident",
+          "pos": "adj.",
+          "zh": "有自信的",
+          "systemKey": "confident",
+          "origin": "system-word"
+        },
+        {
+          "term": "confidently",
+          "pos": "adv.",
+          "zh": "有自信地",
+          "systemKey": "confidently",
+          "origin": "system-word"
+        },
+        {
+          "term": "interact",
+          "pos": "v.",
+          "zh": "互動",
+          "systemKey": "interact",
+          "origin": "system-word"
+        },
+        {
+          "term": "interaction",
+          "pos": "n.",
+          "zh": "互動",
+          "systemKey": "interaction",
+          "origin": "system-word"
+        },
+        {
+          "term": "interactive",
+          "pos": "adj.",
+          "zh": "互動式的",
+          "origin": "handout"
+        },
+        {
+          "term": "affect",
+          "pos": "v.",
+          "zh": "影響",
+          "systemKey": "affect",
+          "origin": "system-word"
+        },
+        {
+          "term": "effect",
+          "pos": "n.",
+          "zh": "影響；效果",
+          "systemKey": "effect",
+          "origin": "system-word"
+        },
+        {
+          "term": "effective",
+          "pos": "adj.",
+          "zh": "有效的",
+          "systemKey": "effective",
+          "origin": "system-word"
+        },
+        {
+          "term": "effectively",
+          "pos": "adv.",
+          "zh": "有效地",
+          "systemKey": "effectively",
+          "origin": "system-word"
+        },
+        {
+          "term": "analyze",
+          "pos": "v.",
+          "zh": "分析",
+          "systemKey": "analyze",
+          "origin": "system-word"
+        },
+        {
+          "term": "analysis",
+          "pos": "n.",
+          "zh": "分析",
+          "systemKey": "analysis",
+          "origin": "system-word"
+        },
+        {
+          "term": "comfort",
+          "pos": "n./v.",
+          "zh": "舒適；安慰",
+          "systemKey": "comfort",
+          "origin": "system-word"
+        },
+        {
+          "term": "comfortable",
+          "pos": "adj.",
+          "zh": "舒適的",
+          "systemKey": "comfortable",
+          "origin": "system-word"
+        },
+        {
+          "term": "uncomfortable",
+          "pos": "adj.",
+          "zh": "不舒服的",
+          "systemKey": "uncomfortable",
+          "origin": "system-word"
+        },
+        {
+          "term": "approach",
+          "pos": "v./n.",
+          "zh": "處理；方法",
+          "systemKey": "approach",
+          "origin": "system-word"
+        },
+        {
+          "term": "negative",
+          "pos": "adj.",
+          "zh": "負面的",
+          "systemKey": "negative",
+          "origin": "system-word"
+        },
+        {
+          "term": "overall",
+          "pos": "adj.",
+          "zh": "整體的",
+          "systemKey": "overall",
+          "origin": "system-word"
+        },
+        {
+          "term": "amount",
+          "pos": "n.",
+          "zh": "數量",
+          "systemKey": "amount",
+          "origin": "system-word"
+        },
+        {
+          "term": "direct",
+          "pos": "adj.",
+          "zh": "直接的",
+          "systemKey": "direct",
+          "origin": "system-word"
+        },
+        {
+          "term": "present",
+          "pos": "v.",
+          "zh": "展現",
+          "systemKey": "present",
+          "origin": "system-word"
+        },
+        {
+          "term": "genuine",
+          "pos": "adj.",
+          "zh": "真正的",
+          "systemKey": "genuine",
+          "origin": "system-word"
+        },
+        {
+          "term": "polish",
+          "pos": "v.",
+          "zh": "修飾；潤飾",
+          "systemKey": "polish",
+          "origin": "system-word"
+        },
+        {
+          "term": "likely",
+          "pos": "adj.",
+          "zh": "可能的",
+          "systemKey": "likely",
+          "origin": "system-word"
+        },
+        {
+          "term": "severe",
+          "pos": "adj.",
+          "zh": "嚴重的",
+          "systemKey": "severe",
+          "origin": "system-word"
+        },
+        {
+          "term": "in order to V",
+          "pos": "phr.",
+          "zh": "為了……",
+          "systemPhrase": "in order to",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "social interaction",
+          "pos": "phr.",
+          "zh": "社交互動",
+          "origin": "handout"
+        }
+      ]
+    },
+    {
+      "id": "A5",
+      "articleNumber": 5,
+      "title": "Jenga From Family Game to Global Hit",
+      "entries": [
+        {
+          "term": "arrange",
+          "pos": "v.",
+          "zh": "排列；安排",
+          "systemKey": "arrange",
+          "origin": "system-word"
+        },
+        {
+          "term": "arrangement",
+          "pos": "n.",
+          "zh": "排列；安排",
+          "systemKey": "arrangement",
+          "origin": "system-word"
+        },
+        {
+          "term": "stable",
+          "pos": "adj.",
+          "zh": "穩定的",
+          "systemKey": "stable",
+          "origin": "system-word"
+        },
+        {
+          "term": "stability",
+          "pos": "n.",
+          "zh": "穩定性",
+          "systemKey": "stability",
+          "origin": "system-word"
+        },
+        {
+          "term": "unstable",
+          "pos": "adj.",
+          "zh": "不穩定的",
+          "systemKey": "unstable",
+          "origin": "system-word"
+        },
+        {
+          "term": "excite",
+          "pos": "v.",
+          "zh": "使興奮",
+          "systemKey": "excite",
+          "origin": "system-word"
+        },
+        {
+          "term": "exciting",
+          "pos": "adj.",
+          "zh": "令人興奮的",
+          "systemKey": "exciting",
+          "origin": "system-word"
+        },
+        {
+          "term": "excited",
+          "pos": "adj.",
+          "zh": "感到興奮的",
+          "systemKey": "excited",
+          "origin": "system-word"
+        },
+        {
+          "term": "excitement",
+          "pos": "n.",
+          "zh": "興奮",
+          "systemKey": "excitement",
+          "origin": "system-word"
+        },
+        {
+          "term": "structure",
+          "pos": "n.",
+          "zh": "結構",
+          "systemKey": "structure",
+          "origin": "system-word"
+        },
+        {
+          "term": "structural",
+          "pos": "adj.",
+          "zh": "結構的",
+          "systemKey": "structural",
+          "origin": "system-word"
+        },
+        {
+          "term": "Jenga",
+          "pos": "n.",
+          "zh": "疊疊樂",
+          "origin": "handout"
+        },
+        {
+          "term": "strategy",
+          "pos": "n.",
+          "zh": "策略",
+          "systemKey": "strategy",
+          "origin": "system-word"
+        },
+        {
+          "term": "wooden block",
+          "pos": "phr.",
+          "zh": "木塊",
+          "origin": "handout"
+        },
+        {
+          "term": "tower",
+          "pos": "n.",
+          "zh": "塔",
+          "systemKey": "tower",
+          "origin": "system-word"
+        },
+        {
+          "term": "remove",
+          "pos": "v.",
+          "zh": "移除",
+          "systemKey": "remove",
+          "origin": "system-word"
+        },
+        {
+          "term": "except",
+          "pos": "prep.",
+          "zh": "除了……以外",
+          "systemKey": "except",
+          "origin": "system-word"
+        },
+        {
+          "term": "incomplete",
+          "pos": "adj.",
+          "zh": "不完整的",
+          "systemKey": "incomplete",
+          "origin": "system-word"
+        },
+        {
+          "term": "level",
+          "pos": "n.",
+          "zh": "層",
+          "systemKey": "level",
+          "origin": "system-word"
+        },
+        {
+          "term": "place",
+          "pos": "v.",
+          "zh": "放置",
+          "systemKey": "place",
+          "origin": "system-word"
+        },
+        {
+          "term": "move",
+          "pos": "n.",
+          "zh": "一步；一次移動",
+          "systemKey": "move",
+          "origin": "system-word"
+        },
+        {
+          "term": "crash",
+          "pos": "n.",
+          "zh": "倒塌；碰撞",
+          "systemKey": "crash",
+          "origin": "system-word"
+        },
+        {
+          "term": "round",
+          "pos": "n.",
+          "zh": "一局",
+          "systemKey": "round",
+          "origin": "system-word"
+        },
+        {
+          "term": "There is a catch.",
+          "pos": "phr.",
+          "zh": "其中有個限制／玄機",
+          "origin": "handout"
+        },
+        {
+          "term": "at a time",
+          "pos": "phr.",
+          "zh": "每次",
+          "origin": "handout"
+        },
+        {
+          "term": "invent",
+          "pos": "v.",
+          "zh": "發明",
+          "systemKey": "invent",
+          "origin": "system-word"
+        },
+        {
+          "term": "invention",
+          "pos": "n.",
+          "zh": "發明",
+          "systemKey": "invention",
+          "origin": "system-word"
+        },
+        {
+          "term": "inventor",
+          "pos": "n.",
+          "zh": "發明者",
+          "systemKey": "inventor",
+          "origin": "system-word"
+        },
+        {
+          "term": "inspire",
+          "pos": "v.",
+          "zh": "啟發",
+          "systemKey": "inspire",
+          "origin": "system-word"
+        },
+        {
+          "term": "inspiration",
+          "pos": "n.",
+          "zh": "靈感；啟發",
+          "systemKey": "inspiration",
+          "origin": "system-word"
+        },
+        {
+          "term": "develop",
+          "pos": "v.",
+          "zh": "發展",
+          "systemKey": "develop",
+          "origin": "system-word"
+        },
+        {
+          "term": "development",
+          "pos": "n.",
+          "zh": "發展",
+          "systemKey": "development",
+          "origin": "system-word"
+        },
+        {
+          "term": "developed",
+          "pos": "adj.",
+          "zh": "已開發的",
+          "origin": "handout"
+        },
+        {
+          "term": "developing",
+          "pos": "adj.",
+          "zh": "發展中的",
+          "origin": "handout"
+        },
+        {
+          "term": "introduce",
+          "pos": "v.",
+          "zh": "引進；介紹",
+          "systemKey": "introduce",
+          "origin": "system-word"
+        },
+        {
+          "term": "introduction",
+          "pos": "n.",
+          "zh": "介紹",
+          "systemKey": "introduction",
+          "origin": "system-word"
+        },
+        {
+          "term": "stack",
+          "pos": "v.",
+          "zh": "堆疊",
+          "systemKey": "stack",
+          "origin": "system-word"
+        },
+        {
+          "term": "spread",
+          "pos": "v.",
+          "zh": "傳播",
+          "systemKey": "spread",
+          "origin": "system-word"
+        },
+        {
+          "term": "global",
+          "pos": "adj.",
+          "zh": "全球的",
+          "systemKey": "global",
+          "origin": "system-word"
+        },
+        {
+          "term": "hit",
+          "pos": "n.",
+          "zh": "大受歡迎的事物",
+          "systemKey": "hit",
+          "origin": "system-word"
+        },
+        {
+          "term": "East Africa",
+          "pos": "phr.",
+          "zh": "東非",
+          "origin": "handout"
+        },
+        {
+          "term": "Swahili",
+          "pos": "n.",
+          "zh": "斯瓦希里語",
+          "origin": "handout"
+        },
+        {
+          "term": "grow up",
+          "pos": "phr.",
+          "zh": "成長",
+          "systemPhrase": "grow up",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "come from",
+          "pos": "phr.",
+          "zh": "源自",
+          "systemPhrase": "come from",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "department store",
+          "pos": "phr.",
+          "zh": "百貨公司",
+          "origin": "handout"
+        },
+        {
+          "term": "vary",
+          "pos": "v.",
+          "zh": "改變；各有不同",
+          "systemKey": "vary",
+          "origin": "system-word"
+        },
+        {
+          "term": "various",
+          "pos": "adj.",
+          "zh": "各種的",
+          "systemKey": "various",
+          "origin": "system-word"
+        },
+        {
+          "term": "variety",
+          "pos": "n.",
+          "zh": "多樣性；種類",
+          "systemKey": "variety",
+          "origin": "system-word"
+        },
+        {
+          "term": "variation",
+          "pos": "n.",
+          "zh": "變化",
+          "systemKey": "variation",
+          "origin": "system-word"
+        },
+        {
+          "term": "instruct",
+          "pos": "v.",
+          "zh": "指示",
+          "systemKey": "instruct",
+          "origin": "system-word"
+        },
+        {
+          "term": "instruction",
+          "pos": "n.",
+          "zh": "指示；教學",
+          "systemKey": "instruction",
+          "origin": "system-word"
+        },
+        {
+          "term": "instructor",
+          "pos": "n.",
+          "zh": "指導者",
+          "systemKey": "instructor",
+          "origin": "system-word"
+        },
+        {
+          "term": "entertain",
+          "pos": "v.",
+          "zh": "娛樂",
+          "systemKey": "entertain",
+          "origin": "system-word"
+        },
+        {
+          "term": "entertainment",
+          "pos": "n.",
+          "zh": "娛樂",
+          "systemKey": "entertainment",
+          "origin": "system-word"
+        },
+        {
+          "term": "entertaining",
+          "pos": "adj.",
+          "zh": "有趣的",
+          "origin": "handout"
+        },
+        {
+          "term": "version",
+          "pos": "n.",
+          "zh": "版本",
+          "systemKey": "version",
+          "origin": "system-word"
+        },
+        {
+          "term": "extra",
+          "pos": "adj.",
+          "zh": "額外的",
+          "systemKey": "extra",
+          "origin": "system-word"
+        },
+        {
+          "term": "classic",
+          "pos": "adj.",
+          "zh": "經典的",
+          "systemKey": "classic",
+          "origin": "system-word"
+        },
+        {
+          "term": "die",
+          "pos": "n.",
+          "zh": "骰子（複數為 dice）",
+          "systemKey": "die",
+          "origin": "system-word"
+        },
+        {
+          "term": "playful twist",
+          "pos": "phr.",
+          "zh": "有趣的新變化",
+          "origin": "handout"
+        },
+        {
+          "term": "truth or dare",
+          "pos": "phr.",
+          "zh": "真心話大冒險",
+          "origin": "handout"
+        },
+        {
+          "term": "challenge",
+          "pos": "n.",
+          "zh": "挑戰",
+          "systemKey": "challenge",
+          "origin": "system-word"
+        },
+        {
+          "term": "digital",
+          "pos": "adj.",
+          "zh": "數位的",
+          "systemKey": "digital",
+          "origin": "system-word"
+        },
+        {
+          "term": "available",
+          "pos": "adj.",
+          "zh": "可取得的；可使用的",
+          "systemKey": "available",
+          "origin": "system-word"
+        },
+        {
+          "term": "mobile device",
+          "pos": "phr.",
+          "zh": "行動裝置",
+          "origin": "handout"
+        },
+        {
+          "term": "tiny",
+          "pos": "adj.",
+          "zh": "極小的",
+          "systemKey": "tiny",
+          "origin": "system-word"
+        },
+        {
+          "term": "travel edition",
+          "pos": "phr.",
+          "zh": "旅行版",
+          "origin": "handout"
+        },
+        {
+          "term": "giant",
+          "pos": "adj.",
+          "zh": "巨大的",
+          "systemKey": "giant",
+          "origin": "system-word"
+        },
+        {
+          "term": "deliver",
+          "pos": "v.",
+          "zh": "帶來；傳遞",
+          "systemKey": "deliver",
+          "origin": "system-word"
+        },
+        {
+          "term": "edge-of-your-seat",
+          "pos": "adj.",
+          "zh": "令人緊張興奮的",
+          "origin": "handout"
+        },
+        {
+          "term": "go digital",
+          "pos": "phr.",
+          "zh": "數位化",
+          "origin": "handout"
+        },
+        {
+          "term": "try out",
+          "pos": "phr.",
+          "zh": "試試看",
+          "systemPhrase": "try out",
+          "origin": "system-phrase"
+        }
+      ]
+    },
+    {
+      "id": "A10",
+      "articleNumber": 10,
+      "title": "Volunteering at a Hospital",
+      "entries": [
+        {
+          "term": "volunteer",
+          "pos": "n./v.",
+          "zh": "志工；志願服務",
+          "systemKey": "volunteer",
+          "origin": "system-word"
+        },
+        {
+          "term": "voluntary",
+          "pos": "adj.",
+          "zh": "自願的",
+          "systemKey": "voluntary",
+          "origin": "system-word"
+        },
+        {
+          "term": "voluntarily",
+          "pos": "adv.",
+          "zh": "自願地",
+          "systemKey": "voluntarily",
+          "origin": "system-word"
+        },
+        {
+          "term": "reward",
+          "pos": "n./v.",
+          "zh": "獎勵；報酬",
+          "systemKey": "reward",
+          "origin": "system-word"
+        },
+        {
+          "term": "rewarding",
+          "pos": "adj.",
+          "zh": "有成就感的；值得做的",
+          "origin": "handout"
+        },
+        {
+          "term": "assist",
+          "pos": "v.",
+          "zh": "協助",
+          "systemKey": "assist",
+          "origin": "system-word"
+        },
+        {
+          "term": "assistance",
+          "pos": "n.",
+          "zh": "協助",
+          "systemKey": "assistance",
+          "origin": "system-word"
+        },
+        {
+          "term": "assistant",
+          "pos": "n.",
+          "zh": "助手",
+          "systemKey": "assistant",
+          "origin": "system-word"
+        },
+        {
+          "term": "medicine",
+          "pos": "n.",
+          "zh": "醫學；藥物",
+          "systemKey": "medicine",
+          "origin": "system-word"
+        },
+        {
+          "term": "medical",
+          "pos": "adj.",
+          "zh": "醫療的",
+          "systemKey": "medical",
+          "origin": "system-word"
+        },
+        {
+          "term": "administer",
+          "pos": "v.",
+          "zh": "管理",
+          "systemKey": "administer",
+          "origin": "system-word"
+        },
+        {
+          "term": "administration",
+          "pos": "n.",
+          "zh": "行政管理",
+          "systemKey": "administration",
+          "origin": "system-word"
+        },
+        {
+          "term": "administrative",
+          "pos": "adj.",
+          "zh": "行政的",
+          "systemKey": "administrative",
+          "origin": "system-word"
+        },
+        {
+          "term": "surgery",
+          "pos": "n.",
+          "zh": "手術",
+          "systemKey": "surgery",
+          "origin": "system-word"
+        },
+        {
+          "term": "surgeon",
+          "pos": "n.",
+          "zh": "外科醫師",
+          "systemKey": "surgeon",
+          "origin": "system-word"
+        },
+        {
+          "term": "surgical",
+          "pos": "adj.",
+          "zh": "外科手術的",
+          "systemKey": "surgical",
+          "origin": "system-word"
+        },
+        {
+          "term": "experience",
+          "pos": "n.",
+          "zh": "經驗",
+          "systemKey": "experience",
+          "origin": "system-word"
+        },
+        {
+          "term": "patient",
+          "pos": "n.",
+          "zh": "病人",
+          "systemKey": "patient",
+          "origin": "system-word"
+        },
+        {
+          "term": "staff",
+          "pos": "n.",
+          "zh": "全體職員",
+          "systemKey": "staff",
+          "origin": "system-word"
+        },
+        {
+          "term": "task",
+          "pos": "n.",
+          "zh": "工作；任務",
+          "systemKey": "task",
+          "origin": "system-word"
+        },
+        {
+          "term": "medical training",
+          "pos": "phr.",
+          "zh": "醫療訓練",
+          "origin": "handout"
+        },
+        {
+          "term": "administrative task",
+          "pos": "phr.",
+          "zh": "行政工作",
+          "origin": "handout"
+        },
+        {
+          "term": "be interested in",
+          "pos": "phr.",
+          "zh": "對……有興趣",
+          "systemPhrase": "be interested in",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "receive",
+          "pos": "v.",
+          "zh": "接收；收到",
+          "systemKey": "receive",
+          "origin": "system-word"
+        },
+        {
+          "term": "reception",
+          "pos": "n.",
+          "zh": "接待；接收",
+          "systemKey": "reception",
+          "origin": "system-word"
+        },
+        {
+          "term": "receptionist",
+          "pos": "n.",
+          "zh": "接待員",
+          "origin": "handout"
+        },
+        {
+          "term": "deliver",
+          "pos": "v.",
+          "zh": "遞送",
+          "systemKey": "deliver",
+          "origin": "system-word"
+        },
+        {
+          "term": "delivery",
+          "pos": "n.",
+          "zh": "遞送",
+          "systemKey": "delivery",
+          "origin": "system-word"
+        },
+        {
+          "term": "physical",
+          "pos": "adj.",
+          "zh": "身體的",
+          "systemKey": "physical",
+          "origin": "system-word"
+        },
+        {
+          "term": "physically",
+          "pos": "adv.",
+          "zh": "在身體上",
+          "systemKey": "physically",
+          "origin": "system-word"
+        },
+        {
+          "term": "train",
+          "pos": "v.",
+          "zh": "訓練",
+          "systemKey": "train",
+          "origin": "system-word"
+        },
+        {
+          "term": "training",
+          "pos": "n.",
+          "zh": "訓練",
+          "systemKey": "training",
+          "origin": "system-word"
+        },
+        {
+          "term": "trainer",
+          "pos": "n.",
+          "zh": "訓練員",
+          "systemKey": "trainer",
+          "origin": "system-word"
+        },
+        {
+          "term": "trainee",
+          "pos": "n.",
+          "zh": "受訓者",
+          "origin": "handout"
+        },
+        {
+          "term": "employ",
+          "pos": "v.",
+          "zh": "僱用",
+          "systemKey": "employ",
+          "origin": "system-word"
+        },
+        {
+          "term": "employer",
+          "pos": "n.",
+          "zh": "雇主",
+          "systemKey": "employer",
+          "origin": "system-word"
+        },
+        {
+          "term": "employee",
+          "pos": "n.",
+          "zh": "員工",
+          "systemKey": "employee",
+          "origin": "system-word"
+        },
+        {
+          "term": "interview",
+          "pos": "v.",
+          "zh": "面試；訪談",
+          "systemKey": "interview",
+          "origin": "system-word"
+        },
+        {
+          "term": "interviewer",
+          "pos": "n.",
+          "zh": "面試官；訪問者",
+          "systemKey": "interviewer",
+          "origin": "system-word"
+        },
+        {
+          "term": "interviewee",
+          "pos": "n.",
+          "zh": "應試者；受訪者",
+          "origin": "handout"
+        },
+        {
+          "term": "examine",
+          "pos": "v.",
+          "zh": "考試；檢查",
+          "systemKey": "examine",
+          "origin": "system-word"
+        },
+        {
+          "term": "examiner",
+          "pos": "n.",
+          "zh": "主考官；檢查者",
+          "systemKey": "examiner",
+          "origin": "system-word"
+        },
+        {
+          "term": "examinee",
+          "pos": "n.",
+          "zh": "應試者；受檢者",
+          "systemKey": "examinee",
+          "origin": "system-word"
+        },
+        {
+          "term": "medical experience",
+          "pos": "phr.",
+          "zh": "醫療經驗",
+          "origin": "handout"
+        },
+        {
+          "term": "physically challenged",
+          "pos": "adj.",
+          "zh": "身體有障礙的；行動不便的",
+          "origin": "handout"
+        },
+        {
+          "term": "direction",
+          "pos": "n.",
+          "zh": "方向；指示",
+          "systemKey": "direction",
+          "origin": "system-word"
+        },
+        {
+          "term": "reception area",
+          "pos": "phr.",
+          "zh": "接待區",
+          "origin": "handout"
+        },
+        {
+          "term": "receive training",
+          "pos": "phr.",
+          "zh": "接受訓練",
+          "origin": "handout"
+        },
+        {
+          "term": "give directions",
+          "pos": "phr.",
+          "zh": "指路",
+          "origin": "handout"
+        },
+        {
+          "term": "benefit",
+          "pos": "n./v.",
+          "zh": "好處；使受益",
+          "systemKey": "benefit",
+          "origin": "system-word"
+        },
+        {
+          "term": "beneficial",
+          "pos": "adj.",
+          "zh": "有益的",
+          "systemKey": "beneficial",
+          "origin": "system-word"
+        },
+        {
+          "term": "mean",
+          "pos": "v.",
+          "zh": "意指",
+          "systemKey": "mean",
+          "origin": "system-word"
+        },
+        {
+          "term": "meaning",
+          "pos": "n.",
+          "zh": "意義",
+          "systemKey": "meaning",
+          "origin": "system-word"
+        },
+        {
+          "term": "meaningful",
+          "pos": "adj.",
+          "zh": "有意義的",
+          "systemKey": "meaningful",
+          "origin": "system-word"
+        },
+        {
+          "term": "meaningless",
+          "pos": "adj.",
+          "zh": "無意義的",
+          "systemKey": "meaningless",
+          "origin": "system-word"
+        },
+        {
+          "term": "connect",
+          "pos": "v.",
+          "zh": "連接；建立聯繫",
+          "systemKey": "connect",
+          "origin": "system-word"
+        },
+        {
+          "term": "connection",
+          "pos": "n.",
+          "zh": "聯繫；關係",
+          "systemKey": "connection",
+          "origin": "system-word"
+        },
+        {
+          "term": "translate",
+          "pos": "v.",
+          "zh": "翻譯；轉化",
+          "systemKey": "translate",
+          "origin": "system-word"
+        },
+        {
+          "term": "translation",
+          "pos": "n.",
+          "zh": "翻譯；轉化",
+          "systemKey": "translation",
+          "origin": "system-word"
+        },
+        {
+          "term": "translator",
+          "pos": "n.",
+          "zh": "譯者",
+          "systemKey": "translator",
+          "origin": "system-word"
+        },
+        {
+          "term": "friendship",
+          "pos": "n.",
+          "zh": "友誼",
+          "systemKey": "friendship",
+          "origin": "system-word"
+        },
+        {
+          "term": "career",
+          "pos": "n.",
+          "zh": "職涯",
+          "systemKey": "career",
+          "origin": "system-word"
+        },
+        {
+          "term": "opportunity",
+          "pos": "n.",
+          "zh": "機會",
+          "systemKey": "opportunity",
+          "origin": "system-word"
+        },
+        {
+          "term": "health care",
+          "pos": "phr.",
+          "zh": "醫療保健",
+          "origin": "handout"
+        },
+        {
+          "term": "make connections",
+          "pos": "phr.",
+          "zh": "建立聯繫",
+          "origin": "handout"
+        },
+        {
+          "term": "turn into",
+          "pos": "phr.",
+          "zh": "變成",
+          "systemPhrase": "turn into",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "translate into",
+          "pos": "phr.",
+          "zh": "轉化為；帶來",
+          "origin": "handout"
+        },
+        {
+          "term": "depress",
+          "pos": "v.",
+          "zh": "使沮喪",
+          "systemKey": "depress",
+          "origin": "system-word"
+        },
+        {
+          "term": "depressed",
+          "pos": "adj.",
+          "zh": "沮喪的",
+          "origin": "handout"
+        },
+        {
+          "term": "depression",
+          "pos": "n.",
+          "zh": "憂鬱；蕭條",
+          "systemKey": "depression",
+          "origin": "system-word"
+        },
+        {
+          "term": "create",
+          "pos": "v.",
+          "zh": "創造",
+          "systemKey": "create",
+          "origin": "system-word"
+        },
+        {
+          "term": "creation",
+          "pos": "n.",
+          "zh": "創造；作品",
+          "systemKey": "creation",
+          "origin": "system-word"
+        },
+        {
+          "term": "creative",
+          "pos": "adj.",
+          "zh": "有創意的",
+          "systemKey": "creative",
+          "origin": "system-word"
+        },
+        {
+          "term": "creativity",
+          "pos": "n.",
+          "zh": "創造力",
+          "systemKey": "creativity",
+          "origin": "system-word"
+        },
+        {
+          "term": "mental",
+          "pos": "adj.",
+          "zh": "心理的；心智的",
+          "systemKey": "mental",
+          "origin": "system-word"
+        },
+        {
+          "term": "mentally",
+          "pos": "adv.",
+          "zh": "在心理上；在心智上",
+          "systemKey": "mentally",
+          "origin": "system-word"
+        },
+        {
+          "term": "physical health",
+          "pos": "phr.",
+          "zh": "身體健康",
+          "origin": "handout"
+        },
+        {
+          "term": "lessen",
+          "pos": "v.",
+          "zh": "減輕",
+          "systemKey": "lessen",
+          "origin": "system-word"
+        },
+        {
+          "term": "symptom",
+          "pos": "n.",
+          "zh": "症狀",
+          "systemKey": "symptom",
+          "origin": "system-word"
+        },
+        {
+          "term": "heart disease",
+          "pos": "phr.",
+          "zh": "心臟疾病",
+          "origin": "handout"
+        },
+        {
+          "term": "access",
+          "pos": "n.",
+          "zh": "使用的機會或權利",
+          "systemKey": "access",
+          "origin": "system-word"
+        },
+        {
+          "term": "equipment",
+          "pos": "n.",
+          "zh": "器材；設備",
+          "systemKey": "equipment",
+          "origin": "system-word"
+        },
+        {
+          "term": "such as",
+          "pos": "phr.",
+          "zh": "例如",
+          "systemPhrase": "such as",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "access to",
+          "pos": "phr.",
+          "zh": "使用……的機會／權利",
+          "origin": "handout"
+        }
+      ]
+    },
+    {
+      "id": "A11",
+      "articleNumber": 11,
+      "title": "How Humans Learned to Use Fire",
+      "entries": [
+        {
+          "term": "nature",
+          "pos": "n.",
+          "zh": "自然；本質",
+          "systemKey": "nature",
+          "origin": "system-word"
+        },
+        {
+          "term": "natural",
+          "pos": "adj.",
+          "zh": "自然的",
+          "systemKey": "natural",
+          "origin": "system-word"
+        },
+        {
+          "term": "naturally",
+          "pos": "adv.",
+          "zh": "自然地",
+          "systemKey": "naturally",
+          "origin": "system-word"
+        },
+        {
+          "term": "believe",
+          "pos": "v.",
+          "zh": "相信",
+          "systemKey": "believe",
+          "origin": "system-word"
+        },
+        {
+          "term": "belief",
+          "pos": "n.",
+          "zh": "信念",
+          "systemKey": "belief",
+          "origin": "system-word"
+        },
+        {
+          "term": "invent",
+          "pos": "v.",
+          "zh": "發明",
+          "systemKey": "invent",
+          "origin": "system-word"
+        },
+        {
+          "term": "invention",
+          "pos": "n.",
+          "zh": "發明；發明物",
+          "systemKey": "invention",
+          "origin": "system-word"
+        },
+        {
+          "term": "inventor",
+          "pos": "n.",
+          "zh": "發明家",
+          "systemKey": "inventor",
+          "origin": "system-word"
+        },
+        {
+          "term": "occur",
+          "pos": "v.",
+          "zh": "發生",
+          "systemKey": "occur",
+          "origin": "system-word"
+        },
+        {
+          "term": "occurrence",
+          "pos": "n.",
+          "zh": "發生；發生的事",
+          "systemKey": "occurrence",
+          "origin": "system-word"
+        },
+        {
+          "term": "creature",
+          "pos": "n.",
+          "zh": "生物",
+          "systemKey": "creature",
+          "origin": "system-word"
+        },
+        {
+          "term": "human",
+          "pos": "n./adj.",
+          "zh": "人類；人類的",
+          "systemKey": "human",
+          "origin": "system-word"
+        },
+        {
+          "term": "on Earth",
+          "pos": "phr.",
+          "zh": "在地球上",
+          "origin": "handout"
+        },
+        {
+          "term": "responsible",
+          "pos": "adj.",
+          "zh": "負責的；造成……的",
+          "systemKey": "responsible",
+          "origin": "system-word"
+        },
+        {
+          "term": "responsibility",
+          "pos": "n.",
+          "zh": "責任",
+          "systemKey": "responsibility",
+          "origin": "system-word"
+        },
+        {
+          "term": "require",
+          "pos": "v.",
+          "zh": "需要；要求",
+          "systemKey": "require",
+          "origin": "system-word"
+        },
+        {
+          "term": "requirement",
+          "pos": "n.",
+          "zh": "必要條件；要求",
+          "systemKey": "requirement",
+          "origin": "system-word"
+        },
+        {
+          "term": "element",
+          "pos": "n.",
+          "zh": "要素",
+          "systemKey": "element",
+          "origin": "system-word"
+        },
+        {
+          "term": "fuel",
+          "pos": "n.",
+          "zh": "燃料",
+          "systemKey": "fuel",
+          "origin": "system-word"
+        },
+        {
+          "term": "oxygen",
+          "pos": "n.",
+          "zh": "氧氣",
+          "systemKey": "oxygen",
+          "origin": "system-word"
+        },
+        {
+          "term": "heat source",
+          "pos": "phr.",
+          "zh": "熱源",
+          "origin": "handout"
+        },
+        {
+          "term": "atmosphere",
+          "pos": "n.",
+          "zh": "大氣層",
+          "systemKey": "atmosphere",
+          "origin": "system-word"
+        },
+        {
+          "term": "level",
+          "pos": "n.",
+          "zh": "含量；程度",
+          "systemKey": "level",
+          "origin": "system-word"
+        },
+        {
+          "term": "lightning strike",
+          "pos": "phr.",
+          "zh": "雷擊",
+          "origin": "handout"
+        },
+        {
+          "term": "serve as",
+          "pos": "phr.",
+          "zh": "作為……",
+          "systemPhrase": "serve as",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "as for",
+          "pos": "phr.",
+          "zh": "至於",
+          "systemPhrase": "as for",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "be responsible for",
+          "pos": "phr.",
+          "zh": "造成……；對……負責",
+          "systemPhrase": "be responsible for",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "interact",
+          "pos": "v.",
+          "zh": "互動",
+          "systemKey": "interact",
+          "origin": "system-word"
+        },
+        {
+          "term": "interaction",
+          "pos": "n.",
+          "zh": "互動",
+          "systemKey": "interaction",
+          "origin": "system-word"
+        },
+        {
+          "term": "interactive",
+          "pos": "adj.",
+          "zh": "互動式的",
+          "origin": "handout"
+        },
+        {
+          "term": "collect",
+          "pos": "v.",
+          "zh": "收集",
+          "systemKey": "collect",
+          "origin": "system-word"
+        },
+        {
+          "term": "collection",
+          "pos": "n.",
+          "zh": "收集物；收藏",
+          "systemKey": "collection",
+          "origin": "system-word"
+        },
+        {
+          "term": "collector",
+          "pos": "n.",
+          "zh": "收藏家",
+          "systemKey": "collector",
+          "origin": "system-word"
+        },
+        {
+          "term": "prey",
+          "pos": "n.",
+          "zh": "獵物　(v.) 捕食",
+          "systemKey": "prey",
+          "origin": "system-word"
+        },
+        {
+          "term": "predator",
+          "pos": "n.",
+          "zh": "掠食者",
+          "systemKey": "predator",
+          "origin": "system-word"
+        },
+        {
+          "term": "predatory",
+          "pos": "adj.",
+          "zh": "掠食性的",
+          "origin": "handout"
+        },
+        {
+          "term": "lightning",
+          "pos": "n.",
+          "zh": "閃電",
+          "systemKey": "lightning",
+          "origin": "system-word"
+        },
+        {
+          "term": "strike",
+          "pos": "v.",
+          "zh": "擊中（過去式／過去分詞為 struck）",
+          "systemKey": "strike",
+          "origin": "system-word"
+        },
+        {
+          "term": "flame",
+          "pos": "n.",
+          "zh": "火焰",
+          "systemKey": "flame",
+          "origin": "system-word"
+        },
+        {
+          "term": "hunt",
+          "pos": "v.",
+          "zh": "狩獵",
+          "systemKey": "hunt",
+          "origin": "system-word"
+        },
+        {
+          "term": "insect",
+          "pos": "n.",
+          "zh": "昆蟲",
+          "systemKey": "insect",
+          "origin": "system-word"
+        },
+        {
+          "term": "catch fire",
+          "pos": "phr.",
+          "zh": "起火",
+          "systemKey": "catch fire",
+          "origin": "system-word"
+        },
+        {
+          "term": "take advantage of",
+          "pos": "phr.",
+          "zh": "利用……",
+          "systemKey": "take advantage of",
+          "origin": "system-word"
+        },
+        {
+          "term": "fight off",
+          "pos": "phr.",
+          "zh": "擊退",
+          "origin": "handout"
+        },
+        {
+          "term": "keep ... away",
+          "pos": "phr.",
+          "zh": "使……遠離",
+          "origin": "handout"
+        },
+        {
+          "term": "suggest",
+          "pos": "v.",
+          "zh": "顯示；建議",
+          "systemKey": "suggest",
+          "origin": "system-word"
+        },
+        {
+          "term": "suggestion",
+          "pos": "n.",
+          "zh": "建議",
+          "systemKey": "suggestion",
+          "origin": "system-word"
+        },
+        {
+          "term": "evidence",
+          "pos": "n.",
+          "zh": "證據",
+          "systemKey": "evidence",
+          "origin": "system-word"
+        },
+        {
+          "term": "evident",
+          "pos": "adj.",
+          "zh": "明顯的",
+          "systemKey": "evident",
+          "origin": "system-word"
+        },
+        {
+          "term": "evidently",
+          "pos": "adv.",
+          "zh": "顯然地",
+          "systemKey": "evidently",
+          "origin": "system-word"
+        },
+        {
+          "term": "use",
+          "pos": "v./n.",
+          "zh": "使用；用途",
+          "systemKey": "use",
+          "origin": "system-word"
+        },
+        {
+          "term": "useful",
+          "pos": "adj.",
+          "zh": "有用的",
+          "systemKey": "useful",
+          "origin": "system-word"
+        },
+        {
+          "term": "useless",
+          "pos": "adj.",
+          "zh": "無用的",
+          "systemKey": "useless",
+          "origin": "system-word"
+        },
+        {
+          "term": "usable",
+          "pos": "adj.",
+          "zh": "可使用的",
+          "systemKey": "usable",
+          "origin": "system-word"
+        },
+        {
+          "term": "reuse",
+          "pos": "v.",
+          "zh": "再次使用",
+          "origin": "handout"
+        },
+        {
+          "term": "reusable",
+          "pos": "adj.",
+          "zh": "可重複使用的",
+          "origin": "handout"
+        },
+        {
+          "term": "researcher",
+          "pos": "n.",
+          "zh": "研究人員",
+          "systemKey": "researcher",
+          "origin": "system-word"
+        },
+        {
+          "term": "gain",
+          "pos": "v.",
+          "zh": "獲得",
+          "systemKey": "gain",
+          "origin": "system-word"
+        },
+        {
+          "term": "stage",
+          "pos": "n.",
+          "zh": "階段",
+          "systemKey": "stage",
+          "origin": "system-word"
+        },
+        {
+          "term": "concrete",
+          "pos": "adj.",
+          "zh": "確實的；具體的",
+          "systemKey": "concrete",
+          "origin": "system-word"
+        },
+        {
+          "term": "start a fire",
+          "pos": "phr.",
+          "zh": "生火",
+          "origin": "handout"
+        },
+        {
+          "term": "spread",
+          "pos": "v./n.",
+          "zh": "傳播；擴散",
+          "systemKey": "spread",
+          "origin": "system-word"
+        },
+        {
+          "term": "widespread",
+          "pos": "adj.",
+          "zh": "廣泛的",
+          "systemKey": "widespread",
+          "origin": "system-word"
+        },
+        {
+          "term": "regular",
+          "pos": "adj.",
+          "zh": "規律的；經常的",
+          "systemKey": "regular",
+          "origin": "system-word"
+        },
+        {
+          "term": "regularly",
+          "pos": "adv.",
+          "zh": "定期地；經常地",
+          "systemKey": "regularly",
+          "origin": "system-word"
+        },
+        {
+          "term": "likely",
+          "pos": "adv.",
+          "zh": "很可能",
+          "systemKey": "likely",
+          "origin": "system-word"
+        },
+        {
+          "term": "clear",
+          "pos": "v.",
+          "zh": "清除；清理",
+          "systemKey": "clear",
+          "origin": "system-word"
+        },
+        {
+          "term": "plant",
+          "pos": "v.",
+          "zh": "種植",
+          "systemKey": "plant",
+          "origin": "system-word"
+        },
+        {
+          "term": "enemy",
+          "pos": "n.",
+          "zh": "敵人",
+          "systemKey": "enemy",
+          "origin": "system-word"
+        },
+        {
+          "term": "fight against",
+          "pos": "phr.",
+          "zh": "對抗",
+          "systemPhrase": "fight against",
+          "origin": "system-phrase"
+        }
+      ]
+    },
+    {
+      "id": "A12",
+      "articleNumber": 12,
+      "title": "The Rise of Plus Size Fashion",
+      "entries": [
+        {
+          "term": "fashion",
+          "pos": "n.",
+          "zh": "時尚",
+          "systemKey": "fashion",
+          "origin": "system-word"
+        },
+        {
+          "term": "fashionable",
+          "pos": "adj.",
+          "zh": "流行的",
+          "systemKey": "fashionable",
+          "origin": "system-word"
+        },
+        {
+          "term": "imagine",
+          "pos": "v.",
+          "zh": "想像",
+          "systemKey": "imagine",
+          "origin": "system-word"
+        },
+        {
+          "term": "imagination",
+          "pos": "n.",
+          "zh": "想像力",
+          "systemKey": "imagination",
+          "origin": "system-word"
+        },
+        {
+          "term": "imaginative",
+          "pos": "adj.",
+          "zh": "富想像力的",
+          "systemKey": "imaginative",
+          "origin": "system-word"
+        },
+        {
+          "term": "consider",
+          "pos": "v.",
+          "zh": "認為；考慮",
+          "systemKey": "consider",
+          "origin": "system-word"
+        },
+        {
+          "term": "consideration",
+          "pos": "n.",
+          "zh": "考慮",
+          "systemKey": "consideration",
+          "origin": "system-word"
+        },
+        {
+          "term": "considerate",
+          "pos": "adj.",
+          "zh": "體貼的",
+          "systemKey": "considerate",
+          "origin": "system-word"
+        },
+        {
+          "term": "skinny",
+          "pos": "adj.",
+          "zh": "纖瘦的",
+          "systemKey": "skinny",
+          "origin": "system-word"
+        },
+        {
+          "term": "model",
+          "pos": "n.",
+          "zh": "模特兒",
+          "systemKey": "model",
+          "origin": "system-word"
+        },
+        {
+          "term": "trendy",
+          "pos": "adj.",
+          "zh": "流行的",
+          "origin": "handout"
+        },
+        {
+          "term": "plus-size",
+          "pos": "adj.",
+          "zh": "大尺碼的",
+          "origin": "handout"
+        },
+        {
+          "term": "term",
+          "pos": "n.",
+          "zh": "用語；術語",
+          "systemKey": "term",
+          "origin": "system-word"
+        },
+        {
+          "term": "luxury brand",
+          "pos": "phr.",
+          "zh": "奢侈品牌",
+          "origin": "handout"
+        },
+        {
+          "term": "clothes",
+          "pos": "n.",
+          "zh": "衣服（恆用複數）",
+          "systemKey": "clothes",
+          "origin": "system-word"
+        },
+        {
+          "term": "clothing",
+          "pos": "n.",
+          "zh": "衣物（不可數）",
+          "systemKey": "clothing",
+          "origin": "system-word"
+        },
+        {
+          "term": "refer to",
+          "pos": "phr.",
+          "zh": "指的是",
+          "systemPhrase": "refer to",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "specialize",
+          "pos": "v.",
+          "zh": "專攻；專門從事",
+          "systemKey": "specialize",
+          "origin": "system-word"
+        },
+        {
+          "term": "specialist",
+          "pos": "n.",
+          "zh": "專家",
+          "systemKey": "specialist",
+          "origin": "system-word"
+        },
+        {
+          "term": "pregnant",
+          "pos": "adj.",
+          "zh": "懷孕的",
+          "systemKey": "pregnant",
+          "origin": "system-word"
+        },
+        {
+          "term": "pregnancy",
+          "pos": "n.",
+          "zh": "懷孕",
+          "systemKey": "pregnancy",
+          "origin": "system-word"
+        },
+        {
+          "term": "exist",
+          "pos": "v.",
+          "zh": "存在",
+          "systemKey": "exist",
+          "origin": "system-word"
+        },
+        {
+          "term": "existence",
+          "pos": "n.",
+          "zh": "存在",
+          "systemKey": "existence",
+          "origin": "system-word"
+        },
+        {
+          "term": "design",
+          "pos": "v./n.",
+          "zh": "設計",
+          "systemKey": "design",
+          "origin": "system-word"
+        },
+        {
+          "term": "designer",
+          "pos": "n.",
+          "zh": "設計師",
+          "systemKey": "designer",
+          "origin": "system-word"
+        },
+        {
+          "term": "underwear",
+          "pos": "n.",
+          "zh": "內衣",
+          "systemKey": "underwear",
+          "origin": "system-word"
+        },
+        {
+          "term": "research",
+          "pos": "v./n.",
+          "zh": "研究",
+          "systemKey": "research",
+          "origin": "system-word"
+        },
+        {
+          "term": "body type",
+          "pos": "phr.",
+          "zh": "體型",
+          "origin": "handout"
+        },
+        {
+          "term": "specialize in",
+          "pos": "phr.",
+          "zh": "專門經營／從事……",
+          "systemPhrase": "specialize in",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "discriminate",
+          "pos": "v.",
+          "zh": "歧視；區別",
+          "systemKey": "discriminate",
+          "origin": "system-word"
+        },
+        {
+          "term": "discrimination",
+          "pos": "n.",
+          "zh": "歧視",
+          "systemKey": "discrimination",
+          "origin": "system-word"
+        },
+        {
+          "term": "accept",
+          "pos": "v.",
+          "zh": "接受",
+          "systemKey": "accept",
+          "origin": "system-word"
+        },
+        {
+          "term": "acceptance",
+          "pos": "n.",
+          "zh": "接受；認同",
+          "systemKey": "acceptance",
+          "origin": "system-word"
+        },
+        {
+          "term": "move",
+          "pos": "v.",
+          "zh": "移動",
+          "systemKey": "move",
+          "origin": "system-word"
+        },
+        {
+          "term": "movement",
+          "pos": "n.",
+          "zh": "運動；行動",
+          "systemKey": "movement",
+          "origin": "system-word"
+        },
+        {
+          "term": "fat-acceptance movement",
+          "pos": "phr.",
+          "zh": "肥胖接納運動",
+          "origin": "handout"
+        },
+        {
+          "term": "weight",
+          "pos": "n.",
+          "zh": "體重",
+          "systemKey": "weight",
+          "origin": "system-word"
+        },
+        {
+          "term": "effect",
+          "pos": "n.",
+          "zh": "影響",
+          "systemKey": "effect",
+          "origin": "system-word"
+        },
+        {
+          "term": "natural shape",
+          "pos": "phr.",
+          "zh": "自然體態",
+          "origin": "handout"
+        },
+        {
+          "term": "as time went on",
+          "pos": "phr.",
+          "zh": "隨著時間推移",
+          "origin": "handout"
+        },
+        {
+          "term": "have an effect on",
+          "pos": "phr.",
+          "zh": "對……有影響",
+          "systemPhrase": "have an effect on",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "promote",
+          "pos": "v.",
+          "zh": "推廣；促進",
+          "systemKey": "promote",
+          "origin": "system-word"
+        },
+        {
+          "term": "promotion",
+          "pos": "n.",
+          "zh": "推廣；升遷",
+          "systemKey": "promotion",
+          "origin": "system-word"
+        },
+        {
+          "term": "dedicate",
+          "pos": "v.",
+          "zh": "奉獻",
+          "systemKey": "dedicate",
+          "origin": "system-word"
+        },
+        {
+          "term": "dedicated",
+          "pos": "adj.",
+          "zh": "投入的",
+          "origin": "handout"
+        },
+        {
+          "term": "dedication",
+          "pos": "n.",
+          "zh": "奉獻",
+          "systemKey": "dedication",
+          "origin": "system-word"
+        },
+        {
+          "term": "found",
+          "pos": "v.",
+          "zh": "創立",
+          "systemKey": "found",
+          "origin": "system-word"
+        },
+        {
+          "term": "founder",
+          "pos": "n.",
+          "zh": "創辦人",
+          "systemKey": "founder",
+          "origin": "system-word"
+        },
+        {
+          "term": "foundation",
+          "pos": "n.",
+          "zh": "基礎；基金會",
+          "systemKey": "foundation",
+          "origin": "system-word"
+        },
+        {
+          "term": "image",
+          "pos": "n.",
+          "zh": "形象；圖像",
+          "systemKey": "image",
+          "origin": "system-word"
+        },
+        {
+          "term": "community",
+          "pos": "n.",
+          "zh": "社群",
+          "systemKey": "community",
+          "origin": "system-word"
+        },
+        {
+          "term": "provide",
+          "pos": "v.",
+          "zh": "提供",
+          "systemKey": "provide",
+          "origin": "system-word"
+        },
+        {
+          "term": "supermodel",
+          "pos": "n.",
+          "zh": "超級名模",
+          "origin": "handout"
+        },
+        {
+          "term": "comfort",
+          "pos": "n./v.",
+          "zh": "舒適；安慰",
+          "systemKey": "comfort",
+          "origin": "system-word"
+        },
+        {
+          "term": "comfortable",
+          "pos": "adj.",
+          "zh": "舒適的",
+          "systemKey": "comfortable",
+          "origin": "system-word"
+        },
+        {
+          "term": "uncomfortable",
+          "pos": "adj.",
+          "zh": "不舒服的",
+          "systemKey": "uncomfortable",
+          "origin": "system-word"
+        },
+        {
+          "term": "positive",
+          "pos": "adj.",
+          "zh": "正面的；積極的",
+          "systemKey": "positive",
+          "origin": "system-word"
+        },
+        {
+          "term": "positively",
+          "pos": "adv.",
+          "zh": "積極地；肯定地",
+          "systemKey": "positively",
+          "origin": "system-word"
+        },
+        {
+          "term": "positivity",
+          "pos": "n.",
+          "zh": "正面態度",
+          "systemKey": "positivity",
+          "origin": "system-word"
+        },
+        {
+          "term": "spread",
+          "pos": "v.",
+          "zh": "傳播",
+          "systemKey": "spread",
+          "origin": "system-word"
+        },
+        {
+          "term": "fashion show",
+          "pos": "phr.",
+          "zh": "時裝秀",
+          "origin": "handout"
+        },
+        {
+          "term": "event",
+          "pos": "n.",
+          "zh": "活動",
+          "systemKey": "event",
+          "origin": "system-word"
+        },
+        {
+          "term": "hold",
+          "pos": "v.",
+          "zh": "舉辦（過去式／過去分詞為 held）",
+          "systemKey": "hold",
+          "origin": "system-word"
+        },
+        {
+          "term": "body positivity",
+          "pos": "phr.",
+          "zh": "身體正向；接納自身體態",
+          "systemPhrase": "body positivity",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "social media",
+          "pos": "phr.",
+          "zh": "社群媒體",
+          "systemPhrase": "social media",
+          "origin": "system-phrase"
+        }
+      ]
+    },
+    {
+      "id": "A14",
+      "articleNumber": 14,
+      "title": "The Power of the Written Word",
+      "entries": [
+        {
+          "term": "involve",
+          "pos": "v.",
+          "zh": "涉及；使參與",
+          "systemKey": "involve",
+          "origin": "system-word"
+        },
+        {
+          "term": "involvement",
+          "pos": "n.",
+          "zh": "參與",
+          "systemKey": "involvement",
+          "origin": "system-word"
+        },
+        {
+          "term": "violence",
+          "pos": "n.",
+          "zh": "暴力",
+          "systemKey": "violence",
+          "origin": "system-word"
+        },
+        {
+          "term": "violent",
+          "pos": "adj.",
+          "zh": "暴力的",
+          "systemKey": "violent",
+          "origin": "system-word"
+        },
+        {
+          "term": "prevent",
+          "pos": "v.",
+          "zh": "防止",
+          "systemKey": "prevent",
+          "origin": "system-word"
+        },
+        {
+          "term": "prevention",
+          "pos": "n.",
+          "zh": "預防",
+          "systemKey": "prevention",
+          "origin": "system-word"
+        },
+        {
+          "term": "power",
+          "pos": "n.",
+          "zh": "力量；權力",
+          "systemKey": "power",
+          "origin": "system-word"
+        },
+        {
+          "term": "powerful",
+          "pos": "adj.",
+          "zh": "強而有力的",
+          "systemKey": "powerful",
+          "origin": "system-word"
+        },
+        {
+          "term": "aware",
+          "pos": "adj.",
+          "zh": "意識到的",
+          "systemKey": "aware",
+          "origin": "system-word"
+        },
+        {
+          "term": "awareness",
+          "pos": "n.",
+          "zh": "意識",
+          "systemKey": "awareness",
+          "origin": "system-word"
+        },
+        {
+          "term": "unaware",
+          "pos": "adj.",
+          "zh": "未察覺的",
+          "systemKey": "unaware",
+          "origin": "system-word"
+        },
+        {
+          "term": "force",
+          "pos": "n.",
+          "zh": "武力；力量",
+          "systemKey": "force",
+          "origin": "system-word"
+        },
+        {
+          "term": "effective",
+          "pos": "adj.",
+          "zh": "有效的",
+          "systemKey": "effective",
+          "origin": "system-word"
+        },
+        {
+          "term": "action",
+          "pos": "n.",
+          "zh": "行動",
+          "systemKey": "action",
+          "origin": "system-word"
+        },
+        {
+          "term": "written word",
+          "pos": "phr.",
+          "zh": "文字",
+          "origin": "handout"
+        },
+        {
+          "term": "negativity",
+          "pos": "n.",
+          "zh": "負面態度；消極情緒",
+          "systemKey": "negativity",
+          "origin": "system-word"
+        },
+        {
+          "term": "throughout history",
+          "pos": "phr.",
+          "zh": "縱觀歷史",
+          "origin": "handout"
+        },
+        {
+          "term": "raise awareness",
+          "pos": "phr.",
+          "zh": "提高意識",
+          "systemPhrase": "raise awareness",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "in turn",
+          "pos": "phr.",
+          "zh": "進而；接著",
+          "origin": "handout"
+        },
+        {
+          "term": "invent",
+          "pos": "v.",
+          "zh": "發明",
+          "systemKey": "invent",
+          "origin": "system-word"
+        },
+        {
+          "term": "invention",
+          "pos": "n.",
+          "zh": "發明",
+          "systemKey": "invention",
+          "origin": "system-word"
+        },
+        {
+          "term": "inventor",
+          "pos": "n.",
+          "zh": "發明者",
+          "systemKey": "inventor",
+          "origin": "system-word"
+        },
+        {
+          "term": "censor",
+          "pos": "v.",
+          "zh": "審查；封鎖",
+          "origin": "handout"
+        },
+        {
+          "term": "censorship",
+          "pos": "n.",
+          "zh": "審查制度",
+          "origin": "handout"
+        },
+        {
+          "term": "organize",
+          "pos": "v.",
+          "zh": "組織",
+          "systemKey": "organize",
+          "origin": "system-word"
+        },
+        {
+          "term": "organization",
+          "pos": "n.",
+          "zh": "組織",
+          "systemKey": "organization",
+          "origin": "system-word"
+        },
+        {
+          "term": "organized",
+          "pos": "adj.",
+          "zh": "有組織的",
+          "systemKey": "organized",
+          "origin": "system-word"
+        },
+        {
+          "term": "brilliant",
+          "pos": "adj.",
+          "zh": "出色的",
+          "systemKey": "brilliant",
+          "origin": "system-word"
+        },
+        {
+          "term": "unleash",
+          "pos": "v.",
+          "zh": "釋放",
+          "origin": "handout"
+        },
+        {
+          "term": "moveable type",
+          "pos": "phr.",
+          "zh": "活字",
+          "origin": "handout"
+        },
+        {
+          "term": "printing press",
+          "pos": "phr.",
+          "zh": "印刷機",
+          "origin": "handout"
+        },
+        {
+          "term": "access",
+          "pos": "n.",
+          "zh": "使用或取得的機會／權利",
+          "systemKey": "access",
+          "origin": "system-word"
+        },
+        {
+          "term": "knowledge",
+          "pos": "n.",
+          "zh": "知識",
+          "systemKey": "knowledge",
+          "origin": "system-word"
+        },
+        {
+          "term": "unpopular",
+          "pos": "adj.",
+          "zh": "不受歡迎的",
+          "systemKey": "unpopular",
+          "origin": "system-word"
+        },
+        {
+          "term": "church",
+          "pos": "n.",
+          "zh": "教會",
+          "systemKey": "church",
+          "origin": "system-word"
+        },
+        {
+          "term": "movement",
+          "pos": "n.",
+          "zh": "運動",
+          "systemKey": "movement",
+          "origin": "system-word"
+        },
+        {
+          "term": "spark",
+          "pos": "v.",
+          "zh": "引發",
+          "systemKey": "spark",
+          "origin": "system-word"
+        },
+        {
+          "term": "Protestant Reformation",
+          "pos": "phr.",
+          "zh": "新教宗教改革",
+          "origin": "handout"
+        },
+        {
+          "term": "Christianity",
+          "pos": "n.",
+          "zh": "基督宗教",
+          "origin": "handout"
+        },
+        {
+          "term": "come up with",
+          "pos": "phr.",
+          "zh": "想出",
+          "systemPhrase": "come up with",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "at first",
+          "pos": "phr.",
+          "zh": "起初",
+          "systemPhrase": "at first",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "go on to V",
+          "pos": "phr.",
+          "zh": "接著做……",
+          "systemPhrase": "go on to v",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "astronomy",
+          "pos": "n.",
+          "zh": "天文學",
+          "systemKey": "astronomy",
+          "origin": "system-word"
+        },
+        {
+          "term": "astronomer",
+          "pos": "n.",
+          "zh": "天文學家",
+          "systemKey": "astronomer",
+          "origin": "system-word"
+        },
+        {
+          "term": "physics",
+          "pos": "n.",
+          "zh": "物理學",
+          "systemKey": "physics",
+          "origin": "system-word"
+        },
+        {
+          "term": "physicist",
+          "pos": "n.",
+          "zh": "物理學家",
+          "systemKey": "physicist",
+          "origin": "system-word"
+        },
+        {
+          "term": "engineer",
+          "pos": "n.",
+          "zh": "工程師",
+          "systemKey": "engineer",
+          "origin": "system-word"
+        },
+        {
+          "term": "engineering",
+          "pos": "n.",
+          "zh": "工程學",
+          "systemKey": "engineering",
+          "origin": "system-word"
+        },
+        {
+          "term": "prison",
+          "pos": "n.",
+          "zh": "監獄",
+          "systemKey": "prison",
+          "origin": "system-word"
+        },
+        {
+          "term": "prisoner",
+          "pos": "n.",
+          "zh": "囚犯",
+          "systemKey": "prisoner",
+          "origin": "system-word"
+        },
+        {
+          "term": "imprison",
+          "pos": "v.",
+          "zh": "監禁",
+          "systemKey": "imprison",
+          "origin": "system-word"
+        },
+        {
+          "term": "imprisonment",
+          "pos": "n.",
+          "zh": "監禁",
+          "systemKey": "imprisonment",
+          "origin": "system-word"
+        },
+        {
+          "term": "state",
+          "pos": "v./n.",
+          "zh": "陳述；狀態",
+          "systemKey": "state",
+          "origin": "system-word"
+        },
+        {
+          "term": "statement",
+          "pos": "n.",
+          "zh": "陳述",
+          "origin": "handout"
+        },
+        {
+          "term": "master",
+          "pos": "n.",
+          "zh": "大師",
+          "systemKey": "master",
+          "origin": "system-word"
+        },
+        {
+          "term": "universe",
+          "pos": "n.",
+          "zh": "宇宙",
+          "systemKey": "universe",
+          "origin": "system-word"
+        },
+        {
+          "term": "concept",
+          "pos": "n.",
+          "zh": "概念",
+          "systemKey": "concept",
+          "origin": "system-word"
+        },
+        {
+          "term": "worldwide",
+          "pos": "adv.",
+          "zh": "在全世界",
+          "systemKey": "worldwide",
+          "origin": "system-word"
+        },
+        {
+          "term": "be backed by",
+          "pos": "phr.",
+          "zh": "有……支持",
+          "origin": "handout"
+        },
+        {
+          "term": "go against",
+          "pos": "phr.",
+          "zh": "違背",
+          "origin": "handout"
+        },
+        {
+          "term": "live on",
+          "pos": "phr.",
+          "zh": "流傳下去",
+          "systemPhrase": "live on",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "protest",
+          "pos": "n./v.",
+          "zh": "抗議",
+          "systemKey": "protest",
+          "origin": "system-word"
+        },
+        {
+          "term": "protester",
+          "pos": "n.",
+          "zh": "抗議者",
+          "systemKey": "protester",
+          "origin": "system-word"
+        },
+        {
+          "term": "shock",
+          "pos": "v./n.",
+          "zh": "使震驚；震驚",
+          "systemKey": "shock",
+          "origin": "system-word"
+        },
+        {
+          "term": "shocking",
+          "pos": "adj.",
+          "zh": "令人震驚的",
+          "origin": "handout"
+        },
+        {
+          "term": "shocked",
+          "pos": "adj.",
+          "zh": "感到震驚的",
+          "origin": "handout"
+        },
+        {
+          "term": "motivate",
+          "pos": "v.",
+          "zh": "激勵",
+          "systemKey": "motivate",
+          "origin": "system-word"
+        },
+        {
+          "term": "motivation",
+          "pos": "n.",
+          "zh": "動機",
+          "systemKey": "motivation",
+          "origin": "system-word"
+        },
+        {
+          "term": "corrupt",
+          "pos": "adj.",
+          "zh": "腐敗的",
+          "systemKey": "corrupt",
+          "origin": "system-word"
+        },
+        {
+          "term": "corruption",
+          "pos": "n.",
+          "zh": "腐敗",
+          "systemKey": "corruption",
+          "origin": "system-word"
+        },
+        {
+          "term": "just",
+          "pos": "adj.",
+          "zh": "公正的",
+          "systemKey": "just",
+          "origin": "system-word"
+        },
+        {
+          "term": "justice",
+          "pos": "n.",
+          "zh": "正義",
+          "systemKey": "justice",
+          "origin": "system-word"
+        },
+        {
+          "term": "injustice",
+          "pos": "n.",
+          "zh": "不公義",
+          "systemKey": "injustice",
+          "origin": "system-word"
+        },
+        {
+          "term": "poetry",
+          "pos": "n.",
+          "zh": "詩；詩作",
+          "systemKey": "poetry",
+          "origin": "system-word"
+        },
+        {
+          "term": "enrage",
+          "pos": "v.",
+          "zh": "激怒",
+          "origin": "handout"
+        },
+        {
+          "term": "overthrow",
+          "pos": "v.",
+          "zh": "推翻",
+          "systemKey": "overthrow",
+          "origin": "system-word"
+        },
+        {
+          "term": "climate change",
+          "pos": "phr.",
+          "zh": "氣候變遷",
+          "origin": "handout"
+        },
+        {
+          "term": "sexism",
+          "pos": "n.",
+          "zh": "性別歧視",
+          "origin": "handout"
+        },
+        {
+          "term": "racism",
+          "pos": "n.",
+          "zh": "種族歧視",
+          "systemKey": "racism",
+          "origin": "system-word"
+        },
+        {
+          "term": "issue",
+          "pos": "n.",
+          "zh": "議題；問題",
+          "systemKey": "issue",
+          "origin": "system-word"
+        },
+        {
+          "term": "date back to",
+          "pos": "phr.",
+          "zh": "追溯至……",
+          "origin": "handout"
+        },
+        {
+          "term": "take action",
+          "pos": "phr.",
+          "zh": "採取行動",
+          "systemPhrase": "take action",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "speak up",
+          "pos": "phr.",
+          "zh": "公開發聲",
+          "systemPhrase": "speak up",
+          "origin": "system-phrase"
+        }
+      ]
+    },
+    {
+      "id": "A15",
+      "articleNumber": 15,
+      "title": "The Dangers of Sleep Loss",
+      "entries": [
+        {
+          "term": "weak",
+          "pos": "adj.",
+          "zh": "虛弱的",
+          "systemKey": "weak",
+          "origin": "system-word"
+        },
+        {
+          "term": "weaken",
+          "pos": "v.",
+          "zh": "削弱",
+          "systemKey": "weaken",
+          "origin": "system-word"
+        },
+        {
+          "term": "weakness",
+          "pos": "n.",
+          "zh": "弱點",
+          "origin": "handout"
+        },
+        {
+          "term": "strong",
+          "pos": "adj.",
+          "zh": "強壯的；強烈的",
+          "systemKey": "strong",
+          "origin": "system-word"
+        },
+        {
+          "term": "strength",
+          "pos": "n.",
+          "zh": "力量",
+          "systemKey": "strength",
+          "origin": "system-word"
+        },
+        {
+          "term": "strengthen",
+          "pos": "v.",
+          "zh": "加強",
+          "systemKey": "strengthen",
+          "origin": "system-word"
+        },
+        {
+          "term": "wise",
+          "pos": "adj.",
+          "zh": "明智的",
+          "systemKey": "wise",
+          "origin": "system-word"
+        },
+        {
+          "term": "wisely",
+          "pos": "adv.",
+          "zh": "明智地",
+          "systemKey": "wisely",
+          "origin": "system-word"
+        },
+        {
+          "term": "wisdom",
+          "pos": "n.",
+          "zh": "智慧",
+          "systemKey": "wisdom",
+          "origin": "system-word"
+        },
+        {
+          "term": "disaster",
+          "pos": "n.",
+          "zh": "災難",
+          "systemKey": "disaster",
+          "origin": "system-word"
+        },
+        {
+          "term": "disastrous",
+          "pos": "adj.",
+          "zh": "災難性的",
+          "systemKey": "disastrous",
+          "origin": "system-word"
+        },
+        {
+          "term": "sleep loss",
+          "pos": "phr.",
+          "zh": "睡眠不足",
+          "origin": "handout"
+        },
+        {
+          "term": "lack",
+          "pos": "n./v.",
+          "zh": "缺乏",
+          "systemKey": "lack",
+          "origin": "system-word"
+        },
+        {
+          "term": "ruin",
+          "pos": "v.",
+          "zh": "毀壞",
+          "systemKey": "ruin",
+          "origin": "system-word"
+        },
+        {
+          "term": "productivity",
+          "pos": "n.",
+          "zh": "生產力",
+          "systemKey": "productivity",
+          "origin": "system-word"
+        },
+        {
+          "term": "majority",
+          "pos": "n.",
+          "zh": "多數",
+          "systemKey": "majority",
+          "origin": "system-word"
+        },
+        {
+          "term": "unaware",
+          "pos": "adj.",
+          "zh": "未察覺的",
+          "systemKey": "unaware",
+          "origin": "system-word"
+        },
+        {
+          "term": "trigger",
+          "pos": "v.",
+          "zh": "引發",
+          "systemKey": "trigger",
+          "origin": "system-word"
+        },
+        {
+          "term": "binge-watch",
+          "pos": "v.",
+          "zh": "連續觀看；追劇",
+          "origin": "handout"
+        },
+        {
+          "term": "decision",
+          "pos": "n.",
+          "zh": "決定",
+          "systemKey": "decision",
+          "origin": "system-word"
+        },
+        {
+          "term": "deal with",
+          "pos": "phr.",
+          "zh": "處理",
+          "systemPhrase": "deal with",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "stay up late",
+          "pos": "phr.",
+          "zh": "熬夜",
+          "systemPhrase": "stay up late",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "in the short term",
+          "pos": "phr.",
+          "zh": "短期而言",
+          "origin": "handout"
+        },
+        {
+          "term": "give rise to",
+          "pos": "phr.",
+          "zh": "引發",
+          "systemPhrase": "give rise to",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "in the long run",
+          "pos": "phr.",
+          "zh": "長期而言",
+          "systemPhrase": "in the long run",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "consistent",
+          "pos": "adj.",
+          "zh": "一致的；規律的",
+          "systemKey": "consistent",
+          "origin": "system-word"
+        },
+        {
+          "term": "consistency",
+          "pos": "n.",
+          "zh": "一致性",
+          "origin": "handout"
+        },
+        {
+          "term": "create",
+          "pos": "v.",
+          "zh": "創造",
+          "systemKey": "create",
+          "origin": "system-word"
+        },
+        {
+          "term": "creative",
+          "pos": "adj.",
+          "zh": "有創意的",
+          "systemKey": "creative",
+          "origin": "system-word"
+        },
+        {
+          "term": "creativity",
+          "pos": "n.",
+          "zh": "創造力",
+          "systemKey": "creativity",
+          "origin": "system-word"
+        },
+        {
+          "term": "act",
+          "pos": "v.",
+          "zh": "行動",
+          "systemKey": "act",
+          "origin": "system-word"
+        },
+        {
+          "term": "active",
+          "pos": "adj.",
+          "zh": "活躍的",
+          "systemKey": "active",
+          "origin": "system-word"
+        },
+        {
+          "term": "activity",
+          "pos": "n.",
+          "zh": "活動",
+          "systemKey": "activity",
+          "origin": "system-word"
+        },
+        {
+          "term": "inactive",
+          "pos": "adj.",
+          "zh": "不活躍的",
+          "systemKey": "inactive",
+          "origin": "system-word"
+        },
+        {
+          "term": "routine",
+          "pos": "n.",
+          "zh": "例行作息",
+          "systemKey": "routine",
+          "origin": "system-word"
+        },
+        {
+          "term": "benefit",
+          "pos": "n.",
+          "zh": "好處",
+          "systemKey": "benefit",
+          "origin": "system-word"
+        },
+        {
+          "term": "energy",
+          "pos": "n.",
+          "zh": "精力",
+          "systemKey": "energy",
+          "origin": "system-word"
+        },
+        {
+          "term": "wreck",
+          "pos": "v.",
+          "zh": "嚴重破壞",
+          "systemKey": "wreck",
+          "origin": "system-word"
+        },
+        {
+          "term": "physical",
+          "pos": "adj.",
+          "zh": "身體的",
+          "systemKey": "physical",
+          "origin": "system-word"
+        },
+        {
+          "term": "mental",
+          "pos": "adj.",
+          "zh": "心理的",
+          "systemKey": "mental",
+          "origin": "system-word"
+        },
+        {
+          "term": "effect",
+          "pos": "n.",
+          "zh": "影響",
+          "systemKey": "effect",
+          "origin": "system-word"
+        },
+        {
+          "term": "sleep routine",
+          "pos": "phr.",
+          "zh": "睡眠作息",
+          "origin": "handout"
+        },
+        {
+          "term": "on the other hand",
+          "pos": "phr.",
+          "zh": "另一方面",
+          "systemPhrase": "on the other hand",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "bags under one’s eyes",
+          "pos": "phr.",
+          "zh": "眼袋",
+          "origin": "handout"
+        },
+        {
+          "term": "put on weight",
+          "pos": "phr.",
+          "zh": "增重",
+          "origin": "handout"
+        },
+        {
+          "term": "harm",
+          "pos": "n./v.",
+          "zh": "傷害",
+          "systemKey": "harm",
+          "origin": "system-word"
+        },
+        {
+          "term": "harmful",
+          "pos": "adj.",
+          "zh": "有害的",
+          "systemKey": "harmful",
+          "origin": "system-word"
+        },
+        {
+          "term": "harmless",
+          "pos": "adj.",
+          "zh": "無害的",
+          "systemKey": "harmless",
+          "origin": "system-word"
+        },
+        {
+          "term": "estimate",
+          "pos": "n./v.",
+          "zh": "估計",
+          "systemKey": "estimate",
+          "origin": "system-word"
+        },
+        {
+          "term": "estimation",
+          "pos": "n.",
+          "zh": "估計",
+          "origin": "handout"
+        },
+        {
+          "term": "accident",
+          "pos": "n.",
+          "zh": "意外事故",
+          "systemKey": "accident",
+          "origin": "system-word"
+        },
+        {
+          "term": "accidental",
+          "pos": "adj.",
+          "zh": "意外的",
+          "systemKey": "accidental",
+          "origin": "system-word"
+        },
+        {
+          "term": "accidentally",
+          "pos": "adv.",
+          "zh": "意外地",
+          "systemKey": "accidentally",
+          "origin": "system-word"
+        },
+        {
+          "term": "injure",
+          "pos": "v.",
+          "zh": "使受傷",
+          "systemKey": "injure",
+          "origin": "system-word"
+        },
+        {
+          "term": "injury",
+          "pos": "n.",
+          "zh": "傷害",
+          "systemKey": "injury",
+          "origin": "system-word"
+        },
+        {
+          "term": "injured",
+          "pos": "adj.",
+          "zh": "受傷的",
+          "origin": "handout"
+        },
+        {
+          "term": "occur",
+          "pos": "v.",
+          "zh": "發生",
+          "systemKey": "occur",
+          "origin": "system-word"
+        },
+        {
+          "term": "occurrence",
+          "pos": "n.",
+          "zh": "發生；發生的事",
+          "systemKey": "occurrence",
+          "origin": "system-word"
+        },
+        {
+          "term": "perform",
+          "pos": "v.",
+          "zh": "表演；執行",
+          "systemKey": "perform",
+          "origin": "system-word"
+        },
+        {
+          "term": "performance",
+          "pos": "n.",
+          "zh": "表演；表現",
+          "systemKey": "performance",
+          "origin": "system-word"
+        },
+        {
+          "term": "performer",
+          "pos": "n.",
+          "zh": "表演者",
+          "systemKey": "performer",
+          "origin": "system-word"
+        },
+        {
+          "term": "operate",
+          "pos": "v.",
+          "zh": "操作；運作；動手術",
+          "systemKey": "operate",
+          "origin": "system-word"
+        },
+        {
+          "term": "operation",
+          "pos": "n.",
+          "zh": "操作；運作；手術",
+          "systemKey": "operation",
+          "origin": "system-word"
+        },
+        {
+          "term": "operator",
+          "pos": "n.",
+          "zh": "操作員",
+          "systemKey": "operator",
+          "origin": "system-word"
+        },
+        {
+          "term": "indicate",
+          "pos": "v.",
+          "zh": "顯示；指出",
+          "systemKey": "indicate",
+          "origin": "system-word"
+        },
+        {
+          "term": "indication",
+          "pos": "n.",
+          "zh": "跡象；指示",
+          "systemKey": "indication",
+          "origin": "system-word"
+        },
+        {
+          "term": "indicator",
+          "pos": "n.",
+          "zh": "指標；指示器",
+          "systemKey": "indicator",
+          "origin": "system-word"
+        },
+        {
+          "term": "apply",
+          "pos": "v.",
+          "zh": "申請；應用；塗抹",
+          "systemKey": "apply",
+          "origin": "system-word"
+        },
+        {
+          "term": "application",
+          "pos": "n.",
+          "zh": "申請；應用",
+          "systemKey": "application",
+          "origin": "system-word"
+        },
+        {
+          "term": "applicant",
+          "pos": "n.",
+          "zh": "申請人",
+          "systemKey": "applicant",
+          "origin": "system-word"
+        },
+        {
+          "term": "applied",
+          "pos": "adj.",
+          "zh": "應用的",
+          "origin": "handout"
+        },
+        {
+          "term": "microsleep",
+          "pos": "n.",
+          "zh": "微睡眠",
+          "origin": "handout"
+        },
+        {
+          "term": "awake",
+          "pos": "adj.",
+          "zh": "清醒的",
+          "systemKey": "awake",
+          "origin": "system-word"
+        },
+        {
+          "term": "task",
+          "pos": "n.",
+          "zh": "任務",
+          "systemKey": "task",
+          "origin": "system-word"
+        },
+        {
+          "term": "fatal",
+          "pos": "adj.",
+          "zh": "致命的",
+          "systemKey": "fatal",
+          "origin": "system-word"
+        },
+        {
+          "term": "crash",
+          "pos": "n.",
+          "zh": "撞車事故",
+          "systemKey": "crash",
+          "origin": "system-word"
+        },
+        {
+          "term": "heavy machinery",
+          "pos": "phr.",
+          "zh": "重型機械",
+          "origin": "handout"
+        },
+        {
+          "term": "statistics",
+          "pos": "n.",
+          "zh": "統計資料",
+          "origin": "handout"
+        },
+        {
+          "term": "microsleep-related",
+          "pos": "adj.",
+          "zh": "與微睡眠有關的",
+          "origin": "handout"
+        },
+        {
+          "term": "over time",
+          "pos": "phr.",
+          "zh": "隨著時間推移",
+          "origin": "handout"
+        },
+        {
+          "term": "lead to",
+          "pos": "phr.",
+          "zh": "導致",
+          "systemPhrase": "lead to",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "shut off",
+          "pos": "phr.",
+          "zh": "停止運作",
+          "origin": "handout"
+        },
+        {
+          "term": "result in",
+          "pos": "phr.",
+          "zh": "導致",
+          "systemPhrase": "result in",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "apply to",
+          "pos": "phr.",
+          "zh": "適用於",
+          "origin": "handout"
+        },
+        {
+          "term": "due to",
+          "pos": "phr.",
+          "zh": "由於",
+          "systemPhrase": "due to",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "deprive",
+          "pos": "v.",
+          "zh": "剝奪",
+          "systemKey": "deprive",
+          "origin": "system-word"
+        },
+        {
+          "term": "deprivation",
+          "pos": "n.",
+          "zh": "剝奪；缺乏",
+          "systemKey": "deprivation",
+          "origin": "system-word"
+        },
+        {
+          "term": "digest",
+          "pos": "v.",
+          "zh": "消化",
+          "systemKey": "digest",
+          "origin": "system-word"
+        },
+        {
+          "term": "digestion",
+          "pos": "n.",
+          "zh": "消化",
+          "systemKey": "digestion",
+          "origin": "system-word"
+        },
+        {
+          "term": "digestive",
+          "pos": "adj.",
+          "zh": "消化的",
+          "origin": "handout"
+        },
+        {
+          "term": "prioritize",
+          "pos": "v.",
+          "zh": "優先處理",
+          "systemKey": "prioritize",
+          "origin": "system-word"
+        },
+        {
+          "term": "priority",
+          "pos": "n.",
+          "zh": "優先事項",
+          "systemKey": "priority",
+          "origin": "system-word"
+        },
+        {
+          "term": "activate",
+          "pos": "v.",
+          "zh": "啟動；使活化",
+          "origin": "handout"
+        },
+        {
+          "term": "activation",
+          "pos": "n.",
+          "zh": "啟動；活化",
+          "origin": "handout"
+        },
+        {
+          "term": "limit",
+          "pos": "v./n.",
+          "zh": "限制",
+          "systemKey": "limit",
+          "origin": "system-word"
+        },
+        {
+          "term": "limitation",
+          "pos": "n.",
+          "zh": "限制；局限",
+          "systemKey": "limitation",
+          "origin": "system-word"
+        },
+        {
+          "term": "limited",
+          "pos": "adj.",
+          "zh": "有限的",
+          "systemKey": "limited",
+          "origin": "system-word"
+        },
+        {
+          "term": "limitless",
+          "pos": "adj.",
+          "zh": "無限的",
+          "systemKey": "limitless",
+          "origin": "system-word"
+        },
+        {
+          "term": "disrupt",
+          "pos": "v.",
+          "zh": "擾亂；使中斷",
+          "systemKey": "disrupt",
+          "origin": "system-word"
+        },
+        {
+          "term": "disruption",
+          "pos": "n.",
+          "zh": "干擾；中斷",
+          "origin": "handout"
+        },
+        {
+          "term": "disruptive",
+          "pos": "adj.",
+          "zh": "造成干擾的",
+          "origin": "handout"
+        },
+        {
+          "term": "tackle",
+          "pos": "v.",
+          "zh": "處理",
+          "systemKey": "tackle",
+          "origin": "system-word"
+        },
+        {
+          "term": "sleep deprivation",
+          "pos": "phr.",
+          "zh": "睡眠不足",
+          "origin": "handout"
+        },
+        {
+          "term": "alcohol",
+          "pos": "n.",
+          "zh": "酒精；酒類",
+          "systemKey": "alcohol",
+          "origin": "system-word"
+        },
+        {
+          "term": "intake",
+          "pos": "n.",
+          "zh": "攝取量",
+          "systemKey": "intake",
+          "origin": "system-word"
+        },
+        {
+          "term": "natural rhythm",
+          "pos": "phr.",
+          "zh": "自然節律",
+          "origin": "handout"
+        },
+        {
+          "term": "snack",
+          "pos": "v.",
+          "zh": "吃點心",
+          "systemKey": "snack",
+          "origin": "system-word"
+        },
+        {
+          "term": "digestive system",
+          "pos": "phr.",
+          "zh": "消化系統",
+          "origin": "handout"
+        },
+        {
+          "term": "keep ... up",
+          "pos": "phr.",
+          "zh": "使……保持清醒",
+          "origin": "handout"
+        }
+      ]
+    },
+    {
+      "id": "A16",
+      "articleNumber": 16,
+      "title": "Four Money Scripts",
+      "entries": [
+        {
+          "term": "behave",
+          "pos": "v.",
+          "zh": "表現；行為",
+          "systemKey": "behave",
+          "origin": "system-word"
+        },
+        {
+          "term": "behavior",
+          "pos": "n.",
+          "zh": "行為",
+          "systemKey": "behavior",
+          "origin": "system-word"
+        },
+        {
+          "term": "behavioral",
+          "pos": "adj.",
+          "zh": "行為的",
+          "systemKey": "behavioral",
+          "origin": "system-word"
+        },
+        {
+          "term": "influence",
+          "pos": "n./v.",
+          "zh": "影響",
+          "systemKey": "influence",
+          "origin": "system-word"
+        },
+        {
+          "term": "influential",
+          "pos": "adj.",
+          "zh": "有影響力的",
+          "systemKey": "influential",
+          "origin": "system-word"
+        },
+        {
+          "term": "psychology",
+          "pos": "n.",
+          "zh": "心理學",
+          "systemKey": "psychology",
+          "origin": "system-word"
+        },
+        {
+          "term": "psychologist",
+          "pos": "n.",
+          "zh": "心理學家",
+          "systemKey": "psychologist",
+          "origin": "system-word"
+        },
+        {
+          "term": "psychological",
+          "pos": "adj.",
+          "zh": "心理的",
+          "systemKey": "psychological",
+          "origin": "system-word"
+        },
+        {
+          "term": "participate",
+          "pos": "v.",
+          "zh": "參與",
+          "systemKey": "participate",
+          "origin": "system-word"
+        },
+        {
+          "term": "participant",
+          "pos": "n.",
+          "zh": "參與者",
+          "systemKey": "participant",
+          "origin": "system-word"
+        },
+        {
+          "term": "participation",
+          "pos": "n.",
+          "zh": "參與",
+          "systemKey": "participation",
+          "origin": "system-word"
+        },
+        {
+          "term": "finance",
+          "pos": "n./v.",
+          "zh": "財務；資助",
+          "systemKey": "finance",
+          "origin": "system-word"
+        },
+        {
+          "term": "financial",
+          "pos": "adj.",
+          "zh": "財務的",
+          "systemKey": "financial",
+          "origin": "system-word"
+        },
+        {
+          "term": "financially",
+          "pos": "adv.",
+          "zh": "在財務上",
+          "systemKey": "financially",
+          "origin": "system-word"
+        },
+        {
+          "term": "believe",
+          "pos": "v.",
+          "zh": "相信",
+          "systemKey": "believe",
+          "origin": "system-word"
+        },
+        {
+          "term": "belief",
+          "pos": "n.",
+          "zh": "信念",
+          "systemKey": "belief",
+          "origin": "system-word"
+        },
+        {
+          "term": "recognize",
+          "pos": "v.",
+          "zh": "認出；認可",
+          "systemKey": "recognize",
+          "origin": "system-word"
+        },
+        {
+          "term": "recognition",
+          "pos": "n.",
+          "zh": "辨認；認可",
+          "systemKey": "recognition",
+          "origin": "system-word"
+        },
+        {
+          "term": "recognizable",
+          "pos": "adj.",
+          "zh": "可辨認的",
+          "systemKey": "recognizable",
+          "origin": "system-word"
+        },
+        {
+          "term": "unrecognizable",
+          "pos": "adj.",
+          "zh": "無法辨認的",
+          "origin": "handout"
+        },
+        {
+          "term": "conscious",
+          "pos": "adj.",
+          "zh": "有意識的；清醒的",
+          "systemKey": "conscious",
+          "origin": "system-word"
+        },
+        {
+          "term": "consciously",
+          "pos": "adv.",
+          "zh": "有意識地",
+          "systemKey": "consciously",
+          "origin": "system-word"
+        },
+        {
+          "term": "consciousness",
+          "pos": "n.",
+          "zh": "意識",
+          "systemKey": "consciousness",
+          "origin": "system-word"
+        },
+        {
+          "term": "subconscious",
+          "pos": "adj./n.",
+          "zh": "潛意識的；潛意識",
+          "origin": "handout"
+        },
+        {
+          "term": "subconsciously",
+          "pos": "adv.",
+          "zh": "潛意識地",
+          "origin": "handout"
+        },
+        {
+          "term": "unconscious",
+          "pos": "adj.",
+          "zh": "失去意識的；無意識的",
+          "systemKey": "unconscious",
+          "origin": "system-word"
+        },
+        {
+          "term": "unconsciously",
+          "pos": "adv.",
+          "zh": "無意識地",
+          "origin": "handout"
+        },
+        {
+          "term": "dictate",
+          "pos": "v.",
+          "zh": "支配；影響",
+          "systemKey": "dictate",
+          "origin": "system-word"
+        },
+        {
+          "term": "money script",
+          "pos": "phr.",
+          "zh": "金錢心理模式",
+          "origin": "handout"
+        },
+        {
+          "term": "childhood",
+          "pos": "n.",
+          "zh": "童年",
+          "systemKey": "childhood",
+          "origin": "system-word"
+        },
+        {
+          "term": "phrase",
+          "pos": "n.",
+          "zh": "詞語",
+          "systemKey": "phrase",
+          "origin": "system-word"
+        },
+        {
+          "term": "conduct",
+          "pos": "v.",
+          "zh": "進行",
+          "systemKey": "conduct",
+          "origin": "system-word"
+        },
+        {
+          "term": "statement",
+          "pos": "n.",
+          "zh": "陳述",
+          "origin": "handout"
+        },
+        {
+          "term": "conduct a study",
+          "pos": "phr.",
+          "zh": "進行研究",
+          "origin": "handout"
+        },
+        {
+          "term": "avoid",
+          "pos": "v.",
+          "zh": "避免",
+          "systemKey": "avoid",
+          "origin": "system-word"
+        },
+        {
+          "term": "avoidance",
+          "pos": "n.",
+          "zh": "逃避",
+          "origin": "handout"
+        },
+        {
+          "term": "avoider",
+          "pos": "n.",
+          "zh": "逃避者",
+          "origin": "handout"
+        },
+        {
+          "term": "associate",
+          "pos": "v.",
+          "zh": "聯想；聯繫",
+          "systemKey": "associate",
+          "origin": "system-word"
+        },
+        {
+          "term": "association",
+          "pos": "n.",
+          "zh": "聯想；關聯",
+          "systemKey": "association",
+          "origin": "system-word"
+        },
+        {
+          "term": "greed",
+          "pos": "n.",
+          "zh": "貪婪",
+          "systemKey": "greed",
+          "origin": "system-word"
+        },
+        {
+          "term": "greedy",
+          "pos": "adj.",
+          "zh": "貪婪的",
+          "systemKey": "greedy",
+          "origin": "system-word"
+        },
+        {
+          "term": "guilt",
+          "pos": "n.",
+          "zh": "內疚",
+          "systemKey": "guilt",
+          "origin": "system-word"
+        },
+        {
+          "term": "guilty",
+          "pos": "adj.",
+          "zh": "感到內疚的",
+          "systemKey": "guilty",
+          "origin": "system-word"
+        },
+        {
+          "term": "corrupt",
+          "pos": "adj./v.",
+          "zh": "腐敗的；使腐化",
+          "systemKey": "corrupt",
+          "origin": "system-word"
+        },
+        {
+          "term": "corruption",
+          "pos": "n.",
+          "zh": "腐敗；貪污",
+          "systemKey": "corruption",
+          "origin": "system-word"
+        },
+        {
+          "term": "tend",
+          "pos": "v.",
+          "zh": "傾向；照料",
+          "systemKey": "tend",
+          "origin": "system-word"
+        },
+        {
+          "term": "tendency",
+          "pos": "n.",
+          "zh": "傾向",
+          "systemKey": "tendency",
+          "origin": "system-word"
+        },
+        {
+          "term": "tend to V",
+          "pos": "phr.",
+          "zh": "傾向做……",
+          "systemPhrase": "tend to",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "accept",
+          "pos": "v.",
+          "zh": "接受",
+          "systemKey": "accept",
+          "origin": "system-word"
+        },
+        {
+          "term": "acceptance",
+          "pos": "n.",
+          "zh": "接受；認同",
+          "systemKey": "acceptance",
+          "origin": "system-word"
+        },
+        {
+          "term": "acceptable",
+          "pos": "adj.",
+          "zh": "可接受的",
+          "systemKey": "acceptable",
+          "origin": "system-word"
+        },
+        {
+          "term": "unacceptable",
+          "pos": "adj.",
+          "zh": "無法接受的",
+          "systemKey": "unacceptable",
+          "origin": "system-word"
+        },
+        {
+          "term": "decide",
+          "pos": "v.",
+          "zh": "決定",
+          "systemKey": "decide",
+          "origin": "system-word"
+        },
+        {
+          "term": "decision",
+          "pos": "n.",
+          "zh": "決定",
+          "systemKey": "decision",
+          "origin": "system-word"
+        },
+        {
+          "term": "decisive",
+          "pos": "adj.",
+          "zh": "果斷的；決定性的",
+          "systemKey": "decisive",
+          "origin": "system-word"
+        },
+        {
+          "term": "Money Avoidance",
+          "pos": "phr.",
+          "zh": "金錢逃避型",
+          "origin": "handout"
+        },
+        {
+          "term": "script",
+          "pos": "n.",
+          "zh": "劇本；腳本",
+          "systemKey": "script",
+          "origin": "system-word"
+        },
+        {
+          "term": "evil",
+          "pos": "n./adj.",
+          "zh": "邪惡；邪惡的",
+          "systemKey": "evil",
+          "origin": "system-word"
+        },
+        {
+          "term": "salary",
+          "pos": "n.",
+          "zh": "薪資",
+          "systemKey": "salary",
+          "origin": "system-word"
+        },
+        {
+          "term": "budget",
+          "pos": "n./v.",
+          "zh": "預算；編列預算",
+          "systemKey": "budget",
+          "origin": "system-word"
+        },
+        {
+          "term": "budgeting",
+          "pos": "n.",
+          "zh": "預算規劃",
+          "origin": "handout"
+        },
+        {
+          "term": "uncomfortable",
+          "pos": "adj.",
+          "zh": "不自在的",
+          "systemKey": "uncomfortable",
+          "origin": "system-word"
+        },
+        {
+          "term": "link A with B",
+          "pos": "phr.",
+          "zh": "將 A 與 B 聯繫在一起",
+          "origin": "handout"
+        },
+        {
+          "term": "worship",
+          "pos": "n./v.",
+          "zh": "崇拜；敬拜",
+          "systemKey": "worship",
+          "origin": "system-word"
+        },
+        {
+          "term": "worshipper",
+          "pos": "n.",
+          "zh": "崇拜者",
+          "origin": "handout"
+        },
+        {
+          "term": "spend",
+          "pos": "v.",
+          "zh": "花費",
+          "systemKey": "spend",
+          "origin": "system-word"
+        },
+        {
+          "term": "spending",
+          "pos": "n.",
+          "zh": "支出",
+          "origin": "handout"
+        },
+        {
+          "term": "overspend",
+          "pos": "v.",
+          "zh": "過度消費",
+          "origin": "handout"
+        },
+        {
+          "term": "free",
+          "pos": "adj.",
+          "zh": "自由的",
+          "systemKey": "free",
+          "origin": "system-word"
+        },
+        {
+          "term": "freedom",
+          "pos": "n.",
+          "zh": "自由",
+          "systemKey": "freedom",
+          "origin": "system-word"
+        },
+        {
+          "term": "Money Worship",
+          "pos": "phr.",
+          "zh": "金錢崇拜型",
+          "origin": "handout"
+        },
+        {
+          "term": "opposite",
+          "pos": "n./adj.",
+          "zh": "相反的人／事物；相反的",
+          "systemKey": "opposite",
+          "origin": "system-word"
+        },
+        {
+          "term": "exact",
+          "pos": "adj.",
+          "zh": "完全的；確切的",
+          "systemKey": "exact",
+          "origin": "system-word"
+        },
+        {
+          "term": "seek",
+          "pos": "v.",
+          "zh": "尋求",
+          "systemKey": "seek",
+          "origin": "system-word"
+        },
+        {
+          "term": "purchase",
+          "pos": "v./n.",
+          "zh": "購買",
+          "systemKey": "purchase",
+          "origin": "system-word"
+        },
+        {
+          "term": "debt",
+          "pos": "n.",
+          "zh": "債務",
+          "systemKey": "debt",
+          "origin": "system-word"
+        },
+        {
+          "term": "finances",
+          "pos": "n.",
+          "zh": "財務狀況",
+          "origin": "handout"
+        },
+        {
+          "term": "ruin",
+          "pos": "v.",
+          "zh": "毀壞",
+          "systemKey": "ruin",
+          "origin": "system-word"
+        },
+        {
+          "term": "carry debt",
+          "pos": "phr.",
+          "zh": "負債",
+          "origin": "handout"
+        },
+        {
+          "term": "be likely to V",
+          "pos": "phr.",
+          "zh": "可能做……",
+          "systemPhrase": "be likely to v",
+          "origin": "system-phrase"
+        },
+        {
+          "term": "wealth",
+          "pos": "n.",
+          "zh": "財富",
+          "systemKey": "wealth",
+          "origin": "system-word"
+        },
+        {
+          "term": "wealthy",
+          "pos": "adj.",
+          "zh": "富有的",
+          "systemKey": "wealthy",
+          "origin": "system-word"
+        },
+        {
+          "term": "compare",
+          "pos": "v.",
+          "zh": "比較",
+          "systemKey": "compare",
+          "origin": "system-word"
+        },
+        {
+          "term": "comparison",
+          "pos": "n.",
+          "zh": "比較",
+          "systemKey": "comparison",
+          "origin": "system-word"
+        },
+        {
+          "term": "comparable",
+          "pos": "adj.",
+          "zh": "可相比的",
+          "systemKey": "comparable",
+          "origin": "system-word"
+        },
+        {
+          "term": "determine",
+          "pos": "v.",
+          "zh": "決定；判定",
+          "systemKey": "determine",
+          "origin": "system-word"
+        },
+        {
+          "term": "determined",
+          "pos": "adj.",
+          "zh": "堅定的",
+          "origin": "handout"
+        },
+        {
+          "term": "determination",
+          "pos": "n.",
+          "zh": "決心",
+          "systemKey": "determination",
+          "origin": "system-word"
+        },
+        {
+          "term": "satisfy",
+          "pos": "v.",
+          "zh": "使滿意",
+          "systemKey": "satisfy",
+          "origin": "system-word"
+        },
+        {
+          "term": "satisfied",
+          "pos": "adj.",
+          "zh": "滿意的",
+          "origin": "handout"
+        },
+        {
+          "term": "satisfaction",
+          "pos": "n.",
+          "zh": "滿意",
+          "systemKey": "satisfaction",
+          "origin": "system-word"
+        },
+        {
+          "term": "anxious",
+          "pos": "adj.",
+          "zh": "焦慮的；渴望的",
+          "systemKey": "anxious",
+          "origin": "system-word"
+        },
+        {
+          "term": "anxiety",
+          "pos": "n.",
+          "zh": "焦慮",
+          "systemKey": "anxiety",
+          "origin": "system-word"
+        },
+        {
+          "term": "anxiously",
+          "pos": "adv.",
+          "zh": "焦慮地",
+          "systemKey": "anxiously",
+          "origin": "system-word"
+        },
+        {
+          "term": "situate",
+          "pos": "v.",
+          "zh": "使位於",
+          "origin": "handout"
+        },
+        {
+          "term": "situated",
+          "pos": "adj.",
+          "zh": "位於……的",
+          "origin": "handout"
+        },
+        {
+          "term": "situation",
+          "pos": "n.",
+          "zh": "情況；處境",
+          "systemKey": "situation",
+          "origin": "system-word"
+        },
+        {
+          "term": "Money Status",
+          "pos": "phr.",
+          "zh": "金錢地位型",
+          "origin": "handout"
+        },
+        {
+          "term": "status",
+          "pos": "n.",
+          "zh": "地位",
+          "systemKey": "status",
+          "origin": "system-word"
+        },
+        {
+          "term": "worth",
+          "pos": "n.",
+          "zh": "價值",
+          "systemKey": "worth",
+          "origin": "system-word"
+        },
+        {
+          "term": "superior",
+          "pos": "adj.",
+          "zh": "優越的",
+          "systemKey": "superior",
+          "origin": "system-word"
+        },
+        {
+          "term": "self-conscious",
+          "pos": "adj.",
+          "zh": "不自在的",
+          "origin": "handout"
+        },
+        {
+          "term": "net worth",
+          "pos": "phr.",
+          "zh": "淨資產",
+          "origin": "handout"
+        },
+        {
+          "term": "financial situation",
+          "pos": "phr.",
+          "zh": "財務狀況",
+          "origin": "handout"
+        },
+        {
+          "term": "caution",
+          "pos": "n./v.",
+          "zh": "小心；警告",
+          "systemKey": "caution",
+          "origin": "system-word"
+        },
+        {
+          "term": "cautious",
+          "pos": "adj.",
+          "zh": "謹慎的",
+          "systemKey": "cautious",
+          "origin": "system-word"
+        },
+        {
+          "term": "cautiously",
+          "pos": "adv.",
+          "zh": "謹慎地",
+          "systemKey": "cautiously",
+          "origin": "system-word"
+        },
+        {
+          "term": "vigilance",
+          "pos": "n.",
+          "zh": "警戒",
+          "origin": "handout"
+        },
+        {
+          "term": "vigilant",
+          "pos": "adj.",
+          "zh": "警覺的",
+          "origin": "handout"
+        },
+        {
+          "term": "necessary",
+          "pos": "adj.",
+          "zh": "必要的",
+          "systemKey": "necessary",
+          "origin": "system-word"
+        },
+        {
+          "term": "necessarily",
+          "pos": "adv.",
+          "zh": "必然地；必定",
+          "systemKey": "necessarily",
+          "origin": "system-word"
+        },
+        {
+          "term": "necessity",
+          "pos": "n.",
+          "zh": "必要性；必需品",
+          "systemKey": "necessity",
+          "origin": "system-word"
+        },
+        {
+          "term": "unnecessary",
+          "pos": "adj.",
+          "zh": "不必要的",
+          "systemKey": "unnecessary",
+          "origin": "system-word"
+        },
+        {
+          "term": "unnecessarily",
+          "pos": "adv.",
+          "zh": "不必要地",
+          "origin": "handout"
+        },
+        {
+          "term": "Money Vigilance",
+          "pos": "phr.",
+          "zh": "金錢警戒型",
+          "origin": "handout"
+        },
+        {
+          "term": "positive",
+          "pos": "adj.",
+          "zh": "正面的",
+          "systemKey": "positive",
+          "origin": "system-word"
+        },
+        {
+          "term": "stressed",
+          "pos": "adj.",
+          "zh": "感到有壓力的",
+          "origin": "handout"
+        },
+        {
+          "term": "fall into",
+          "pos": "phr.",
+          "zh": "屬於；歸入",
+          "origin": "handout"
+        },
+        {
+          "term": "stay away from",
+          "pos": "phr.",
+          "zh": "避免；遠離",
+          "origin": "handout"
+        }
+      ]
+    }
+  ]
+}
