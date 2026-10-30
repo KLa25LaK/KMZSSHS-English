@@ -90,9 +90,7 @@
                 if (groupName === '高二2段') {
                   addUnits(articleContents, window.__KMZ_GENERAL_UNITS, 1002);
                 } else {
-                  var note = document.createElement('p');
-                  note.textContent = '尚未加入教材。';
-                  articleContents.appendChild(note);
+                  addUnits(articleContents, window.__KMZ_GRADE1_UNITS, 1003);
                 }
               });
               groups.appendChild(groupButton);
