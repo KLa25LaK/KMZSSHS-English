@@ -1,5 +1,6 @@
 (function () {
   var selectedFolder = null;
+  var selectedArticleGroup = null;
   var actions = new WeakMap();
   // Handle injected controls before React's root event interception.
   document.addEventListener('click', function (event) {
@@ -20,7 +21,7 @@
     panel.innerHTML = '<div class="entryHeader"><div class="inlineTitle"><h2>115-1補充教材</h2></div></div><div class="customHomeGrid" aria-label="補充教材資料夾"></div><div class="retakeContents" hidden></div>';
     var grid = panel.querySelector('.customHomeGrid');
     var contents = panel.querySelector('.retakeContents');
-    ['4U', '解析', '一般單字', '補考專區'].forEach(function (name) {
+    ['4U', '解析', '補充文章', '補考專區'].forEach(function (name) {
       var button = document.createElement('button');
       button.type = 'button';
       button.className = 'customHomeFolderButton';
@@ -44,11 +45,7 @@
           var empty = document.createElement('p');
           empty.textContent = '此資料夾尚未加入單字。';
           contents.append(title);
-          if (name === '解析' || name === '一般單字') {
-            var units = name === '一般單字' ? window.__KMZ_GENERAL_UNITS : [
-              {id:'W1',title:'解析10月W1',count:78},{id:'W2',title:'解析10月W2',count:65},
-              {id:'W3',title:'解析10月W3',count:78},{id:'W4',title:'解析10月W4',count:67}
-            ];
+          function addUnits(parent, units, roundNumber) {
             var folders = document.createElement('div');
             folders.className = 'customHomeGrid';
             units.forEach(function (unit) {
@@ -56,11 +53,55 @@
               child.type = 'button';
               child.textContent = '📁 ' + unit.title + '（' + unit.count + ' 項）';
               actions.set(child, function () {
-                window.dispatchEvent(new CustomEvent('kmz-open-retake', {detail:{unitId:unit.id,roundNumber:name === '一般單字' ? 1002 : 1001}}));
+                window.dispatchEvent(new CustomEvent('kmz-open-retake', {detail:{unitId:unit.id,roundNumber:roundNumber}}));
               });
               folders.appendChild(child);
             });
-            contents.appendChild(folders);
+            parent.appendChild(folders);
+          }
+          if (name === '解析') {
+            addUnits(contents, [
+              {id:'W1',title:'解析10月W1',count:78},{id:'W2',title:'解析10月W2',count:65},
+              {id:'W3',title:'解析10月W3',count:78},{id:'W4',title:'解析10月W4',count:67}
+            ], 1001);
+          } else if (name === '補充文章') {
+            var groups = document.createElement('div');
+            groups.className = 'customHomeGrid';
+            groups.setAttribute('aria-label', '補充文章年級與段考');
+            var articleContents = document.createElement('div');
+            articleContents.className = 'retakeContents';
+            articleContents.hidden = true;
+            ['高二2段', '高一2段'].forEach(function (groupName) {
+              var groupButton = document.createElement('button');
+              groupButton.type = 'button';
+              groupButton.textContent = '📁 ' + groupName;
+              groupButton.setAttribute('aria-expanded', 'false');
+              actions.set(groupButton, function () {
+                var expanded = groupButton.getAttribute('aria-expanded') !== 'true';
+                groups.querySelectorAll('button').forEach(function (item) { item.setAttribute('aria-expanded', 'false'); });
+                groupButton.setAttribute('aria-expanded', String(expanded));
+                selectedArticleGroup = expanded ? groupName : null;
+                articleContents.hidden = !expanded;
+                articleContents.replaceChildren();
+                if (!expanded) return;
+                var heading = document.createElement('h3');
+                heading.textContent = groupName;
+                articleContents.appendChild(heading);
+                if (groupName === '高二2段') {
+                  addUnits(articleContents, window.__KMZ_GENERAL_UNITS, 1002);
+                } else {
+                  var note = document.createElement('p');
+                  note.textContent = '尚未加入教材。';
+                  articleContents.appendChild(note);
+                }
+              });
+              groups.appendChild(groupButton);
+            });
+            contents.append(groups, articleContents);
+            if (selectedArticleGroup) {
+              var restoreGroup = Array.from(groups.children).find(function (item) { return item.textContent === '📁 ' + selectedArticleGroup; });
+              if (restoreGroup) restoreGroup.click();
+            }
           } else { contents.appendChild(empty); }
         }
       });
