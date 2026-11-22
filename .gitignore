@@ -1,2 +1,15 @@
 ._*
 .DS_Store
+
+# Local teaching backups. They stay on this computer and are not part of the site.
+＠7000單/
+＠常春藤模卷統整/
+英文閱讀六級分類完整包/
+＠*.txt
+＠*.docx
+@*.txt
+new_words.json
+new_phrases.json
+*.xlsx
+*.docx
+逐篇校準與前後比較.txt
